@@ -1,0 +1,1899 @@
+PMID- 32459655
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200702
+LR  - 20201218
+IS  - 1438-8871 (Electronic)
+IS  - 1439-4456 (Print)
+IS  - 1438-8871 (Linking)
+VI  - 22
+IP  - 6
+DP  - 2020 Jun 19
+TI  - Improvements in Patient Monitoring in the Intensive Care Unit: Survey Study.
+PG  - e19091
+LID - 10.2196/19091 [doi]
+LID - e19091
+AB  - BACKGROUND: Due to demographic change and, more recently, coronavirus disease 
+      (COVID-19), the importance of modern intensive care units (ICU) is becoming 
+      apparent. One of the key components of an ICU is the continuous monitoring of 
+      patients' vital parameters. However, existing advances in informatics, signal 
+      processing, or engineering that could alleviate the burden on ICUs have not yet 
+      been applied. This could be due to the lack of user involvement in research and 
+      development. OBJECTIVE: This study focused on the satisfaction of ICU staff with 
+      current patient monitoring and their suggestions for future improvements. We 
+      aimed to identify aspects of monitoring that interrupt patient care, display 
+      devices for remote monitoring, use cases for artificial intelligence (AI), and 
+      whether ICU staff members are willing to improve their digital literacy or 
+      contribute to the improvement of patient monitoring. We further aimed to identify 
+      differences in the responses of different professional groups. METHODS: This 
+      survey study was performed with ICU staff from 4 ICUs of a German university 
+      hospital between November 2019 and January 2020. We developed a web-based 36-item 
+      survey questionnaire, by analyzing a preceding qualitative interview study with 
+      ICU staff, about the clinical requirements of future patient monitoring. 
+      Statistical analyses of questionnaire results included median values with their 
+      bootstrapped 95% confidence intervals, and chi-square tests to compare the 
+      distributions of item responses of the professional groups. RESULTS: In total, 86 
+      of the 270 ICU physicians and nurses completed the survey questionnaire. The 
+      majority stated they felt confident using the patient monitoring equipment, but 
+      that high rates of false-positive alarms and the many sensor cables interrupted 
+      patient care. Regarding future improvements, respondents asked for wireless 
+      sensors, a reduction in the number of false-positive alarms, and hospital 
+      standard operating procedures for alarm management. Responses to the display 
+      devices proposed for remote patient monitoring were divided. Most respondents 
+      indicated it would be useful for earlier alerting or when they were responsible 
+      for multiple wards. AI for ICUs would be useful for early detection of 
+      complications and an increased risk of mortality; in addition, the AI could 
+      propose guidelines for therapy and diagnostics. Transparency, interoperability, 
+      usability, and staff training were essential to promote the use of AI. The 
+      majority wanted to learn more about new technologies for the ICU and required 
+      more time for learning. Physicians had fewer reservations than nurses about 
+      AI-based intelligent alarm management and using mobile phones for remote 
+      monitoring. CONCLUSIONS: This survey study of ICU staff revealed key improvements 
+      for patient monitoring in intensive care medicine. Hospital providers and medical 
+      device manufacturers should focus on reducing false alarms, implementing hospital 
+      alarm standard operating procedures, introducing wireless sensors, preparing for 
+      the use of AI, and enhancing the digital literacy of ICU staff. Our results may 
+      contribute to the user-centered transfer of digital technologies into practice to 
+      alleviate challenges in intensive care medicine. TRIAL REGISTRATION: 
+      ClinicalTrials.gov NCT03514173; https://clinicaltrials.gov/ct2/show/NCT03514173.
+CI  - ©Akira-Sebastian Poncette, Lina Mosch, Claudia Spies, Malte Schmieding, Fridtjof 
+      Schiefenhövel, Henning Krampe, Felix Balzer. Originally published in the Journal 
+      of Medical Internet Research (http://www.jmir.org), 19.06.2020.
+FAU - Poncette, Akira-Sebastian
+AU  - Poncette AS
+AUID- ORCID: 0000-0003-4627-7016
+AD  - Department of Anesthesiology and Intensive Care Medicine, Charité - 
+      Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, 
+      Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
+AD  - Einstein Center Digital Future, Berlin, Germany.
+FAU - Mosch, Lina
+AU  - Mosch L
+AUID- ORCID: 0000-0003-3154-2745
+AD  - Department of Anesthesiology and Intensive Care Medicine, Charité - 
+      Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, 
+      Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
+FAU - Spies, Claudia
+AU  - Spies C
+AUID- ORCID: 0000-0002-1062-0495
+AD  - Department of Anesthesiology and Intensive Care Medicine, Charité - 
+      Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, 
+      Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
+FAU - Schmieding, Malte
+AU  - Schmieding M
+AUID- ORCID: 0000-0002-5844-7791
+AD  - Department of Anesthesiology and Intensive Care Medicine, Charité - 
+      Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, 
+      Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
+AD  - Einstein Center Digital Future, Berlin, Germany.
+FAU - Schiefenhövel, Fridtjof
+AU  - Schiefenhövel F
+AUID- ORCID: 0000-0002-1612-9357
+AD  - Department of Anesthesiology and Intensive Care Medicine, Charité - 
+      Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, 
+      Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
+AD  - Einstein Center Digital Future, Berlin, Germany.
+FAU - Krampe, Henning
+AU  - Krampe H
+AUID- ORCID: 0000-0003-3553-4064
+AD  - Department of Anesthesiology and Intensive Care Medicine, Charité - 
+      Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, 
+      Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
+FAU - Balzer, Felix
+AU  - Balzer F
+AUID- ORCID: 0000-0003-1575-2056
+AD  - Department of Anesthesiology and Intensive Care Medicine, Charité - 
+      Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, 
+      Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
+AD  - Einstein Center Digital Future, Berlin, Germany.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03514173
+PT  - Journal Article
+DEP - 20200619
+PL  - Canada
+TA  - J Med Internet Res
+JT  - Journal of medical Internet research
+JID - 100959882
+SB  - IM
+MH  - Adult
+MH  - Artificial Intelligence
+MH  - *Betacoronavirus
+MH  - COVID-19
+MH  - *Coronavirus Infections
+MH  - Critical Care/*methods/standards
+MH  - Female
+MH  - Germany
+MH  - *Health Care Surveys
+MH  - Hospitals, University
+MH  - Humans
+MH  - *Intensive Care Units
+MH  - Male
+MH  - Monitoring, Physiologic/*methods/standards
+MH  - Nurses
+MH  - *Pandemics
+MH  - Physicians
+MH  - *Pneumonia, Viral
+MH  - Qualitative Research
+MH  - SARS-CoV-2
+PMC - PMC7307326
+OTO - NOTNLM
+OT  - REDCap
+OT  - digital health
+OT  - email
+OT  - intensive care medicine
+OT  - intensive care unit
+OT  - monitoring
+OT  - online survey
+OT  - patient monitoring
+OT  - technological innovation
+OT  - transdisciplinary
+OT  - usability
+OT  - user-centered
+COIS- Conflicts of Interest: CS and FB report funding from Medtronic. The other authors 
+      do not have conflicts to declare.
+EDAT- 2020/05/28 06:00
+MHDA- 2020/07/03 06:00
+PMCR- 2020/06/19
+CRDT- 2020/05/28 06:00
+PHST- 2020/04/13 00:00 [received]
+PHST- 2020/05/13 00:00 [accepted]
+PHST- 2020/05/05 00:00 [revised]
+PHST- 2020/05/28 06:00 [pubmed]
+PHST- 2020/07/03 06:00 [medline]
+PHST- 2020/05/28 06:00 [entrez]
+PHST- 2020/06/19 00:00 [pmc-release]
+AID - v22i6e19091 [pii]
+AID - 10.2196/19091 [doi]
+PST - epublish
+SO  - J Med Internet Res. 2020 Jun 19;22(6):e19091. doi: 10.2196/19091.
+
+PMID- 32990673
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201005
+LR  - 20201005
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 274
+DP  - 2020 Sep 25
+TI  - eHealth and Clinical Documentation Systems.
+PG  - 174-188
+LID - 10.3233/SHTI200676 [doi]
+AB  - eHealth is the use of modern information and communication technology (ICT) for 
+      trans-institutional healthcare purposes. Important subtopics of eHealth are 
+      health data sharing and telemedicine. Most of the clinical documentation to be 
+      shared is collected in patient records to support patient care. More 
+      sophisticated approaches to electronic patient records are trans-institutional or 
+      (inter-)national. Other aims for clinical documentation are quality management, 
+      reimbursement, legal issues, and medical research. Basic prerequisite for eHealth 
+      is interoperability, which can be divided into technical, semantic and process 
+      interoperability. There is a variety of international standards to support 
+      interoperability. Telemedicine is a subtopic of eHealth, which bridges spatial 
+      distance by using ICT for medical (inter-)actions. We distinguish telemedicine 
+      among healthcare professionals and telemedicine between health care professionals 
+      and patients. Both have a great potential to face the challenges of aging 
+      societies, the increasing number of chronically ill patients, multimorbidity and 
+      low number of physicians in remote areas. With ongoing digitalization more and 
+      more data are available digitally. Clinical documentation is an important source 
+      for big data analysis and artificial intelligence. The patient has an important 
+      role: Telemonitoring, wearable technologies, and smart home devices provide 
+      digital health data from daily life. These are high-quality data which can be 
+      used for medical decisions.
+FAU - Knaup, Petra
+AU  - Knaup P
+AD  - University of Heidelberg, Institute of Medical Biometry and Informatics, 
+      Heidelberg, Germany.
+FAU - Benning, Nils-Hendrik
+AU  - Benning NH
+AD  - University of Heidelberg, Institute of Medical Biometry and Informatics, 
+      Heidelberg, Germany.
+FAU - Seitz, Max Wolfgang
+AU  - Seitz MW
+AD  - University of Heidelberg, Institute of Medical Biometry and Informatics, 
+      Heidelberg, Germany.
+FAU - Eisenmann, Urs
+AU  - Eisenmann U
+AD  - University of Heidelberg, Institute of Medical Biometry and Informatics, 
+      Heidelberg, Germany.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - *Artificial Intelligence
+MH  - Delivery of Health Care
+MH  - Documentation
+MH  - Electronic Health Records
+MH  - Humans
+MH  - *Telemedicine
+OTO - NOTNLM
+OT  - eHealth
+OT  - interoperability
+OT  - medical documentation
+OT  - patient records
+OT  - telemedicine
+EDAT- 2020/09/30 06:00
+MHDA- 2020/10/06 06:00
+CRDT- 2020/09/29 12:36
+PHST- 2020/09/29 12:36 [entrez]
+PHST- 2020/09/30 06:00 [pubmed]
+PHST- 2020/10/06 06:00 [medline]
+AID - SHTI200676 [pii]
+AID - 10.3233/SHTI200676 [doi]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2020 Sep 25;274:174-188. doi: 10.3233/SHTI200676.
+
+PMID- 34035925
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240402
+IS  - 2053-3713 (Print)
+IS  - 2053-3713 (Electronic)
+IS  - 2053-3713 (Linking)
+VI  - 8
+IP  - 3
+DP  - 2021 Jun
+TI  - A remote healthcare monitoring framework for diabetes prediction using machine 
+      learning.
+PG  - 45-57
+LID - 10.1049/htl2.12010 [doi]
+AB  - Diabetes is a metabolic disease that affects millions of people each year. It is 
+      associated with an increased likelihood of vital organ failures and decreased 
+      quality of life. Early detection and regular monitoring are crucial for managing 
+      diabetes. Remote patient monitoring can facilitate effective intervention and 
+      treatment paradigms using current technology. This work proposes an end-to-end 
+      remote monitoring framework for automated diabetes risk prediction and 
+      management, using personal health devices, smart wearables and smartphones. A 
+      support vector machine was developed for diabetes risk prediction using the Pima 
+      Indian Diabetes Database, after feature scaling, imputation, selection and 
+      augmentation. This work achieved the performance metrics of accuracy, sensitivity 
+      and specificity scores at 83.20%, 87.20% and 79% respectively through the tenfold 
+      stratified cross validation method, which is competitive with existing methods. 
+      Patients can use multiple healthcare devices, smartphones and smartwatches to 
+      measure vital parameters, curb the progression of diabetes and close the 
+      communication loop with medical professionals. The proposed framework enables 
+      medical professionals to make informed decisions based on the latest diabetes 
+      risk predictions and lifestyle insights while attaining unobtrusiveness, reduced 
+      cost, and vendor interoperability.
+CI  - © 2021 The Authors. Healthcare Technology Letters published by John Wiley & Sons 
+      Ltd on behalf of The Institution of Engineering and Technology.
+FAU - Ramesh, Jayroop
+AU  - Ramesh J
+AD  - Computer Science and Engineering American University of Sharjah Sharjah United 
+      Arab Emirates.
+FAU - Aburukba, Raafat
+AU  - Aburukba R
+AUID- ORCID: 0000-0003-2695-5836
+AD  - Computer Science and Engineering American University of Sharjah Sharjah United 
+      Arab Emirates.
+FAU - Sagahyroon, Assim
+AU  - Sagahyroon A
+AUID- ORCID: 0000-0001-7189-3940
+AD  - Computer Science and Engineering American University of Sharjah Sharjah United 
+      Arab Emirates.
+LA  - eng
+PT  - Journal Article
+DEP - 20210502
+PL  - England
+TA  - Healthc Technol Lett
+JT  - Healthcare technology letters
+JID - 101646459
+PMC - PMC8136765
+EDAT- 2021/05/27 06:00
+MHDA- 2021/05/27 06:01
+PMCR- 2021/05/02
+CRDT- 2021/05/26 06:55
+PHST- 2021/01/05 00:00 [received]
+PHST- 2021/03/13 00:00 [revised]
+PHST- 2021/04/07 00:00 [accepted]
+PHST- 2021/05/26 06:55 [entrez]
+PHST- 2021/05/27 06:00 [pubmed]
+PHST- 2021/05/27 06:01 [medline]
+PHST- 2021/05/02 00:00 [pmc-release]
+AID - HTL212010 [pii]
+AID - 10.1049/htl2.12010 [doi]
+PST - epublish
+SO  - Healthc Technol Lett. 2021 May 2;8(3):45-57. doi: 10.1049/htl2.12010. eCollection 
+      2021 Jun.
+
+PMID- 35308935
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220411
+LR  - 20220411
+IS  - 1942-597X (Electronic)
+IS  - 1559-4076 (Linking)
+VI  - 2021
+DP  - 2021
+TI  - BlockIoT: Blockchain-based Health Data Integration using IoT Devices.
+PG  - 1119-1128
+AB  - The development and adoption of Electronic Health Records (EHR) and health 
+      monitoring Internet of Things (IoT) Devices have enabled digitization of patient 
+      records and has also substantially transformed the healthcare delivery system in 
+      aspects such as remote patient monitoring, healthcare decision making, and 
+      medical research. However, data tends to be fragmented among health 
+      infrastructures, and prevents interoperability of medical data at the point of 
+      care. In order to address this gap, we introduce BlockIoT that uses blockchain 
+      technology to transfer previously inaccessible and centralized data from medical 
+      devices to EHR systems, which provides greater insight to providers who can, in 
+      turn, provide better outcomes for patients. This notion of interoperability of 
+      medical device data is possible through an Application Programming Interface 
+      (API), which serves as a versatile endpoint for all incoming medical device data, 
+      a distributed file system that ensures data resilience, and knowledge templates 
+      that analyze, identify, and represent medical device data to providers. Our 
+      participatory design survey on BlockIoT demonstrates that BlockIoT is a suitable 
+      system to supplement physicians' clinical practice and increases efficiency in 
+      most healthcare specialties, including cardiology, pulmonology, endocrinology, 
+      and primary care.
+CI  - ©2021 AMIA - All rights reserved.
+FAU - Shukla, Manan
+AU  - Shukla M
+AD  - Rensselaer Polytechnic Institute, Troy, NY, USA.
+FAU - Lin, Jianjing
+AU  - Lin J
+AD  - Rensselaer Polytechnic Institute, Troy, NY, USA.
+FAU - Seneviratne, Oshani
+AU  - Seneviratne O
+AD  - Rensselaer Polytechnic Institute, Troy, NY, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220221
+PL  - United States
+TA  - AMIA Annu Symp Proc
+JT  - AMIA ... Annual Symposium proceedings. AMIA Symposium
+JID - 101209213
+SB  - IM
+MH  - *Blockchain
+MH  - Delivery of Health Care
+MH  - Electronic Health Records
+MH  - Humans
+MH  - *Internet of Things
+MH  - Monitoring, Physiologic
+PMC - PMC8861710
+EDAT- 2022/03/22 06:00
+MHDA- 2022/04/12 06:00
+PMCR- 2022/02/21
+CRDT- 2022/03/21 08:45
+PHST- 2022/03/21 08:45 [entrez]
+PHST- 2022/03/22 06:00 [pubmed]
+PHST- 2022/04/12 06:00 [medline]
+PHST- 2022/02/21 00:00 [pmc-release]
+AID - 3577640 [pii]
+PST - epublish
+SO  - AMIA Annu Symp Proc. 2022 Feb 21;2021:1119-1128. eCollection 2021.
+
+PMID- 37964800
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240215
+IS  - 1178-2390 (Print)
+IS  - 1178-2390 (Electronic)
+IS  - 1178-2390 (Linking)
+VI  - 16
+DP  - 2023
+TI  - A Systematic Literature Review on Trustworthiness for Applications Used in 
+      eHealth Environments.
+PG  - 3393-3403
+LID - 10.2147/JMDH.S429071 [doi]
+AB  - CONTEXT: The technological advancement of the Internet of Things (IoT) creates 
+      opportunities in various social sectors. Patients in clinics or home care have 
+      their comfort and safety enhanced with remote monitoring, sensors and 
+      applications that control and transfer patient data. These applications must be 
+      trustworthy, since they deal with sensitive data. PURPOSE: The purpose of this 
+      work is to identify gaps in trustworthiness, availability, effectiveness, 
+      security and other attributes. Also, to highlight challenges and opportunities 
+      for research and give guidance on choosing the right technology or application 
+      based on the resources available to support patients and doctors, protocol of 
+      communication and maturity level of these technologies. METHODOLOGY: This work 
+      presents a systematic review of the literature following four steps: Definition 
+      of the Research Questions, Conduct Search, Screening of Papers, and Data 
+      Extraction and Mapping Process. RESULTS: Based on the articles studied, it was 
+      possible to answer important questions about eHealth applications. The results 
+      highlight how eHealth applications can enhance patient care by monitoring health 
+      data and supporting doctors' decision-making with a reasonable level of 
+      trustworthiness. Additionally, the results demonstrate how applications can 
+      notify external caregivers in emergencies and assist in diagnosis and treatment 
+      of illnesses. However, these applications still face problems related to sensor 
+      lifetime, medical data sharing, interoperability and lack of standardization. 
+      Finally, we suggest a literature mapping to support the choice of technologies 
+      based on resources available, communication protocol and technological maturity. 
+      CONCLUSION: This work carries out a systematic literature review to discuss 
+      state-of-the-art eHealth applications and gather new information of current 
+      research. In this process it was possible to show how these applications work, 
+      map out their main technological characteristics to assist the decision-making 
+      process for future works and uncover eHealth applications' strengths, future 
+      perspectives and challenges, specifically related to the high level of 
+      trustworthiness necessary.
+CI  - © 2023 Renó et al.
+FAU - Renó, Breno
+AU  - Renó B
+AUID- ORCID: 0000-0003-1040-276X
+AD  - Institute of System Engineering and Information Technology (IESTI), Federal 
+      University of Itajubá (UNIFEI), Itajubá, MG, Brazil.
+FAU - Oliveira, Edvard Martins
+AU  - Oliveira EM
+AUID- ORCID: 0000-0002-2842-2155
+AD  - Institute of System Engineering and Information Technology (IESTI), Federal 
+      University of Itajubá (UNIFEI), Itajubá, MG, Brazil.
+FAU - Souza, Adler Diniz
+AU  - Souza AD
+AUID- ORCID: 0000-0002-9393-398X
+AD  - Institute of Mathematics and Computing (IMC), Federal University of Itajubá 
+      (UNIFEI), Itajubá, MG, Brazil.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20231109
+PL  - New Zealand
+TA  - J Multidiscip Healthc
+JT  - Journal of multidisciplinary healthcare
+JID - 101512691
+PMC - PMC10642382
+OTO - NOTNLM
+OT  - IoT
+OT  - decision making
+OT  - healthcare
+OT  - internet of things
+OT  - remote monitoring
+COIS- Research developed under a scholarship provided by the Minas Gerais State 
+      Research Support Foundation (FAPEMIG). This work was supported by Universidade 
+      Federal de Itajubá (UNIFEI) [Grant Support for Young Researchers, Grant Support 
+      to Scientific Communication]. The authors report no other conflicts of interest 
+      in this work.
+EDAT- 2023/11/15 06:43
+MHDA- 2023/11/15 06:44
+PMCR- 2023/11/09
+CRDT- 2023/11/15 04:09
+PHST- 2023/07/07 00:00 [received]
+PHST- 2023/10/13 00:00 [accepted]
+PHST- 2023/11/15 06:44 [medline]
+PHST- 2023/11/15 06:43 [pubmed]
+PHST- 2023/11/15 04:09 [entrez]
+PHST- 2023/11/09 00:00 [pmc-release]
+AID - 429071 [pii]
+AID - 10.2147/JMDH.S429071 [doi]
+PST - epublish
+SO  - J Multidiscip Healthc. 2023 Nov 9;16:3393-3403. doi: 10.2147/JMDH.S429071. 
+      eCollection 2023.
+
+PMID- 34667714
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220628
+IS  - 2198-1833 (Print)
+IS  - 1613-2238 (Electronic)
+IS  - 0943-1853 (Linking)
+VI  - 30
+IP  - 1
+DP  - 2022
+TI  - Integration of mobile sensors in a telemedicine hospital system: 
+      remote-monitoring in COVID-19 patients.
+PG  - 93-97
+LID - 10.1007/s10389-021-01655-2 [doi]
+AB  - AIM: The goal is to design and, in a next step, establish a scalable, 
+      multi-center telemonitoring platform based on existing systems for monitoring 
+      COVID-19 patients in home quarantine. In particular, the focus will be on raw 
+      data acquisition, integration of sensor data into the hospital system, structured 
+      data storage, and interoperability. SUBJECT AND METHODS: Data necessary for 
+      monitoring, otherwise provided in various portals, will be continuously queried 
+      and integrated into the hospital system via a new interface in this 
+      proof-of-concept work. RESULTS: Based on extensive preliminary work at Klinikum 
+      rechts der Isar with a structured clinical database, we extend our system's 
+      integration of raw data and visualization in dashboards, as well as scientific 
+      provision of data from mobile sensors for monitoring patients in home quarantine. 
+      CONCLUSION: Based on existing integrated telemonitoring systems supporting 
+      semantic and syntactic interoperability, short-term provision of scientific 
+      databases is possible. The integration of different mobile sensors into a 
+      clinical system for remote monitoring of patients around the clock is still new 
+      and to our knowledge unique.
+CI  - © The Author(s) 2021.
+FAU - Müller, Alexander
+AU  - Müller A
+AD  - Clinic for Cardiology, Klinikum rechts der Isar, Technical University Munich, 
+      Ismaninger Str. 22, 81675 Munich, Germany. GRID: grid.6936.a. ISNI: 
+      0000000123222966
+FAU - Haneke, Hannah
+AU  - Haneke H
+AD  - Board of Healthcare Management, Department Value-Based Healthcare, Charité - 
+      University Medicine, Berlin, Germany. GRID: grid.6363.0. ISNI: 0000 0001 2218 
+      4662
+FAU - Kirchberger, Valerie
+AU  - Kirchberger V
+AD  - Board of Healthcare Management, Department Value-Based Healthcare, Charité - 
+      University Medicine, Berlin, Germany. GRID: grid.6363.0. ISNI: 0000 0001 2218 
+      4662
+FAU - Mastella, Giulio
+AU  - Mastella G
+AD  - Clinic for Cardiology, Klinikum rechts der Isar, Technical University Munich, 
+      Ismaninger Str. 22, 81675 Munich, Germany. GRID: grid.6936.a. ISNI: 
+      0000000123222966
+FAU - Dommasch, Michael
+AU  - Dommasch M
+AD  - Clinic for Cardiology, Klinikum rechts der Isar, Technical University Munich, 
+      Ismaninger Str. 22, 81675 Munich, Germany. GRID: grid.6936.a. ISNI: 
+      0000000123222966
+FAU - Merle, Uta
+AU  - Merle U
+AD  - Department of Gastroenterology and Infectious Diseases, University Hospital 
+      Heidelberg, Heidelberg, Germany. GRID: grid.5253.1. ISNI: 0000 0001 0328 4908
+FAU - Heinze, Oliver
+AU  - Heinze O
+AD  - Department Medical Information Systems, University Hospital Heidelberg, 
+      Heidelberg, Germany. GRID: grid.5253.1. ISNI: 0000 0001 0328 4908
+FAU - Siegmann, Adonia
+AU  - Siegmann A
+AD  - Clinic for Cardiology, Klinikum rechts der Isar, Technical University Munich, 
+      Ismaninger Str. 22, 81675 Munich, Germany. GRID: grid.6936.a. ISNI: 
+      0000000123222966
+FAU - Spinner, Christoph
+AU  - Spinner C
+AD  - Department of Information Technology, Klinikum rechts der Isar, Technical 
+      University Munich, Munich, Germany. GRID: grid.6936.a. ISNI: 0000000123222966
+AD  - Clinic for Gastroenterology, Klinikum rechts der Isar, Technical University 
+      Munich, Munich, Germany. GRID: grid.6936.a. ISNI: 0000000123222966
+FAU - Buiatti, Alessandra
+AU  - Buiatti A
+AD  - Clinic for Cardiology, Klinikum rechts der Isar, Technical University Munich, 
+      Ismaninger Str. 22, 81675 Munich, Germany. GRID: grid.6936.a. ISNI: 
+      0000000123222966
+FAU - Laugwitz, Karl-Ludwig
+AU  - Laugwitz KL
+AD  - Clinic for Cardiology, Klinikum rechts der Isar, Technical University Munich, 
+      Ismaninger Str. 22, 81675 Munich, Germany. GRID: grid.6936.a. ISNI: 
+      0000000123222966
+AD  - German Center of Cardio-Vascular-Research (DZHK), Berlin, Germany. GRID: 
+      grid.452396.f. ISNI: 0000 0004 5937 5237
+FAU - Schmidt, Georg
+AU  - Schmidt G
+AD  - Clinic for Cardiology, Klinikum rechts der Isar, Technical University Munich, 
+      Ismaninger Str. 22, 81675 Munich, Germany. GRID: grid.6936.a. ISNI: 
+      0000000123222966
+AD  - German Center of Cardio-Vascular-Research (DZHK), Berlin, Germany. GRID: 
+      grid.452396.f. ISNI: 0000 0004 5937 5237
+FAU - Martens, Eimo
+AU  - Martens E
+AUID- ORCID: 0000-0002-5801-0901
+AD  - Clinic for Cardiology, Klinikum rechts der Isar, Technical University Munich, 
+      Ismaninger Str. 22, 81675 Munich, Germany. GRID: grid.6936.a. ISNI: 
+      0000000123222966
+LA  - eng
+PT  - Journal Article
+DEP - 20211015
+PL  - Germany
+TA  - Z Gesundh Wiss
+JT  - Zeitschrift fur Gesundheitswissenschaften = Journal of public health
+JID - 9425271
+PMC - PMC8518886
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Digital health
+OT  - Interoperability
+OT  - Mobile sensors
+OT  - Pandemic management
+OT  - Remote-monitoring
+OT  - Telemedicine
+OT  - Wearables
+COIS- Conflict of interestThe authors declare no conflicts of interest in relation to 
+      this work.
+EDAT- 2021/10/21 06:00
+MHDA- 2021/10/21 06:01
+PMCR- 2021/10/15
+CRDT- 2021/10/20 06:45
+PHST- 2020/09/30 00:00 [received]
+PHST- 2021/09/20 00:00 [accepted]
+PHST- 2021/10/21 06:00 [pubmed]
+PHST- 2021/10/21 06:01 [medline]
+PHST- 2021/10/20 06:45 [entrez]
+PHST- 2021/10/15 00:00 [pmc-release]
+AID - 1655 [pii]
+AID - 10.1007/s10389-021-01655-2 [doi]
+PST - ppublish
+SO  - Z Gesundh Wiss. 2022;30(1):93-97. doi: 10.1007/s10389-021-01655-2. Epub 2021 Oct 
+      15.
+
+PMID- 34446278
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211111
+LR  - 20211111
+IS  - 1873-4111 (Electronic)
+IS  - 0378-5122 (Linking)
+VI  - 151
+DP  - 2021 Sep
+TI  - Multimodal biometric monitoring technologies drive the development of clinical 
+      assessments in the home environment.
+PG  - 41-47
+LID - S0378-5122(21)00110-9 [pii]
+LID - 10.1016/j.maturitas.2021.06.009 [doi]
+AB  - Biometric monitoring technologies (BioMeTs) have attracted the attention of the 
+      health care community because of their user-friendly form factor and multi-sensor 
+      data-collection capabilities. The potential benefits of remote monitoring for 
+      collecting comprehensive, longitudinal, and contextual datasets span therapeutic 
+      areas, and both chronic and acute disease settings. Importantly, multimodal 
+      BioMeTs unlock the ability to generate rich contextual data to augment digital 
+      measures. Currently, the availability of devices is no longer the main factor 
+      limiting adoption but rather the ability to integrate fit-for-purpose BioMeTs 
+      reliably and safely into clinical care. We provide a critical review of the state 
+      of art for multimodal BioMeTs in clinical care and identify three unmet clinical 
+      needs: 1) expand the abilities of existing ambulatory unimodal BioMeTs; 2) adapt 
+      standardized clinical test protocols ("spot checks'') for use under free living 
+      conditions; and 3) develop novel applications to manage rehabilitation and 
+      chronic diseases. As the field is still in an early and quickly evolving state, 
+      we make practical recommendations: 1) to select appropriate BioMeTs; 2) to 
+      develop composite digital measures; and 3) to design interoperable software to 
+      ingest, process, delegate, and visualize the data when deploying novel clinical 
+      applications. Multimodal BioMeTs will drive the evolution from in-clinic 
+      assessments to at-home data collection with a focus on prevention, 
+      personalization, and long-term outcomes by empowering health care providers with 
+      knowledge, delivering convenience, and an improved standard of care to patients.
+CI  - Copyright © 2021 Elsevier B.V. All rights reserved.
+FAU - Vandendriessche, Benjamin
+AU  - Vandendriessche B
+AD  - Byteflies, Antwerp, Belgium; Department of Electrical, Computer, and Systems 
+      Engineering, Case Western Reserve University, Cleveland, OH, USA. Electronic 
+      address: benjamin.vandendriessche@case.edu.
+FAU - Godfrey, Alan
+AU  - Godfrey A
+AD  - Department of Computer and Information Sciences, Northumbria University, NE18ST, 
+      Newcastle-upon-Tyne, UK.
+FAU - Izmailova, Elena S
+AU  - Izmailova ES
+AD  - Koneksa Health Inc., New York, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210625
+PL  - Ireland
+TA  - Maturitas
+JT  - Maturitas
+JID - 7807333
+SB  - IM
+MH  - Biometry
+MH  - Data Collection
+MH  - Health Personnel
+MH  - Humans
+MH  - *Monitoring, Ambulatory
+MH  - *Technology
+MH  - *Wearable Electronic Devices
+OTO - NOTNLM
+OT  - Digital measures
+OT  - Digital medicine
+OT  - Multimodal assessment
+OT  - Wearables
+EDAT- 2021/08/28 06:00
+MHDA- 2021/11/12 06:00
+CRDT- 2021/08/27 05:48
+PHST- 2021/03/20 00:00 [received]
+PHST- 2021/06/15 00:00 [revised]
+PHST- 2021/06/22 00:00 [accepted]
+PHST- 2021/08/27 05:48 [entrez]
+PHST- 2021/08/28 06:00 [pubmed]
+PHST- 2021/11/12 06:00 [medline]
+AID - S0378-5122(21)00110-9 [pii]
+AID - 10.1016/j.maturitas.2021.06.009 [doi]
+PST - ppublish
+SO  - Maturitas. 2021 Sep;151:41-47. doi: 10.1016/j.maturitas.2021.06.009. Epub 2021 
+      Jun 25.
+
+PMID- 35214404
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220301
+LR  - 20220301
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 22
+IP  - 4
+DP  - 2022 Feb 15
+TI  - LoRaChainCare: An IoT Architecture Integrating Blockchain and LoRa Network for 
+      Personal Health Care Data Monitoring.
+LID - 10.3390/s22041497 [doi]
+LID - 1497
+AB  - Over the past several years, the adoption of HealthCare Monitoring Systems (HCS) 
+      in health centers and organizations like hospitals or eldery homes growth 
+      significantly. The adoption of such systems is revolutionized by a propelling 
+      advancements in IoT and Blockchain technologies. Owing to technological 
+      advancement in IoT sensors market, innovations in HCS to monitor patients health 
+      status have motivated many countries to strength their efforts to support their 
+      citizens with such care delivery systems under the directives of a physician who 
+      has access to patient's data. Nevertheless, secure data sharing is a principal 
+      patient's concern to be comfort to use such systems. Current HCS are not able to 
+      provide reassuring security policies. For that, one of our focus in this work, is 
+      to provide security countermeasures, likewise cost-efficient solution for HCS by 
+      integrating storage model based on Blockchain and Interplanetary File Systems 
+      (IPFS). Blockchain technology is an emerging solution in pharmaceutical industry 
+      and starts to take place for HCS and allows HealthCare providers to track 
+      connected devices and control access to shared data, hence protecting patients' 
+      privacy. Furthermore, the addition of Edge and Fog computing has improved HCS to 
+      react in real-time and enhance their reliability. A variety of communication 
+      protocols can connect sensor devices to edge/Fog layer and the best choice will 
+      depend upon connectivity requirements: range, bandwidth, power, interoperability, 
+      security, and reliability. Instead, systems efficiency would decline and hurt if 
+      communication protocol is inconsistent. LoRa (Long Range) communications 
+      technology is emerging as the leader among Low-Power Wide-Area Networks (LPWANs) 
+      entering the IoT domain benefiting from many features such as long-range 
+      distances and low power consumption. This work proposes LoRaChainCare, an 
+      architecture model for HCS which combines the technologies Blockchain, Fog/Edge 
+      computing, and the LoRa communication protocol. A real implementation of 
+      LoRaChainCare system is presented and evaluated in terms of cost, run time and 
+      power consumption.
+FAU - Dammak, Bouthaina
+AU  - Dammak B
+AD  - Department of Computer Science and Information Technology, Applied College, 
+      Princess Nourah Bint Abdulrahman University, Riyadh 84428, Saudi Arabia.
+FAU - Turki, Mariem
+AU  - Turki M
+AD  - ISIMG, University of Gabes, Gabes 6033, Tunisia.
+AD  - CES Lab, University of Sfax, Sfax 3038, Tunisia.
+FAU - Cheikhrouhou, Saoussen
+AU  - Cheikhrouhou S
+AUID- ORCID: 0000-0003-4607-7452
+AD  - ReDCAD, University of Sfax, Sfax 3038, Tunisia.
+FAU - Baklouti, Mouna
+AU  - Baklouti M
+AD  - CES Lab, University of Sfax, Sfax 3038, Tunisia.
+FAU - Mars, Rawya
+AU  - Mars R
+AD  - ReDCAD, University of Sfax, Sfax 3038, Tunisia.
+FAU - Dhahbi, Afef
+AU  - Dhahbi A
+AD  - Department of Administrative Sciences, Applied College, Princess Nourah Bint 
+      Abdulrahman University, Riyadh 84428, Saudi Arabia.
+LA  - eng
+GR  - PRFA-P- 43 - 2/Princess Nourah bint Abdulrahman University/
+PT  - Journal Article
+DEP - 20220215
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - *Blockchain
+MH  - Confidentiality
+MH  - Delivery of Health Care
+MH  - Humans
+MH  - Monitoring, Physiologic/methods
+MH  - Reproducibility of Results
+PMC - PMC8875370
+OTO - NOTNLM
+OT  - IPFS
+OT  - Internet-of-Things
+OT  - LoRa
+OT  - blockchain
+OT  - edge computing
+OT  - fog computing
+OT  - healthcare
+OT  - security
+COIS- The authors declare that there is no conflict of interest regarding the 
+      publication of this paper.
+EDAT- 2022/02/27 06:00
+MHDA- 2022/03/03 06:00
+PMCR- 2022/02/15
+CRDT- 2022/02/26 01:03
+PHST- 2021/12/28 00:00 [received]
+PHST- 2022/01/29 00:00 [revised]
+PHST- 2022/02/04 00:00 [accepted]
+PHST- 2022/02/26 01:03 [entrez]
+PHST- 2022/02/27 06:00 [pubmed]
+PHST- 2022/03/03 06:00 [medline]
+PHST- 2022/02/15 00:00 [pmc-release]
+AID - s22041497 [pii]
+AID - sensors-22-01497 [pii]
+AID - 10.3390/s22041497 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2022 Feb 15;22(4):1497. doi: 10.3390/s22041497.
+
+PMID- 38620637
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240418
+IS  - 2542-6605 (Electronic)
+IS  - 2542-6605 (Print)
+IS  - 2542-6605 (Linking)
+VI  - 18
+DP  - 2022 May
+TI  - A conceptual IoT-based early-warning architecture for remote monitoring of 
+      COVID-19 patients in wards and at home.
+PG  - 100399
+LID - 10.1016/j.iot.2021.100399 [doi]
+AB  - Due to the COVID-19 pandemic, health services around the globe are struggling. An 
+      effective system for monitoring patients can improve healthcare delivery by 
+      avoiding in-person contacts, enabling early-detection of severe cases, and 
+      remotely assessing patients' status. Internet of Things (IoT) technologies have 
+      been used for monitoring patients' health with wireless wearable sensors in 
+      different scenarios and medical conditions, such as noncommunicable and 
+      infectious diseases. Combining IoT-related technologies with early-warning scores 
+      (EWS) commonly utilized in infirmaries has the potential to enhance health 
+      services delivery significantly. Specifically, the NEWS-2 has been showing 
+      remarkable results in detecting the health deterioration of COVID-19 patients. 
+      Although the literature presents several approaches for remote monitoring, none 
+      of these studies proposes a customized, complete, and integrated architecture 
+      that uses an effective early-detection mechanism for COVID-19 and that is 
+      flexible enough to be used in hospital wards and at home. Therefore, this 
+      article's objective is to present a comprehensive IoT-based conceptual 
+      architecture that addresses the key requirements of scalability, 
+      interoperability, network dynamics, context discovery, reliability, and privacy 
+      in the context of remote health monitoring of COVID-19 patients in hospitals and 
+      at home. Since remote monitoring of patients at home (essential during a 
+      pandemic) can engender trust issues regarding secure and ethical data collection, 
+      a consent management module was incorporated into our architecture to provide 
+      transparency and ensure data privacy. Further, the article details mechanisms for 
+      supporting a configurable and adaptable scoring system embedded in wearable 
+      devices to increase usefulness and flexibility for health care professions 
+      working with EWS.
+CI  - © 2021 The Authors. Published by Elsevier B.V.
+FAU - Paganelli, Antonio Iyda
+AU  - Paganelli AI
+AD  - Informatics Departament, Pontifical Catholic University, Rua Marquês de São 
+      Vicente 225-Gávea, Rio de Janeiro 22541-041, Brazil.
+FAU - Velmovitsky, Pedro Elkind
+AU  - Velmovitsky PE
+AD  - School of Public Health and Health Systems, University of Waterloo, 200 
+      University Avenue West, Waterloo, ON N2L 3G1, Canada.
+FAU - Miranda, Pedro
+AU  - Miranda P
+AD  - School of Public Health and Health Systems, University of Waterloo, 200 
+      University Avenue West, Waterloo, ON N2L 3G1, Canada.
+FAU - Branco, Adriano
+AU  - Branco A
+AD  - Informatics Departament, Pontifical Catholic University, Rua Marquês de São 
+      Vicente 225-Gávea, Rio de Janeiro 22541-041, Brazil.
+FAU - Alencar, Paulo
+AU  - Alencar P
+AD  - David R. Cheriton School of Computer Science, University of Waterloo, 200 
+      University Avenue West, Waterloo, ON N2L 3G1, Canada.
+FAU - Cowan, Donald
+AU  - Cowan D
+AD  - David R. Cheriton School of Computer Science, University of Waterloo, 200 
+      University Avenue West, Waterloo, ON N2L 3G1, Canada.
+FAU - Endler, Markus
+AU  - Endler M
+AD  - Informatics Departament, Pontifical Catholic University, Rua Marquês de São 
+      Vicente 225-Gávea, Rio de Janeiro 22541-041, Brazil.
+FAU - Morita, Plinio Pelegrini
+AU  - Morita PP
+AD  - School of Public Health and Health Systems, University of Waterloo, 200 
+      University Avenue West, Waterloo, ON N2L 3G1, Canada.
+AD  - Research Institute for Aging, University of Waterloo, 250 Laurelwood Drive, 
+      Waterloo, ON N2J 0E2, Canada.
+AD  - Department of Systems Design Engineering, University of Waterloo, 200 University 
+      Avenue West, Waterloo, ON N2L 3G1, Canada.
+AD  - eHealth Innovation, Techna Institute, University Health Network, R. Fraser 
+      Elliott Building, 4th Floor, 190 Elizabeth St, Toronto, ON M5G 2C4, Canada.
+AD  - Institute of Health Policy, Management and Evaluation, Dalla Lana School of 
+      Public Health, University of Toronto, Health Sciences Building 155 College 
+      Street, 6th floor, Toronto, ON M5T 3M7, Canada.
+LA  - eng
+PT  - Journal Article
+DEP - 20210406
+PL  - Netherlands
+TA  - Internet Things (Amst)
+JT  - Internet of things (Amsterdam, Netherlands)
+JID - 9918608588406676
+PMC - PMC8023791
+OTO - NOTNLM
+OT  - Architecture
+OT  - COVID-19
+OT  - Consent
+OT  - IoT
+OT  - NEWS-2
+OT  - Remote monitoring
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/05/01 00:00
+MHDA- 2022/05/01 00:01
+PMCR- 2021/04/06
+CRDT- 2024/04/15 14:41
+PHST- 2020/12/30 00:00 [received]
+PHST- 2021/03/27 00:00 [revised]
+PHST- 2021/03/29 00:00 [accepted]
+PHST- 2022/05/01 00:01 [medline]
+PHST- 2022/05/01 00:00 [pubmed]
+PHST- 2024/04/15 14:41 [entrez]
+PHST- 2021/04/06 00:00 [pmc-release]
+AID - S2542-6605(21)00043-3 [pii]
+AID - 100399 [pii]
+AID - 10.1016/j.iot.2021.100399 [doi]
+PST - ppublish
+SO  - Internet Things (Amst). 2022 May;18:100399. doi: 10.1016/j.iot.2021.100399. Epub 
+      2021 Apr 6.
+
+PMID- 37869817
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231101
+LR  - 20231101
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 309
+DP  - 2023 Oct 20
+TI  - Design and Adoption of a FHIR IG to Support a Telemonitoring Environment in 
+      Gatekeeper Project.
+PG  - 106-110
+LID - 10.3233/SHTI230751 [doi]
+AB  - Telemedicine can provide benefits in patient affected by chronic diseases or 
+      elderly citizens as part of standard routine care supported by digital health. 
+      The GATEKEEPER (GK) Project was financed to create a vendor independent platform 
+      to be adopted in medical practice and to demonstrate its effect, benefit value, 
+      and scalability in 8 connected medical use cases with some independent pilots. 
+      This paper, after a description of the GK platform architecture, is focused on 
+      the creation of a FHIR (Fast Healthcare Interoperability Resource) IG 
+      (Implementation Guide) and its adoption in specific use cases. The final aim is 
+      to combine conventional data, collected in the hospital, with unconventional 
+      data, coming from wearable devices, to exploit artificial intelligence (AI) 
+      models designed to evaluate the effectiveness of a new parsimonious risk 
+      prediction model for Type 2 diabetes (T2D).
+FAU - Gazzarata, Roberta
+AU  - Gazzarata R
+AD  - HL7 Europe, Brussels, Belgium.
+FAU - Chronaki, Catherine
+AU  - Chronaki C
+AD  - HL7 Europe, Brussels, Belgium.
+FAU - Ricciardi, Francesco
+AU  - Ricciardi F
+AD  - Casa Sollievo della Sofferenza Research Hospital, San Giovanni Rotondo, Italy.
+FAU - Giuliani, Francesco
+AU  - Giuliani F
+AD  - Casa Sollievo della Sofferenza Research Hospital, San Giovanni Rotondo, Italy.
+FAU - Zampognaro, Paolo
+AU  - Zampognaro P
+AD  - Engineering Ingegneria Informatica S.p.A, Roma, Italy.
+FAU - Mercalli, Franco
+AU  - Mercalli F
+AD  - MultiMed Engineers srl, Parma, Italy.
+FAU - Allocca, Carlo
+AU  - Allocca C
+AD  - Samsung Electronics (UK) Limited, London, United Kingdom.
+FAU - Gaeta, Eugenio
+AU  - Gaeta E
+AD  - Universidad Politécnica de Madrid, Madrid, Spain.
+FAU - Fico, Giuseppe
+AU  - Fico G
+AD  - Universidad Politécnica de Madrid, Madrid, Spain.
+FAU - Cangioli, Giorgio
+AU  - Cangioli G
+AD  - HL7 Europe, Brussels, Belgium.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - Humans
+MH  - Aged
+MH  - Electronic Health Records
+MH  - Artificial Intelligence
+MH  - *Diabetes Mellitus, Type 2
+MH  - Delivery of Health Care
+MH  - *Telemedicine
+MH  - Health Level Seven
+OTO - NOTNLM
+OT  - AI models
+OT  - HL7 FHIR
+OT  - Type 2 Diabetes
+OT  - chronic diseases
+OT  - health and wellness
+OT  - interoperability standards
+OT  - living environments
+OT  - telemedicine
+EDAT- 2023/10/23 06:46
+MHDA- 2023/11/01 12:45
+CRDT- 2023/10/23 05:01
+PHST- 2023/11/01 12:45 [medline]
+PHST- 2023/10/23 06:46 [pubmed]
+PHST- 2023/10/23 05:01 [entrez]
+AID - SHTI230751 [pii]
+AID - 10.3233/SHTI230751 [doi]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2023 Oct 20;309:106-110. doi: 10.3233/SHTI230751.
+
+PMID- 35957207
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220815
+LR  - 20220815
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 22
+IP  - 15
+DP  - 2022 Jul 28
+TI  - Implementation of ISO/IEEE 11073 PHD SpO2 and ECG Device Specializations over 
+      Bluetooth HDP following Health Care Profile for Smart Living.
+LID - 10.3390/s22155648 [doi]
+LID - 5648
+AB  - Current m-Health scenarios in the smart living era, as the interpretation of the 
+      smart city at each person's level, present several challenges associated with 
+      interoperability between different clinical devices and applications. The 
+      Continua Health Alliance establishes design guidelines to standardize application 
+      communication to guarantee interoperability among medical devices. In this paper, 
+      we describe the implementation of two IEEE agents for oxygen saturation level 
+      (SpO2) measurements and electrocardiogram (ECG) data acquisition, respectively, 
+      and a smartphone IEEE manager for validation. We developed both IEEE agents over 
+      the Bluetooth Health Device Profile following the Continua guidelines and they 
+      are part of a telemonitoring system. This system was evaluated in a sample 
+      composed of 10 volunteers (mean age 29.8 ± 7.1 y/o; 5 females) under supervision 
+      of an expert cardiologist. The evaluation consisted of measuring the SpO2 and ECG 
+      signal sitting and at rest, before and after exercising for 15 min. Physiological 
+      measurements were assessed and compared against commercial devices, and our 
+      expert physician did not find any relevant differences in the ECG signal. 
+      Additionally, the system was assessed when acquiring and processing different 
+      heart rate data to prove that warnings were generated when the heart rate was 
+      under/above the thresholds for bradycardia and tachycardia, respectively.
+FAU - Cristobal-Huerta, Alexandra
+AU  - Cristobal-Huerta A
+AUID- ORCID: 0000-0001-6736-9337
+AD  - Electronic Technology Area, Universidad Rey Juan Carlos, 28933 Madrid, Spain.
+FAU - Torrado-Carvajal, Angel
+AU  - Torrado-Carvajal A
+AUID- ORCID: 0000-0002-1540-2809
+AD  - Electronic Technology Area, Universidad Rey Juan Carlos, 28933 Madrid, Spain.
+AD  - Medical Image Analysis and Biometry Lab, Universidad Rey Juan Carlos, 28933 
+      Madrid, Spain.
+FAU - Rodriguez-Sanchez, Cristina
+AU  - Rodriguez-Sanchez C
+AUID- ORCID: 0000-0001-9243-2166
+AD  - Electronic Technology Area, Universidad Rey Juan Carlos, 28933 Madrid, Spain.
+FAU - Hernandez-Tamames, Juan Antonio
+AU  - Hernandez-Tamames JA
+AD  - Electronic Technology Area, Universidad Rey Juan Carlos, 28933 Madrid, Spain.
+FAU - Luaces, Maria
+AU  - Luaces M
+AD  - Hospital Universitario Clínico San Carlos, 28040 Madrid, Spain.
+FAU - Borromeo, Susana
+AU  - Borromeo S
+AUID- ORCID: 0000-0002-2353-2902
+AD  - Electronic Technology Area, Universidad Rey Juan Carlos, 28933 Madrid, Spain.
+AD  - Medical Image Analysis and Biometry Lab, Universidad Rey Juan Carlos, 28933 
+      Madrid, Spain.
+LA  - eng
+GR  - TSI-020100-2011-0277/Ministry of Industry, Energy and Tourism/
+PT  - Journal Article
+DEP - 20220728
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - Adult
+MH  - Delivery of Health Care
+MH  - Electrocardiography
+MH  - Female
+MH  - Humans
+MH  - *Oxygen Saturation
+MH  - Smartphone
+MH  - *Telemedicine
+MH  - Young Adult
+PMC - PMC9371174
+OTO - NOTNLM
+OT  - Bluetooth HDP
+OT  - Continua Health Alliance guidelines
+OT  - ISO/IEEE standards
+OT  - SpO2
+OT  - digital signal processors (DSPs)
+OT  - electrocardiography
+OT  - telemedicine
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/08/13 06:00
+MHDA- 2022/08/16 06:00
+PMCR- 2022/07/28
+CRDT- 2022/08/12 01:21
+PHST- 2022/05/27 00:00 [received]
+PHST- 2022/07/17 00:00 [revised]
+PHST- 2022/07/20 00:00 [accepted]
+PHST- 2022/08/12 01:21 [entrez]
+PHST- 2022/08/13 06:00 [pubmed]
+PHST- 2022/08/16 06:00 [medline]
+PHST- 2022/07/28 00:00 [pmc-release]
+AID - s22155648 [pii]
+AID - sensors-22-05648 [pii]
+AID - 10.3390/s22155648 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2022 Jul 28;22(15):5648. doi: 10.3390/s22155648.
+
+PMID- 30794191
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200327
+LR  - 20200327
+IS  - 2168-2208 (Electronic)
+IS  - 2168-2194 (Linking)
+VI  - 24
+IP  - 1
+DP  - 2020 Jan
+TI  - Design and Usability Assessment of a Multi-Device SOA-Based Telecare Framework 
+      for the Elderly.
+PG  - 268-279
+LID - 10.1109/JBHI.2019.2894552 [doi]
+AB  - Telemonitoring is a branch of telehealth that aims at remotely monitoring vital 
+      signs, which is important for chronically ill patients and the elderly living 
+      alone. The available standalone devices and applications for the self-monitoring 
+      of health parameters largely suffer from interoperability problems; meanwhile, 
+      telemonitoring medical devices are expensive, self-contained, and are not 
+      integrated into user-friendly technological platforms for the end user. This 
+      paper presents the technical aspects and usability assessment of the 
+      telemonitoring features of the HEREiAM platform, which supports heterogeneous 
+      information technology systems. By exploiting a service-oriented architecture, 
+      the measured parameters collected by off-the-shelf Bluetooth medical devices are 
+      sent as XML documents to a private cloud that implements an interoperable health 
+      service infrastructure, which is compliant with the most recent healthcare 
+      standards and security protocols. This Android-based system is designed to be 
+      accessible both via TV and portable devices, and includes other utilities 
+      designed to support the elderly living alone. Four usability assessment sessions 
+      with quality-validated questionnaires were performed to accurately understand the 
+      ease of use, usefulness, acceptance, and quality of the proposed system. The 
+      results reveal that our system achieved very high usability scores even at its 
+      first use, and the scores did not significantly change over time during a field 
+      trial that lasted for four months, reinforcing the idea of an intuitive design. 
+      At the end of such a trial, the user-experience questionnaire achieved excellent 
+      scores in all aspects with respect to the benchmark. Good results were also 
+      reported by general practitioners who assessed the quality of their remote 
+      interfaces for telemonitoring.
+FAU - Macis, Silvia
+AU  - Macis S
+FAU - Loi, Daniela
+AU  - Loi D
+FAU - Ulgheri, Andrea
+AU  - Ulgheri A
+FAU - Pani, Danilo
+AU  - Pani D
+FAU - Solinas, Giuliana
+AU  - Solinas G
+FAU - Manna, Serena La
+AU  - Manna S
+FAU - Cestone, Vincenzo
+AU  - Cestone V
+FAU - Guerri, Davide
+AU  - Guerri D
+FAU - Raffo, Luigi
+AU  - Raffo L
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190218
+PL  - United States
+TA  - IEEE J Biomed Health Inform
+JT  - IEEE journal of biomedical and health informatics
+JID - 101604520
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Monitoring, Physiologic/instrumentation/*methods
+MH  - *Smartphone
+MH  - *Software
+MH  - Telemedicine/instrumentation/*methods
+MH  - User-Computer Interface
+EDAT- 2019/02/23 06:00
+MHDA- 2020/03/28 06:00
+CRDT- 2019/02/23 06:00
+PHST- 2019/02/23 06:00 [pubmed]
+PHST- 2020/03/28 06:00 [medline]
+PHST- 2019/02/23 06:00 [entrez]
+AID - 10.1109/JBHI.2019.2894552 [doi]
+PST - ppublish
+SO  - IEEE J Biomed Health Inform. 2020 Jan;24(1):268-279. doi: 
+      10.1109/JBHI.2019.2894552. Epub 2019 Feb 18.
+
+PMID- 36125863
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20221007
+IS  - 1929-0748 (Print)
+IS  - 1929-0748 (Electronic)
+IS  - 1929-0748 (Linking)
+VI  - 11
+IP  - 9
+DP  - 2022 Sep 20
+TI  - Technologies for Interoperable Internet of Medical Things Platforms to Manage 
+      Medical Emergencies in Home and Prehospital Care: Protocol for a Scoping Review.
+PG  - e40243
+LID - 10.2196/40243 [doi]
+LID - e40243
+AB  - BACKGROUND: Population growth and aging have highlighted the need for more 
+      effective home and prehospital care. Interconnected medical devices and 
+      applications, which comprise an infrastructure referred to as the Internet of 
+      Medical Things (IoMT), have enabled remote patient monitoring and can be 
+      important tools to cope with these demographic changes. However, developing IoMT 
+      platforms requires profound knowledge of clinical needs and challenges related to 
+      interoperability and how these can be managed with suitable technologies. 
+      OBJECTIVE: The purpose of this scoping review is to summarize the best practices 
+      and technologies to overcome interoperability concerns in IoMT platform 
+      development for medical emergencies in home and prehospital care. METHODS: This 
+      scoping review will be conducted in accordance with Arksey and O'Malley's 5-stage 
+      framework and adhere to the PRISMA-P (Preferred Reporting Items for Systematic 
+      Reviews and Meta-analyses Protocols) guidelines. Only peer-reviewed articles 
+      published in English will be considered. The databases/web search engines that 
+      will be used are IEEE Xplore, PubMed, Scopus, Google Scholar, National Center for 
+      Biotechnology Information, SAGE Journals, and ScienceDirect. The search process 
+      for relevant literature will be divided into 4 different steps. This will ensure 
+      that a suitable approach is followed in terms of search terms, limitations, and 
+      eligibility criteria. Relevant articles that meet the inclusion criteria will be 
+      screened in 2 stages: abstract and title screening and full-text screening. To 
+      reduce selection bias, the screening process will be performed by 2 reviewers. 
+      RESULTS: The results of the preliminary search indicate that there is sufficient 
+      literature to form a good foundation for the scoping review. The search was 
+      performed in April 2022, and a total of 4579 articles were found. The main 
+      clinical focus is the prevention and management of falls, but other medical 
+      emergencies, such as heart disease and stroke, are also considered. Preliminary 
+      results show that little attention has been given to real-time IoMT platforms 
+      that can be deployed in real-world care settings. The final results are expected 
+      to be presented in a scoping review in 2023 and will be disseminated through 
+      scientific conference presentations, oral presentations, and publication in a 
+      peer-reviewed journal. CONCLUSIONS: This scoping review will provide insights and 
+      recommendations regarding how interoperable real-time IoMT platforms can be 
+      developed to handle medical emergencies in home and prehospital care. The 
+      findings of this research could be used by researchers, clinicians, and 
+      implementation teams to facilitate future development and interdisciplinary 
+      discussions. INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): 
+      DERR1-10.2196/40243.
+CI  - ©Mattias Seth, Hoor Jalo, Åsa Högstedt, Otto Medin, Ulrica Björner, Bengt Arne 
+      Sjöqvist, Stefan Candefjord. Originally published in JMIR Research Protocols 
+      (https://www.researchprotocols.org), 20.09.2022.
+FAU - Seth, Mattias
+AU  - Seth M
+AUID- ORCID: 0000-0002-3737-3316
+AD  - Department of Electrical Engineering, Chalmers University of Technology, 
+      Gothenburg, Sweden.
+FAU - Jalo, Hoor
+AU  - Jalo H
+AUID- ORCID: 0000-0001-6975-8520
+AD  - Department of Electrical Engineering, Chalmers University of Technology, 
+      Gothenburg, Sweden.
+FAU - Högstedt, Åsa
+AU  - Högstedt Å
+AUID- ORCID: 0000-0003-2353-0306
+AD  - Prehospen - Centre for Prehospital Research, Faculty of Caring Science, Work Life 
+      and Social Welfare, University of Borås, Borås, Sweden.
+FAU - Medin, Otto
+AU  - Medin O
+AUID- ORCID: 0000-0003-4480-6973
+AD  - InterSystems Corp, Stockholm, Sweden.
+FAU - Björner, Ulrica
+AU  - Björner U
+AUID- ORCID: 0000-0001-6175-1965
+AD  - Äldre Samt Vård och Omsorgsförvaltningen, Gothenburg, Sweden.
+FAU - Sjöqvist, Bengt Arne
+AU  - Sjöqvist BA
+AUID- ORCID: 0000-0002-6564-737X
+AD  - Department of Electrical Engineering, Chalmers University of Technology, 
+      Gothenburg, Sweden.
+FAU - Candefjord, Stefan
+AU  - Candefjord S
+AUID- ORCID: 0000-0001-7942-2190
+AD  - Department of Electrical Engineering, Chalmers University of Technology, 
+      Gothenburg, Sweden.
+LA  - eng
+PT  - Journal Article
+DEP - 20220920
+PL  - Canada
+TA  - JMIR Res Protoc
+JT  - JMIR research protocols
+JID - 101599504
+PMC - PMC9533201
+OTO - NOTNLM
+OT  - Internet of Medical Things
+OT  - home care
+OT  - interoperability
+OT  - mapping
+OT  - medical emergency
+OT  - prehospital
+OT  - prehospital care
+OT  - reference models
+OT  - scoping review, falls, cardiovascular disease, stroke
+OT  - technologies
+COIS- Conflicts of Interest: OM is a sales engineer at InterSystems. There are no other 
+      conflicts of interest to declare.
+EDAT- 2022/09/21 06:00
+MHDA- 2022/09/21 06:01
+PMCR- 2022/09/20
+CRDT- 2022/09/20 11:53
+PHST- 2022/06/12 00:00 [received]
+PHST- 2022/08/30 00:00 [accepted]
+PHST- 2022/08/25 00:00 [revised]
+PHST- 2022/09/20 11:53 [entrez]
+PHST- 2022/09/21 06:00 [pubmed]
+PHST- 2022/09/21 06:01 [medline]
+PHST- 2022/09/20 00:00 [pmc-release]
+AID - v11i9e40243 [pii]
+AID - 10.2196/40243 [doi]
+PST - epublish
+SO  - JMIR Res Protoc. 2022 Sep 20;11(9):e40243. doi: 10.2196/40243.
+
+PMID- 39066012
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240728
+LR  - 20240729
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 24
+IP  - 14
+DP  - 2024 Jul 16
+TI  - RADAR-IoT: An Open-Source, Interoperable, and Extensible IoT Gateway Framework 
+      for Health Research.
+LID - 10.3390/s24144614 [doi]
+LID - 4614
+AB  - IoT sensors offer a wide range of sensing capabilities, many of which have 
+      potential health applications. Existing solutions for IoT in healthcare have 
+      notable limitations, such as closed-source, limited I/O protocols, limited cloud 
+      platform support, and missing specific functionality for health use cases. 
+      Developing an open-source internet of things (IoT) gateway solution that 
+      addresses these limitations and provides reliability, broad applicability, and 
+      utility is highly desirable. Combining a wide range of sensor data streams from 
+      IoT devices with ambulatory mHealth data would open up the potential to provide a 
+      detailed 360-degree view of the relationship between patient physiology, 
+      behavior, and environment. We have developed RADAR-IoT as an open-source IoT 
+      gateway framework, to harness this potential. It aims to connect multiple IoT 
+      devices at the edge, perform limited on-device data processing and analysis, and 
+      integrate with cloud-based mobile health platforms, such as RADAR-base, enabling 
+      real-time data processing. We also present a proof-of-concept data collection 
+      from this framework, using prototype hardware in two locations. The RADAR-IoT 
+      framework, combined with the RADAR-base mHealth platform, provides a 
+      comprehensive view of a user's health and environment by integrating static IoT 
+      sensors and wearable devices. Despite its current limitations, it offers a 
+      promising open-source solution for health research, with potential applications 
+      in managing infection control, monitoring chronic pulmonary disorders, and 
+      assisting patients with impaired motor control or cognitive ability.
+FAU - Ranjan, Yatharth
+AU  - Ranjan Y
+AUID- ORCID: 0000-0003-3079-3120
+AD  - Biostatistics and Health Informatics, Institute of Psychiatry, Psychology & 
+      Neuroscience, King's College London, London SE5 8AF, UK.
+FAU - Chang, Jiangeng
+AU  - Chang J
+AD  - Saw Swee Hock School of Public Health, National University of Singapore, 
+      Singapore 119077, Singapore.
+FAU - Sankesara, Heet
+AU  - Sankesara H
+AUID- ORCID: 0000-0002-9126-5615
+AD  - Biostatistics and Health Informatics, Institute of Psychiatry, Psychology & 
+      Neuroscience, King's College London, London SE5 8AF, UK.
+FAU - Conde, Pauline
+AU  - Conde P
+AUID- ORCID: 0000-0003-0513-0915
+AD  - Biostatistics and Health Informatics, Institute of Psychiatry, Psychology & 
+      Neuroscience, King's College London, London SE5 8AF, UK.
+FAU - Rashid, Zulqarnain
+AU  - Rashid Z
+AUID- ORCID: 0000-0002-6843-9920
+AD  - Biostatistics and Health Informatics, Institute of Psychiatry, Psychology & 
+      Neuroscience, King's College London, London SE5 8AF, UK.
+FAU - Dobson, Richard J B
+AU  - Dobson RJB
+AUID- ORCID: 0000-0003-4224-9245
+AD  - Biostatistics and Health Informatics, Institute of Psychiatry, Psychology & 
+      Neuroscience, King's College London, London SE5 8AF, UK.
+FAU - Folarin, Amos
+AU  - Folarin A
+AUID- ORCID: 0000-0002-0333-1927
+AD  - Biostatistics and Health Informatics, Institute of Psychiatry, Psychology & 
+      Neuroscience, King's College London, London SE5 8AF, UK.
+LA  - eng
+PT  - Journal Article
+DEP - 20240716
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - *Internet of Things
+MH  - Humans
+MH  - *Radar
+MH  - *Telemedicine/instrumentation
+MH  - Wearable Electronic Devices
+MH  - Cloud Computing
+PMC - PMC11280905
+OTO - NOTNLM
+OT  - IoT
+OT  - RADAR-base
+OT  - extensible
+OT  - gateway
+OT  - health
+OT  - mHealth
+OT  - remote monitoring
+OT  - research
+COIS- The authors declare no conflicts of interest.
+EDAT- 2024/07/27 10:45
+MHDA- 2024/07/28 14:53
+PMCR- 2024/07/16
+CRDT- 2024/07/27 01:29
+PHST- 2024/05/29 00:00 [received]
+PHST- 2024/07/11 00:00 [revised]
+PHST- 2024/07/13 00:00 [accepted]
+PHST- 2024/07/28 14:53 [medline]
+PHST- 2024/07/27 10:45 [pubmed]
+PHST- 2024/07/27 01:29 [entrez]
+PHST- 2024/07/16 00:00 [pmc-release]
+AID - s24144614 [pii]
+AID - sensors-24-04614 [pii]
+AID - 10.3390/s24144614 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2024 Jul 16;24(14):4614. doi: 10.3390/s24144614.
+
+PMID- 38732910
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240511
+LR  - 20240513
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 24
+IP  - 9
+DP  - 2024 Apr 27
+TI  - Developing a Novel Ontology for Cybersecurity in Internet of Medical 
+      Things-Enabled Remote Patient Monitoring.
+LID - 10.3390/s24092804 [doi]
+LID - 2804
+AB  - IoT has seen remarkable growth, particularly in healthcare, leading to the rise 
+      of IoMT. IoMT integrates medical devices for real-time data analysis and 
+      transmission but faces challenges in data security and interoperability. This 
+      research identifies a significant gap in the existing literature regarding a 
+      comprehensive ontology for vulnerabilities in medical IoT devices. This paper 
+      proposes a fundamental domain ontology named MIoT (Medical Internet of Things) 
+      ontology, focusing on cybersecurity in IoMT (Internet of Medical Things), 
+      particularly in remote patient monitoring settings. This research will refer to 
+      similar-looking acronyms, IoMT and MIoT ontology. It is important to distinguish 
+      between the two. IoMT is a collection of various medical devices and their 
+      applications within the research domain. On the other hand, MIoT ontology refers 
+      to the proposed ontology that defines various concepts, roles, and individuals. 
+      MIoT ontology utilizes the knowledge engineering methodology outlined in Ontology 
+      Development 101, along with the structured life cycle, and establishes semantic 
+      interoperability among medical devices to secure IoMT assets from vulnerabilities 
+      and cyberattacks. By defining key concepts and relationships, it becomes easier 
+      to understand and analyze the complex network of information within the IoMT. The 
+      MIoT ontology captures essential key terms and security-related entities for 
+      future extensions. A conceptual model is derived from the MIoT ontology and 
+      validated through a case study. Furthermore, this paper outlines a roadmap for 
+      future research, highlighting potential impacts on security automation in 
+      healthcare applications.
+FAU - Bughio, Kulsoom S
+AU  - Bughio KS
+AUID- ORCID: 0000-0003-4046-9578
+AD  - School of Science, Edith Cowan University, 270 Joondalup Dr, Joondalup, WA 6027, 
+      Australia.
+FAU - Cook, David M
+AU  - Cook DM
+AUID- ORCID: 0000-0002-2264-8719
+AD  - School of Science, Edith Cowan University, 270 Joondalup Dr, Joondalup, WA 6027, 
+      Australia.
+FAU - Shah, Syed Afaq A
+AU  - Shah SAA
+AUID- ORCID: 0000-0003-2181-8445
+AD  - School of Science, Edith Cowan University, 270 Joondalup Dr, Joondalup, WA 6027, 
+      Australia.
+LA  - eng
+GR  - HDR Funding for Publication/Edith Cowan University/
+PT  - Journal Article
+DEP - 20240427
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - *Computer Security
+MH  - *Internet of Things
+MH  - Humans
+MH  - Monitoring, Physiologic/methods/instrumentation
+MH  - Telemedicine/methods
+PMC - PMC11086146
+OTO - NOTNLM
+OT  - Internet of Medical Things (IoMT)
+OT  - MIoT (Medical Internet of Things) Ontology
+OT  - Web Ontology Language (OWL)
+OT  - description logic (DL)
+OT  - first-order logic (FOL)
+OT  - knowledge organization system (KOS)
+OT  - ontology development
+OT  - resource description framework (RDF)
+COIS- The authors declare no conflicts of interest.
+EDAT- 2024/05/11 19:44
+MHDA- 2024/05/11 19:45
+PMCR- 2024/04/27
+CRDT- 2024/05/11 01:15
+PHST- 2024/03/06 00:00 [received]
+PHST- 2024/04/04 00:00 [revised]
+PHST- 2024/04/23 00:00 [accepted]
+PHST- 2024/05/11 19:45 [medline]
+PHST- 2024/05/11 19:44 [pubmed]
+PHST- 2024/05/11 01:15 [entrez]
+PHST- 2024/04/27 00:00 [pmc-release]
+AID - s24092804 [pii]
+AID - sensors-24-02804 [pii]
+AID - 10.3390/s24092804 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2024 Apr 27;24(9):2804. doi: 10.3390/s24092804.
+
+PMID- 37485467
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231109
+IS  - 2574-2531 (Electronic)
+IS  - 2574-2531 (Linking)
+VI  - 6
+IP  - 3
+DP  - 2023 Oct
+TI  - CardinalKit: open-source standards-based, interoperable mobile development 
+      platform to help translate the promise of digital health.
+PG  - ooad044
+LID - 10.1093/jamiaopen/ooad044 [doi]
+LID - ooad044
+AB  - Smartphone devices capable of monitoring users' health, physiology, activity, and 
+      environment revolutionize care delivery, medical research, and remote patient 
+      monitoring. Such devices, laden with clinical-grade sensors and cloud 
+      connectivity, allow clinicians, researchers, and patients to monitor health 
+      longitudinally, passively, and persistently, shifting the paradigm of care and 
+      research from low-resolution, intermittent, and discrete to one of persistent, 
+      continuous, and high resolution. The collection, transmission, and storage of 
+      sensitive health data using mobile devices presents unique challenges that serve 
+      as significant barriers to entry for care providers and researchers alike. 
+      Compliance with standards like HIPAA and GDPR requires unique skills and 
+      practices. These requirements make off-the-shelf technologies insufficient for 
+      use in the digital health space. As a result, budget, timeline, talent, and 
+      resource constraints are the largest barriers to new digital technologies. The 
+      CardinalKit platform is an open-source project addressing these challenges by 
+      focusing on reducing these barriers and accelerating the innovation, adoption, 
+      and use of digital health technologies. CardinalKit provides a mobile template 
+      application and web dashboard to enable an interoperable foundation for 
+      developing digital health applications. We demonstrate the applicability of 
+      CardinalKit to a wide variety of digital health applications across 18 innovative 
+      digital health prototypes.
+CI  - © The Author(s) 2023. Published by Oxford University Press on behalf of the 
+      American Medical Informatics Association.
+FAU - Aalami, Oliver
+AU  - Aalami O
+AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
+      Alto, California, USA.
+FAU - Hittle, Mike
+AU  - Hittle M
+AD  - Department of Epidemiology, Stanford University School of Medicine, Palo Alto, 
+      California, USA.
+FAU - Ravi, Vishnu
+AU  - Ravi V
+AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
+      Alto, California, USA.
+FAU - Griffin, Ashley
+AU  - Griffin A
+AUID- ORCID: 0000-0002-1535-0797
+AD  - Department of Health Policy, Stanford University School of Medicine; VA Palo Alto 
+      Health Care System, Palo Alto, California, USA.
+FAU - Schmiedmayer, Paul
+AU  - Schmiedmayer P
+AUID- ORCID: 0000-0002-8607-9148
+AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
+      Alto, California, USA.
+FAU - Shenoy, Varun
+AU  - Shenoy V
+AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
+      Alto, California, USA.
+FAU - Gutierrez, Santiago
+AU  - Gutierrez S
+AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
+      Alto, California, USA.
+FAU - Venook, Ross
+AU  - Venook R
+AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
+      Alto, California, USA.
+LA  - eng
+GR  - T32 HL151323/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+DEP - 20230719
+PL  - United States
+TA  - JAMIA Open
+JT  - JAMIA open
+JID - 101730643
+PMC - PMC10356573
+OTO - NOTNLM
+OT  - android
+OT  - digital health
+OT  - iOS
+OT  - mobile app development
+OT  - open-source software
+COIS- None of the authors have a competing interest. The CardinalKit Framework is 
+      open-source and is being used for teaching digital health mobile app development 
+      and to support research and young enterprise digital health projects.
+EDAT- 2023/07/24 06:42
+MHDA- 2023/07/24 06:43
+PMCR- 2023/07/19
+CRDT- 2023/07/24 04:59
+PHST- 2022/06/28 00:00 [received]
+PHST- 2022/12/20 00:00 [revised]
+PHST- 2023/06/19 00:00 [accepted]
+PHST- 2023/07/24 06:43 [medline]
+PHST- 2023/07/24 06:42 [pubmed]
+PHST- 2023/07/24 04:59 [entrez]
+PHST- 2023/07/19 00:00 [pmc-release]
+AID - ooad044 [pii]
+AID - 10.1093/jamiaopen/ooad044 [doi]
+PST - epublish
+SO  - JAMIA Open. 2023 Jul 19;6(3):ooad044. doi: 10.1093/jamiaopen/ooad044. eCollection 
+      2023 Oct.
+
+PMID- 38440198
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240306
+IS  - 2673-253X (Electronic)
+IS  - 2673-253X (Linking)
+VI  - 6
+DP  - 2024
+TI  - Experiences, barriers and expectations regarding current patient monitoring 
+      systems among ICU nurses in a University Hospital in Lebanon: a qualitative 
+      study.
+PG  - 1259409
+LID - 10.3389/fdgth.2024.1259409 [doi]
+LID - 1259409
+AB  - PURPOSE: The aim of the study is to assess the experiences, barriers, and 
+      expectations regarding current patient monitoring systems among intensive care 
+      unit nurses at one university hospital. METHODS: A qualitative exploratory study 
+      approach was adopted to test the research questions. RESULTS: Intensive care unit 
+      personnel placed a high value on practical criteria such as user friendliness and 
+      visualization while assessing the present monitoring system. Poor alarm handling 
+      was recognized as possible patient safety hazards. The necessity of high 
+      accessibility was highlighted once again for a prospective system; wireless, 
+      noninvasive, and interoperability of monitoring devices were requested; and smart 
+      phones for distant patient monitoring and alert management improvement were 
+      required. CONCLUSION: Core comments from ICU personnel are included in this 
+      qualitative research on patient monitoring. All national healthcare involved 
+      parties must focus more on user-derived insights to ensure a speedy and effective 
+      introduction of digital health technologies in the ICU. The findings from the 
+      alarm control or mobile device studies might be utilized to train ICU personnel 
+      to use new technology, minimize alarm fatigue, increase medical device 
+      accessibility, and develop interoperability standards in critical care practice.
+CI  - © 2024 Rayan, Al-Ghabeesh, Fawaz, Behar and Toumi.
+FAU - Rayan, Ahmad
+AU  - Rayan A
+AD  - Faculty of Nursing, Zarqa University, Zarqa, Jordan.
+AD  - University of Business and Technology (UBT), Jeddah, Saudi Arabia.
+FAU - Al-Ghabeesh, Suhair H
+AU  - Al-Ghabeesh SH
+AD  - Faculty of Nursing, Al-Zaytoonah University of Jordan, Amman, Jordan.
+FAU - Fawaz, Mirna
+AU  - Fawaz M
+AD  - Department Faculty of Health Sciences, Beirut Arab University, Beirut, Lebanon.
+FAU - Behar, Amal
+AU  - Behar A
+AD  - Department Faculty of Health Sciences, Beirut Arab University, Beirut, Lebanon.
+FAU - Toumi, Amina
+AU  - Toumi A
+AD  - Health Information Management Department, Liwa College of Technology, Abu Dhabi, 
+      United Arab Emirates.
+LA  - eng
+PT  - Journal Article
+DEP - 20240219
+PL  - Switzerland
+TA  - Front Digit Health
+JT  - Frontiers in digital health
+JID - 101771889
+PMC - PMC10910027
+OTO - NOTNLM
+OT  - ICU nurses
+OT  - barriers
+OT  - expectations
+OT  - experiences
+OT  - monitoring systems
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2024/03/05 06:44
+MHDA- 2024/03/05 06:45
+PMCR- 2024/02/19
+CRDT- 2024/03/05 03:52
+PHST- 2023/08/10 00:00 [received]
+PHST- 2024/02/01 00:00 [accepted]
+PHST- 2024/03/05 06:45 [medline]
+PHST- 2024/03/05 06:44 [pubmed]
+PHST- 2024/03/05 03:52 [entrez]
+PHST- 2024/02/19 00:00 [pmc-release]
+AID - 10.3389/fdgth.2024.1259409 [doi]
+PST - epublish
+SO  - Front Digit Health. 2024 Feb 19;6:1259409. doi: 10.3389/fdgth.2024.1259409. 
+      eCollection 2024.
+
+PMID- 38269978
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240126
+LR  - 20240206
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 310
+DP  - 2024 Jan 25
+TI  - Fighting the Same Battles on a New Battleground: Embedding Technologies in a 
+      Virtual Care Environment.
+PG  - 1066-1070
+LID - 10.3233/SHTI231128 [doi]
+AB  - The pandemic necessitated the rapid design, development and implementation of 
+      technologies to allow remote monitoring of COVID-19 patients at home. This study 
+      aimed to explore the environmental barriers and facilitators to the successful 
+      development and implementation of virtual care technologies in this fast-paced 
+      context. We interviewed eight staff at a virtual hospital in Australia. We found 
+      key facilitators to be a learning organizational culture and strong leadership 
+      support. Barriers included interoperability issues, legislative constraints and 
+      unrealistic clinician expectations. Also, we found that a combination of 
+      hot-desking and the lack of single sign on in the virtual care environment, was 
+      reported to create additional work for staff. Overall, despite this unique 
+      context, our findings are consistent with prior work examining design and 
+      implementation of healthcare technologies. The fast pace and high-pressure 
+      environment appeared to magnify previously reported barriers, but also cultivate 
+      and foster a learning culture.
+FAU - Bamgboje-Ayodele, Adeola
+AU  - Bamgboje-Ayodele A
+AD  - Biomedical Informatics and Digital Health, School of Medical Sciences, Faculty of 
+      Medicine and Health, University of Sydney, Australia.
+FAU - Boscolo, Adrian
+AU  - Boscolo A
+AD  - Sydney Local Health District, Australia.
+FAU - Hutchings, Owen
+AU  - Hutchings O
+AD  - Sydney Local Health District, Australia.
+FAU - Shaw, Miranda
+AU  - Shaw M
+AD  - Sydney Local Health District, Australia.
+FAU - Burger, Mitchell
+AU  - Burger M
+AD  - Sydney Local Health District, Australia.
+FAU - Taggart, Richard
+AU  - Taggart R
+AD  - Sydney Local Health District, Australia.
+FAU - Simpson, Mark
+AU  - Simpson M
+AD  - eHealth New South Wales, Australia.
+FAU - Shaw, Tim
+AU  - Shaw T
+AD  - Biomedical Informatics and Digital Health, School of Medical Sciences, Faculty of 
+      Medicine and Health, University of Sydney, Australia.
+FAU - McPhail, Steven
+AU  - McPhail S
+AD  - Australian Centre for Health Services Innovation, Queensland University of 
+      Technology, Brisbane, Australia.
+FAU - Baysari, Melissa T
+AU  - Baysari MT
+AD  - Biomedical Informatics and Digital Health, School of Medical Sciences, Faculty of 
+      Medicine and Health, University of Sydney, Australia.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - Humans
+MH  - Australia
+MH  - *COVID-19
+MH  - Health Facilities
+MH  - Hospitals
+MH  - Leadership
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Health informatics
+OT  - implementation
+OT  - virtual care
+EDAT- 2024/01/25 06:43
+MHDA- 2024/01/26 06:43
+CRDT- 2024/01/25 05:51
+PHST- 2024/01/26 06:43 [medline]
+PHST- 2024/01/25 06:43 [pubmed]
+PHST- 2024/01/25 05:51 [entrez]
+AID - SHTI231128 [pii]
+AID - 10.3233/SHTI231128 [doi]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2024 Jan 25;310:1066-1070. doi: 10.3233/SHTI231128.
+
+PMID- 32604851
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210323
+LR  - 20210323
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 20
+IP  - 12
+DP  - 2020 Jun 26
+TI  - Towards a Secure Thermal-Energy Aware Routing Protocol in Wireless Body Area 
+      Network Based on Blockchain Technology.
+LID - 10.3390/s20123604 [doi]
+LID - 3604
+AB  - The emergence of biomedical sensor devices, wireless communication, and 
+      innovation in other technologies for healthcare applications result in the 
+      evolution of a new area of research that is termed as Wireless Body Area Networks 
+      (WBANs). WBAN originates from Wireless Sensor Networks (WSNs), which are used for 
+      implementing many healthcare systems integrated with networks and wireless 
+      devices to ensure remote healthcare monitoring. WBAN is a network of wearable 
+      devices implanted in or on the human body. The main aim of WBAN is to collect the 
+      human vital signs/physiological data (like ECG, body temperature, EMG, glucose 
+      level, etc.) round-the-clock from patients that demand secure, optimal and 
+      efficient routing techniques. The efficient, secure, and reliable designing of 
+      routing protocol is a difficult task in WBAN due to its diverse characteristic 
+      and restraints, such as energy consumption and temperature-rise of implanted 
+      sensors. The two significant constraints, overheating of nodes and energy 
+      efficiency must be taken into account while designing a reliable 
+      blockchain-enabled WBAN routing protocol. The purpose of this study is to achieve 
+      stability and efficiency in the routing of WBAN through managing temperature and 
+      energy limitations. Moreover, the blockchain provides security, transparency, and 
+      lightweight solution for the interoperability of physiological data with other 
+      medical personnel in the healthcare ecosystem. In this research work, the 
+      blockchain-based Adaptive Thermal-/Energy-Aware Routing (ATEAR) protocol for WBAN 
+      is proposed. Temperature rise, energy consumption, and throughput are the 
+      evaluation metrics considered to analyze the performance of ATEAR for data 
+      transmission. In contrast, transaction throughput, latency, and resource 
+      utilization are used to investigate the outcome of the blockchain system. 
+      Hyperledger Caliper, a benchmarking tool, is used to evaluate the performance of 
+      the blockchain system in terms of CPU utilization, memory, and memory 
+      utilization. The results show that by preserving residual energy and avoiding 
+      overheated nodes as forwarders, high throughput is achieved with the ultimate 
+      increase of the network lifetime. Castalia, a simulation tool, is used to 
+      evaluate the performance of the proposed protocol, and its comparison is made 
+      with Multipath Ring Routing Protocol (MRRP), thermal-aware routing algorithm 
+      (TARA), and Shortest-Hop (SHR). Evaluation results illustrate that the proposed 
+      protocol performs significantly better in balancing of temperature (to avoid 
+      damaging heat effect on the body tissues) and energy consumption (to prevent the 
+      replacement of battery and to increase the embedded sensor node life) with 
+      efficient data transmission achieving a high throughput value.
+FAU - Shahbazi, Zeinab
+AU  - Shahbazi Z
+AD  - Department of Computer Engineering, Jeju National University, Jejusi 63243, Jeju 
+      Special Self-Governing, Korea.
+FAU - Byun, Yung-Cheol
+AU  - Byun YC
+AD  - Department of Computer Engineering, Jeju National University, Jejusi 63243, Jeju 
+      Special Self-Governing, Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20200626
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - Algorithms
+MH  - *Blockchain
+MH  - Computer Communication Networks
+MH  - Humans
+MH  - Monitoring, Physiologic/*instrumentation
+MH  - *Wireless Technology
+PMC - PMC7349352
+OTO - NOTNLM
+OT  - blockchain
+OT  - implanted sensors
+OT  - internet of things
+OT  - smart contract
+OT  - thermal/energy-aware routing protocol
+COIS- The authors declare that there is no conflict of interest regarding the 
+      publication of this paper.
+EDAT- 2020/07/02 06:00
+MHDA- 2021/03/24 06:00
+PMCR- 2020/06/01
+CRDT- 2020/07/02 06:00
+PHST- 2020/04/22 00:00 [received]
+PHST- 2020/06/21 00:00 [revised]
+PHST- 2020/06/22 00:00 [accepted]
+PHST- 2020/07/02 06:00 [entrez]
+PHST- 2020/07/02 06:00 [pubmed]
+PHST- 2021/03/24 06:00 [medline]
+PHST- 2020/06/01 00:00 [pmc-release]
+AID - s20123604 [pii]
+AID - sensors-20-03604 [pii]
+AID - 10.3390/s20123604 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2020 Jun 26;20(12):3604. doi: 10.3390/s20123604.

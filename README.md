@@ -4,16 +4,19 @@
 This repository contains resources, data, and code for a systematic review of telemonitoring and wearable devices in healthcare, focusing on studies from 2020 onwards. The review follows the PRISMA guidelines to ensure a robust and transparent methodology.
 
 ## Repository Structure
-- **/data**: Contains the raw and cleaned datasets from the literature search.
+- **/data**: Contains the raw and processed datasets from the literature search.
   - `/raw`: Raw exported data from PubMed, Scopus, Embase, and IEEE Xplore.
-  - `/cleaned`: Data after deduplication.
+  - `/processed`: Parsed and deduplicated data ready for analysis.
   
 - **/code**: Python scripts for processing and analyzing the datasets.
+  - `parsers/ris_parser.py`: Parser for RIS format files.
+  - `parsers/nbib_parser.py`: Parser for NBIB format files.
   - `deduplication.py`: Script for removing duplicate records using Dedupe.
-  - `analysis.py`: Script for analyzing the data.
-  
-- **/notebooks**: Jupyter notebooks for reproducing the analysis.
-  - `analysis_notebook.ipynb`: Walkthrough of the analysis and data visualization.
+  - `analysis.py`: Script for performing data analysis.
+
+- **/notebooks**: Jupyter notebooks for reproducing the analysis and exploring the data.
+  - `parsers.ipynb`: Notebook demonstrating the parsing of RIS and NBIB files.
+  - `analysis_notebook.ipynb`: Walkthrough of the data analysis and visualization.
 
 - **/docs**: Supporting documents related to the review process.
   - `PRISMA_flowchart.png`: PRISMA flowchart showing the study selection process.
@@ -27,25 +30,39 @@ This repository contains resources, data, and code for a systematic review of te
    cd telemonitoring-wearable-devices-review
    ```
 
-2. **Install Dependencies**:
+2. **Set Up the Environment**:
+   Create and activate the virtual environment:
+   ```bash
+   python3 -m venv telemonitoring
+   source telemonitoring/bin/activate
+   ```
+
+3. **Install Dependencies**:
    Install the required Python packages:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Deduplicate the Data**:
+4. **Parse the Data**:
+   Use the provided parsers to process RIS and NBIB files:
+   ```bash
+   python code/parsers/ris_parser.py
+   python code/parsers/nbib_parser.py
+   ```
+
+5. **Deduplicate the Data**:
    Run the deduplication script to clean the dataset:
    ```bash
    python code/deduplication.py
    ```
 
-4. **Run the Analysis**:
+6. **Run the Analysis**:
    Perform the analysis using the following command:
    ```bash
    python code/analysis.py
    ```
 
-5. **Reproduce the Analysis**:
+7. **Reproduce the Analysis**:
    Open the Jupyter notebook to see the step-by-step analysis and results:
    ```bash
    jupyter notebook notebooks/analysis_notebook.ipynb
