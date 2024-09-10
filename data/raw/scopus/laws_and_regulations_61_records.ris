@@ -1,0 +1,2994 @@
+﻿TY  - JOUR
+AU  - Nagasamy Venkatesh, D.
+AU  - Muthupranesh, K.
+TI  - A Review of the Impact of Cybersecurity in High-risk Medical Devices And In-vitro Medical Devices All Over The World
+PY  - 2023
+T2  - Biomedical and Pharmacology Journal
+VL  - 16
+IS  - 3
+SP  - 1263
+EP  - 1270
+DO  - 10.13005/bpj/2707
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174924474&doi=10.13005%2fbpj%2f2707&partnerID=40&md5=a80e2c34241e05f60c5180ecf14b40cf
+AB  - In modern healthcare systems, medical devices are playing a major role which involves personalized medical devices which improve the patient's lifestyle as they can be remotely monitored and their data are transmissible. Due to these data transmissions, the number of connections to the existing computer networks is increased. Being interoperable and interconnected these personalized medical devices provide great benefits like improved sensing capabilities and actuating capabilities. But the problem with high connectivity computer networks is that it exposes medical device to high cybersecurity vulnerabilities. The main targets are the pacemakers and institutions like hospitals and clinics. Hackers can easily hack medical devices and change prescriptions. So a cybersecurity breach can leak a patient's sensitive and confidential data and risk the patient's life. To prevent these multifaceted problems from happening these problems must be viewed from a systematic perspective and requires governance, technical controls, regulation, and standards. Published by Oriental Scientific Publishing Company  © 2023 Oriental Scientific Publishing Company. All rights reserved.
+KW  - Confidentiality
+KW  - Cyberattack
+KW  - Cybersecurity
+KW  - Informed consent
+KW  - Medical devices
+KW  - Remote monitoring
+KW  - Article
+KW  - bandwidth
+KW  - computer security
+KW  - confidential information
+KW  - cyberattack
+KW  - data privacy
+KW  - defense mechanism
+KW  - electromagnetism
+KW  - encapsulation
+KW  - encryption
+KW  - health care quality
+KW  - health care system
+KW  - human
+KW  - information processing
+KW  - lifestyle
+KW  - radiofrequency
+KW  - remote sensing
+KW  - security
+KW  - vulnerability
+KW  - wireless communication
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Mahadik, S.S.
+AU  - Pawar, P.M.
+AU  - Muthalagu, R.
+AU  - Prasad, N.R.
+AU  - Hawkins, S.-K.
+AU  - Stripelis, D.
+AU  - Rao, S.
+AU  - Ejim, P.
+AU  - Hecht, B.
+TI  - Digital Privacy in Healthcare: State-of-the-Art and Future Vision
+PY  - 2024
+T2  - IEEE Access
+VL  - 12
+SP  - 84273
+EP  - 84291
+DO  - 10.1109/ACCESS.2024.3410035
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195397667&doi=10.1109%2fACCESS.2024.3410035&partnerID=40&md5=9e5ebde15bb85fe60b409edcc8ad20f7
+AB  - The article draws inspiration from IEEE Digital Privacy, which explores attaining privacy goals for individuals in the digital realm. Privacy is an umbrella term that equates to respect for an individual's dignity. When it integrates with digital technology, it alludes to individuals' right and authority to control the flow of their personally identifiable information (PII) on the digital platform. Adopting digital technology in healthcare is not novel, but the COVID-19 outbreak has accelerated its incorporation into healthcare. Digital technology perks a wide range of healthcare professions, including biomedicine, diagnostic imaging, and remote patient monitoring, to mention a few, through facilitating accurate and effective health-related decisions. Thanks to technological advancements, healthcare professionals and other medical personnel are now quickly accessing and retaining patient information, which aids in scouring for optimal and swiftly acted-upon medications. While the technology's inception is positive, it raised privacy issues for patients' PII and other sensitive health data that remain intact. The review article addresses the key challenges in digital privacy for healthcare while also reviewing the state-of-the-art work by investigating data encryption techniques, access control mechanisms, and risk assessment techniques with digital privacy as a primary concern. Every country has enacted resilient laws and regulations to protect digital privacy in healthcare, which are briefed in the article. Artificial intelligence (AI) has proven valuable in cybersecurity and healthcare technology growth. As a result, the article delves into the hurdles of employing AI for healthcare digital privacy and cutting-edge work in healthcare digital privacy using AI. Finally, the article concludes with a future vision of data privacy in healthcare.  © 2013 IEEE.
+KW  - artificial intelligence
+KW  - challenges
+KW  - data privacy
+KW  - Digital privacy
+KW  - healthcare
+KW  - Access control
+KW  - Artificial intelligence
+KW  - Cryptography
+KW  - Diagnosis
+KW  - Health care
+KW  - Laws and legislation
+KW  - Risk assessment
+KW  - Sensitive data
+KW  - Challenge
+KW  - Digital privacy
+KW  - Digital technologies
+KW  - Healthcare
+KW  - Law
+KW  - Medical services
+KW  - Privacy
+KW  - Regulation
+KW  - Social networking (online)
+KW  - Web-sites
+KW  - Social networking (online)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Panicacci, S.
+AU  - Donati, M.
+AU  - Ruiu, A.
+AU  - Lubrano, A.
+AU  - Olivelli, M.
+AU  - Saponara, S.
+AU  - Fanucci, L.
+TI  - Leveraging from the SatNav E@syCare Experience in COVID-19 Pandemic Towards an Extensive Use of Telemedicine in Chronic Patients Long-Term Care Model
+PY  - 2022
+T2  - Lecture Notes in Bioengineering
+SP  - 16
+EP  - 24
+DO  - 10.1007/978-3-031-16855-0_3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85140755596&doi=10.1007%2f978-3-031-16855-0_3&partnerID=40&md5=57383a8f0eee70389720082eea96cb01
+AB  - The current COVID-19 pandemic has accelerated the use of digital technologies, in all sectors and in particular in healthcare. In this scenario, in fact, telemedicine systems have been adopted to remotely monitor and manage infected patients or patients subjected to quarantine regulations. In Tuscany region, Italy, SatNav E@syCare, a telemonitoring platform resulted from the integration of E@syCare, designed for chronic patients, and satellite technologies, has been experimented, receiving positive feedback both from doctors and patients. Such a system could be used also in long-term care, for monitoring chronic patients, providing characterisation and customisation of medical devices according to the patients’ chronic conditions and implementing an expert system, which generates personalised monitoring and treatment plans, to support physicians at the moment of enrolment. The pandemic experience could then be a lesson learnt promoting the adoption of smart telemedicine platforms for the care of chronic patients. © 2022, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Chronic patients
+KW  - Covid-19
+KW  - Long-term care
+KW  - Satnav easycare
+KW  - Telemedicine platform
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - CHAP
+AU  - Tahir, S.
+AU  - Li, Y.
+AU  - Barati, M.
+AU  - Rana, O.
+AU  - Ranjan, R.
+AU  - Aujla, G.S.
+AU  - Duodu, K.A.
+TI  - Privacy challenges for Internet of Medical Things
+PY  - 2024
+T2  - Managing Internet of Things Applications across Edge and Cloud Data Centres
+SP  - 223
+EP  - 238
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197719947&partnerID=40&md5=5a6a55ddaf4124d4c70c4d4ba10ef74f
+AB  - The Internet of Medical Things (IoMT) can be used to support the remote monitoring of patients using communication and sensing technologies. Security and privacy concerns in IoMT related to patient data are important issues for regulatory bodies, requiring the formulating and implementing laws that protect patients. The European General Data Protection Regulation (GDPR) provides a number of data protection rules that make it easier for citizens to know how their information is being used by external data processors. Citizens can raise complaints to the relevant legal authorities in case of a violation. GDPR Art. 5 imposes lawfulness, fairness, and transparency of data access as requirements that need to be met by a data processor. Medical data is sensitive and the existing healthcare ecosystem often lacks a secure architecture, that can lead to potential data breaches with consequences for both patients and healthcare providers. In this chapter, a multi-layered blockchain-based GDPR compliance verification technique is outlined as a solution for carrying out a privacy audit on how a patient's data has been handled. The multi-layer architecture includes medical sensors, gateways, edge devices, and cloud systems that need to work collectively to offer efficient and secure services to patients. To verify GDPR compliance, a blockchain-based provenance log is integrated with edge devices and cloud systems. A blockchain can be used to record various data activities at the different layers specified above and can be used to verify GDPR compliance. © The Institution of Engineering and Technology 2024.
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Gnanenthiran, S.R.
+AU  - Tan, I.
+AU  - Atkins, E.R.
+AU  - Avolio, A.
+AU  - Bennett, B.
+AU  - Chapman, N.
+AU  - Chow, C.K.
+AU  - Freed, R.
+AU  - Gnjidic, D.
+AU  - Hespe, C.
+AU  - Kaur, B.
+AU  - Liu, H.M.
+AU  - Patel, A.
+AU  - Peiris, D.
+AU  - Reid, C.M.
+AU  - Schlaich, M.
+AU  - Sharman, J.E.
+AU  - Stergiou, G.S.
+AU  - Usherwood, T.
+AU  - Gianacas, C.
+AU  - Rodgers, A.
+AU  - Schutte, A.E.
+TI  - Transforming blood pressure control in primary care through a novel remote decision support strategy based on wearable blood pressure monitoring: The NEXTGEN-BP randomized trial protocol
+PY  - 2023
+T2  - American Heart Journal
+VL  - 265
+SP  - 50
+EP  - 58
+DO  - 10.1016/j.ahj.2023.07.005
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165633614&doi=10.1016%2fj.ahj.2023.07.005&partnerID=40&md5=e08c99d9dfd610459d9734a484b954f0
+AB  - Background: Despite high blood pressure being the leading preventable risk factor for death, only 1 in 3 patients achieve target blood pressure control. Key contributors to this problem are clinical inertia and uncertainties in relying on clinic blood pressure measurements to make treatment decisions. Methods: The NEXTGEN-BP open-label, multicenter, randomized controlled trial will investigate the efficacy, safety, acceptability and cost-effectiveness of a wearable blood pressure monitor-based care strategy for the treatment of hypertension, compared to usual care, in lowering clinic blood pressure over 12 months. NEXTGEN-BP will enroll 600 adults with high blood pressure, treated with 0 to 2 antihypertensive medications. Participants attending primary care practices in Australia will be randomized 1:1 to the intervention of a wearable-based remote care strategy or to usual care. Participants in the intervention arm will undergo continuous blood pressure monitoring using a wrist-wearable cuffless device (Aktiia, Switzerland) and participate in 2 telehealth consultations with their primary care practitioner (general practitioner [GP]) at months 1 and 2. Antihypertensive medication will be up-titrated by the primary care practitioner at the time of telehealth consults should the percentage of daytime blood pressure at target over the past week be <90%, if clinically tolerated. Participants in the usual care arm will have primary care consultations according to usual practice. The primary outcome is the difference between intervention and control in change in clinic systolic blood pressure from baseline to 12 months. Secondary outcomes will be assessed at month 3 and month 12, and include acceptability to patients and practitioners, cost-effectiveness, safety, medication adherence and patient engagement. Conclusions: NEXTGEN-BP will provide evidence for the effectiveness and safety of a new paradigm of wearable cuffless monitoring in the management of high blood pressure in primary care. Trial Registration: ACTRN12622001583730. © 2023 The Authors
+KW  - Adult
+KW  - Antihypertensive Agents
+KW  - Blood Pressure
+KW  - Humans
+KW  - Hypertension
+KW  - Multicenter Studies as Topic
+KW  - Primary Health Care
+KW  - Randomized Controlled Trials as Topic
+KW  - Wearable Electronic Devices
+KW  - antihypertensive agent
+KW  - antihypertensive agent
+KW  - adult
+KW  - Article
+KW  - blood pressure measurement
+KW  - blood pressure monitoring
+KW  - blood pressure regulation
+KW  - clinical decision making
+KW  - consultation
+KW  - controlled study
+KW  - cost effectiveness analysis
+KW  - decision support system
+KW  - drug efficacy
+KW  - drug safety
+KW  - drug withdrawal
+KW  - economic evaluation
+KW  - female
+KW  - global health
+KW  - human
+KW  - hypertension
+KW  - Internet
+KW  - major clinical study
+KW  - male
+KW  - medication compliance
+KW  - monotherapy
+KW  - multicenter study
+KW  - patient compliance
+KW  - patient engagement
+KW  - prescription
+KW  - primary medical care
+KW  - quality adjusted life year
+KW  - randomized controlled trial
+KW  - shared decision making
+KW  - systolic blood pressure
+KW  - telehealth
+KW  - telemonitoring
+KW  - unspecified side effect
+KW  - blood pressure
+KW  - hypertension
+KW  - multicenter study (topic)
+KW  - physiology
+KW  - primary health care
+KW  - procedures
+KW  - randomized controlled trial (topic)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Jiang, W.
+AU  - Zhao, W.
+AU  - Deng, L.
+AU  - Zhou, T.
+AU  - Qiu, T.
+TI  - Research on theoretical and experimental investigations of burr formation mechanism in micro-milling process of medical ploy-L-lactide
+PY  - 2024
+T2  - Journal of Manufacturing Processes
+VL  - 117
+SP  - 1
+EP  - 13
+DO  - 10.1016/j.jmapro.2024.02.067
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186768029&doi=10.1016%2fj.jmapro.2024.02.067&partnerID=40&md5=5875650a43ed6a87ceaa8ede879254e2
+AB  - Medical grade poly-L-lactide (PLLA) has been widely applied for medical devices and consumables, e.g. biodegradable cardiovascular stents and surgical thread, due to its excellent biocompatibility. High-speed micro-milling technology shows great potential in high-precision and high-quality manufacturing of material PLLA, while it usually produces problems such as material burrs and defects. There is few research and analysis on the material removal mechanism and theory in the micro-milling process of polymers, and thus this paper aims to investigate the burr formation mechanism and processing quality in micro-milling process of medical PLLA. Firstly, a novel thermal-mechanical coupled theoretical model was proposed by considering the minimum cutting thickness and cutting-edge radius size effects, which can reveal the plastic flow law during micro-milling process of polymer material. This model was used to calculate the burr width at up and down milling sides of cutting area. Then material characterization and micro-milling experiments on two types of PLLA with different molecular weights were carried out to validate the established theoretical model, and further the micro-milling parameters were optimized to achieve the control of material burr formation and growth. As a result, a cardiovascular stent was fabricated by micro-milling with the optimized parameters (spindle speed of 25,000 rpm, feed rate of 100 mm/min and axial depth of cut of 5 μm), and the stents obtained significantly high surface quality. These results suggest that the proposed theoretical model has great advantages in the high-quality micro-milling of medical material PLLA. This work provides a potential stent manufacture technique in the development and clinical application of bioresorbable polymeric stents. © 2024 The Society of Manufacturing Engineers
+KW  - Burr
+KW  - Micro-milling
+KW  - Poly-L-lactide (PLLA)
+KW  - Surface quality
+KW  - Theoretical model
+KW  - Biocompatibility
+KW  - Functional polymers
+KW  - Milling (machining)
+KW  - Quality control
+KW  - Stents
+KW  - Burr
+KW  - Burr formation
+KW  - Cardiovascular stents
+KW  - Formation mechanism
+KW  - High quality
+KW  - Micro milling
+KW  - Milling process
+KW  - Poly (l-lactide)
+KW  - Poly-L-lactide
+KW  - Theoretical modeling
+KW  - Surface properties
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Long, N.M.H.
+AU  - Chung, W.-Y.
+TI  - Wearable Wrist Photoplethysmography for Optimal Monitoring of Vital Signs: A Unified Perspective on Pulse Waveforms
+PY  - 2022
+T2  - IEEE Photonics Journal
+VL  - 14
+IS  - 2
+C7  - 3717717
+DO  - 10.1109/JPHOT.2022.3153506
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85125333032&doi=10.1109%2fJPHOT.2022.3153506&partnerID=40&md5=7cbff8dd8ccf81b34c4f2a828cfb830a
+AB  - To track vital signs on the wrist, a wearable system, named WrisTee, has been developed for remote health monitoring. Using three optical sensors with four light sources, WrisTee allows users to measure 12 photoplethysmogram (PPG) signals at three locations on the radial artery. Two types of PPG signals with opposite polarities were discovered and designated as in-phase and invert-phase signals. We provided a unified viewpoint regarding their differences based on the Beer $-$ Lambert law, and showed that both signals can be used for heart monitoring using data analyzed from a selected subject. Using reflective pulse-transition time (R-PTT) and the standard deviation of R-PTT ($\sigma _{R\text{-}PTT}$), we proposed a method for selecting the optimal wavelength to achieve the best quality signal, thus minimizing storage requirements, power resources, and computational costs. We conducted an experiment on ten subjects to evaluate the feasibility of the proposed method. Our results demonstrated that WrisTee is capable of finding the optimal positions and wavelengths for monitoring vital signs. To automatically detect the PPG phases, six machine learning (ML) models were explored to assess their accuracy for PPG-phase classification. The experimental results show that a convolutional neural network can be the best candidate for phase classification. Hence, it can be integrated into WrisTee for noninvasive health monitoring such as heart rate, heart rate variability, or blood pressure. Our work paves a new direction in bio-signal medical researches by adopting in-phase and invert-phase PPGs for healthcare monitoring. © 2009-2012 IEEE.
+KW  - Blood pressure
+KW  - in-phase
+KW  - invert-phase
+KW  - machine learning
+KW  - multi-wavelength
+KW  - photoplethysmogrpahy
+KW  - pulse transition time
+KW  - vital signs
+KW  - wearable
+KW  - Blood pressure
+KW  - Digital storage
+KW  - Heart
+KW  - Light sources
+KW  - Neural networks
+KW  - Patient monitoring
+KW  - In-phase
+KW  - Invert-phase
+KW  - Multiwavelength
+KW  - Optimal wavelength
+KW  - Phase classification
+KW  - Photoplethysmogram
+KW  - Photoplethysmogrpahy
+KW  - Pulse transition time
+KW  - Transition time
+KW  - Vital sign
+KW  - Wearable technology
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Zhang, X.
+AU  - Liang, S.
+AU  - Li, F.
+AU  - Ding, H.
+AU  - Ding, L.
+AU  - Bai, Y.
+AU  - Zhang, L.
+TI  - Flexible Strain-Sensitive Sensors Assembled from Mussel-inspired Hydrogel with Tunable Mechanical Properties and Wide Temperature Tolerance in Multiple Application Scenarios
+PY  - 2023
+T2  - ACS Applied Materials and Interfaces
+VL  - 15
+IS  - 43
+SP  - 50400
+EP  - 50412
+DO  - 10.1021/acsami.3c12735
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175741127&doi=10.1021%2facsami.3c12735&partnerID=40&md5=f863d4c8b40d1370e46b6b4800edb5c7
+AB  - Conductive hydrogels, exhibiting wide applications in electronic skins and soft wearable sensors, often require maturely regulating of the hydrogel mechanical properties to meet specific demands and work for a long-term or under extreme environment. However, in situ regulation of the mechanical properties of hydrogels is still a challenge, and regular conductive hydrogels will inevitably freeze at subzero temperature and easily dehydrate, which leads to a short service life. Herein, a novel adhesive hydrogel (PAA-Dopa-Zr4+) capable of strain sensing is proposed with antifreezing, nondrying, strong surface adhesion, and tunable mechanical properties. 3,4-Dihydroxyphenyl-l-alanine (l-Dopa)-grafted poly(acrylic acid) (PAA) and Zr4+ ion are introduced into the hydrogel, which broadly alters the mechanical properties via tuning the in situ aggregation state of polymer chains by ions based on the complexation effect. The catechol groups of l-Dopa and viscous glucose endow the hydrogel with high adhesiveness for skin and device interface (including humid and dry environments) and exhibit an outstanding temperature tolerance under extreme wide temperature spectrum (−35 to 65 °C) or long-lasting moisture retention (60 days). Furthermore, this PAA-Dopa-Zr4+ can be assembled as a flexible strain-sensitive sensor to detect human motions based on specific mechanical properties requirements. This work, enabling superior adhesive and temperature tolerance performance and broad mechanical tenability, presents a new paradigm for numerous applications to wearable sensing and personalized healthcare monitoring. © 2023 American Chemical Society
+KW  - adhesive hydrogel
+KW  - extreme temperature tolerance
+KW  - mussel-inspired
+KW  - soft wearable materials
+KW  - tunable mechanical properties
+KW  - Adhesiveness
+KW  - Alanine
+KW  - Electric Conductivity
+KW  - Humans
+KW  - Hydrogels
+KW  - Levodopa
+KW  - Temperature
+KW  - Adhesives
+KW  - Fits and tolerances
+KW  - Molluscs
+KW  - Strain
+KW  - Wearable sensors
+KW  - alanine
+KW  - hydrogel
+KW  - levodopa
+KW  - Adhesive hydrogels
+KW  - Extreme temperature tolerance
+KW  - Extreme temperatures
+KW  - Mussel-inspired
+KW  - Sensitive sensors
+KW  - Soft wearable material
+KW  - Temperature tolerance
+KW  - Tunable mechanical property
+KW  - Tunables
+KW  - Wearable materials
+KW  - adhesion
+KW  - electric conductivity
+KW  - human
+KW  - temperature
+KW  - Hydrogels
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Kshetri, N.
+AU  - Mishra, R.
+AU  - Rahman, M.M.
+AU  - Steigner, T.
+TI  - HNMblock: Blockchain Technology Powered Healthcare Network Model for Epidemiological Monitoring, Medical Systems Security, and Wellness
+PY  - 2024
+T2  - 12th International Symposium on Digital Forensics and Security, ISDFS 2024
+DO  - 10.1109/ISDFS60797.2024.10527226
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194033401&doi=10.1109%2fISDFS60797.2024.10527226&partnerID=40&md5=041c922a69ecf759225ecac27a244cd4
+AB  - In the ever-evolving healthcare sector, the widespread adoption of Internet of Things and wearable technologies facilitates remote patient monitoring. However, the existing client/server infrastructure poses significant security and privacy challenges, necessitating strict adherence to healthcare data regulations. To combat these issues, a decentralized approach is imperative, and blockchain technology emerges as a compelling solution for strengthening Internet of Things and medical systems security. This paper introduces HNMblock, a model that elevates the realms of epidemiological monitoring, medical system security, and wellness enhancement. By harnessing the transparency and immutability inherent in blockchain, HNMblock empowers real-time, tamper-proof tracking of epidemiological data, enabling swift responses to disease outbreaks. Furthermore, it fortifies the security of medical systems through advanced cryptographic techniques and smart contracts, with a paramount focus on safeguarding patient privacy. HNMblock also fosters personalized health care, encouraging patient involvement and data-informed decision-making. The integration of blockchain within the healthcare domain, as exemplified by HNMblock, holds the potential to revolutionize data management, epidemiological surveillance, and wellness, as meticulously explored in this research article.  © 2024 IEEE.
+KW  - Data privacy
+KW  - health care
+KW  - medical security
+KW  - patient monitoring
+KW  - tamper-proof
+KW  - Data privacy
+KW  - Decision making
+KW  - Health care
+KW  - Information management
+KW  - Internet of things
+KW  - Network security
+KW  - Patient monitoring
+KW  - Wearable technology
+KW  - Block-chain
+KW  - Client /server
+KW  - Healthcare sectors
+KW  - Medical security
+KW  - Medical systems
+KW  - Network models
+KW  - Security and privacy
+KW  - Server infrastructure
+KW  - System security
+KW  - Tamperproof
+KW  - Blockchain
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - An, X.
+AU  - Wang, Y.
+TI  - Smart wearable medical devices for Isometric Contraction of muscles and joint tracking with gyro sensors for elderly people
+PY  - 2021
+T2  - Journal of Ambient Intelligence and Humanized Computing
+DO  - 10.1007/s12652-021-02993-5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103413444&doi=10.1007%2fs12652-021-02993-5&partnerID=40&md5=59874f2d4ca901a99b0b6780d375e55a
+AB  - People with a healthy lifestyle modulate cycles of stimulation through posture and social factors. In general, muscle activation is generally controlled by exoskeleton patterns, mainly personal muscle control during voluntary movement. Therefore, a survey suggested that Persons with nervous system disorders and older people cannot modulate their muscle activity rhythm and have issues with movement control. Hence, this study concentrates on Linear Quadratic Estimation Hybridised Computer Algorithm (LQE-HC) to detect the muscles’ behaviour method using accelerometers to find joints’ angular speed. Remote monitoring can give valuable data on the regular exercise level and functional potential of individuals. Furthermore, a low drift in the observed speed leads to a longer integration error. Supplementary data from gyroscopes are normally fused with the Linear Quadratic Estimation (LQE). A computer algorithm structurally measures instructions to a wearable device to conduct an optimal muscle stimulation sequence inducted for goal muscle powers. This article introduces a basic principle, conceptual description, and method for the human muscular force regulation and its adaptation to a motor system with upper extremity exoskeleton-type wearable devices. © 2021, The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature.
+KW  - Accelerometers
+KW  - Exoskeleton
+KW  - Joint movement
+KW  - Linear Quadratic Estimation (LQE)
+KW  - Muscle contraction
+KW  - Wearable devices
+KW  - Exoskeleton (Robotics)
+KW  - Gyroscopes
+KW  - Wearable sensors
+KW  - Healthy lifestyles
+KW  - Integration error
+KW  - Isometric contractions
+KW  - Muscle activation
+KW  - Muscle stimulation
+KW  - Remote monitoring
+KW  - Supplementary data
+KW  - Voluntary movement
+KW  - Muscle
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Zha, B.
+AU  - Wang, Z.
+AU  - Ma, L.
+AU  - Chen, J.
+AU  - Wang, H.
+AU  - Li, X.
+AU  - Kumar, S.
+AU  - Min, R.
+TI  - Intelligent Wearable Photonic Sensing System for Remote Healthcare Monitoring Using Stretchable Elastomer Optical Fiber
+PY  - 2024
+T2  - IEEE Internet of Things Journal
+VL  - 11
+IS  - 10
+SP  - 17317
+EP  - 17329
+DO  - 10.1109/JIOT.2024.3356574
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85183669034&doi=10.1109%2fJIOT.2024.3356574&partnerID=40&md5=91b7335eabca5806cf73e98dfc573d3b
+AB  - Medical Internet of Things technology can effectively enable remote physiological data collection, monitoring, and transmission by integrating flexible sensors, wireless communication, and the human body in a wearable and embedded manner. Herein, a stretchable elastomer optical fiber has been developed and sandwiched with two performance of polymethyl methacrylate optical fibers to form a fully flexible polymer optical fiber sensor. The optical fiber integrated with the system mainly consists of a microcomputer, a light-emitting diode (LED) driver, a LED light source, a photodiode, and a Bluetooth module. One intelligent wearable photonic sensing system has been developed based on the Beer-Lambert law of the stretchable elastomer optical fiber for remote healthcare monitoring. Benefiting from the use of elastomer polymer materials, the sensing system features a maximum strain of more than 250%, a high-tensile strain of up to 100%, and a durability of >500 tests. Also, based on the advantage of elastomer optical fiber, the sensing part can be flexibly pasted on the skin surface as a wearable device for real-time monitoring of multiple physiological parameters. In this study, we successfully realized the monitoring of breathing pattern, heart rate, pulse, facial micro-activity, and joint activity, and the recognition of articulatory activity and knee joint activity using a 1-D convolutional neural network, with an accuracy of more than 90% for each activity recognition. Such merits demonstrate its potential as a medical toolkit and indicate promise for remote healthcare monitoring.  © 2014 IEEE.
+KW  - Artificial intelligence
+KW  - human motion monitoring
+KW  - polymer materials
+KW  - smart healthcare
+KW  - wearable sensor
+KW  - Durability
+KW  - Fiber Bragg gratings
+KW  - Fiber optic sensors
+KW  - Health care
+KW  - Neural networks
+KW  - Physiological models
+KW  - Plastic optical fibers
+KW  - Plastics
+KW  - Tensile strain
+KW  - Wearable sensors
+KW  - Biomedical monitoring
+KW  - Healthcare monitoring
+KW  - Human motion monitoring
+KW  - Human motions
+KW  - Lightemitting diode
+KW  - Medical services
+KW  - Photonic sensing
+KW  - Polymer materials
+KW  - Sensing systems
+KW  - Smart healthcare
+KW  - Elastomers
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Lal, M.
+AU  - Bhende, M.
+AU  - Goel, A.
+AU  - Pathak, A.
+AU  - Tamrakar, P.
+AU  - Sharma, S.
+AU  - Thorat, P.
+TI  - Enhancing Patient Care and Monitoring Through AI and IoT in Healthcare
+PY  - 2023
+T2  - Proceedings of the 2023 IEEE International Conference on Computer Vision and Machine Intelligence, CVMI 2023
+DO  - 10.1109/CVMI59935.2023.10464874
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189757953&doi=10.1109%2fCVMI59935.2023.10464874&partnerID=40&md5=b434e0216f42cd526ac043f7cffa7ce1
+AB  - AI and IoT can revolutionize patient care and monitoring. This presentation discusses the pros and cons of using AI and IoT to enhance patient care, therapy, and remote patient monitoring. AI technology improve data analysis, predictive modeling, and decision-making while IoT devices simplify patient data collecting and transfer. These technologies may enhance treatment regimens, patient results, and insights. AI and IoT let healthcare practitioners remotely monitor patients. Wearable sensors, remote monitoring devices, and implantable devices may collect vital signs, activity levels, and other health data from patients. Then, real-time artificial intelligence systems may analyze the data for quicker diagnosis, better treatment, and better results. AI-enhanced predictive analytics may help doctors identify patterns and trends in patient data for early diagnosis, risk assessment, and prevention. Machine learning algorithms can predict disease development, adjust medication dosages, and identify potential adverse events to enhance patient safety and treatment efficacy. However, healthcare AI and IoT use raises concerns that must be addressed. The massive volumes of patient data collected and transferred pose data security and privacy concerns. The General Data Protection Regulation (GDPR) and patient privacy must be observed. Data integration, standardization, and compatibility are some of the technical challenges of IoT device and AI system integration. Healthcare firms need robust infrastructure and data management to network, share data, and collaborate across devices and systems. Finally, AI and IoT technologies may enhance patient care and monitoring in the healthcare business. AI algorithms fordata analysis and IoT devices for real-time data collection may help doctors diagnose, treat, and monitor patients remotely. Data security, privacy, and interoperability must be addressed to deploy AI and IoT in health care. AI and IoT might transform healthcare and enhance patient outcomes despite these challenges.  © 2023 IEEE.
+KW  - AI and IoT a Digital Environment
+KW  - Digital Security and Privacy
+KW  - Education
+KW  - Remote Patient Monitoring
+KW  - Technological
+KW  - Technology Privacy
+KW  - Data privacy
+KW  - Diagnosis
+KW  - E-learning
+KW  - Information management
+KW  - Internet of things
+KW  - Learning algorithms
+KW  - Machine learning
+KW  - mHealth
+KW  - Predictive analytics
+KW  - Real time systems
+KW  - Remote patient monitoring
+KW  - Risk assessment
+KW  - Safety engineering
+KW  - Wearable technology
+KW  - AI and IoT a digital environment
+KW  - AI Technologies
+KW  - Digital environment
+KW  - Digital security
+KW  - Digital security and privacy
+KW  - Patient care
+KW  - Patient data
+KW  - Security and privacy
+KW  - Technological
+KW  - Technology privacy
+KW  - Decision making
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Bohannanr, R.
+TI  - Injecting innovative solutions into connected delivery devices
+PY  - 2023
+T2  - ONdrugDelivery
+VL  - 2023
+IS  - 151
+SP  - 66
+EP  - 68
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172797663&partnerID=40&md5=1d01fde86807ee255f772f29aea14269
+KW  - chronic disease
+KW  - data analysis
+KW  - data integration
+KW  - data privacy
+KW  - device safety
+KW  - digital technology
+KW  - equipment design
+KW  - Food and Drug Administration
+KW  - home care
+KW  - human
+KW  - information processing
+KW  - information security
+KW  - internet of things
+KW  - manufacturing industry
+KW  - medical device regulation
+KW  - medication compliance
+KW  - Note
+KW  - patient engagement
+KW  - patient monitoring
+KW  - personal experience
+KW  - personalized medicine
+KW  - product market
+KW  - standard
+KW  - technology
+KW  - telemonitoring
+M3  - Note
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Hermon, R.
+AU  - Williams, P.A.H.
+AU  - McCauley, V.B.
+TI  - Software as a medical device (SAMD): Useful or useless term?
+PY  - 2021
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+VL  - 2020-January
+SP  - 3722
+EP  - 3731
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85108308704&partnerID=40&md5=e3b3da2c8564f66ba114332102ca9cb0
+AB  - Software as a medical device is a relatively new and expanding field in which patient safety must be a key concern. Regulation and standards regarding software as a medical device (subsequently referred to as “SaMD”) must incorporate all components that could potentially influence SaMD, both in its development and implementation. However, SaMD has been varyingly defined by organisations and individuals within the literature, therefore there is no clear boundary as to what is or is not SaMD, consequently, no clear definition of SaMD exists. Without a clear definition it therefore becomes impossible to create standards to regulate SaMD. Ultimately, this results in increased risks to patient safety. The purpose of this study was to identify SaMD concepts through a Scoping Review to establish the boundaries of SaMD. This has significant impact on new technology applications to support healthcare monitoring and healthcare service delivery. This will ultimately affect how new technology can be regulated in healthcare and will impact innovation and design in this field. © 2021 IEEE Computer Society. All rights reserved.
+KW  - Systems science
+KW  - Healthcare monitoring
+KW  - Healthcare services
+KW  - Medical Devices
+KW  - New technology application
+KW  - Patient safety
+KW  - Scoping review
+KW  - Health care
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Azbeg, K.
+AU  - Ouchetto, O.
+AU  - Jai Andaloussi, S.
+TI  - BlockMedCare: A healthcare system based on IoT, Blockchain and IPFS for data management security
+PY  - 2022
+T2  - Egyptian Informatics Journal
+VL  - 23
+IS  - 2
+SP  - 329
+EP  - 343
+DO  - 10.1016/j.eij.2022.02.004
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85125470385&doi=10.1016%2fj.eij.2022.02.004&partnerID=40&md5=475dad87baf9d1660141738417178e55
+AB  - Nowadays, healthcare is growing rapidly due to the large development of new technologies such as IoT and wearable devices. These devices are widely used to ensure remote patient monitoring. The current implementation is based on a client/server architecture. This raises several challenges regarding security and privacy that make healthcare systems more susceptible to several attacks. Therefore, health data are subject to strict regulatory and security requirements. To overcome these challenges and comply with security regulations, the adoption of a distributed architecture is a necessity. Due to its distributed nature and its security promises, Blockchain has a large interest as a sophisticated technology to solve the security challenges in IoT-based systems. Motivated by these factors, this work proposes BlockMedCare, a secure healthcare system that integrates IoT with Blockchain. The system is designed to support remote patient monitoring, especially when it comes to chronic diseases that require regular monitoring. We took into consideration three main parameters: security, scalability, and processing time. The security is ensured by using the re-encryption proxy combined with Blockchain to store hash data. Smart contracts are used for access control. To ensure Blockchain scalability, an off-chain database based on IPFS is used to store data. To speed up the data storage process, we use an Ethereum Blockchain-based proof of authority. As a use case, we applied the system to diabetes management and showed the execution results based on the system interfaces. The experimental system has demonstrated a good improvement of healthcare systems in terms of security face to the existing methods. © 2022
+KW  - Blockchain
+KW  - Healthcare
+KW  - Internet of things
+KW  - IPFS
+KW  - Proxy re-encryption
+KW  - Remote patient monitoring
+KW  - Security
+KW  - Access control
+KW  - Client server computer systems
+KW  - Cryptography
+KW  - Digital storage
+KW  - Health care
+KW  - Information management
+KW  - Internet of things
+KW  - Scalability
+KW  - Wearable technology
+KW  - 'current
+KW  - Block-chain
+KW  - Client-server architectures
+KW  - Health data
+KW  - Healthcare systems
+KW  - IPFS
+KW  - Proxy re encryptions
+KW  - Security
+KW  - Security and privacy
+KW  - Wearable devices
+KW  - Blockchain
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 105
+ER  -
+
+TY  - JOUR
+AU  - Li, Y.-X.
+AU  - Lin, W.
+AU  - Han, Y.-H.
+AU  - Wang, Y.-Q.
+AU  - Wang, T.
+AU  - Zhang, H.
+AU  - Zhang, Y.
+AU  - Wang, S.-S.
+TI  - Biodegradation of p-hydroxybenzoic acid in Herbaspirillum aquaticum KLS-1 isolated from tailing soil: Characterization and molecular mechanism
+PY  - 2023
+T2  - Journal of Hazardous Materials
+VL  - 456
+C7  - 131669
+DO  - 10.1016/j.jhazmat.2023.131669
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160451960&doi=10.1016%2fj.jhazmat.2023.131669&partnerID=40&md5=9f2f47bbf91c1eb711f0effa18c11e88
+AB  - The wide distribution of p-hydroxybenzoic acid (PHBA) in the environments has attracted great concerns due to its potential risks to organisms. Bioremediation is considered a green way to remove PHBA from environment. Here, a new PHBA-degrading bacterium Herbaspirillum aquaticum KLS-1was isolated and its PHBA degradation mechanisms were fully evaluated. Results showed that strain KLS-1 could utilize PHBA as the sole carbon source and completely degrade 500 mg/L PHBA within 18 h. The optimal conditions for bacterial growth and PHBA degradation were pH values of 6.0–8.0, temperatures of 30 °C-35 °C, shaking speed of 180 rpm, Mg2+ concentration of 2.0 mM and Fe2+ concentration of 1.0 mM. Draft genome sequencing and functional gene annotations identified three operons (i.e., pobRA, pcaRHGBD and pcaRIJ) and several free genes possibly participating in PHBA degradation. The key genes pobA, ubiA, fadA, ligK and ubiG involved in the regulation of protocatechuate and ubiquinone (UQ) metabolisms were successfully amplified in strain KLS-1 at mRNA level. Our data suggested that PHBA could be degraded by strain KLS-1 via the protocatechuate ortho-/meta-cleavage pathway and UQ biosynthesis pathway. This study has provided a new PHBA-degrading bacterium for potential bioremediation of PHBA pollution. © 2023 Elsevier B.V.
+KW  - Degradation mechanism
+KW  - Herbaspirillum aquaticum
+KW  - p-Hydroxybenzoic acid
+KW  - Protocatechuate cleavage pathway
+KW  - Ubiquinone biosynthesis pathway
+KW  - Bacteria
+KW  - Biodegradation, Environmental
+KW  - Herbaspirillum aquaticum
+KW  - Soil
+KW  - Bacteria
+KW  - Biochemistry
+KW  - Biodegradation
+KW  - Biosynthesis
+KW  - Biotechnology
+KW  - Degradation
+KW  - Genes
+KW  - 4 hydroxybenzoic acid
+KW  - acetic acid
+KW  - benzoic acid
+KW  - ferrous ion
+KW  - glucose
+KW  - messenger RNA
+KW  - organic matter
+KW  - protocatechuic acid
+KW  - RNA 16S
+KW  - ubiquinone
+KW  - 4-hydroxybenzoic acid
+KW  - phenolic acid
+KW  - Acid degradation
+KW  - Biosynthesis pathways
+KW  - Degradation mechanism
+KW  - Degrading bacteria
+KW  - Herbaspirillum aquatica
+KW  - P-Hydroxybenzoic acid
+KW  - Protocatechuate
+KW  - Protocatechuate cleavage pathway
+KW  - Ubiquinone
+KW  - Ubiquinone biosynthesis pathway
+KW  - antimicrobial activity
+KW  - biodegradation
+KW  - bioremediation
+KW  - chemical compound
+KW  - concentration (composition)
+KW  - microbial activity
+KW  - pollutant removal
+KW  - secondary metabolite
+KW  - Article
+KW  - bacterial gene
+KW  - bacterial genome
+KW  - bacterial growth
+KW  - bacterial strain
+KW  - bacterium isolate
+KW  - biodegradation
+KW  - biosynthesis
+KW  - carbon source
+KW  - concentration (parameter)
+KW  - electrophoresis
+KW  - fada gene
+KW  - gene amplification
+KW  - gene sequence
+KW  - Herbaspirillum
+KW  - Herbaspirillum aquaticum
+KW  - lig gene
+KW  - ligk gene
+KW  - metabolism
+KW  - micromorphology
+KW  - nonhuman
+KW  - operon
+KW  - pca gene
+KW  - pH
+KW  - phylogenetic tree
+KW  - physical chemistry
+KW  - pob gene
+KW  - poba gene
+KW  - real time polymerase chain reaction
+KW  - regulatory mechanism
+KW  - ring opening
+KW  - RNA sequence
+KW  - scanning electron microscopy
+KW  - soil analysis
+KW  - temperature
+KW  - ubi gene
+KW  - ubia gene
+KW  - ubig gene
+KW  - velocity
+KW  - bacterium
+KW  - bioremediation
+KW  - soil
+KW  - Bioremediation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 10
+ER  -
+
+TY  - JOUR
+AU  - Giansanti, D.
+TI  - Advancing Dermatological Care: A Comprehensive Narrative Review of Tele-Dermatology and mHealth for Bridging Gaps and Expanding Opportunities beyond the COVID-19 Pandemic
+PY  - 2023
+T2  - Healthcare (Switzerland)
+VL  - 11
+IS  - 13
+C7  - 1911
+DO  - 10.3390/healthcare11131911
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165007492&doi=10.3390%2fhealthcare11131911&partnerID=40&md5=4c5eb115d49f18eee7900e264088e5b1
+AB  - Mobile health (mHealth) has recently had significant advances in tele-dermatology (TD) thanks to the developments following the COVID-19 pandemic. This topic is very important, as telemedicine and mHealth, when applied to dermatology, could improve both the quality of healthcare for citizens and the workflow in the health domain. The proposed study was centered on the last three years. We conducted an overview on the opportunities, the perspectives, and the problems involved in TD integration with mHealth. The methodology of the narrative review was based on: (I) a search of PubMed and Scopus and (II) an eligibility assessment, using properly proposed parameters. The outcome of the study showed that during the COVID-19 pandemic, TD integration with mHealth advanced rapidly. This integration enabled the monitoring of dermatological problems and facilitated remote specialist visits, reducing face-to-face interactions. AI and mobile apps have empowered citizens to take an active role in their healthcare. This differs from other imaging sectors where information exchange is limited to professionals. The opportunities for TD in mHealth include improving service quality, streamlining healthcare processes, reducing costs, and providing more accessible care. It can be applied to various conditions, such as (but not limited to) acne, vitiligo, psoriasis, and skin cancers. Integration with AI and augmented reality (AR), as well as the use of wearable sensors, are anticipated as future developments. However, integrating TD with mHealth also brings about problems and challenges related to regulations, ethics, cybersecurity, data privacy, and device management. Scholars and policymakers need to address these issues while involving citizens in the process. © 2023 by the author.
+KW  - app
+KW  - artificial intelligence
+KW  - dermatology
+KW  - medical device
+KW  - mobile health (mHealth)
+KW  - remote monitoring digital solutions
+KW  - self-care
+KW  - survey
+KW  - tele-dermatology
+KW  - telemedicine
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 7
+ER  -
+
+TY  - CHAP
+AU  - Alsanee, F.
+TI  - Secured assistive system (SEAASY)
+PY  - 2023
+T2  - AI-Based Digital Health Communication for Securing Assistive Systems
+SP  - 54
+EP  - 60
+DO  - 10.4018/978-1-6684-8938-3.ch003
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85177637133&doi=10.4018%2f978-1-6684-8938-3.ch003&partnerID=40&md5=3c82b30c816c1394b30d8c513080ab66
+AB  - The objective of this research is a maintained system against cyber-attacks. The methodology used is augmented and alternative communication. There are no particular requirements that must be met. Consumers, their families, and a group of trained specialists should all be involved in the decision-making process about the installation of AAC. This chapter will discuss assessing cyber security risks, plans for responding, employee training programs, security audits, software development, secure coding, and industry regulations. It will be able to help create cybersecurity measures that will make healthcare systems more resilient, safeguard patient data, and reduce cyber-attacks. The tool will use AI algorithms to analyze data, and find patterns and unusual behavior. The AI algorithm will determine customized plans for treatment and identifying health risks, wearables, and remote monitoring systems by gathering data and monitor patients with taking medical results. The author will investigate the dangers, limitations, and ethical considerations of employing AI in cybersecurity. © 2023, IGI Global. All rights reserved.
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Roblyer, D.
+TI  - Perspective on the increasing role of optical wearables and remote patient monitoring in the COVID-19 era and beyond
+PY  - 2020
+T2  - Journal of Biomedical Optics
+VL  - 25
+IS  - 10
+C7  - 102703
+DO  - 10.1117/1.JBO.25.10.102703
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85094114129&doi=10.1117%2f1.JBO.25.10.102703&partnerID=40&md5=5776f8a19c6b092b0a8ff61d7b8d8071
+AB  - Significance: The COVID-19 pandemic is changing the landscape of healthcare delivery in many countries, with a new shift toward remote patient monitoring (RPM). Aim: The goal of this perspective is to highlight the existing and future role of wearable and RPM optical technologies in an increasingly at-home healthcare and research environment. Approach: First, the specific changes occurring during the COVID-19 pandemic in healthcare delivery, regulations, and technological innovations related to RPM technologies are reviewed. Then, a review of the current state and potential future impact of optical physiological monitoring in portable and wearable formats is outlined. Results: New efforts from academia, industry, and regulatory agencies are advancing and encouraging at-home, portable, and wearable physiological monitors as a growing part of healthcare delivery. It is hoped that these shifts will assist with disease diagnosis, treatment, management, recovery, and rehabilitation with minimal in-person contact. Some of these trends are likely to persist for years to come. Optical technologies already account for a large portion of RPM platforms, with a good potential for future growth. Conclusions: The biomedical optics community has a potentially large role to play in developing, testing, and commercializing new wearable and RPM technologies to meet the changing healthcare and research landscape in the COVID-19 era and beyond.  © The Authors. Published by SPIE under a Creative Commons Attribution 4.0 Unported License. Distribution or reproduction of this work in whole or in part requires full attribution of the original publication, including its DOI.
+KW  - COVID-19
+KW  - portable
+KW  - remote patient monitoring
+KW  - telehealth
+KW  - wearables
+KW  - Betacoronavirus
+KW  - Computer Communication Networks
+KW  - Coronavirus Infections
+KW  - Humans
+KW  - Pandemics
+KW  - Pneumonia, Viral
+KW  - Remote Sensing Technology
+KW  - Telemedicine
+KW  - Wearable Electronic Devices
+KW  - Diagnosis
+KW  - Health care
+KW  - Optical instruments
+KW  - Physiology
+KW  - Remote patient monitoring
+KW  - Biomedical optics
+KW  - Disease diagnosis
+KW  - Healthcare delivery
+KW  - Optical technology
+KW  - Physiological monitoring
+KW  - Regulatory agencies
+KW  - Research environment
+KW  - Technological innovation
+KW  - Betacoronavirus
+KW  - computer network
+KW  - Coronavirus infection
+KW  - electronic device
+KW  - human
+KW  - pandemic
+KW  - remote sensing
+KW  - telemedicine
+KW  - virus pneumonia
+KW  - Wearable technology
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 19
+ER  -
+
+TY  - JOUR
+AU  - Fu, H.
+AU  - Wang, B.
+AU  - Li, J.
+AU  - Xu, J.
+AU  - Li, J.
+AU  - Zeng, J.
+AU  - Gao, W.
+AU  - Chen, K.
+TI  - A self-healing, recyclable and conductive gelatin/nanofibrillated cellulose/Fe3+ hydrogel based on multi-dynamic interactions for a multifunctional strain sensor
+PY  - 2022
+T2  - Materials Horizons
+DO  - 10.1039/d2mh00028h
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85127821832&doi=10.1039%2fd2mh00028h&partnerID=40&md5=6cb505a9506031caeb5046babc7ac777
+AB  - Conductive hydrogels have emerged as promising material candidates for multifunctional strain sensors, attributed to their similarity to biological tissues, good wearability, and high accuracy of information acquisition. However, it is difficult to simultaneously manufacture conductive hydrogel-based multifunctional strain sensors with the synergistic properties of reliable healability for long-term usage and environmental degradability/recyclability for decreasing the electronic waste. This work reports a facile strategy to engineer a self-healing, recyclable and conductive strain sensor by virtue of molecular-level multi-dynamic interactions (MMDIs) including Schiff base complexes, hydrogen bonds, and coordination bonds, which were fabricated using a dialdehyde TEMPO (2,2,6,6-tetramethylpiperidine-1-oxyl)-oxidized nanofibrillated cellulose (DATNFC) pre-reinforced gelatin nanocomposite hydrogel (gelatin/DATNFC hydrogel, GDH) followed by dipping in an Fe3+ aqueous solution. The MMDI strategy allows synchronous regulation of both bulk and interfacial interactions to obtain exciting properties that outperform those of conventional hydrogels, including extraordinary compressive stress (1310 kPa), intriguing self-healing abilities, and remarkable electrical conductivity. With these outstanding merits, the as-prepared gelatin/DATNFC/Fe3+ hydrogel (GDIH) is developed to be a multifunctional strain sensor with appealing strain sensitivity (GF = 2.24 under 6% strain) and compressive sensitivity (S = 1.14 kPa−1 under 15 kPa), which can be utilized to manufacture electronic skin and accurately discern subtle bodily motions, handwriting and personal signatures. Notably, this GDIH-based sensor also exhibited reliable self-healing properties for long-term usage, environmental degradability and complete recyclability for decreasing the electronic waste. In consideration of the extremely facile preparation process, biocompatibility, satisfactory functionalities, remarkable self-healing properties and recyclability, the emergence of the GDIH-based sensor is believed to propose a new strategy for the development of sustainable-multifunctional strain sensors and healthcare monitoring. © 2022 The Royal Society of Chemistry
+KW  - Cellulose
+KW  - Electric Conductivity
+KW  - Gelatin
+KW  - Hydrogels
+KW  - Wearable Electronic Devices
+KW  - Biocompatibility
+KW  - Cellulose
+KW  - Coordination reactions
+KW  - Electronic Waste
+KW  - Hydrogen bonds
+KW  - Manufacture
+KW  - Self-healing materials
+KW  - Wastes
+KW  - cellulose
+KW  - gelatin
+KW  - Degradability
+KW  - Dynamic interaction
+KW  - Electronics wastes
+KW  - Fe 3+
+KW  - Molecular levels
+KW  - Recyclability
+KW  - Recyclables
+KW  - Self-healing
+KW  - Self-healing properties
+KW  - Strain sensors
+KW  - chemistry
+KW  - electric conductivity
+KW  - electronic device
+KW  - hydrogel
+KW  - Hydrogels
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 68
+ER  -
+
+TY  - JOUR
+AU  - Bosch, R.
+AU  - Chakhssi, F.
+AU  - Noordzij, M.L.
+TI  - Acceptance and potential clinical added value of biocueing in forensic psychiatric patients with autism spectrum disorder and/or intellectual disability
+PY  - 2022
+T2  - Psychiatry Research
+VL  - 313
+C7  - 114645
+DO  - 10.1016/j.psychres.2022.114645
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85130625041&doi=10.1016%2fj.psychres.2022.114645&partnerID=40&md5=f94c12d0aac2b54b0efb0d9943eaf323
+AB  - Autism spectrum disorder (ASD) and intellectual disability (ID) are prevalent in forensic psychiatric samples. People with ASD and/or ID often experience difficulties in emotion processing which can lead to aggressive or self-harming behavior. The use of biocueing (using wearable technology to constantly monitor and provide feedback on bodily changes) shows promise for improving emotion processing and, thus, potentially reducing aggressive behavior in this population. Both qualitative and quantitative methods were used to examine the feasibility and acceptance of Sense-IT, a biocueing application, in a sample of forensic psychiatric patients with ASD and/or ID and their forensic psychiatric nurses. To our knowledge, the current study is the first to examine first-person experiences with biocueing in forensic psychiatric patients with ASD and/or ID. Results show that, in general, participants experienced the biocueing application as positive and are willing to use biocueing. This is an important finding since forensic patients are often unmotivated to engage with therapeutic techniques. An exploration of trends in aggression and self-harm prior to and during the use of biocueing showed no significant changes. Future research should focus on the way biocueing can be implemented in clinical practice. © 2022
+KW  - Aggression
+KW  - Autism disorder
+KW  - Biosensing techniques
+KW  - Emotion regulation
+KW  - Intellectual disability
+KW  - Autism Spectrum Disorder
+KW  - Humans
+KW  - Intellectual Disability
+KW  - Self-Injurious Behavior
+KW  - Wearable Electronic Devices
+KW  - adult
+KW  - aggression
+KW  - Article
+KW  - autism
+KW  - automutilation
+KW  - clinical article
+KW  - emotion regulation
+KW  - female
+KW  - forensic science
+KW  - human
+KW  - intellectual impairment
+KW  - male
+KW  - telemonitoring
+KW  - automutilation
+KW  - electronic device
+KW  - intellectual impairment
+KW  - psychology
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Giansanti, D.
+TI  - The Artificial Intelligence in Teledermatology: A Narrative Review on Opportunities, Perspectives, and Bottlenecks
+PY  - 2023
+T2  - International Journal of Environmental Research and Public Health
+VL  - 20
+IS  - 10
+C7  - 5810
+DO  - 10.3390/ijerph20105810
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160290430&doi=10.3390%2fijerph20105810&partnerID=40&md5=470c896c11cded2386746ec86966191d
+AB  - Artificial intelligence (AI) is recently seeing significant advances in teledermatology (TD), also thanks to the developments that have taken place during the COVID-19 pandemic. In the last two years, there was an important development of studies that focused on opportunities, perspectives, and problems in this field. The topic is very important because the telemedicine and AI applied to dermatology have the opportunity to improve both the quality of healthcare for citizens and the workflow of healthcare professionals. This study conducted an overview on the opportunities, the perspectives, and the problems related to the integration of TD with AI. The methodology of this review, following a standardized checklist, was based on: (I) a search of PubMed and Scopus and (II) an eligibility assessment, using parameters with five levels of score. The outcome highlighted that applications of this integration have been identified in various skin pathologies and in quality control, both in eHealth and mHealth. Many of these applications are based on Apps used by citizens in mHealth for self-care with new opportunities but also open questions. A generalized enthusiasm has been registered regarding the opportunities and general perspectives on improving the quality of care, optimizing the healthcare processes, minimizing costs, reducing the stress in the healthcare facilities, and in making citizens, now at the center, more satisfied. However, critical issues have emerged related to: (a) the need to improve the process of diffusion of the Apps in the hands of citizens, with better design, validation, standardization, and cybersecurity; (b) the need for better attention paid to medico-legal and ethical issues; and (c) the need for the stabilization of international and national regulations. Targeted agreement initiatives, such as position statements, guidelines, and/or consensus initiatives, are needed to ensure a better result for all, along with the design of both specific plans and shared workflows. © 2023 by the author.
+KW  - App
+KW  - artificial intelligence
+KW  - dermatology
+KW  - medical device
+KW  - mobile health
+KW  - remote monitoring digital solutions
+KW  - self-care
+KW  - survey
+KW  - teledermatology
+KW  - telemedicine
+KW  - Artificial Intelligence
+KW  - COVID-19
+KW  - Delivery of Health Care
+KW  - Humans
+KW  - Mobile Applications
+KW  - Pandemics
+KW  - Telemedicine
+KW  - artificial intelligence
+KW  - health care
+KW  - health services
+KW  - medicine
+KW  - monitoring
+KW  - survey
+KW  - artificial intelligence
+KW  - checklist
+KW  - computer security
+KW  - consensus
+KW  - coronavirus disease 2019
+KW  - dermatology
+KW  - diffusion
+KW  - ethics
+KW  - health care cost
+KW  - health care facility
+KW  - health care quality
+KW  - human
+KW  - medicolegal aspect
+KW  - melanoma
+KW  - occupational health
+KW  - outcome assessment
+KW  - pandemic
+KW  - physiological stress
+KW  - practice guideline
+KW  - psoriasis
+KW  - quality control
+KW  - remote sensing
+KW  - Review
+KW  - self care
+KW  - skin disease
+KW  - standardization
+KW  - teledermatology
+KW  - telehealth
+KW  - telemedicine
+KW  - validation process
+KW  - workflow
+KW  - artificial intelligence
+KW  - coronavirus disease 2019
+KW  - health care delivery
+KW  - procedures
+KW  - telemedicine
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 8
+ER  -
+
+TY  - CHAP
+AU  - Bhatt, V.
+AU  - Chakraborty, S.
+TI  - MediBlock: A Pervasive Way to Create Healthcare Value in Secured Manner for Personalized Care
+PY  - 2023
+T2  - Intelligent Systems Reference Library
+VL  - 237
+SP  - 233
+EP  - 243
+DO  - 10.1007/978-3-031-22835-3_11
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85153063471&doi=10.1007%2f978-3-031-22835-3_11&partnerID=40&md5=bb78016bae128977b6283dd331c93e1b
+AB  - These days, thanks to the fast development of new technologies like the internet of things and wearable gadgets, the healthcare industry is expanding at a breakneck pace. These gadgets saw widespread use as a means of facilitating remote patient monitoring. On the other end blockchain is a highly acclaimed technology that offers a wide variety of interesting characteristics, provides more trust and security. Information pertaining to patients’ health is subject to stringent regulatory and safety regulations. The implementation of a distributed architecture is required in order to successfully overcome these problems and remain in compliance with applicable security standards. Blockchain has attracted a lot of attention as a potentially useful advanced technology because of its decentralized design and the security benefits it promises to provide for Internet of Things-based applications. These considerations served as the impetus for this research, which presents Medi-Block, a protected healthcare system that combines Blockchain technology with the Internet of Things. It is possible to monitor patients remotely using this method. The study proposes an extra security level in a high value creation process of personalized healthcare through remote patient monitoring. This chapter proposes the framework on how patient layer, physician layer and technological layer interacts to provide better value of healthcare with the maximum privacy and security. © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Blockchain
+KW  - Healthcare
+KW  - Internet of Things
+KW  - MediBlock
+KW  - Personalized care
+KW  - Security
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Nekui, O.D.
+AU  - Wang, W.
+AU  - Liu, C.
+AU  - Wang, Z.
+AU  - Ding, B.
+TI  - IoT-Based Heartbeat Rate-Monitoring Device Powered by Harvested Kinetic Energy
+PY  - 2024
+T2  - Sensors
+VL  - 24
+IS  - 13
+C7  - 4249
+DO  - 10.3390/s24134249
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198409205&doi=10.3390%2fs24134249&partnerID=40&md5=82758caeef781ac03968702150ef10f0
+AB  - Remote patient-monitoring systems are helpful since they can provide timely and effective healthcare facilities. Such online telemedicine is usually achieved with the help of sophisticated and advanced wearable sensor technologies. The modern type of wearable connected devices enable the monitoring of vital sign parameters such as: heart rate variability (HRV) also known as electrocardiogram (ECG), blood pressure (BLP), Respiratory rate and body temperature, blood pressure (BLP), respiratory rate, and body temperature. The ubiquitous problem of wearable devices is their power demand for signal transmission; such devices require frequent battery charging, which causes serious limitations to the continuous monitoring of vital data. To overcome this, the current study provides a primary report on collecting kinetic energy from daily human activities for monitoring vital human signs. The harvested energy is used to sustain the battery autonomy of wearable devices, which allows for a longer monitoring time of vital data. This study proposes a novel type of stress- or exercise-monitoring ECG device based on a microcontroller (PIC18F4550) and a Wi-Fi device (ESP8266), which is cost-effective and enables real-time monitoring of heart rate in the cloud during normal daily activities. In order to achieve both portability and maximum power, the harvester has a small structure and low friction. Neodymium magnets were chosen for their high magnetic strength, versatility, and compact size. Due to the non-linear magnetic force interaction of the magnets, the non-linear part of the dynamic equation has an inverse quadratic form. Electromechanical damping is considered in this study, and the quadratic non-linearity is approximated using MacLaurin expansion, which enables us to find the law of motion for general case studies using classical methods for dynamic equations and the suitable parameters for the harvester. The oscillations are enabled by applying an initial force, and there is a loss of energy due to the electromechanical damping. A typical numerical application is computed with Matlab 2015 software, and an ODE45 solver is used to verify the accuracy of the method. © 2024 by the authors.
+KW  - biomedical signal processing
+KW  - electromagnetic energy harvester
+KW  - IoT server
+KW  - kinetic energy harvesting
+KW  - long-term ECG monitoring
+KW  - quadratic non-linearity
+KW  - Schenkel doubler
+KW  - wearable IoT devices
+KW  - Blood
+KW  - Cost effectiveness
+KW  - Damping
+KW  - Electromagnetic waves
+KW  - Energy harvesting
+KW  - Heart
+KW  - Internet of things
+KW  - Inverse problems
+KW  - Kinetic energy
+KW  - Kinetics
+KW  - MATLAB
+KW  - Neodymium alloys
+KW  - Numerical methods
+KW  - Secondary batteries
+KW  - Biomedical signals processing
+KW  - Doublers
+KW  - Electromagnetic energy harvester
+KW  - Energy Harvester
+KW  - IoT server
+KW  - Kinetic energy harvesting
+KW  - Long-term electrocardiogram monitoring
+KW  - Quadratic nonlinearities
+KW  - Schenkel doubler
+KW  - Wearable IoT device
+KW  - Electrocardiograms
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Whitsel, L.P.
+AU  - Bantham, A.
+AU  - Jarrin, R.
+AU  - Sanders, L.
+AU  - Stoutenberg, M.
+TI  - Physical activity assessment, prescription and referral in US healthcare: How do we make this a standard of clinical practice?
+PY  - 2021
+T2  - Progress in Cardiovascular Diseases
+VL  - 64
+SP  - 88
+EP  - 95
+DO  - 10.1016/j.pcad.2020.12.006
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85099571623&doi=10.1016%2fj.pcad.2020.12.006&partnerID=40&md5=210315aced122ad6a08c3f400bbd0e5d
+AB  - Numerous guidelines and recommendations reinforce the important role of healthcare providers promoting physical activity (PA) through assessment, prescription, and referral. This paper summarizes what is required to accomplish these actions as a standard of care. The sections describe the importance of measurement development and standardization, the integration of PA into the care continuum, suggested roles and responsibilities for the healthcare team, the role of technology and telehealth in promoting PA, connecting patients to different PA modalities and settings, a summary of the overall regulatory and policy plan to accomplish integration of PA into delivery of care, and areas for future research. Integrating PA assessment, prescription, and referral into delivery of care requires a multi-stakeholder, coordinated effort with government agencies, payers, non-governmental organizations, professional societies, the United States Congress, state legislatures, healthcare systems, and the healthcare industry. © 2020 Elsevier Inc.
+KW  - Cardiovascular disease
+KW  - Exercise
+KW  - Healthy lifestyle
+KW  - Risk factors
+KW  - Delivery of Health Care
+KW  - Exercise
+KW  - Humans
+KW  - Referral and Consultation
+KW  - United States
+KW  - certification
+KW  - clinical practice
+KW  - community integration
+KW  - electronic health record
+KW  - government regulation
+KW  - health care delivery
+KW  - health care industry
+KW  - health care policy
+KW  - health care quality
+KW  - health care system
+KW  - human
+KW  - licensing
+KW  - medicaid
+KW  - medical ethics
+KW  - medical informatics
+KW  - medical technology
+KW  - medicare
+KW  - non-governmental organization
+KW  - patient care
+KW  - patient referral
+KW  - physical activity
+KW  - prescription
+KW  - professional standard
+KW  - Review
+KW  - teamwork
+KW  - telehealth
+KW  - telemonitoring
+KW  - United States
+KW  - exercise
+KW  - organization and management
+KW  - patient referral
+KW  - physiology
+KW  - procedures
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 10
+ER  -
+
+TY  - JOUR
+AU  - Dew, S.
+AU  - Kleylein, L.
+TI  - Keeping pace with rapid changes in medical technology
+PY  - 2020
+T2  - Regulatory Rapporteur
+VL  - 17
+IS  - 10
+SP  - 3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091393547&partnerID=40&md5=fdafd1fb3778f5c586d171a6aa944261
+KW  - artificial intelligence
+KW  - Editorial
+KW  - human
+KW  - medical device regulation
+KW  - medical technology
+KW  - telemonitoring
+M3  - Editorial
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Heaney, J.
+AU  - Buick, J.
+AU  - Hadi, M.U.
+AU  - Soin, N.
+TI  - Internet of Things-Based ECG and Vitals Healthcare Monitoring System
+PY  - 2022
+T2  - Micromachines
+VL  - 13
+IS  - 12
+C7  - 2153
+DO  - 10.3390/mi13122153
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144619730&doi=10.3390%2fmi13122153&partnerID=40&md5=7863d3e5a6ae40681b78fb2f3d3bec4e
+AB  - Health monitoring and its associated technologies have gained enormous importance over the past few years. The electrocardiogram (ECG) has long been a popular tool for assessing and diagnosing cardiovascular diseases (CVDs). Since the literature on ECG monitoring devices is growing at an exponential rate, it is becoming difficult for researchers and healthcare professionals to select, compare, and assess the systems that meet their demands while also meeting the monitoring standards. This emphasizes the necessity for a reliable reference to guide the design, categorization, and analysis of ECG monitoring systems, which will benefit both academics and practitioners. We present a complete ECG monitoring system in this work, describing the design stages and implementation of an end-to-end solution for capturing and displaying the patient’s heart signals, heart rate, blood oxygen levels, and body temperature. The data will be presented on an OLED display, a developed Android application as well as in MATLAB via serial communication. The Internet of Things (IoT) approaches have a clear advantage in tackling the problem of heart disease patient care as they can transform the service mode into a widespread one and alert the healthcare services based on the patient’s physical condition. Keeping this in mind, there is also the addition of a web server for monitoring the patient’s status via WiFi. The prototype, which is compliant with the electrical safety regulations and medical equipment design, was further benchmarked against a commercially available off-the-shelf device, and showed an excellent accuracy of 99.56%. © 2022 by the authors.
+KW  - cardiovascular diseases
+KW  - ECG monitoring system
+KW  - heart diseases
+KW  - IoT
+KW  - sensors
+KW  - smart monitoring
+KW  - Cardiology
+KW  - Diseases
+KW  - Health care
+KW  - Heart
+KW  - Internet of things
+KW  - Cardiovascular disease
+KW  - Electrocardiogram monitoring system
+KW  - Exponential rates
+KW  - Health care professionals
+KW  - Health monitoring
+KW  - Healthcare monitoring
+KW  - Heart disease
+KW  - Monitoring device
+KW  - Monitoring system
+KW  - Smart monitoring
+KW  - Electrocardiograms
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 10
+ER  -
+
+TY  - JOUR
+AU  - Guo, Y.
+AU  - Li, H.
+AU  - Li, Y.
+AU  - Wei, X.
+AU  - Gao, S.
+AU  - Yue, W.
+AU  - Zhang, C.
+AU  - Yin, F.
+AU  - Zhao, S.
+AU  - Kim, N.-Y.
+AU  - Shen, G.
+TI  - Wearable Hybrid Device Capable of Interactive Perception with Pressure Sensing and Visualization
+PY  - 2022
+T2  - Advanced Functional Materials
+VL  - 32
+IS  - 44
+C7  - 2203585
+DO  - 10.1002/adfm.202203585
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135510995&doi=10.1002%2fadfm.202203585&partnerID=40&md5=8c616251a6b2335751b74e6e436b8d8a
+AB  - A wearable interactive device that can synchronously detect and visualize pressure, stimuli will supplement easily identifiable in situ signals with conventional sensing that outputs only electronic signals. Currently, most interactive devices are composed of physically connected separate pressure sensors and display elements, which do not conform to the development of miniaturization and high integration. The realization of combining these two functions in one device with a simplified configuration is still only beginning to be explored. Inspired by the two-in-one response of the octopus, which can both sense and visualize stimuli, an integrated hybrid device based on ionic sensing and electrochromic display is proposed for interactive pressure perception. By efficiently reusing the electrodes and ionic gel, the device enables quantitative sensing and direct color changing in response to pressure. Benefiting from its excellent comprehensive performance, the applications are explored and verified, including the interactive perception of pressure information, hiding and display of visual information under pressure regulation, and repeated writing and erasing on flexible boards. Notably, multiple customized systems with improved design flexibility are implemented to provide remote monitoring and visual warning of behavioral states and physiological parameters. This study diversifies solutions to realize a direct link between pressure detection and visualization. © 2022 Wiley-VCH GmbH.
+KW  - electrochromic
+KW  - interactive perception
+KW  - ionic pressure sensing
+KW  - wearable hybrid devices
+KW  - Electrochromism
+KW  - Flexible displays
+KW  - Physiological models
+KW  - Pressure sensors
+KW  - Electrochromics
+KW  - Electronic signals
+KW  - Higher integration
+KW  - Hybrid devices
+KW  - Interactive perception
+KW  - Ionic pressure sensing
+KW  - Miniaturisation
+KW  - Output only
+KW  - Pressure sensing
+KW  - Wearable hybrid device
+KW  - Visualization
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 98
+ER  -
+
+TY  - JOUR
+AU  - Min, W.K.
+AU  - Won, C.
+AU  - Kim, D.H.
+AU  - Lee, S.
+AU  - Chung, J.
+AU  - Cho, S.
+AU  - Lee, T.
+AU  - Kim, H.J.
+TI  - Strain-Driven Negative Resistance Switching of Conductive Fibers with Adjustable Sensitivity for Wearable Healthcare Monitoring Systems with Near-Zero Standby Power
+PY  - 2023
+T2  - Advanced Materials
+VL  - 35
+IS  - 36
+C7  - 2303556
+DO  - 10.1002/adma.202303556
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165252014&doi=10.1002%2fadma.202303556&partnerID=40&md5=de7a941e133ef1154582d16d4c9d2410
+AB  - Recently, one of the primary concerns in e-textile-based healthcare monitoring systems for chronic illness patients has been reducing wasted power consumption, as the system should be always-on to capture diverse biochemical and physiological characteristics. However, the general conductive fibers, a major component of the existing wearable monitoring systems, have a positive gauge-factor (GF) that increases electrical resistance when stretched, so that the systems have no choice but to consume power continuously. Herein, a twisted conductive-fiber-based negatively responsive switch-type (NRS) strain-sensor with an extremely high negative GF (resistance change ratio ≈ 3.9 × 108) that can significantly increase its conductivity from insulating to conducting properties is developed. To this end, a precision cracking technology is devised, which could induce a difference in the Young's modulus of the encapsulated layer on the fiber through selective ultraviolet-irradiation treatment. Owing to this technology, the NRS strain-sensors can allow for effective regulation of the mutual contact resistance under tensile strain while maintaining superior durability for over 5000 stretching cycles. For further practical demonstrations, three healthcare monitoring systems (E-fitness pants, smart-masks, and posture correction T-shirts) with near-zero standby power are also developed, which opens up advancements in electronic textiles by expanding the utilization range of fiber strain-sensors. © 2023 Wiley-VCH GmbH.
+KW  - conductive fibers
+KW  - monitoring systems
+KW  - near-zero standby power
+KW  - negative resistance switching
+KW  - strain-sensors
+KW  - wearable electronics
+KW  - Delivery of Health Care
+KW  - Elastic Modulus
+KW  - Electronics
+KW  - Humans
+KW  - Textiles
+KW  - Wearable Electronic Devices
+KW  - Biosensors
+KW  - Elastic moduli
+KW  - Electric resistance
+KW  - Fibers
+KW  - Irradiation
+KW  - Smart textiles
+KW  - Wearable sensors
+KW  - Chronic illness
+KW  - Conductive fibers
+KW  - Gage factors
+KW  - Healthcare monitoring
+KW  - Monitoring system
+KW  - Near-zero standby power
+KW  - Negative resistance switching
+KW  - Resistance switching
+KW  - Strain sensors
+KW  - Zero Standby Power
+KW  - health care delivery
+KW  - human
+KW  - Young modulus
+KW  - Tensile strain
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Zhang, J.Y.
+AU  - Shang, T.
+AU  - Ahn, D.
+AU  - Chen, K.
+AU  - Coté, G.
+AU  - Espinoza, J.
+AU  - Mendez, C.E.
+AU  - Spanakis, E.K.
+AU  - Thompson, B.
+AU  - Wallia, A.
+AU  - Wisk, L.E.
+AU  - Kerr, D.
+AU  - Klonoff, D.C.
+TI  - How to Best Protect People With Diabetes From the Impact of SARS-CoV-2: Report of the International COVID-19 and Diabetes Summit
+PY  - 2021
+T2  - Journal of Diabetes Science and Technology
+VL  - 15
+IS  - 2
+SP  - 478
+EP  - 514
+DO  - 10.1177/1932296820978399
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85099964762&doi=10.1177%2f1932296820978399&partnerID=40&md5=8a943355db56d55ebd2140d2d84a2511
+AB  - The coronavirus disease 2019 (COVID-19) pandemic caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus has rapidly involved the entire world and exposed the pressing need for collaboration between public health and other stakeholders from the clinical, scientific, regulatory, pharmaceutical, and medical device and technology communities. To discuss how to best protect people with diabetes from serious outcomes from COVID-19, Diabetes Technology Society, in collaboration with Sansum Diabetes Research Institute, hosted the “International COVID-19 and Diabetes Virtual Summit” on August 26-27, 2020. This unique, unprecedented real-time conference brought together physicians, scientists, government officials, regulatory experts, industry representatives, and people with diabetes from six continents to review and analyze relationships between COVID-19 and diabetes. Over 800 attendees logged in. The summit consisted of five sessions: (I) Keynotes, (II) Preparedness, (III) Response, (IV) Recovery, and (V) Surveillance; eight parts: (A) Background, (B) Resilience, (C) Outpatient Care, (D) Inpatient Care, (E) Resources, (F) High-Risk Groups, (G) Regulation, and (H) The Future; and 24 sections: (1) Historic Pandemics and Impact on Society, (2) Pathophysiology/Risk Factors for COVID-19, (3) Social Determinants of COVID-19, (4) Preparing for the Future, (5) Medications and Vaccines, (6) Psychology of Patients and Caregivers, (7) Outpatient Treatment of Diabetes Mellitus and Non-Pharmacologic Intervention, (8) Technology and Telehealth for Diabetes Outpatients, (9) Technology for Inpatients, (10) Management of Diabetes Inpatients with COVID-19, (11) Ethics, (12) Accuracy of Diagnostic Tests, (13) Children, (14) Pregnancy, (15) Economics of Care for COVID-19, (16) Role of Industry, (17) Protection of Healthcare Workers, (18) People with Diabetes, (19) International Responses to COVID-19, (20) Government Policy, (21) Regulation of Tests and Treatments, (22) Digital Health Technology, (23) Big Data Statistics, and 24) Patient Surveillance and Privacy. The two keynote speeches were entitled (1) COVID-19 and Diabetes—Meeting the Challenge and (2) Knowledge Gaps and Research Opportunities for Diabetes and COVID-19. While there was an emphasis on diabetes and its interactions with COVID-19, the panelists also discussed the COVID-19 pandemic in general. The meeting generated many novel ideas for collaboration between experts in medicine, science, government, and industry to develop new technologies and disease treatment paradigms to fight this global pandemic. © 2021 Diabetes Technology Society.
+KW  - COVID-19
+KW  - diabetes
+KW  - digital health
+KW  - pandemic
+KW  - telehealth
+KW  - COVID-19
+KW  - Diabetes Complications
+KW  - Diabetes Mellitus
+KW  - Geography
+KW  - Global Health
+KW  - History, 20th Century
+KW  - Humans
+KW  - Influenza Pandemic, 1918-1919
+KW  - International Cooperation
+KW  - Pandemics
+KW  - Societies, Medical
+KW  - Telemedicine
+KW  - angiotensin converting enzyme 2
+KW  - estrogen
+KW  - hemoglobin A1c
+KW  - insulin
+KW  - transmembrane protease serine 2
+KW  - vaccine
+KW  - zotatifin
+KW  - accuracy
+KW  - algorithm
+KW  - anxiety disorder
+KW  - Article
+KW  - awareness
+KW  - cardiometabolic risk
+KW  - caregiver support
+KW  - clinical trial (topic)
+KW  - continuous infusion
+KW  - coronavirus disease 2019
+KW  - diabetes mellitus
+KW  - diabetes technology society
+KW  - disease surveillance
+KW  - financial management
+KW  - food insecurity
+KW  - glycemic control
+KW  - health care delivery
+KW  - health care personnel
+KW  - health care policy
+KW  - health insurance
+KW  - hospital infection
+KW  - human
+KW  - hyperglycemia
+KW  - hypertension
+KW  - inflammation
+KW  - insulin dependent diabetes mellitus
+KW  - insulin infusion
+KW  - intergovernmental organization
+KW  - lifestyle modification
+KW  - metabolic disorder
+KW  - mortality
+KW  - non insulin dependent diabetes mellitus
+KW  - obesity
+KW  - outcome assessment
+KW  - outpatient care
+KW  - pandemic
+KW  - patient education
+KW  - polymerase chain reaction
+KW  - pregnancy
+KW  - protection
+KW  - protein modification
+KW  - protein protein interaction
+KW  - psychology
+KW  - Severe acute respiratory syndrome coronavirus 2
+KW  - social determinants of health
+KW  - social distancing
+KW  - social media
+KW  - social support
+KW  - stakeholder engagement
+KW  - technology
+KW  - telehealth
+KW  - telemetry
+KW  - complication
+KW  - diabetes mellitus
+KW  - diabetic complication
+KW  - geography
+KW  - global health
+KW  - history
+KW  - international cooperation
+KW  - medical society
+KW  - Spanish influenza
+KW  - telemedicine
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 17
+ER  -
+
+TY  - JOUR
+AU  - Koraishy, F.M.
+AU  - Rohatgi, R.
+TI  - Telenephrology: An Emerging Platform for Delivering Renal Health Care
+PY  - 2020
+T2  - American Journal of Kidney Diseases
+VL  - 76
+IS  - 3
+SP  - 417
+EP  - 426
+DO  - 10.1053/j.ajkd.2020.02.442
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85085772258&doi=10.1053%2fj.ajkd.2020.02.442&partnerID=40&md5=5100ac3eceab4a2539f9553cea11f47f
+AB  - Electronic-based health care delivery systems are gaining popularity among patients and clinicians because of convenience. Importantly, telemedicine, the delivery of health care and/or health information using electronic systems, can deliver primary and specialized health care to geographically isolated patients, who account for nearly 20% of the US population. In nephrology, where a growing discrepancy exists between the geographic location of nephrologists and patients with kidney disease, telenephrology can bridge distance and deliver renal care and education to the isolated. Large nationalized health care systems, for which incentives are aligned to innovate and implement new platforms to deliver cost-effective care, have been at the forefront of telenephrology. These systems include synchronous direct physician-patient care through clinical videoconferencing, and asynchronous modalities such as electronic consultation and video telehealth to educate internists about specialized clinical topics. Large health care organizations are adopting these platforms as standalone services; however, expansion into the private health care system has been limited by reimbursement, regulations, and other issues. Though telenephrology is patient centered, studies are needed to rigorously test its clinical efficacy and cost-effectiveness. Nonetheless, growing patient demand for patient-centric health care will continue to expand the telenephrology space. © 2020
+KW  - chronic disease management
+KW  - chronic kidney disease (CKD)
+KW  - distant-site practitioner
+KW  - end-stage renal disease (ESRD)
+KW  - geographically isolated patients
+KW  - health care technology
+KW  - patient-centered care
+KW  - public health
+KW  - remote monitoring
+KW  - review
+KW  - telehealth
+KW  - Telemedicine
+KW  - telenephrology
+KW  - Delivery of Health Care
+KW  - Geographic Information Systems
+KW  - Geography, Medical
+KW  - Health Services Accessibility
+KW  - Health Services Needs and Demand
+KW  - Hemodialysis Units, Hospital
+KW  - Humans
+KW  - Kidney Diseases
+KW  - Kidney Failure, Chronic
+KW  - Nephrology
+KW  - Outpatient Clinics, Hospital
+KW  - Patient-Centered Care
+KW  - Physician-Patient Relations
+KW  - Telemedicine
+KW  - United States
+KW  - Videoconferencing
+KW  - chronic kidney failure
+KW  - cost effectiveness analysis
+KW  - electronic health record
+KW  - geographic distribution
+KW  - health care access
+KW  - health care delivery
+KW  - health care personnel
+KW  - health care system
+KW  - human
+KW  - medical information
+KW  - mobile application
+KW  - nephrology
+KW  - patient care
+KW  - patient education
+KW  - patient isolation
+KW  - primary medical care
+KW  - reimbursement
+KW  - Review
+KW  - teleconsultation
+KW  - telehealth
+KW  - telemedicine
+KW  - videoconferencing
+KW  - chronic kidney failure
+KW  - doctor patient relationship
+KW  - education
+KW  - geographic information system
+KW  - health care delivery
+KW  - health service
+KW  - hemodialysis
+KW  - kidney disease
+KW  - medical geography
+KW  - nephrology
+KW  - outpatient department
+KW  - telemedicine
+KW  - United States
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 28
+ER  -
+
+TY  - JOUR
+AU  - Manta, C.
+AU  - Jain, S.S.
+AU  - Coravos, A.
+AU  - Mendelsohn, D.
+AU  - Izmailova, E.S.
+TI  - An Evaluation of Biometric Monitoring Technologies for Vital Signs in the Era of COVID-19
+PY  - 2020
+T2  - Clinical and Translational Science
+VL  - 13
+IS  - 6
+SP  - 1034
+EP  - 1044
+DO  - 10.1111/cts.12874
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092283450&doi=10.1111%2fcts.12874&partnerID=40&md5=cecc904daf6c8e033ebb26995909b8d5
+AB  - The novel coronavirus disease 2019 (COVID-19) global pandemic has shifted how many patients receive outpatient care. Telehealth and remote monitoring have become more prevalent, and measurements taken in a patient’s home using biometric monitoring technologies (BioMeTs) offer convenient opportunities to collect vital sign data. Healthcare providers may lack prior experience using BioMeTs in remote patient care, and, therefore, may be unfamiliar with the many versions of BioMeTs, novel data collection protocols, and context of the values collected. To make informed patient care decisions based on the biometric data collected remotely, it is important to understand the engineering solutions embedded in the products, data collection protocols, form factors (physical size and shape), data quality considerations, and availability of validation information. This article provides an overview of BioMeTs available for collecting vital signs (temperature, heart rate, blood pressure, oxygen saturation, and respiratory rate) and discusses the strengths and limitations of continuous monitoring. We provide considerations for remote data collection and sources of validation information to guide BioMeT use in the era of COVID-19 and beyond. © 2020 The Authors. Clinical and Translational Science published by Wiley Periodicals LLC on behalf of the American Society for Clinical Pharmacology and Therapeutics.
+KW  - Biometry
+KW  - Body Temperature
+KW  - COVID-19
+KW  - Data Collection
+KW  - Humans
+KW  - Oxygen
+KW  - Respiration
+KW  - SARS-CoV-2
+KW  - Telemedicine
+KW  - Vital Signs
+KW  - oxygen
+KW  - artifact
+KW  - biometry
+KW  - blood pressure
+KW  - body temperature
+KW  - breathing rate
+KW  - coronavirus disease 2019
+KW  - electrocardiogram
+KW  - Food and Drug Administration
+KW  - heart rate
+KW  - home monitoring
+KW  - human
+KW  - hypertension
+KW  - hypoxemia
+KW  - measurement accuracy
+KW  - medical device regulation
+KW  - medical society
+KW  - oscillometry
+KW  - oxygen saturation
+KW  - photoelectric plethysmography
+KW  - priority journal
+KW  - Review
+KW  - telemonitoring
+KW  - vital sign
+KW  - biometry
+KW  - blood
+KW  - breathing
+KW  - information processing
+KW  - pathophysiology
+KW  - procedures
+KW  - telemedicine
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 44
+ER  -
+
+TY  - JOUR
+AU  - Chakraborty, I.
+AU  - Edirippulige, S.
+AU  - Vigneswara Ilavarasan, P.
+TI  - The role of telehealth startups in healthcare service delivery: A systematic review
+PY  - 2023
+T2  - International Journal of Medical Informatics
+VL  - 174
+C7  - 105048
+DO  - 10.1016/j.ijmedinf.2023.105048
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85150791856&doi=10.1016%2fj.ijmedinf.2023.105048&partnerID=40&md5=598d6178611f39eab554a275d9d77857
+AB  - Objectives: The role of startups has been growing in healthcare delivery, particularly in telehealth and telemedicine. Yet, little has been published about their role in evolving digital healthcare ecosystem. This study aimed to review the literature on telehealth startups to understand their roles, challenges, business models, and directions for sustainable innovation and commercialization. Methods: Ten databases were screened: PubMed, Scopus, Web of Science, IEEE Xplore, ACM digital library, EBSCOhost, Embase, Medline, Cochrane review, and PsycINFO. The articles were shortlisted based on pre-determined screening criteria, and qualitative synthesis was performed. The quality of included studies was assessed using the Mixed Methods Appraisal Tool. Cohen's K was calculated to ensure the reliability of the authors scoring on the quality appraisal test and qualitative synthesis. Results: 26 articles were included in the review. Findings are clubbed under five themes: remote and on-demand healthcare; healthcare data management; digital therapeutics; high-tech driven personalized care; and information integration and exchange. Technical infrastructure, regulation, and revenue generation were identified as major challenges for telehealth start-ups. Osterwalder business canvas was the predominantly used model. Value perspectives were recognized for a sustainable telehealth innovation and its commercialization. Conclusion: Telehealth startups are evolving to meet digital healthcare needs and playing a significant role in teleconsultations, telemonitoring, and electronic health record solutions. Recently, their focus has shifted towards smartphone-enabled AI-driven personalized care, including digital therapeutics and wearable device innovation. They have significant technical and operational challenges in innovation and commercialization to optimize their role. The review also provides researchers with a new understanding of telehealth startups’ sustainable innovation and commercialization through the systematic direction of value proposition, creation, and capture. © 2023 The Author(s)
+KW  - Business
+KW  - Digital health
+KW  - Health-tech
+KW  - Teleconsultation
+KW  - Telemedicine
+KW  - Venture
+KW  - Delivery of Health Care
+KW  - Ecosystem
+KW  - Humans
+KW  - Remote Consultation
+KW  - Reproducibility of Results
+KW  - Telemedicine
+KW  - Digital libraries
+KW  - Information management
+KW  - Medical computing
+KW  - mHealth
+KW  - Commercialisation
+KW  - Digital health
+KW  - Health-tech
+KW  - Healthcare delivery
+KW  - Healthcare services
+KW  - Service delivery
+KW  - Systematic Review
+KW  - Teleconsultation
+KW  - Telehealth
+KW  - Venture
+KW  - health care delivery
+KW  - health data
+KW  - health service
+KW  - human
+KW  - Review
+KW  - systematic review
+KW  - teleconsultation
+KW  - telehealth
+KW  - telemedicine
+KW  - ecosystem
+KW  - health care delivery
+KW  - reproducibility
+KW  - teleconsultation
+KW  - Telemedicine
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 14
+ER  -
+
+TY  - JOUR
+AU  - Pleasants, R.A.
+AU  - Chan, A.H.
+AU  - Mosnaim, G.
+AU  - Costello, R.W.
+AU  - Dhand, R.
+AU  - Schworer, S.A.
+AU  - Merchant, R.
+AU  - Tilley, S.L.
+TI  - Integrating digital inhalers into clinical care of patients with asthma and chronic obstructive pulmonary disease
+PY  - 2022
+T2  - Respiratory Medicine
+VL  - 205
+C7  - 107038
+DO  - 10.1016/j.rmed.2022.107038
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142807523&doi=10.1016%2fj.rmed.2022.107038&partnerID=40&md5=d05f74bde4c3595cbea759d9a23a0010
+AB  - Modernizing inhaled medications through digital technology can help address persistent problems of non-adherence and poor inhaler technique in patients with obstructive lung diseases. With a growing body of supportive clinical studies, advances in digital inhaler sensors and platforms, greater support from payers and healthcare organizations, significant growth with these technologies is expected. While all digital (smart) inhalers record adherence, these are distinguished by their compatibility with commercial inhalers, capabilities to guide inhaler technique, use of patient-reported outcomes, and user-friendliness for both the healthcare professional (HCP) and patient. Due to the complexity and novelty of employing digital inhalers, collaboration with multiple entities within health systems is necessary and a well-planned integration is needed. For HCPs and patients, cybersecurity and privacy are critical, it will require review by each healthcare organization. In the US, some payers reimburse for remote monitoring using digital inhalers, but reimbursement is currently unavailable in other countries. There are several models for remote patient care, as employing an active, ongoing digital interface between the HCP and patient or they may choose to only review data at clinical encounters. Personalization of therapies and feedback are key to success. While digital inhaler malfunction uncommonly occurs, patient attrition over a year is significant. Some patients will be challenged to use digital platforms or have the necessary technology. Additional research is needed to address cost-effectiveness, in vivo accuracy of inspiratory measurement capable devices, ability to teach inhaler technique, their application for monitoring lung function, and lastly real-world adoption and implementation in routine clinical practice. © 2022 Elsevier Ltd
+KW  - Adherence
+KW  - Digital inhaler
+KW  - Health systems
+KW  - Implementation
+KW  - Inhaler technique
+KW  - Patient care
+KW  - Administration, Inhalation
+KW  - Asthma
+KW  - Dry Powder Inhalers
+KW  - Humans
+KW  - Metered Dose Inhalers
+KW  - Nebulizers and Vaporizers
+KW  - Patients
+KW  - Pulmonary Disease, Chronic Obstructive
+KW  - beta adrenergic receptor stimulating agent
+KW  - short acting drug
+KW  - asthma
+KW  - chronic obstructive lung disease
+KW  - computer security
+KW  - cost effectiveness analysis
+KW  - data privacy
+KW  - device approval
+KW  - health care cost
+KW  - health care utilization
+KW  - human
+KW  - lung function test
+KW  - medical device regulation
+KW  - medication compliance
+KW  - patient care
+KW  - patient selection
+KW  - Review
+KW  - systematic review
+KW  - telemonitoring
+KW  - asthma
+KW  - chronic obstructive lung disease
+KW  - dry powder inhaler
+KW  - inhalational drug administration
+KW  - metered dose inhaler
+KW  - nebulizer
+KW  - patient
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 9
+ER  -
+
+TY  - JOUR
+AU  - Cohen, I.G.
+AU  - Gerke, S.
+AU  - Kramer, D.B.
+TI  - Ethical and Legal Implications of Remote Monitoring of Medical Devices
+PY  - 2020
+T2  - Milbank Quarterly
+VL  - 98
+IS  - 4
+SP  - 1257
+EP  - 1289
+DO  - 10.1111/1468-0009.12481
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092901291&doi=10.1111%2f1468-0009.12481&partnerID=40&md5=3798939cc841d76c67eb54c6c6868442
+AB  - Policy Points Millions of life-sustaining implantable devices collect and relay massive amounts of digital health data, increasingly by using user-downloaded smartphone applications to facilitate data relay to clinicians via manufacturer servers. Our analysis of health privacy laws indicates that most US patients may have little access to their own digital health data in the United States under the Health Insurance Portability and Accountability Act Privacy Rule, whereas the EU General Data Protection Regulation and the California Consumer Privacy Act grant greater access to device-collected data. Our normative analysis argues for consistently granting patients access to the raw data collected by their implantable devices. Context: Millions of life-sustaining implantable devices collect and relay massive amounts of digital health data, increasingly by using user-downloaded smartphone applications to facilitate data relay to clinicians via manufacturer servers. Whether patients have either legal or normative claims to data collected by these devices, particularly in the raw, granular format beyond that summarized in their medical records, remains incompletely explored. Methods: Using pacemakers and implantable cardioverter-defibrillators (ICDs) as a clinical model, we outline the clinical ecosystem of data collection, relay, retrieval, and documentation. We consider the legal implications of US and European privacy regulations for patient access to either summary or raw device data. Lastly, we evaluate ethical arguments for or against providing patients access to data beyond the summaries presented in medical records. Findings: Our analysis of applicable health privacy laws indicates that US patients may have little access to their raw data collected and held by device manufacturers in the United States under the Health Insurance Portability and Accountability Act Privacy Rule, whereas the EU General Data Protection Regulation (GDPR) grants greater access to device-collected data when the processing of personal data falls under the GDPR's territorial scope. The California Consumer Privacy Act, the “little sister” of the GDPR, also grants greater rights to California residents. By contrast, our normative analysis argues for consistently granting patients access to the raw data collected by their implantable devices. Smartphone applications are increasingly involved in the collection, relay, retrieval, and documentation of these data. Therefore, we argue that smartphone user agreements are an emerging but potentially underutilized opportunity for clarifying both legal and ethical claims for device-derived data. Conclusions: Current health privacy legislation incompletely supports patients’ normative claims for access to digital health data. © 2020 Milbank Memorial Fund
+KW  - GDPR
+KW  - health policy
+KW  - HIPAA
+KW  - implantable cardioverter-defibrillators
+KW  - pacemakers
+KW  - Electronic Health Records
+KW  - Ethics, Medical
+KW  - Europe
+KW  - Health Insurance Portability and Accountability Act
+KW  - Humans
+KW  - Pacemaker, Artificial
+KW  - Patient Rights
+KW  - United States
+KW  - access to information
+KW  - Article
+KW  - health care policy
+KW  - hospital care
+KW  - human
+KW  - information retrieval
+KW  - medical documentation
+KW  - medical ethics
+KW  - medical record
+KW  - medical research
+KW  - medicolegal aspect
+KW  - priority journal
+KW  - privacy
+KW  - remote sensing
+KW  - telemonitoring
+KW  - United States
+KW  - artificial heart pacemaker
+KW  - electronic health record
+KW  - ethics
+KW  - Europe
+KW  - health insurance
+KW  - legislation and jurisprudence
+KW  - medical ethics
+KW  - patient right
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 22
+ER  -
+
+TY  - CONF
+AU  - Dogra, A.
+AU  - Alkhayyat, A.
+AU  - Saxena, A.
+AU  - Dixit, K.K.
+AU  - Singh, I.
+AU  - Singh, S.
+TI  - Enhancing Data Privacy and Security in Healthcare IoT Applications Through Edge Data Filtering and Encryption for Secure and Compliant Cloud Transmission
+PY  - 2024
+T2  - Lecture Notes in Networks and Systems
+VL  - 1048 LNNS
+SP  - 362
+EP  - 368
+DO  - 10.1007/978-3-031-64650-8_35
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200760067&doi=10.1007%2f978-3-031-64650-8_35&partnerID=40&md5=6fd56b2d66701ff08e97f56c6c681a47
+AB  - IoT technology have been incorporated into healthcare systems to manage medical equipment, remotely monitor patients, and gather important health-related data. Although these advances have many advantages, they also present new security risks. The healthcare sector must protect patient data from online threats and illegal access, as well as make sure that it complies with laws like HIPAA and GDPR. This project focuses on using ESP32 WiFi boards as edge devices to overcome these issues. These cost- and energy-effective microcontrollers provide the computing capability and WiFi connectivity required for data transmission. The research project attempts to lower the risk of data breaches and unauthorized access by introducing data filtering and encryption at the edge. Sensitive patient data is encrypted, and access restrictions, data validation, intrusion detection, and compliance checks are all included in the planned security measures. These precautions are meant to make sure that only approved, secure, and legal data is sent to the cloud. To preserve the security and functioning of the ESP32 devices, the project also highlights the value of user education, device health monitoring, and remote management. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2024.
+KW  - Computer security
+KW  - Computer vision
+KW  - Object recognition
+KW  - Research
+KW  - Compliance control
+KW  - Computer vision
+KW  - Cryptography
+KW  - Health care
+KW  - Information management
+KW  - Intrusion detection
+KW  - Medical computing
+KW  - Object recognition
+KW  - Remote control
+KW  - Remote patient monitoring
+KW  - Sensitive data
+KW  - Data encryption
+KW  - Data filtering
+KW  - Data privacy and securities
+KW  - Edge data
+KW  - Healthcare sectors
+KW  - Healthcare systems
+KW  - Objects recognition
+KW  - Online threats
+KW  - Patient data
+KW  - Security risks
+KW  - Internet of things
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Lu, C.-S.
+AU  - Jiang, Z.-R.
+AU  - Wang, X.
+AU  - Li, K.-Y.
+AU  - Lin, G.-Y.
+AU  - Yang, Y.-Q.
+AU  - Lin, Y.-H.
+AU  - Zheng, G.-Y.
+AU  - Xie, B.-S.
+AU  - Liu, X.-Y.
+TI  - Wearable respiratory function detection system based on dynamic humidity sensing: Principle and experimental comparison of lung function detection*
+ST  - 基于动态湿度传感的穿戴式呼吸功能检测系统: 肺功能测量原理与实验对照
+PY  - 2024
+T2  - Wuli Xuebao/Acta Physica Sinica
+VL  - 73
+IS  - 3
+C7  - 038701
+DO  - 10.7498/aps.73.20231787
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185201852&doi=10.7498%2faps.73.20231787&partnerID=40&md5=9e2cfef5b963412c110e828f5972dc47
+AB  - Traditional lung function detectors are based on measuring the changes in airflow and pressure during expiration and inspiration to evaluate the respiratory function of the subject. These techniques are mainly based on mechanical differential pressure sensors or turbine sensors which evaluate the lung function of the subject by measuring the ability of the subject to blow and inhale and determine their lung function parameters, including peak expiratory flow (PEF) and forced vital capacity (FVC). In this study, we present a wearable respiratory function testing system called the wearable respiratory spectrometer, which is developed based on dynamic humidity sensing technology. By exploring the principles and quantitative design of respiratory detection and conducting simulations of humidity sensors, we investigate the comprehensive characteristics of the system. According to Darcy’s law, the gas flow measured by the wearable respiratory spectrometer is directly proportional to the pressure difference inside and outside the device, showing that the system follows the differential pressure sensing principle. According to this basis and combining the structural characteristics of the system, we establish a quantitative relationship among PEF, FVC, and the changes in sensor electrical signals. The experimental results validate a linear positive correlation between the maximum rate of relative humidity change inside the spectrometer and PEF. Additionally, the results of simulated moisture volume experiments of the spectrometer show that in the measurement range from 180 to 840 L/min, the indication error of PEF is less than 10%, the adjacent test error is less than 5%, and the frequency response test error is less than 12%, which meet the industry standards for peak expiratory flow meters. Moreover, we compare the spectrometer with traditional portable lung function testing devices in simulated moisture volume experiments at different PEFs (300 to 720 L/min) and FVCs (3 to 6 L) . The results demonstrate that the average indication error of measured PEF and FVC by the spectrometer are about 0.35% and 0.23%, respectively, both are much lower than those of the portable lung function testing devices, thus fully verifying the accuracy and reliability of this system for real-time lung function assessment. Importantly, under simulated free-breathing conditions (PEF from 12 to 24 L/min, FVC from 0.5 to 0.7 L), the changes in the electrical signals of the spectrometer maintain a linear relationship with the moisture volume. Therefore, the wearable respiratory spectrometer can provide the long-term, free, dynamic, and quantitative monitoring of natural and weak nasal breathing. The measured respiratory spectra of subjects have great potential in real-time monitoring of lung function and remote monitoring of respiratory system diseases. © 2024 Institute of Physics, Chinese Academy of Sciences. All rights reserved.
+KW  - flexible sensing
+KW  - respiratory function detection
+KW  - respiratory spectrum
+KW  - Biological organs
+KW  - Errors
+KW  - Flow of gases
+KW  - Function evaluation
+KW  - Moisture
+KW  - Spectrometers
+KW  - %moisture
+KW  - Flexible sensing
+KW  - Humidity sensing
+KW  - Lung function
+KW  - ON dynamics
+KW  - Peak expiratory flows
+KW  - Respiratory function
+KW  - Respiratory function detection
+KW  - Respiratory spectrum
+KW  - Spectra's
+KW  - Frequency response
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Kulbayeva, S.
+AU  - Tazhibayeva, K.
+AU  - Seiduanova, L.
+AU  - Smagulova, I.
+AU  - Mussina, A.
+AU  - Tanabayeva, S.
+AU  - Fakhradiyev, I.
+AU  - Saliev, T.
+TI  - The Recent Advances of Mobile Healthcare in Cardiology Practice
+PY  - 2022
+T2  - Acta Informatica Medica
+VL  - 30
+IS  - 3
+SP  - 236
+EP  - 250
+DO  - 10.5455/aim.2022.30.236-250
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139226407&doi=10.5455%2faim.2022.30.236-250&partnerID=40&md5=2566d6ece8447edf71348b084e5497b7
+AB  - Background: Digitalization of healthcare led to the optimization of monitoring, diagnostics, and treatment of the range of disorders. Taking into account recent situation with COVID-19 pandemics, digital technologies allowed to improve management of viral infections via remote monitoring and diagnostics of infected patients. Up to date, various mobile health applications (apps) have been proposed, including apps for the patients diagnosed with cardiovascular pathologies. Objective: The presented review aimed at the analyses of a range of mHealth solutions used to improve primary cardiac care. In addition, we studied the factors driving and hindering the wide introduction of mHealth services in the clinics. Methods: The work was based on the guidelines of the preferred reporting items for systematic reviews and meta-Analyses (PRISMA) statement. The publication search was carried out using PubMed, Web of Science, Cochrane Library, Scopus, and Google Scholar databases. Studies published during the period from 2014 until January 2022 were selected for the analysis. The evaluation of risk of bias for the included studies was conducted using the Cochrane Collaboration Risk of Bias tool. Results and Discussion: An overall 5513 studies were assessed for eligibility after which 39 studies were included. The main trend in the mobile health for cardiological applications is the use of different types of wearable devices and Artificial Intelligence-platforms. In fact, mobile technology allows remotely to monitor, interpret, and analyze biomedical data collected from the patient. Conclusion: The results of this literature search demonstrated that patients diagnosed with cardiovascular disorders can potentially benefit from the application of mHealth in cardiology. However, despite the proven advantages of mHealth for cardiology, there are many challenges and concerns regarding effectiveness, safety, reliability and the lack of official regulation and guidelines from official organizations. Such issues require solutions and further work towards a wide implementation of mHealth technologies in cardiac practice.  © 2022 Shynar Kulbayeva.
+KW  - Cardiology
+KW  - Mobile app
+KW  - Mobile applications
+KW  - Telemedicine
+KW  - adult
+KW  - aged
+KW  - artificial intelligence
+KW  - cardiology
+KW  - cardiovascular disease
+KW  - clinical practice
+KW  - cochrane collaboration risk of bias tool
+KW  - Cochrane Library
+KW  - cohort analysis
+KW  - controlled study
+KW  - data collection method
+KW  - digital technology
+KW  - digitalization
+KW  - evaluation study
+KW  - female
+KW  - health care delivery
+KW  - health care disparity
+KW  - human
+KW  - male
+KW  - medical technology
+KW  - Medline
+KW  - middle aged
+KW  - multicenter study (topic)
+KW  - observational study
+KW  - Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+KW  - prospective study
+KW  - publication
+KW  - publication bias
+KW  - quality assessment tool
+KW  - quality control
+KW  - randomized controlled trial (topic)
+KW  - retrospective study
+KW  - Review
+KW  - Scopus
+KW  - search engine
+KW  - systematic review
+KW  - telemedicine
+KW  - telemonitoring
+KW  - total quality management
+KW  - trend study
+KW  - Web of Science
+KW  - wireless communication
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 4
+ER  -
+
+TY  - CHAP
+AU  - Ahuja, L.
+AU  - Simon, R.
+AU  - Thakur, A.
+TI  - Privacy and Security Considerations in Healthcare: Navigating the Challenges of IoT and Ubiquitous Computing
+PY  - 2024
+T2  - Smart Technologies in Healthcare Management: Pioneering Trends and Applications
+SP  - 164
+EP  - 181
+DO  - 10.1201/9781003330523-12
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196597940&doi=10.1201%2f9781003330523-12&partnerID=40&md5=1037e8156b4d3be4cafa1c71a5714aaf
+AB  - As healthcare embraces the benefits of IoT devices, wearable health trackers, remote patient monitoring systems, and telemedicine platforms, the potential hazards to patient data and confidentiality expand rapidly. The integration of these technologies into healthcare services necessitates careful thought and aggressive actions to safeguard sensitive medical information against breaches and illegal access. With medical equipment and data-sharing platforms becoming more interconnected, the necessity for strong security measures cannot be stressed. This chapter highlights the significance of robust encryption mechanisms, access restrictions, and compliance with key legislative frameworks such as the General Data Protection Regulation (GDPR) and the Health Insurance Portability and Accountability Act (HIPAA). It investigates ways for securing telemedicine and remote healthcare services, protecting patient data during transmission, and maintaining ethical data practices in order to assure patient confidence and compliance. Understanding the problems offered by IoT and ubiquitous computing is critical as healthcare develops toward a linked and data-driven world. This chapter investigates the intricacies of privacy and security in healthcare, emphasizing the vital role of healthcare stakeholders in protecting patient information. Reading this chapter will provide healthcare professionals and organizations with valuable insights into dealing with the evolving privacy and security landscape, ensuring patient confidentiality, and providing a secure environment for leveraging the transformative potential of IoT and ubiquitous computing in healthcare. © 2024 selection and editorial matter Nidhi Sindhwani, Sarvesh Tanwar, Ajay Rana, and Ramani Kannan individual chapters, the contributors.
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Bukhtiyarov, I.V.
+AU  - Zhovnerchuk, E.V.
+AU  - Lebedev, G.S.
+AU  - Panova, I.V.
+TI  - Opportunities for using telemedicine in occupational pathology
+PY  - 2020
+T2  - Meditsina Truda I Promyshlennaya Ekologiya
+VL  - 60
+IS  - 10
+SP  - 634
+EP  - 639
+DO  - 10.31089/1026-9428-2020-60-10-634-639
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85100598010&doi=10.31089%2f1026-9428-2020-60-10-634-639&partnerID=40&md5=7fae8bf5e7c6dcf7080af3e95d80f9dc
+AB  - Introduction. The Russian Federation has certain socio-demographic and geographical features that make it difficult to provide qualified medical care to the population. The relevance of telemedicine in modern conditions is difficult to overestimate. Telecommunications technologies have significant potential to address the challenges of providing affordable, cost-effective and high-quality health services to the population. Telemedicine uses information and communication technologies to overcome geographical barriers and increase public access to health services. On May 9, 2017, the President of the Russian Federation approved the "Strategy for the development of the information society in the Russian Federation for 2017-2030" by decree № 203. Digital healthcare is an integral part of the digital economy. The aim of study is to analyze the regulatory framework for telemedicine support of occupational pathology activities. Materials and methods. The analysis of the development of telemedicine technologies in the Russian Federation is carried out. The legal framework regulating the work of a professional pathologist using telemedicine technologies has been studied. Results. Consultation of the patient or his legal representative by the medical officer are prevention, collection, analysis of the patient's complaints and data of anamnesis, evaluation of the efficiency of diagnostic and therapeutic activities, medical monitoring of patient's condition and decision on the need for face-to-face reception (examination, consultation). The implementation of these measures using telemedicine technologies is regulated by article 36.2 of Federal Law № 323-FZ, which states that remote monitoring of the patient's health and correction of previously prescribed treatment by the attending physician can be carried out after an in-person appointment (examination, consultation). Remote surveillance is carried out on the basis of data about the patient, was with the use of medical devices intended for monitoring human body, and/or on the basis of the data entered into the unified state information system in health care, or public information system in healthcare of the Russian Federation, or medical information system or information system referred to in part 5 of article 91 of the Federal Law № 323-FZ in compliance with, established by the legislation of the Russian Federation in the field of personal data, and compliance with medical confidentiality. Conclusions. It is necessary to implement telemedicine technologies for pre-hospital consultation of patients to clarify the preliminary diagnosis, methods of examination and treatment, and advice on patient management tactics in the long-term period of the disease. The question of using technologies for patient consultation in the "patient–doctor" system remains open due to the peculiarities of diagnostic and expert work of professional pathologists, which requires the analysis of a large number of documents provided by various departments (medical organizations of different forms of ownership, the office of Rospotrebnadzor, Medical and Social Expertise (MSE), employer, etc.). © 2020, Institut meditsiny truda RAMN. All rights reserved.
+KW  - Professional pathology
+KW  - Telemedicine
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Khan, S.R.
+AU  - Mugisha, A.J.
+AU  - Tsiamis, A.
+AU  - Mitra, S.
+TI  - Commercial Off-the-Shelf Components (COTS) in Realizing Miniature Implantable Wireless Medical Devices: A Review
+PY  - 2022
+T2  - Sensors
+VL  - 22
+IS  - 10
+C7  - 3635
+DO  - 10.3390/s22103635
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85129696533&doi=10.3390%2fs22103635&partnerID=40&md5=72facfb7f906ff7c18ebf36dade91349
+AB  - Over the past decade, there has been exponential growth in the per capita rate of medical patients around the world, and this is significantly straining the resources of healthcare institutes. Therefore, the reliance on smart commercial off-the-shelf (COTS) implantable wireless medical devices (IWMDs) is increasing among healthcare institutions to provide routine medical services, such as monitoring patients’ physiological signals and the remote delivery of therapeutic drugs. These smart COTS IWMDs reduce the necessity of recurring visits of patients to healthcare institutions and also mitigate physical contact, which can minimize the possibility of any potential spread of contagious diseases. Furthermore, the devices provide patients with the benefit of recuperating in familiar surroundings. As such, low-cost, ubiquitous COTS IWMDs have engendered the proliferation of telemedicine in healthcare to provide routine medical services. In this paper, a review work on COTS IWMDs is presented at a macro level to discuss the history of IWMDs, different networked COTS IWMDs, health and safety regulations of COTS IWMDs and the importance of organized procurement. Furthermore, we discuss the basic building blocks of IWMDs and how COTS components can contribute to build these blocks over widely researched custom-built application-specific integrated circuits. © 2022 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - commercial off-the-shelf (COTS)
+KW  - encapsulation
+KW  - implantable wireless medical devices (IWMDs)
+KW  - telemedicine
+KW  - wireless body area networks (WBAN)
+KW  - wireless power transfer (WPT)
+KW  - Humans
+KW  - Monitoring, Physiologic
+KW  - Prostheses and Implants
+KW  - Telemedicine
+KW  - Health care
+KW  - Remote patient monitoring
+KW  - Software packages
+KW  - Telemedicine
+KW  - Wireless local area networks (WLAN)
+KW  - Commercial off the shelves
+KW  - Commercial off-the shelves
+KW  - Commercial off-the-shelf
+KW  - Commercial-off-the-shelf
+KW  - Implantable wireless medical device
+KW  - Power transfers
+KW  - Wireless body area network
+KW  - Wireless medical devices
+KW  - Wireless power
+KW  - Wireless power transfer
+KW  - human
+KW  - physiologic monitoring
+KW  - prostheses and orthoses
+KW  - telemedicine
+KW  - Energy transfer
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 8
+ER  -
+
+TY  - JOUR
+AU  - Kario, K.
+AU  - Tomitani, N.
+AU  - Wang, T.-D.
+AU  - Park, S.
+AU  - Li, Y.
+AU  - Shin, J.
+AU  - Tsoi, K.
+AU  - Chen, C.-H.
+AU  - Cheng, H.-M.
+AU  - Siddique, S.
+AU  - Turana, Y.
+AU  - Buranakitjaroen, P.
+AU  - Van Huynh, M.
+AU  - Nailes, J.
+AU  - Sison, J.
+AU  - Soenarta, A.A.
+AU  - Sogunuru, G.P.
+AU  - Sukonthasarn, A.
+AU  - Tay, J.C.
+AU  - Teo, B.W.
+AU  - Verma, N.
+AU  - Zhang, Y.
+AU  - Schlaich, M.
+AU  - Nagai, M.
+AU  - Fujiwara, T.
+AU  - Hoshide, S.
+AU  - Chia, Y.-C.
+AU  - Wang, J.-G.
+TI  - Home blood pressure-centered approach – from digital health to medical practice: HOPE Asia Network consensus statement 2023
+PY  - 2023
+T2  - Hypertension Research
+VL  - 46
+IS  - 12
+SP  - 2561
+EP  - 2574
+DO  - 10.1038/s41440-023-01397-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85168449811&doi=10.1038%2fs41440-023-01397-6&partnerID=40&md5=f7a53fc12a0f24d7d1c4a5b0f8a0d602
+AB  - Recent innovations in digital technology have enabled the simultaneous accumulation, and the linking and analysis of time-series big data relating to several factors that influence blood pressure (BP), including biological indicators, physical activity, and environmental information. Various approaches can be used to monitor BP: in the office/clinic; at home; 24-h ambulatory recording; or with wearable and cuffless devices. Of these, home BP monitoring is a reliable and convenient method, and is recommended for hypertension management by current national and international guidelines. This recommendation is based on evidence showing that home BP is an important predictor of cardiovascular, cerebrovascular and kidney disease in patients with hypertension. In addition, lifetime personalized health record (PHR)-based home BP with telemonitoring combined with co-interventions has been shown to lower BP more effectively than the traditional approach based on office BP. Thus, home BP represents a key metric for personalized anticipation medicine, from digital healthcare to digital medicine. This paper summarizes the latest evidence on home BP monitoring and proposes a Hypertension Cardiovascular Outcome Prevention and Evidence in Asia (HOPE Asia) Network consensus on a home BP-centered approach to the management of hypertension. [Figure not available: see fulltext.] © 2023, The Author(s), under exclusive licence to The Japanese Society of Hypertension.
+KW  - Anticipation medicine
+KW  - Digital health
+KW  - Home blood pressure
+KW  - HOPE Asia Network
+KW  - Personalized health record
+KW  - Personalized medicine
+KW  - Asia
+KW  - Blood Pressure
+KW  - Blood Pressure Determination
+KW  - Blood Pressure Monitoring, Ambulatory
+KW  - Humans
+KW  - Hypertension
+KW  - antihypertensive agent
+KW  - arteriosclerosis
+KW  - blood pressure
+KW  - blood pressure monitoring
+KW  - blood pressure regulation
+KW  - cardiovascular disease
+KW  - cardiovascular risk
+KW  - cardiovascular risk factor
+KW  - cerebrovascular disease
+KW  - coronary artery disease
+KW  - digital health
+KW  - digital healthcare
+KW  - digital technology
+KW  - digital therapy
+KW  - environmental factor
+KW  - health care
+KW  - health care personnel
+KW  - heart failure
+KW  - heart hypertrophy
+KW  - heart rate variability
+KW  - high risk patient
+KW  - home blood pressure
+KW  - human
+KW  - hypertension
+KW  - hypoxia
+KW  - kidney disease
+KW  - medical practice
+KW  - medical procedures
+KW  - night sleep
+KW  - personalized medicine
+KW  - physical activity
+KW  - resistant hypertension
+KW  - Review
+KW  - risk factor
+KW  - sleep apnea syndromes
+KW  - sleep disorder
+KW  - sleep quality
+KW  - telemedicine
+KW  - telemonitoring
+KW  - Asia
+KW  - blood pressure
+KW  - blood pressure measurement
+KW  - hypertension
+KW  - procedures
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 10
+ER  -
+
+TY  - JOUR
+AU  - Bin, K.J.
+AU  - De Pretto, L.R.
+AU  - Sanchez, F.B.
+AU  - De Souza e Castro, F.P.M.
+AU  - Ramos, V.D.
+AU  - Battistella, L.R.
+TI  - Digital Platform for Continuous Monitoring of Patients Using a Smartwatch: Longitudinal Prospective Cohort Study
+PY  - 2023
+T2  - JMIR Formative Research
+VL  - 7
+IS  - 1
+C7  - e47388
+DO  - 10.2196/47388
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85173551745&doi=10.2196%2f47388&partnerID=40&md5=2be645aa7d4b8676ac963c74fdd43486
+AB  - Background: Since the COVID-19 pandemic, there has been a boost in the digital transformation of the human society, where wearable devices such as a smartwatch can already measure vital signs in a continuous and naturalistic way; however, the security and privacy of personal data is a challenge to expanding the use of these data by health professionals in clinical follow-up for decision-making. Similar to the European General Data Protection Regulation, in Brazil, the Lei Geral de Proteção de Dados established rules and guidelines for the processing of personal data, including those used for patient care, such as those captured by smartwatches. Thus, in any telemonitoring scenario, there is a need to comply with rules and regulations, making this issue a challenge to overcome. Objective: This study aimed to build a digital solution model for capturing data from wearable devices and making them available in a safe and agile manner for clinical and research use, following current laws. Methods: A functional model was built following the Brazilian Lei Geral de Proteção de Dados (2018), where data captured by smartwatches can be transmitted anonymously over the Internet of Things and be identified later within the hospital. A total of 80 volunteers were selected for a 24-week follow-up clinical trial divided into 2 groups, one group with a previous diagnosis of COVID-19 and a control group without a previous diagnosis of COVID-19, to measure the synchronization rate of the platform with the devices and the accuracy and precision of the smartwatch in out-of-hospital conditions to simulate remote monitoring at home. Results: In a 35-week clinical trial, >11.2 million records were collected with no system downtime; 66% of continuous beats per minute were synchronized within 24 hours (79% within 2 days and 91% within a week). In the limit of agreement analysis, the mean differences in oxygen saturation, diastolic blood pressure, systolic blood pressure, and heart rate were -1.280% (SD 5.679%), -1.399 (SD 19.112) mm Hg, -1.536 (SD 24.244) mm Hg, and 0.566 (SD 3.114) beats per minute, respectively. Furthermore, there was no difference in the 2 study groups in terms of data analysis (neither using the smartwatch nor the gold-standard devices), but it is worth mentioning that all volunteers in the COVID-19 group were already cured of the infection and were highly functional in their daily work life. Conclusions: On the basis of the results obtained, considering the validation conditions of accuracy and precision and simulating an extrahospital use environment, the functional model built in this study is capable of capturing data from the smartwatch and anonymously providing it to health care services, where they can be treated according to the legislation and be used to support clinical decisions during remote monitoring. © JMIR Formative Research.All rights reserved.
+KW  - clinical intervention
+KW  - clinical trial
+KW  - digital health
+KW  - digital platform
+KW  - GDPR
+KW  - General Data Protection Regulation
+KW  - Lei Geral de Proteção de Dados
+KW  - LGPD
+KW  - mobile health
+KW  - mobile phone
+KW  - sensitive data
+KW  - smartwatch
+KW  - telemedicine
+KW  - telemonitoring
+KW  - wearable
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Bukhtiyarov, I.V.
+AU  - Zemlyakova, S.S.
+TI  - Medical activity in the health care system of workers in the Russian Federation
+PY  - 2022
+T2  - Meditsina Truda I Promyshlennaya Ekologiya
+VL  - 62
+IS  - 6
+SP  - 362
+EP  - 376
+DO  - 10.31089/1026-9428-2022-62-6-362-376
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85136220311&doi=10.31089%2f1026-9428-2022-62-6-362-376&partnerID=40&md5=3155e433010386033e3ec08354d3a0de
+AB  - Introduction. One of the most important directions in the development of health care in the Russian Federation is the improvement of approaches to maintaining the health of workers. In order to achieve this aim measures are being taken to prevent the development of occupational diseases, ensure the proper quality and availability of medical care in the occupational medicine and the staffing of medical organizations. Particular attention is paid to preventive measures, a healthy lifestyle and its promotion, and the identification of early signs of occupational diseases. The aim of the article is to determine perspective directions for the development of the health care system for workers with harmful (or) hazardous factors and working conditions, including an analysis of volumetric and structural indicators of medical activity as well as existing and developing legal acts regulating medical care for occupational medicine. Materials and methods. The legal acts regulating the health care of the workers, data from scientific research and scientific publications, statistical reports (form No. 30 "Information about the medical organization"; reporting materials of occupational medicine centers of the Russia's federal constituent entities) for the period 2016-2020 were studied and analyzed. Results. Today measures to improve the legal regulation of the health care of workers are one of the priority tasks of the state. Medical activity in the health of workers consists in carrying out preventive measures (determining a list of harmful and(or) dangerous production factors and work during the performance of which mandatory preliminary medical examinations are carried out upon admission to work and periodic medical examinations; a special assessment of working conditions; mandatory preliminary and periodic medical examinations), examinations of professional suitability, examinations of the connection between the disease and the occupation; medical care in occupational medicine; medical rehabilitation for medical reasons, medical and social expertise, social rehabilitation, spa and sanatorium treatment. In accordance with statistical data 654 occupational pathologists worked in the Russian Federation in 2020. In medical organizations 1961 full-time positions of occupational pathologists were organized, while the number of occupied positions was 1311, i. e. the staffing of occupational pathologists was 66.8%. A downward trend in the staffing of medical organizations with occupational pathologists has been noted over the past few years. Only 18.2% of all occupational pathologists had the highest category; 74% of occupational pathologists do not have a qualification category. The insufficient level of staffing and qualification of occupational pathologists has led to an increase in the burden on doctors and a decrease in the quality of preventive, therapeutic and diagnostic measures. The number of persons subjected to mandatory preliminary and periodic medical examinations amounted to 8.9 and 9.5 million people in 2018 and 2019 respectively. 7.43 million people were subject to inspections in 2020. The proportion of those examined within 3 years (from 2018 to 2020) remains at the same level and ranges from 98.2 to 98.6%. The share of examined persons with temporary/permanent medical contraindications to work in 2019 and 2020 did not change and amounted to 1.4%. In 2018 this index was 1.8%. At the same time the volumetric and structural indicators of medical activity in occupational medicine are poorly understood because occupational diseases are not socially significant and they are not recorded in the Unified State Health Information System. In this regard it is advisable to optimize approaches to statistical analysis: take into account the volumetric and structural indicators of medical activity in the system of protecting the health of workers including examinations of professional suitability and examinations of the connection between the disease and the occupation, mandatory preliminary and periodic medical examinations. Limitations. The study examined the results of a limited number of statistical forms. Conclusion. The regulatory legal acts in the Russian Federation makes it possible to provide workers with high-quality and affordable medical care. Currently, serious work is underway to modernize the legal acts regulating the protection of the health of workers in order to save the health of workers and their efficiency by obtaining and analyzing objective information sufficient to develop evidencebased tactical and strategic management decisions for the prevention of professional, professionally conditioned and general morbidity, reducing disability due to occupational diseases, reducing labor losses due to illness, maintaining working longevity. Volumetric and structural indicators of medical activity in occupational medicine are currently little studied, in this regard it is advisable to optimize approaches to statistical analysis. Special attention should be paid to the quality of staffing of medical organizations: the quality of continuous professional education of occupational pathologists. It is advisable to continue work to increase the availability of medical care in occupational medicine and the effectiveness of organizing mandatory medical examinations including telemedicine technologies and mobile medical teams. Mandatory medical examinations of workers must be carried out including using technical means and medical devices that provide automated remote transmission of information about the health status of workers and remote monitoring of their health status. Ethics. The authors were guided by the ethical principles of medical research as outlined in the latest revision of the Declaration of Helsinki by the World Medical Association. © 2022, Izmerov Research Institute of Occupational Medicine. All rights reserved.
+KW  - examinations of professional suitability
+KW  - examinations of the connection between the disease and the occupation
+KW  - health care of workers
+KW  - mandatory medical examinations
+KW  - medical rehabilitation
+KW  - occupational diseases
+KW  - prevention
+KW  - regulatory legal acts
+KW  - sanatorium and spa treatment
+KW  - volumetric and structural indicators
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Pallotti, A.
+AU  - Mwangi, C.
+AU  - Jahjah, M.
+TI  - Teleneurology Applications based on the Internet of Remote Medical Things
+PY  - 2024
+T2  - 2024 IEEE International Workshop on Metrology for AeroSpace, MetroAeroSpace 2024 - Proceeding
+SP  - 333
+EP  - 337
+DO  - 10.1109/MetroAeroSpace61015.2024.10591515
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200547566&doi=10.1109%2fMetroAeroSpace61015.2024.10591515&partnerID=40&md5=5c53679c06e0a3db015ec6a68855abd7
+AB  - In recent decades, telemedicine has revolutionized the healthcare landscape, offering innovative solutions to improve the accessibility and efficiency of medical care. In this context, the Internet of Things (IoT) has played a significant role, facilitating connectivity and data exchange between medical devices and healthcare providers. However, while traditional IoT primarily focuses on local connectivity, the evolution towards the Internet of Remote Medical Things (IoRMT) has opened new frontiers in telemedicine, enabling the monitoring and treatment of patients even in remote or hard-to-reach areas. IoRMT represents an integrated approach that leverages advanced communication and sensing technologies to enable the connection and interaction of remote medical devices with healthcare networks. This interconnected infrastructure allows healthcare professionals to monitor patients in real-time, diagnose medical conditions, and provide personalized care, regardless of their geographical location. Through the adoption of wearable sensors, remote monitoring devices, and teleassistance systems, IoRMT offers a wide range of applications in telemedicine. One of the key areas where IoRMT has demonstrated its potential is in the management of chronic diseases. Patients suffering from conditions such as diabetes, hypertension, or heart disease can benefit from regular monitoring and real-time feedback from their healthcare providers, enabling more effective and proactive management of their health conditions. Additionally, IoRMT facilitates the delivery of specialized care in remote areas where access to healthcare services is limited. However, the implementation of IoRMT in telemedicine presents significant challenges, including data security, patient privacy, and the quality of network connections in remote areas. It is crucial to address these challenges through the implementation of advanced security protocols, compliance with data privacy regulations, and optimization of communication infrastructures. In conclusion, the Internet of Remote Medical Things represents a significant evolution in telemedicine, offering innovative solutions to improve the accessibility, efficiency, and quality of remote medical care. Through the integration of advanced technologies and clinical practices, IoRMT has the potential to radically transform the way healthcare is delivered and received worldwide, contributing to the improvement of health and well-being in global communities. © 2024 IEEE.
+KW  - Artificial Intellingence
+KW  - ASInet
+KW  - Digital Neurology
+KW  - Internet of Remote Medical Things
+KW  - Machine Learning
+KW  - Satellite Communications
+KW  - Teleconsulting
+KW  - Telemedicine
+KW  - Telemonitoring
+KW  - Data privacy
+KW  - Diseases
+KW  - E-learning
+KW  - Efficiency
+KW  - Electronic data interchange
+KW  - Internet of things
+KW  - Machine learning
+KW  - Network security
+KW  - Remote patient monitoring
+KW  - Artificial intellingence
+KW  - Asinet
+KW  - Digital neurology
+KW  - Innovative solutions
+KW  - Internet of remote medical thing
+KW  - Machine-learning
+KW  - Medical Devices
+KW  - Satellite communications
+KW  - Tele-monitoring
+KW  - Teleconsulting
+KW  - Telemedicine
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Panicacci, S.
+AU  - Giuffrida, G.
+AU  - Donati, M.
+AU  - Lubrano, A.
+AU  - Ruiu, A.
+AU  - Fanucci, L.
+TI  - Empowering home health monitoring of Covid-19 patients with smartwatch position and fitness tracking
+PY  - 2021
+T2  - Proceedings - IEEE Symposium on Computer-Based Medical Systems
+VL  - 2021-June
+C7  - 9474702
+SP  - 348
+EP  - 353
+DO  - 10.1109/CBMS52027.2021.00109
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85110800997&doi=10.1109%2fCBMS52027.2021.00109&partnerID=40&md5=062b26bf739a2a8fb9f4cd100d234087
+AB  - The current Covid-19 pandemic has limited direct contacts among people, since the virus is usually widespread by the drops of saliva. Then, this world outbreak has brought the need to track patients' positions, especially to verify the respect of quarantine regulations for infected people and for their strict contacts. Moreover, the conditions of elderly and high risk patients should be continuously monitored, minimising, at the same time, the exposure of general practitioners. Among the several solutions available on the market, telemedicine seems to be an optimal support for remote monitoring, limiting the contacts between doctors and patients, and fast reaction to worsening of clinical conditions. Telemedicine platforms can also integrate Global Navigation Satellite System technology embedded in wrist devices, to add new functionalities, useful even when the pandemic is over. In this paper, we present the smartwatch integration in the already consolidated E@syCare telemedicine platform, with the aim of tracking patients' positions and monitoring outdoor and indoor fitness sessions. The smartwatch, equipped with WearOS, should have GPS receiver, heart rate sensor and accelerometer and the developed application installed. It randomly collects positions, for patients subjected to quarantine regulations, generating an alarm in case of violation. From the GUI, the user can start fitness sessions, independently or according to the care plan. Positions and fitness sessions are downloaded by the handheld device, and become available for further analysis by the doctors. Nowadays, the platform has been already delivered to 60 patients with the support of European Space Agency (ESA).  © 2021 IEEE.
+KW  - covid-19
+KW  - fitness monitoring
+KW  - position tracking
+KW  - remote monitoring
+KW  - smartwatch
+KW  - telemedicine platform
+KW  - Global positioning system
+KW  - Space flight
+KW  - Telemedicine
+KW  - Wearable computers
+KW  - Clinical conditions
+KW  - Developed applications
+KW  - European Space Agency
+KW  - General practitioners
+KW  - Global Navigation Satellite Systems
+KW  - Heart rate sensors
+KW  - High-risk patients
+KW  - Home health monitoring
+KW  - Remote patient monitoring
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 11
+ER  -
+
+TY  - JOUR
+AU  - Watts, P.
+AU  - Breedon, P.
+AU  - Nduka, C.
+AU  - Neville, C.
+AU  - Venables, V.
+AU  - Clarke, S.
+TI  - Cloud Computing Mobile Application for Remote Monitoring of Bell’s Palsy
+PY  - 2020
+T2  - Journal of Medical Systems
+VL  - 44
+IS  - 9
+C7  - 149
+DO  - 10.1007/s10916-020-01605-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85088635001&doi=10.1007%2fs10916-020-01605-7&partnerID=40&md5=3bf293ae6915c87fa5d513742035f5cf
+AB  - Mobile applications provide the healthcare industry with a means of connecting with patients in their own home utilizing their own personal mobile devices such as tablets and phones. This allows therapists to monitor the progress of people under their care from a remote location and all with the added benefit that patients are familiar with their own mobile devices; thereby reducing the time required to train patients with the new technology. There is also the added benefit to the health service that there is no additional cost required to purchase devices for use. The Facial Remote Activity Monitoring Eyewear (FRAME) mobile application and web service framework has been designed to work on the IOS and android platforms, the two most commonly used today. Results: The system utilizes secure cloud based data storage to collect, analyse and store data, this allows for near real time, secure access remotely by therapists to monitor their patients and intervene when required. The underlying framework has been designed to be secure, anonymous and flexible to ensure compliance with the data protection act and the latest General Data Protection Regulation (GDPR); this new standard came into effect in April 2018 and replaces the Data Protection Act in the UK and Europe. © 2020, The Author(s).
+KW  - Bell’s palsy
+KW  - Cloud computing
+KW  - Healthcare solution
+KW  - Mobile application
+KW  - System design
+KW  - Wearable technology
+KW  - Bell Palsy
+KW  - Cloud Computing
+KW  - Computer Security
+KW  - Europe
+KW  - Humans
+KW  - Mobile Applications
+KW  - access to information
+KW  - Article
+KW  - Bell palsy
+KW  - cloud computing
+KW  - conceptual framework
+KW  - data analysis
+KW  - human
+KW  - information storage
+KW  - information technology
+KW  - mobile application
+KW  - patient monitoring
+KW  - remote sensing
+KW  - software
+KW  - web browser
+KW  - cloud computing
+KW  - computer security
+KW  - Europe
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 10
+ER  -
+
+TY  - JOUR
+AU  - Wierda, E.
+AU  - Blok, S.
+AU  - Somsen, G.A.
+AU  - Van Der Velde, E.T.
+AU  - Tulevski, I.I.
+AU  - Stavrov, B.
+AU  - De Wildt, M.C.C.
+AU  - Van Den Born, B.J.H.
+AU  - Breukel, L.
+AU  - De Mol, B.A.J.M.
+AU  - Ploem, M.C.
+AU  - Winter, M.M.
+TI  - Protecting patient privacy in digital health technology: The Dutch m-Health infrastructure of Hartwacht as a learning case
+PY  - 2020
+T2  - BMJ Innovations
+VL  - 6
+IS  - 4
+SP  - 170
+EP  - 176
+DO  - 10.1136/bmjinnov-2019-000399
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85088145675&doi=10.1136%2fbmjinnov-2019-000399&partnerID=40&md5=56047fd4bd0707db9def957c23a691d0
+AB  - Innovative ways of healthcare delivery like m-Health, the practice of medicine by mobile devices and wearable devices are the promising new technique that may lead to improvement in quality of care at lower costs. While fully acknowledging the importance of m-Health development, there are challenges on privacy legislation. We address the legal framework, especially the General Data Protection Regulation, applied to m-Health and its implications for m-Health developments in Europe. We discuss how these rules are applied using a representative example of an m-Health programme with remote monitoring in the Netherlands. We consider informing patients about the data processing and obtaining their explicit consent as main responsibilities of healthcare providers introducing m-Health in their practice.  © 2020 Author(s) (or their employer(s)). Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.
+KW  - medical apps
+KW  - mHealth
+KW  - remote diagnostics
+KW  - remote monitoring
+KW  - adult
+KW  - article
+KW  - health care personnel
+KW  - health program
+KW  - human
+KW  - law
+KW  - learning
+KW  - Netherlands
+KW  - privacy
+KW  - remote sensing
+KW  - responsibility
+KW  - telediagnosis
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Shao, C.
+AU  - Zhao, Y.
+AU  - Chen, N.
+AU  - Zhu, H.
+AU  - Wang, L.
+AU  - Sun, H.
+AU  - Qu, L.
+TI  - Application of Laser Micro-Nano-Fabrication in Sensing Field
+ST  - 激光微纳制造在传感领域中的应用
+PY  - 2021
+T2  - Zhongguo Jiguang/Chinese Journal of Lasers
+VL  - 48
+IS  - 2
+C7  - 0202014
+DO  - 10.3788/CJL202148.0202014
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103941705&doi=10.3788%2fCJL202148.0202014&partnerID=40&md5=46b73d53eecb5a667e20ffe64ef522f0
+AB  - Significance The emerging technologies such as the Internet of Things and wearable technology in recent decades have brought great changes and convenience with better healthcare and manufacturing and higher safety, security, and efficiency for the whole society. As an essential important link in these systems, sensors provide key value proposition and play a pivotal role. Take wearable electronics as examples, the market value of wearable technology has doubled in the past five years. Sensors have provided core functions for many different products during the development of wearable electronics, and they will continue to play a key role in future generation of products. For example, smartwatches and skin patches are built based on the fitness tracking and daily activity data, and are used for medical measurement. Virtual, augmented, and mixed reality devices rely on a set of sensors (e.g. inertial measurement unit, depth induction, force/pressure sensors) to enable users to interact with the content and environment. Moreover, the transition from traditional human-computer interaction to a natural user interface will also depend on further advances in sensors. Other products in different areas, such as autonomous vehicles, air detector, and smart clothing, are similar and depend on a set of core sensors that can interact with the body or the surrounding environment. Some of these sensor systems have been gradually commercialized and expanded to more industrial, agricultural, military, environmental, and safety applications. In particular, the COVID-19 pandemic in 2020 has also brought increased attention to sensors owing to their promising applications in tracking early onset and potential virus contacts, and remote patient monitoring of isolated patients. In short, the sensor remains a fundamental component of the entire product line, which has been required to be thinner, lighter, smaller, more flexible, and sensitive in the new application systems. Based on the important role of sensors, many preparation methods such as vapor deposition, lithography, nano-imprint lithography as well as printing have been developed. Each technology has its unique advantages and adapts to different scenarios. At the same time, their disadvantages that cannot be ignored also need to be addressed. For instance, chemical and physical vapor deposition methods, including thermal evaporation, vacuum evaporation, magnetron sputtering, and molecular beam epitaxy, can produce high-quality materials and devices with good performance, but these technologies usually require expensive equipment and specific operating environment. Moreover, it is difficult for these techniques to be compatible with flexible substrates and realize low-cost industrialized mass production. In addition, photolithography and nano-imprint lithography are suitable for precision device fabrication. However, they often face the challenges of low processing efficiency, low output, high cost due to the complex processing process, high design cost of mask, and long processing cycle. In comparison, printing is a very attractive technology for low-cost large scale production. But in most cases, the presence of mask limits the precision and resolution of the prepared micro/nano-sized devices. Therefore, with the increasing demand for flexible, wearable, miniaturized, precise, integrated, and customized sensors, the new processing method with higher precision and more flexibility manners is needed to achieve controllable preparation. To meet the developmental requirements of sensors, various processing techniques mentioned above are utilized to optimize and improve the sensor mainly from the aspects of the electrode, sensing material, and whole device. In recent decade, laser micro-nano fabrication has been gradually developed and popular in the field of manufacturing. The laser micro-nano fabrication changes the material state and property through the laser-material interaction and realizes the well-control of shape and property across scales. With the advantages of large processing speed, high precision, strong controllability, easy integration, and high compatibility with materials, the sensor fabricated by laser has ushered in a new development in structure regulation and performance optimization. However, it still faces challenges and difficulties in mass production and efficiency promotion in practical applications. Progress The laser processing technologies for the fabrication of sensors and sensing systems of different stimulus sources are summarized (Fig. 2). Firstly, three laser processing modes widely used in sensor production including laser induced heating, reaction, and delamination are introduced. The convenience and advantages of laser processing compared with those of the traditional processing technology can be clearly understood in the section of laser processing modes (Fig. 3). Then, based on the existing research results, the sensor systems prepared by laser are classified into ultraviolet, gas, humidity, temperature, strain/stress, biology, and environmental monitoring sensors. It is easily found that the advantages of laser micro-nano fabrication are mainly reflected in the following three aspects. 1) Laser micro-nano fabrication has broadened the preparation approaches of electrodes and sensing materials. It can realize in-situ or non-in-situ preparation of conductive electrodes and sensing materials by laser reduction, sintering, annealing, ablation, pulse deposition, laser induced carbonization, and hydrothermal reaction as well as other specific laser processing technologies, which provide alternative strategies for material preparation. 2) Laser micro-nano fabrication simplifies the assembly process of the whole device. The laser direct writing technology can realize in situ selective process in specific areas or specific materials, leading to great convenience for device construction. Moreover, the whole sensor on flexible substrates can even be prepared by one-step laser fabrication through digital design. 3) Laser micro-nano fabrication contributes to promote sensor performance. Sensing material, as a key part of a single sensor, can be modified and regulated by laser processing, thus providing the possibility of performance optimization. With these optimizations and improvements, the sensors become softer, smaller, and more customized and have higher integration. Finally, we also analyze the problems existing in sensors fabricated by laser micro-nano fabrication, such as insufficient researches on laser-material interaction, limited processing accuracy and efficiency enhancement, and low level of device integration. Conclusions and Prospect Laser micro-nano fabrication has gradually become a common and popular technology for sensing system preparation and integration. To sum up, the sensor fabricated by laser still needs in-depth and detailed exploration to promote the development of commercialization and industrialization of the sensor. © 2021, Chinese Lasers Press. All right reserved.
+KW  - Functionality
+KW  - Laser technique
+KW  - Laser-material interaction
+KW  - Micro-nano fabrication
+KW  - Sensors
+KW  - Ablation
+KW  - Accident prevention
+KW  - Agricultural robots
+KW  - Automobile manufacture
+KW  - Carbonization
+KW  - Chemical beam epitaxy
+KW  - Chemical equipment
+KW  - Costs
+KW  - Efficiency
+KW  - Electrodes
+KW  - Fabrication
+KW  - Human computer interaction
+KW  - In situ processing
+KW  - Integration
+KW  - Lithography
+KW  - Military applications
+KW  - Mixed reality
+KW  - Molecular beam epitaxy
+KW  - Nanoimprint lithography
+KW  - Nanosensors
+KW  - Petroleum prospecting
+KW  - Physical vapor deposition
+KW  - Remote patient monitoring
+KW  - Sintering
+KW  - Substrates
+KW  - Thermal evaporation
+KW  - Ultraviolet lasers
+KW  - User interfaces
+KW  - Vacuum evaporation
+KW  - Wearable sensors
+KW  - Environmental Monitoring
+KW  - Inertial measurement unit
+KW  - Large scale productions
+KW  - Laser micro-nano fabrication
+KW  - Laser processing technology
+KW  - Laser-material interactions
+KW  - Performance optimizations
+KW  - Surrounding environment
+KW  - Laser materials processing
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - McDonnell, A.
+AU  - MacNeill, C.
+AU  - Chapman, B.
+AU  - Gilbertson, N.
+AU  - Reinhardt, M.
+AU  - Carreiro, S.
+TI  - Leveraging digital tools to support recovery from substance use disorder during the COVID-19 pandemic response
+PY  - 2021
+T2  - Journal of Substance Abuse Treatment
+VL  - 124
+C7  - 108226
+DO  - 10.1016/j.jsat.2020.108226
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85097478326&doi=10.1016%2fj.jsat.2020.108226&partnerID=40&md5=2dc2411934a12242ab804f14d8aa8584
+AB  - Treatment for substance use disorder (SUD) during the COVID-19 pandemic poses unique challenges, both due to direct effects from the illness, and indirect effects from the physical measures needed to “flatten the curve.” Stress, isolation, lack of structure, limited access to physical and mental health care, and changes in treatment paradigms all increase risk of return to drug use events and pose barriers to recovery for people with SUDs. The pandemic has forced treatment providers and facilities to rapidly adapt to address these threats while redesigning their structure to accommodate physical distancing regulations. Digital health interventions can function without the need for physical proximity. Clinicians can use digital health intervention, such as telehealth, wearables, mobile applications, and other remote monitoring devices, to convert in-person care to remote-based care, and they can leverage these tools to address some of the pandemic-specific challenges to treatment. The current pandemic provides the opportunity to rapidly explore the advantages and limitations of these technologies in the care of individuals with SUD. © 2020 Elsevier Inc.
+KW  - COVID-19
+KW  - Digital health
+KW  - mHealth
+KW  - Substance use disorder
+KW  - Telehealth
+KW  - Wearable
+KW  - COVID-19
+KW  - Humans
+KW  - Mobile Applications
+KW  - Substance-Related Disorders
+KW  - Telemedicine
+KW  - Wearable Electronic Devices
+KW  - Article
+KW  - convalescence
+KW  - coronavirus disease 2019
+KW  - drug dependence
+KW  - human
+KW  - mHealth
+KW  - pandemic
+KW  - priority journal
+KW  - telehealth
+KW  - drug dependence
+KW  - electronic device
+KW  - mobile application
+KW  - telemedicine
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 18
+ER  -
+
+TY  - CONF
+AU  - Salama, R.
+AU  - Altrjman, C.
+AU  - Al-Turjman, F.
+AU  - Yadav, S.P.
+AU  - Vats, S.
+TI  - Heterogeneous Wireless Access Networks for IoT and E-Health-A Survey
+PY  - 2023
+T2  - 2023 3rd International Conference on Advancement in Electronics and Communication Engineering, AECE 2023
+SP  - 383
+EP  - 389
+DO  - 10.1109/AECE59614.2023.10428662
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186508711&doi=10.1109%2fAECE59614.2023.10428662&partnerID=40&md5=0ed0efb2fae81f42f5910108c9ab6cde
+AB  - In a heterogeneous wireless environment, there are many different radio access technologies (RATs), such as Wi-Fi and 2G, 3G, 4G, and 5G, which each have a different degree of coverage and processing power to meet various service requirements. A mobile user may have access to various access networks in such a situation. On the PC of each user, numerous programs with varied Quality of Service (QoS) requirements can operate simultaneously. It would be advantageous for a multi-interface terminal to use two or more interfaces simultaneously in order to improve performance. However, using multiple networks at once could use up more energy than just using one interface. Therefore, energy use must to be taken into account when analyzing the Flow/Interface Relationship (FIA). This paper presents a novel method for choosing the ideal FIA that achieves the best trade-off between all the characteristics taken into account, dubbed Smart Tabu Search (STS). STS considers user preferences, network circumstances, network expenses, application QoS specifications, and battery life of mobile devices. We use simulations and testbed experiments to validate our concept. Professionals are now able to diagnose and monitor patients remotely because to the growing use of healthcare monitoring devices. One of the most frequent occurrences that affects the reliability of information transmission in any network is congestion, which is defined as the unchecked increase in traffic relative to network capacity. With the use of a mesh network, wireless sensors, and some of the most significant models for vital signs, the article aims to provide a realistic simulation environment for a healthcare system. The simulator environment is a helpful tool for assessing the dependability and effectiveness of the healthcare system in a realistic setting. However, the system is not appropriate for real-time applications due to the sluggish network adaption caused by the end-to-end based traffic regulation decision. In more recent scheduling techniques, additional scheduling factors were taken into account, including the priority order of inserting packets using a fixed priority algorithm based on Priority Queuing (PQ), user-defined. Context priorities, user-defined profile priorities, the applications and devices that are currently active, the number of their direct neighboring nodes, the average link quality, and user preferences. A cutting-edge paradigm for communication called the Internet of Things (IoT) permits online connections between parts from various domains. The traditional healthcare system has a growing need for social resources like doctors, nurses, hospital beds, and health monitoring gadgets, making modern healthcare one of the most alluring IoT applications. In this paper, a design for a small wearable sensor patch that can gauge body temperature, photo plethysmography, and the electrocardiogram (ECG) is given. The suggested sensor patch can be used to constantly estimate blood pressure (BP) based on the pulse arrival time (PAT) without the need for additional cables or equipment because ECG and PPG sensors are combined in one device. Three sensors are used to monitor vital signs, a central board is used to analyze and collect signals, and a power board is used to provide power and charge batteries. The entire set of parts is made with a rigid-flexible construction that permits rapid attachment to the body for applications like remote health monitoring. For specialized measurements of a particular physiological signal (such an ECG), the sensors can be taken out of the main board in order to save power. By comparing the suggested sensor patch to a commercial reference device, experiments are done to verify its performance. A tiny Bluetooth Low Energy (BLE) module that enables wireless transfer of physiological parameters to a 1/4 SeThe suggested sensor system includes a tiny Bluetooth Low Energy (BLE) module that enables wireless communication of physiological values to a gateway. In order to safeguard data while it is being transmitted for security and privacy reasons, both the sensor and the data are encrypted. The wearable sensor system is linked to the Internet cloud, where health data can be kept and later reviewed, by means of a stationary gateway based on laptops and a mobile gateway based on smartphones. The results of the testing show that the platform is viable for use in IoT-connected healthcare applications. © 2023 IEEE.
+KW  - 5G
+KW  - Heterogeneous communication
+KW  - m-health
+KW  - Mobility Control
+KW  - 5G mobile communication systems
+KW  - Economic and social effects
+KW  - Heterogeneous networks
+KW  - Hospital beds
+KW  - Internet of things
+KW  - mHealth
+KW  - Network layers
+KW  - Quality of service
+KW  - Sleep research
+KW  - Tabu search
+KW  - Wi-Fi
+KW  - Wireless local area networks (WLAN)
+KW  - Wireless sensor networks
+KW  - 5g
+KW  - Flow interface
+KW  - Healthcare systems
+KW  - Heterogeneous communication
+KW  - Lower energies
+KW  - Mobility control
+KW  - Power
+KW  - Service requirements
+KW  - User's preferences
+KW  - Vital sign
+KW  - Electrocardiograms
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Feiner, R.
+AU  - Dvir, T.
+TI  - Engineering Smart Hybrid Tissues with Built-In Electronics
+PY  - 2020
+T2  - iScience
+VL  - 23
+IS  - 2
+C7  - 100833
+DO  - 10.1016/j.isci.2020.100833
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078083363&doi=10.1016%2fj.isci.2020.100833&partnerID=40&md5=7b6d06025dbf8c1acd0b9c4baf2d6ea2
+AB  - One of the major hurdles faced in tissue engineering is the inability to monitor and control the function of an engineered tissue following transplantation. Recent years have seen major developments in the field by integrating electronics within engineered tissues. Previously, the most common types of devices integrated into the body used to be pacemakers and deep brain stimulation electrodes that are stiff and non-compliant; the advent of ultra-thin and flexible electronics has brought forth a significant expansion of the field. Recent developments have enabled interfacing electronics onto, into, and within all tissues and organs with minimal adverse reactions. These have introduced the ability to engineer tissues with built-in electronics that allow for remote monitoring and regulation of tissue function. In this review, we discuss the development of technologies that allowed for the formation of tissue-electronics hybrids and give an overview of the existing examples of these hybrid “cyborg” tissues. © 2020 The Author(s)
+KW  - Bioelectronics
+KW  - Bioengineering
+KW  - Biotechnology
+KW  - Tissue Engineering
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 16
+ER  -
+
+TY  - CONF
+AU  - Lanzola, G.
+AU  - Polce, F.
+AU  - Tibollo, V.
+AU  - Quaglini, S.
+AU  - Wilk, S.
+TI  - Designing a Testing Environment for the CAPABLE Telemonitoring and Coaching Platform
+PY  - 2022
+T2  - MELECON 2022 - IEEE Mediterranean Electrotechnical Conference, Proceedings
+SP  - 1112
+EP  - 1117
+DO  - 10.1109/MELECON53508.2022.9843001
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85136431027&doi=10.1109%2fMELECON53508.2022.9843001&partnerID=40&md5=13200b4b086145e77bc4d5bf10558103
+AB  - The CAPABLE project has been funded by the European Union to develop a telemonitoring and coaching platform improving the quality of life for cancer patients. The platform, based on a multi agent blackboard architecture, is classified as a medical device according to the current EU regulation. Thus it needs extensive tests before being put into service for the planned clinical trials, which calls for a dedicated simulating and testing environment. Materials and Methods: Coordination in CAPABLE is achieved through the Case Manager, a component able to generate and notify events to other interested agent components. For representing and exchanging health care information we have adopted HL7 FHIR as a semantic interoperability standard. Results: FHIR has been exploited to design a structured history of a real patient affected by renal cell carcinoma. A simulator has been developed for automating the whole testing process represented by specific scenarios of the patient's history. Conclusions: The simulator relies on the events produced by the Case Manager for coordinating the agents. This proved to be effective in checking that the agents reactions to new data showing up on the blackboard comply with the expected behavior.  © 2022 IEEE.
+KW  - distributed system testing
+KW  - Health technology assessment
+KW  - mHealth
+KW  - patient coaching
+KW  - mHealth
+KW  - Multi agent systems
+KW  - Semantics
+KW  - Cancer patients
+KW  - Distributed system testing
+KW  - Distributed systems
+KW  - European union
+KW  - Health technology assessments
+KW  - Patient coaching
+KW  - Quality of life
+KW  - System testing
+KW  - Tele-monitoring
+KW  - Testing environment
+KW  - Managers
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Yu, H.
+AU  - Yang, X.
+AU  - Lian, Y.
+AU  - Wang, M.
+AU  - Liu, Y.
+AU  - Li, Z.
+AU  - Jiang, Y.
+AU  - Gou, J.
+TI  - An integrated flexible multifunctional wearable electronic device for personal health monitoring and thermal management
+PY  - 2021
+T2  - Sensors and Actuators, A: Physical
+VL  - 318
+C7  - 112514
+DO  - 10.1016/j.sna.2020.112514
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85098941207&doi=10.1016%2fj.sna.2020.112514&partnerID=40&md5=8eab7f988fdb93a010cf788d0e476945
+AB  - Recently, wearable pressure sensors have attracted tremendous attention because of their potential applications in intelligent equipment and flexible electronic. Aside from efficient real-time sensing performances, the wearing experience such as comfort and lightweight are also quite important for human health-care monitoring devices or systems. Effectively regulating radiative heating from human body are of interest for improving thermal comfort with a cost-effective approach. Here, we report a new strategy utilizing carbon nanotubes (CNTs) as both pressure sensing layer and infrared reflector for fabricating multifunctional wearable electronic device. The as-fabricated device based on face to face structure shows ultrahigh sensitivity of 5.22×105 kPa−1 at 0–30 kPa, and 6.06×104 kPa−1 at 30−100 kPa, respectively. Meanwhile, both measured spectra and finite-difference time-domain (FDTD) simulation results demonstrate that such multifunctional devices present an extreme low IR emissivity of ∼ 20 % as well as outstanding self-warming capability. As a result, it not only shows a passive warming effect of 6 °C over the commercial cotton pieces but also exhibits an outstanding Joule heating effect. This approach will promote the development of multifunctional flexible electronic in personal healthcare, thermal regulation and lightweight body armor applications for effective energy savings. © 2020 Elsevier B.V.
+KW  - Flexible electronic
+KW  - Radiative heating
+KW  - Wearable pressure sensors
+KW  - Armor
+KW  - Carbon nanotubes
+KW  - Cost effectiveness
+KW  - Energy conservation
+KW  - Finite difference time domain method
+KW  - Health care
+KW  - Real time systems
+KW  - Thermal variables control
+KW  - Thermoelectric equipment
+KW  - Wearable technology
+KW  - Cost-effective approach
+KW  - Finite-difference time-domain simulation
+KW  - Intelligent equipment
+KW  - Joule heating effect
+KW  - Multifunctional devices
+KW  - Personal health care
+KW  - Thermal regulation
+KW  - Ultra-high-sensitivity
+KW  - Electron devices
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 15
+ER  -
+
+TY  - JOUR
+AU  - Ozkan, J.
+TI  - Staying on the same wavelength
+PY  - 2020
+T2  - European Heart Journal
+VL  - 41
+IS  - 24
+SP  - 2231
+EP  - 2232
+DO  - 10.1093/eurheartj/ehaa463
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85086932701&doi=10.1093%2feurheartj%2fehaa463&partnerID=40&md5=308ad70928d7dfdee3f4b75fafac0f56
+KW  - clinical practice
+KW  - computer security
+KW  - electrophysiologist
+KW  - Europe
+KW  - feedback system
+KW  - follow up
+KW  - general practitioner
+KW  - health care access
+KW  - health care system
+KW  - human
+KW  - informed consent
+KW  - lawyer
+KW  - legal aspect
+KW  - medical research
+KW  - medical society
+KW  - Note
+KW  - patient safety
+KW  - priority journal
+KW  - questionnaire
+KW  - telehealth
+KW  - telemonitoring
+KW  - United States
+KW  - clinical protocol
+KW  - communication protocol
+KW  - data processing
+KW  - Food and Drug Administration
+KW  - medical device regulation
+KW  - privacy
+KW  - remote sensing
+KW  - workshop
+KW  - interview
+M3  - Note
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Li, Z.
+AU  - Zhao, K.
+AU  - Wang, J.
+AU  - Wang, B.
+AU  - Lu, J.
+AU  - Jia, B.
+AU  - Ji, T.
+AU  - Han, X.
+AU  - Luo, G.
+AU  - Yu, Y.
+AU  - Wang, L.
+AU  - Li, M.
+AU  - Wang, Z.
+AU  - Zhao, L.
+TI  - Sensitive, Robust, Wide-Range, and High-Consistency Capacitive Tactile Sensors with Ordered Porous Dielectric Microstructures
+PY  - 2024
+T2  - ACS Applied Materials and Interfaces
+VL  - 16
+IS  - 6
+SP  - 7384
+EP  - 7398
+DO  - 10.1021/acsami.3c15368
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184859727&doi=10.1021%2facsami.3c15368&partnerID=40&md5=e9f4c04be887cf4771a9efa615a6f072
+AB  - Flexible capacitive tactile sensors show great promise in personalized healthcare monitoring and human-machine interfaces, but their practical application is normally hindered because they rarely possess the required comprehensive performance, that is, high pressure sensitivity and fast response within a broad pressure range, high structure robustness, performance consistency, etc. This paper aims to engineer flexible capacitive pressure sensors with highly ordered porous dielectric microstructures and a 3D-printing-based fully solution-processable fabrication process. The proposed dielectric layer with uniformly distributed interior microporous can not only increase its compressibility and dynamic response within an extended pressure range but also enlarge its contact area with electrodes, contributing to a simultaneous improvement in the sensitivity, response speed, detection range, and structure robustness. Meanwhile, owing to its superior abilities in complex structure manufacturing and dimension controlling, the proposed 3D-printing-based fabrication process enables the consistent fabrication of the porous microstructure and thus guarantees device consistency. As a result, the prepared pressure sensors exhibit a high sensitivity of 0.21 kPa-1, fast response and relaxation times of 112 and 152 ms, an interface bonding strength of more than 455.2 kPa, and excellent performance consistency (≤5.47% deviation among different batches of sensors) and tunability. Encouraged by this, the pressure sensor is further integrated with a wireless readout circuit and realizes wireless wearable monitoring of various biosignals (pulse waves and heart rate) and body movements (from slight finger touch to large knee bending). Finally, the influence law of the feature parameters of the porous microstructure on device performance is established by the finite element method, paving the way for sensor optimization. This study motivates the development of flexible capacitive pressure sensors toward practical application. © 2024 American Chemical Society
+KW  - flexible tactile sensors
+KW  - high sensitivity
+KW  - highly ordered porous dielectric microstructures
+KW  - performance consistency
+KW  - structure robustness
+KW  - wide range
+KW  - 3D printing
+KW  - Capacitive sensors
+KW  - Partial pressure sensors
+KW  - Pressure sensors
+KW  - Tactile sensors
+KW  - Wearable sensors
+KW  - Flexible tactile sensors
+KW  - High sensitivity
+KW  - Highly ordered porous dielectric microstructure
+KW  - Ordered porous
+KW  - Performance
+KW  - Performance consistency
+KW  - Porous dielectrics
+KW  - Structure robustness
+KW  - Tactile sensors
+KW  - Wide range
+KW  - article
+KW  - body movement
+KW  - controlled study
+KW  - electrode
+KW  - finite element analysis
+KW  - heart rate
+KW  - human machine interface
+KW  - hyperbaric pressure
+KW  - knee
+KW  - pressure
+KW  - pulse wave
+KW  - relaxation time
+KW  - sensor
+KW  - three dimensional printing
+KW  - velocity
+KW  - wearable device
+KW  - Microstructure
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Pei, H.
+AU  - Jing, J.
+AU  - Chen, Y.
+AU  - Guo, J.
+AU  - Chen, N.
+TI  - 3D printing of PVDF-based piezoelectric nanogenerator from programmable metamaterial design: Promising strategy for flexible electronic skin
+PY  - 2023
+T2  - Nano Energy
+VL  - 109
+C7  - 108303
+DO  - 10.1016/j.nanoen.2023.108303
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85148698570&doi=10.1016%2fj.nanoen.2023.108303&partnerID=40&md5=732dc921573f9b0823d6e5b4d0da7084
+AB  - The high-performance piezoelectric nanogenerator (PENG) with good flexibility, tunability and sensitivity is desirable for the next-generation of wearable electronics. However, the 3D printing of unique architectures and arbitrary shapes could endow the conformal electronic sensors with excellent flexibility and functionality. In this work, the self-poled PENG were successfully fabricated by incorporating the oriented ionic salt-montmorillonite (IS-MMT) co-fillers into poly (vinylidene fluoride) (PVDF) matrix and then performing 3D printing. This hence could give the 3D printed PENG the locked interfacial piezoelectric polarization. More importantly, the self-adaptive conformal PENG based on auxetic metamaterial has also been developed, which is beyond the practicability of the traditional 2D PENG. The effect of various architectures of the metamaterial on the mechanical and piezoelectric responses was particularly discussed. The tailoring of the 3D printed cell with metamaterial of serpentine geometries shows the appealing advantages of high sensitivity to structure variation, thus being beneficial for easier regulation of piezoelectric output. When mounted on the joints as a wearable healthcare monitoring device, this 3D printed PENG could accurately detect the movement of muscles, demonstrating its potential in motion tracking and sign-language interpretation. Obviously, this work could provide a new idea for design and fabrication of programmable wearable electronics. © 2023 Elsevier Ltd
+KW  - 3D printing
+KW  - Electronic skin
+KW  - Metamaterial
+KW  - Piezoelectric Nanogenerator
+KW  - Poly(vinylidene fluoride)
+KW  - 3D printing
+KW  - Flexible electronics
+KW  - Fluorine compounds
+KW  - Metamaterials
+KW  - Nanogenerators
+KW  - Piezoelectricity
+KW  - Sensitivity analysis
+KW  - Serpentine
+KW  - 3-D printing
+KW  - 3D-printing
+KW  - Arbitrary shape
+KW  - Electronic skin
+KW  - Performance
+KW  - Piezoelectric nanogenerator
+KW  - Poly(vinylidene fluoride)
+KW  - Programmable metamaterials
+KW  - Tunabilities
+KW  - Wearable technology
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 38
+ER  -
+
+TY  - CHAP
+AU  - Dutta, S.
+AU  - Sarkar, D.
+AU  - Jana, P.
+AU  - Kole, D.K.
+TI  - Healthcare Technology for Reducing the Risk and the Spread of COVID-19 Pandemic and Other Epidemics
+PY  - 2022
+T2  - EAI/Springer Innovations in Communication and Computing
+SP  - 365
+EP  - 383
+DO  - 10.1007/978-3-030-72752-9_19
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85114403053&doi=10.1007%2f978-3-030-72752-9_19&partnerID=40&md5=97bacae8b0e75d8f4248ee650729bd70
+AB  - As the very first big outbreak in our era, COVID-19 offers an outstanding incentive to legislators, and regulatory authorities should find procedural viability, moral validity, and usefulness of implementation in the time of new healthcare technologies. This chapter addresses the outbreak of coronavirus and how digital healthcare technologies can help navigate and resolve COVID-19 and future epidemics. As the coronavirus pandemic (COVID-2019) spreads, technological advancements and efforts to control the disease, manage clients safely, and promote teamwork among overburdened health care practitioners designing innovative, efficient vaccines would be critical. This review looks at how various healthcare scientific sectors are assisting in the fight against the pandemic, as well as how innovative implementations are being used to treat or cure illness. An analysis of the technical landscape in the COVID-19 sense enables some tentative reflections about the conditions of technical involvement in fighting this once-in-a-century pandemic. Firstly, unlike previous global health crises, it seems to turn people from monitoring artefacts and epidemiological analysis through information creation topics via self-tracking, information sharing, and digital information flows. Furthermore, even if many of such innovations were not implemented, in a previous medical crisis background, their extensive usage on a world basis raises concern about the extent of mobilising domestic spying techniques on racial equality and also worries about government agencies retaining higher monitoring rates long after the end of the pandemic. Within the recent epidemic framework, advanced technical technologies in data analysis and remote monitoring of the urgent laws that require the immediate termination of human rights and the approval of medical equipment and vaccinations by fast-tracking processes have been implemented. Everyone knows that digital healthcare technologies are progressively being embraced in this field for fighting against the COVID-19 pandemic. This chapter produced an overview to explain all the efforts being made towards this pandemic in digital healthcare tech. Healthcare centres throughout the world are transitioning to the new technologies listed below to help ease their workload, either by increasing the speed diagnostics or allowing physicians to monitor patients who have been virtually quarantined. © 2022, Springer Nature Switzerland AG.
+KW  - 3D printing
+KW  - Artificial intelligence
+KW  - COVID-19
+KW  - Nanotechnology
+KW  - Robotic technology
+KW  - Telemedicine
+KW  - Diagnosis
+KW  - Disease control
+KW  - Diseases
+KW  - Information analysis
+KW  - Laws and legislation
+KW  - Patient monitoring
+KW  - Digital information
+KW  - Government agencies
+KW  - Healthcare technology
+KW  - Information creation
+KW  - Information sharing
+KW  - Regulatory authorities
+KW  - Scientific sectors
+KW  - Technological advancement
+KW  - Health care
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Borzì, L.
+AU  - Olmo, G.
+AU  - Artusi, C.A.
+AU  - Fabbri, M.
+AU  - Rizzone, M.G.
+AU  - Romagnolo, A.
+AU  - Zibetti, M.
+AU  - Lopiano, L.
+TI  - A new index to assess turning quality and postural stability in patients with Parkinson's disease
+PY  - 2020
+T2  - Biomedical Signal Processing and Control
+VL  - 62
+C7  - 102059
+DO  - 10.1016/j.bspc.2020.102059
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85087592132&doi=10.1016%2fj.bspc.2020.102059&partnerID=40&md5=9d428d6ba49b4d3cc10113c16667e155
+AB  - Parkinson's disease is a neuro-degenerative disorder characterized by the progressive death of dopamine neurons. This leads to delayed and uncoordinated movements, and impacts on the patients’ motor performance with reduced movement intensity, increased axial rigidity and impaired cadence regulation. Turning provides privileged insights in postural instability and fall prediction, as it is regularly performed during daily activities, requires multi-limb coordination. The objective of this work was to define a Quality of Movement (QoM) index, inferred from inertial data related to turns, and strictly correlated with the patient's motor conditions, postural stability, and stage of the disease. Such a concise representation finds its main application in the remote monitoring of patients during daily activities at home. We have recorded and analyzed 180° turns in 72 patients, using inertial sensors embedded in the smartphone. We have set up an algorithm for binary classification of patients: mild vs. moderate/severe conditions, according to the Hoehn and Yahr scale of disease progression and disability degree. Our QoM index is defined as the a posteriori probability output by this binary classifier. It exhibits high correlation (r = 0.73) with the clinical score of postural stability, as well as with the average of four clinical scores related to movement impairment (r = 0.75). These results, together with the widespread smartphone use, provide a step in the direction of a practical, objective and reliable tool for PD patients remote monitoring in domestic environment. © 2020 The Authors
+KW  - Machine learning
+KW  - Parkinson's disease (PD)
+KW  - Smartphone
+KW  - Turns
+KW  - UPDRS scores
+KW  - Wearable inertial sensors
+KW  - Amines
+KW  - Neurodegenerative diseases
+KW  - Remote control
+KW  - Smartphones
+KW  - Stability
+KW  - A-posteriori probabilities
+KW  - Binary classification
+KW  - Concise representations
+KW  - Disease progression
+KW  - Domestic environments
+KW  - Parkinson's disease
+KW  - Postural instabilities
+KW  - Quality of movements
+KW  - aged
+KW  - Article
+KW  - binary classification
+KW  - body movement
+KW  - body position
+KW  - controlled study
+KW  - daily life activity
+KW  - disability
+KW  - disease exacerbation
+KW  - disease severity
+KW  - female
+KW  - Hoehn and Yahr scale
+KW  - human
+KW  - major clinical study
+KW  - male
+KW  - motor performance
+KW  - Parkinson disease
+KW  - priority journal
+KW  - remote sensing
+KW  - walking
+KW  - Remote patient monitoring
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 15
+ER  -
+
+TY  - JOUR
+AU  - Ghilencea, L.-N.
+AU  - Chiru, M.-R.
+AU  - Stolcova, M.
+AU  - Spiridon, G.
+AU  - Manea, L.-M.
+AU  - Stănescu, A.-M.A.
+AU  - Bokhari, A.
+AU  - Kilic, I.D.
+AU  - Secco, G.G.
+AU  - Foin, N.
+AU  - Di Mario, C.
+TI  - Telemedicine: Benefits for Cardiovascular Patients in the COVID-19 Era
+PY  - 2022
+T2  - Frontiers in Cardiovascular Medicine
+VL  - 9
+C7  - 868635
+DO  - 10.3389/fcvm.2022.868635
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135477963&doi=10.3389%2ffcvm.2022.868635&partnerID=40&md5=f1d09da820b145548c151c4fd455770d
+AB  - The recent pandemic with SARS-CoV-2 raises questions worldwide regarding telemedicine for housebound patients, including those with cardiovascular conditions. The need for further investigation, monitoring and therapeutic management are advancing practical issues which had not been identified for consideration prior to the pandemic. Using the marketing assessment, we identified the needs of the patients and evaluated the future steps necessary in the short term to meet them. The research found progress made via telemedicine in monitoring and conducting minor decisions (like up-titrating the doses of different medication regimens) in patients with several cardiovascular diseases (heart failure, atrial fibrillation, high blood pressure), as there is a worldwide trend to develop new telemonitoring biosensors and devices based on implantable delivered transcatheter. The worldwide telemedicine trend encourages a switch from small and hesitating steps to a more consistent assessment of the patients, based on high technology and Interventional Cardiology. Cardiovascular telemedicine, although made a sustainable effort in managing patients' health, has many obstacles to overcome before meeting all their needs. Data security, confidentiality and reimbursement are the top priorities in developing remote Cardiology. The regulatory institutions need to play an integrative role in leading the way for defining the framework of future telemedicine activities. The SARS-CoV-2 outbreak with all its tragedy served to reinforce the message that telemedicine services can be life-saving for cardiovascular patients. Once the Covid-19 era will fade away, telemedicine is likely to remain a complementary service of standard care. There is still room to improve the remote identification and investigation of heart disease, provide an accurate diagnosis and therapeutic regimen, and update regulations and guidelines to the new realities of technological progress in the field. Copyright © 2022 Ghilencea, Chiru, Stolcova, Spiridon, Manea, Stănescu, Bokhari, Kilic, Secco, Foin and Di Mario.
+KW  - cardiovascular disease
+KW  - COVID-19
+KW  - heart failure
+KW  - implantable devices
+KW  - SWOT analysis
+KW  - systemic hypertension and arrhythmia
+KW  - telemedicine
+KW  - telemonitoring
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 8
+ER  -
+
+TY  - JOUR
+AU  - Spatz, E.S.
+AU  - Ginsburg, G.S.
+AU  - Rumsfeld, J.S.
+AU  - Turakhia, M.P.
+TI  - Wearable Digital Health Technologies for Monitoring in Cardiovascular Medicine.
+PY  - 2024
+T2  - New England Journal of Medicine
+VL  - 390
+IS  - 4
+SP  - 346
+EP  - 356
+DO  - 10.1056/NEJMra2301903
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85183461351&doi=10.1056%2fNEJMra2301903&partnerID=40&md5=5fb9c13bb67b90f3872d29d22cb58838
+KW  - Arrhythmias/Pacemakers/Defibrillators
+KW  - Cardiology
+KW  - Cardiology General
+KW  - Clinical Medicine
+KW  - Clinical Medicine General
+KW  - Health Care Delivery
+KW  - Health IT
+KW  - Health Policy
+KW  - Heart Failure
+KW  - Hypertension
+KW  - Medical Practice, Training, and Education
+KW  - Medical Practice, Training, and Education General
+KW  - Cardiovascular Agents
+KW  - Digital Health
+KW  - Humans
+KW  - Wearable Electronic Devices
+KW  - amino terminal pro brain natriuretic peptide
+KW  - angiotensin receptor antagonist
+KW  - antiarrhythmic agent
+KW  - anticoagulant agent
+KW  - beta adrenergic receptor blocking agent
+KW  - diuretic agent
+KW  - enkephalinase inhibitor
+KW  - mineralocorticoid antagonist
+KW  - sodium glucose cotransporter 2 inhibitor
+KW  - cardiovascular agent
+KW  - ambulatory electrocardiography
+KW  - anticoagulant therapy
+KW  - atrial fibrillation
+KW  - blood pressure regulation
+KW  - blood volume
+KW  - cardiovascular disease
+KW  - cardioversion
+KW  - clinical evaluation
+KW  - clinical monitoring
+KW  - clinical practice
+KW  - digital health technology
+KW  - electrocardiography monitoring
+KW  - emergency ward
+KW  - follow up
+KW  - health care planning
+KW  - heart failure
+KW  - heart left ventricle ejection fraction
+KW  - heart palpitation
+KW  - heart rhythm
+KW  - heart ventricle extrasystole
+KW  - hospital admission
+KW  - hospital discharge
+KW  - human
+KW  - hypertension
+KW  - oxygen saturation
+KW  - patient care
+KW  - patient identification
+KW  - photoelectric plethysmography
+KW  - practice guideline
+KW  - pulse oximetry
+KW  - pulse rate
+KW  - Review
+KW  - tachycardia
+KW  - telemonitoring
+KW  - vignette
+KW  - medical technology
+KW  - review
+KW  - wearable device
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 10
+ER  -
+

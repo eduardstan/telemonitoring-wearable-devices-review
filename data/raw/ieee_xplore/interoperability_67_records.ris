@@ -1,0 +1,2301 @@
+TY  - CONF
+TI  - Sensing Health: Exploring Issues, Scope, and Future of Smart Wearable Sensors in Healthcare
+T2  - 2024 11th International Conference on Computing for Sustainable Global Development (INDIACom)
+SP  - 223
+EP  - 228
+AU  - P. C. Kamble
+AU  - L. K. Ragha
+PY  - 2024
+KW  - Ethics
+KW  - Systematics
+KW  - Reviews
+KW  - Medical services
+KW  - Real-time systems
+KW  - Complexity theory
+KW  - Biomedical monitoring
+KW  - Wearable sensors
+KW  - Heathcare
+KW  - Internet of Things
+KW  - Remote monitoring
+KW  - Artificial Intelligence
+DO  - 10.23919/INDIACom61295.2024.10498847
+JO  - 2024 11th International Conference on Computing for Sustainable Global Development (INDIACom)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 11th International Conference on Computing for Sustainable Global Development (INDIACom)
+Y1  - 28 Feb.-1 March 2024
+AB  - Smart wearable sensors have evolved as a promising technology in healthcare, promising to redefine patient-centric medicine, monitoring, and diagnostics. The purpose of this research is to comprehensively analyse the benefits, applications, and challenges inherent in the integration of smart wearable sensors in healthcare. To achieve this, a thorough review of existing literature, coupled with case studies and technological analyses, was conducted. The study employed a systematic literature review to gather information on the various aspects of smart wearable sensors in healthcare. Additionally, case studies of real-world applications were examined to understand the practical implications of these technologies. Technical analyses delved into the functionalities and capabilities of smart wearable sensors, while regulatory frameworks and ethical considerations were investigated to highlight the complexities surrounding their implementation. These sensors enable real-time data collection, fostering personalized medicine and improving the efficiency of healthcare delivery. The findings underscore the potential of wearable sensors in transforming traditional healthcare models. The study highlights technical challenges associated with smart wearable sensors, such as data accuracy and interoperability. Regulatory frameworks and ethical considerations, crucial for ensuring patient privacy and data security, were identified as key implementation barriers. The insights derived from this research offer valuable guidance to healthcare professionals, researchers, and policymakers navigating the complexities of integrating smart wearable sensors into existing healthcare systems.
+ER  - 
+
+TY  - CONF
+TI  - Identifying Challenges and Barriers in Wearable Medical Devices Adoption through Text Mining
+T2  - 2023 10th International Conference on Computing for Sustainable Global Development (INDIACom)
+SP  - 293
+EP  - 298
+AU  - A. Ramachandran
+AU  - A. Langar
+PY  - 2023
+KW  - Text mining
+KW  - Regulators
+KW  - Wearable computers
+KW  - Medical services
+KW  - Regulation
+KW  - Security
+KW  - Reliability
+KW  - Wearable Medical Devices
+KW  - Wearable Devices and Health Monitoring
+KW  - Challenges in Adopting Wearable Devices
+KW  - Limitations to Wearable Medical Devices
+KW  - Literature Based Text Mining
+DO  - 
+JO  - 2023 10th International Conference on Computing for Sustainable Global Development (INDIACom)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 10th International Conference on Computing for Sustainable Global Development (INDIACom)
+Y1  - 15-17 March 2023
+AB  - The use of smart wearable devices in health care has proliferated rapidly in the past few years in diagnosis, prevention, prediction and treatment. This has been made possible through the continuous technological advances like artificial intelligence, internet of things that allows continuous 24×7 monitoring of health, activity, mobility, and mental status. In spite of their benefits there are still challenges related to their adoption. If the challenges and barriers in adoption are identified it may help to expand their increased adoption. The current study adopts text mining approach through R to retrieve information from articles published in Pubmed and Google scholar. Based on the occurrence frequency of the words six major themes were identified as notable challenges and barriers. They are related to sensor, devices, data, monitoring and system. The other challenges identified were related to security, lack of regulation, risk of data loss, accuracy and ethics. The results prove that it is possible to extract information through textmining.
+ER  - 
+
+TY  - JOUR
+TI  - HeDI: Healthcare Device Interoperability for IoT-Based e-Health Platforms
+T2  - IEEE Internet of Things Journal
+SP  - 16845
+EP  - 16852
+AU  - N. Pathak
+AU  - S. Misra
+AU  - A. Mukherjee
+AU  - N. Kumar
+PY  - 2021
+KW  - Sensors
+KW  - Sensor systems
+KW  - Interoperability
+KW  - Monitoring
+KW  - Wireless sensor networks
+KW  - Biomedical monitoring
+KW  - Wireless communication
+KW  - Edge platforms
+KW  - e-Health
+KW  - in-home health monitoring
+KW  - interoperability
+KW  - interoperable adapter
+KW  - IoT
+DO  - 10.1109/JIOT.2021.3052066
+JO  - IEEE Internet of Things Journal
+IS  - 23
+SN  - 2327-4662
+VO  - 8
+VL  - 8
+JA  - IEEE Internet of Things Journal
+Y1  - 1 Dec.1, 2021
+AB  - In this work, we propose and develop healthcare device interoperability (HeDI)—a system to enable device interoperability in IoT-enabled in-home healthcare monitoring platforms. The system consists of multiple sensors, each connected wirelessly to an edge device, acting as a wireless communication gateway to a remote server. The system initiates information handshaking between the sensor adapters and edge device at the beginning of the operation, which is later used to detect the sensor settings to process the data received from the sensor. The system is scalable and dynamically accommodates multiple sensors without any predefined ontologies at the edge device. The implementation of our system avoids dependencies on a system’s physical ports. The low form factor and wireless connectivity of the adapter make the system portable and convenient for in-home health monitoring. Additionally, the system allows multiple homogeneous sensors to operate at the same time in the same system. We implement and evaluate our system with a 3-lead ECG, pulse, and temperature sensors against two different network configurations—star and mesh. We use the data set generated from our implemented system for performance analysis. The network-level analysis of our system shows an average packet delivery ratio of 0.92 for star network configuration and 0.98 for mesh network configuration, ensuring the reliability of performance and its suitability for healthcare monitoring systems.
+ER  - 
+
+TY  - CONF
+TI  - Triple Band Printed Wearable Antenna for Remote Healthcare Monitoring Device
+T2  - 2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)
+SP  - 216
+EP  - 220
+AU  - N. Divya
+AU  - P. S. Neha
+AU  - S. Shivani
+AU  - P. N. Reddy
+AU  - P. D. Sathvik
+AU  - P. K. Sahith
+PY  - 2022
+KW  - Wireless LAN
+KW  - Resonant frequency
+KW  - Medical services
+KW  - WiMAX
+KW  - Dielectric resonator antennas
+KW  - Coplanar waveguides
+KW  - Internet of Things
+KW  - Wearable Antenna
+KW  - WLAN
+KW  - WiMAX
+KW  - remote monitoring
+KW  - biological
+KW  - PREPERM
+KW  - PREMIX split-ring
+DO  - 10.1109/ICCCMLA56841.2022.9989056
+JO  - 2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)
+Y1  - 8-9 Oct. 2022
+AB  - In the modern era, the role of antennas has grown dramatically high, especially in biological applications. Because of its size, compactness, non-invasive nature, safety, and cheaper cost, wearable antennas are utilized in numerous industries, including healthcare and Internet of Things (IoT). Additionally, wireless technology and wearable remote monitoring systems are essential methods for healthcare without sacrificing the life. In this paper, a low-profile antenna with Coplanar Waveguide (CPW) feeding technique is designed to operate at three frequencies 2.2GHz/4.2GHz/6GHz in wireless local area networks (WLAN), Worldwide Interoperability for Microwave Access (WiMAX), and Bluetooth for remote monitoring. Three resonant frequencies are produced using split-ring resonators with a circular shape antenna. To make a wearable antenna for patient monitoring, the proposed antenna is fabricated with a PREPERM paper substrate. This substrate, which is from PREMIX group, has a dielectric constant of 3.55 and a loss tangent of 0.005. The proposed antenna is studied based on parameters such as voltage standing wave ratio (VSWR), radiation patterns, return loss (S11) and gain. For antenna design, simulation and analysis, High-Frequency Structure Simulator (HFSS) software has been used.
+ER  - 
+
+TY  - CONF
+TI  - A Smart Healthcare Monitoring System Based on Fog Computing Architecture
+T2  - 2022 2nd International Conference on Technological Advancements in Computational Sciences (ICTACS)
+SP  - 904
+EP  - 909
+AU  - A. R. Yeruva
+AU  - C. S. L Vijaya Durga
+AU  - G. B
+AU  - K. Pant
+AU  - P. Chaturvedi
+AU  - A. P. Srivastava
+PY  - 2022
+KW  - Cloud computing
+KW  - Surveillance
+KW  - Transportation
+KW  - Medical services
+KW  - Real-time systems
+KW  - Safety
+KW  - Internet of Things
+KW  - IoT
+KW  - fog computing
+KW  - gateway
+KW  - Smart Health Monitoring
+KW  - LoRaWAN
+KW  - Wireless Sensors
+KW  - Body Area Network
+DO  - 10.1109/ICTACS56270.2022.9987881
+JO  - 2022 2nd International Conference on Technological Advancements in Computational Sciences (ICTACS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 2nd International Conference on Technological Advancements in Computational Sciences (ICTACS)
+Y1  - 10-12 Oct. 2022
+AB  - Access to adequate medical care can be difficult in many countries, particularly in economically developing countries. There aren't enough medical professionals, such as doctors or nurses, and the nearest hospitals are too far away. Because there is such a severe shortage of resources, it is extremely challenging to provide preventative therapy to persons who are ill. As a direct consequence of this, even persons in good health are falling more behind in their surveillance of their fitness. It is crucial to have a plan in place to address this problem in order to guarantee that persons will not experience a disruption in their capacity to get necessary medical care in the event that this problem arises. Applications of the Internet of Things include ensuring public safety and improving operational efficiencies in transportation, municipal management, manufacturing, and physical activity (IoT). This study investigates its application in medical equipment and suggests an innovative approach to combining the ideas of fog computing and the Internet of Things. A poor health care system that focuses on clinics can be converted into a high-quality system that puts patients at the center with the help of the framework that has been proposed.
+ER  - 
+
+TY  - CONF
+TI  - System-on-Chip (SoC) Medicine
+T2  - 2024 IEEE International Workshop on Electromagnetics: Applications and Student Innovation Competition (iWEM)
+SP  - 1
+EP  - 2
+AU  - W. Y. Leong
+AU  - Y. Z. Leong
+AU  - W. S. Leong
+PY  - 2024
+KW  - Data privacy
+KW  - Technological innovation
+KW  - Medical devices
+KW  - Terminology
+KW  - Data security
+KW  - Telemedicine
+KW  - System-on-chip
+KW  - System-on-Chip (SoC)
+KW  - healthcare
+KW  - medical devices
+KW  - diagnostics
+KW  - monitoring
+KW  - telemedicine
+KW  - public health
+DO  - 10.1109/iWEM59914.2024.10649387
+JO  - 2024 IEEE International Workshop on Electromagnetics: Applications and Student Innovation Competition (iWEM)
+IS  - 
+SN  - 2835-7655
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Workshop on Electromagnetics: Applications and Student Innovation Competition (iWEM)
+Y1  - 10-12 July 2024
+AB  - The integration of medical functionalities into System-on-Chip (SoC) platforms has emerged as a transformative approach in healthcare. This study explores the principles, applications, challenges, and future prospects of SoC medicine. It examines how SoC technology facilitates the development of compact, efficient, and interconnected medical devices for diagnostics, monitoring, treatment, and patient care. By seamlessly integrating sensing, processing, and communication capabilities, SoC-enabled devices enable personalized and proactive healthcare interventions. The paper discusses key applications such as implantable devices, wearable health monitors, point-of-care diagnostics, and telemedicine services. It also addresses challenges related to power efficiency, data security, interoperability, and regulatory compliance. Finally, the paper outlines future directions and opportunities for research and development in the field of SoC medicine.
+ER  - 
+
+TY  - CONF
+TI  - Review of the Internet of Things for Healthcare Monitoring
+T2  - 2020 8th International Symposium on Digital Forensics and Security (ISDFS)
+SP  - 1
+EP  - 6
+AU  - T. Mustafa
+AU  - A. Varol
+PY  - 2020
+KW  - Wireless communication
+KW  - Wireless sensor networks
+KW  - Wireless personal area networks
+KW  - Medical services
+KW  - Body area networks
+KW  - Sensors
+KW  - Internet of Things
+KW  - Internet of Things (IoT)
+KW  - Healthcare monitoring
+KW  - Wireless Sensor Networks (WSN)
+KW  - Wireless Body Area Network (WBAN)
+KW  - Wireless Personal Area Network (WPAN)
+DO  - 10.1109/ISDFS49300.2020.9116305
+JO  - 2020 8th International Symposium on Digital Forensics and Security (ISDFS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 8th International Symposium on Digital Forensics and Security (ISDFS)
+Y1  - 1-2 June 2020
+AB  - These days, individuals are increasingly bound by indoor living, investing less energy outside. As a result, the importance of monitoring air quality inside to make indoor living progressively appropriate has risen immensely. The advancement of the Internet of Things (IoT) will significantly encourage patient analysis and monitoring procedures, as small IP-based wireless sensors can be placed on the patient’s body. For example, one’s blood pressure and coronary heart rate can be observed remotely and regularly using physiological parameters. Over the past few years, the IoT has experienced one of the most significant developments of the 21st century. The IoT describes a network of physical items, or “things,” that are embedded with sensors, software, and other technologies that are able to connect and exchange data with other devices and systems over the internet. These devices range from ordinary household objects to sophisticated industrial tools. There are more than seven billion connected IoT devices today, and experts are expecting this number to grow to 10 billion by 2020 and 22 billion by 2025. This paper attempts to review and understand the utilization of the IoT in customized healthcare and how excellent healthcare can be acquired at a low cost. We will clarify, in brief, how the IoT functions and how wireless and sensing systems are utilized in order to carry out efficient healthcare applications.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Patient Care and Monitoring Through AI and IoT in Healthcare
+T2  - 2023 IEEE International Conference on Computer Vision and Machine Intelligence (CVMI)
+SP  - 1
+EP  - 6
+AU  - M. Lal
+AU  - M. Bhende
+AU  - A. Goel
+AU  - A. Pathak
+AU  - P. Tamrakar
+AU  - S. Sharma
+AU  - P. Thorat
+PY  - 2023
+KW  - Data privacy
+KW  - Ethics
+KW  - Data security
+KW  - Medical services
+KW  - Real-time systems
+KW  - Internet of Things
+KW  - Artificial intelligence
+KW  - Remote Patient Monitoring
+KW  - Education
+KW  - Technological
+KW  - Digital Security and Privacy
+KW  - AI and IoT a Digital Environment
+KW  - Technology Privacy
+DO  - 10.1109/CVMI59935.2023.10464874
+JO  - 2023 IEEE International Conference on Computer Vision and Machine Intelligence (CVMI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Computer Vision and Machine Intelligence (CVMI)
+Y1  - 10-11 Dec. 2023
+AB  - AI and IoT can revolutionize patient care and monitoring. This presentation discusses the pros and cons of using AI and IoT to enhance patient care, therapy, and remote patient monitoring. AI technology improve data analysis, predictive modeling, and decision-making while IoT devices simplify patient data collecting and transfer. These technologies may enhance treatment regimens, patient results, and insights. AI and IoT let healthcare practitioners remotely monitor patients. Wearable sensors, remote monitoring devices, and implantable devices may collect vital signs, activity levels, and other health data from patients. Then, real-time artificial intelligence systems may analyze the data for quicker diagnosis, better treatment, and better results. AI-enhanced predictive analytics may help doctors identify patterns and trends in patient data for early diagnosis, risk assessment, and prevention. Machine learning algorithms can predict disease development, adjust medication dosages, and identify potential adverse events to enhance patient safety and treatment efficacy. However, healthcare AI and IoT use raises concerns that must be addressed. The massive volumes of patient data collected and transferred pose data security and privacy concerns. The General Data Protection Regulation (GDPR) and patient privacy must be observed. Data integration, standardization, and compatibility are some of the technical challenges of IoT device and AI system integration. Healthcare firms need robust infrastructure and data management to network, share data, and collaborate across devices and systems. Finally, AI and IoT technologies may enhance patient care and monitoring in the healthcare business. AI algorithms fordata analysis and IoT devices for real-time data collection may help doctors diagnose, treat, and monitor patients remotely. Data security, privacy, and interoperability must be addressed to deploy AI and IoT in health care. AI and IoT might transform healthcare and enhance patient outcomes despite these challenges.
+ER  - 
+
+TY  - CONF
+TI  - Exploring the Impact and Potential of the Internet of Medical Things (IoMT): A Comprehensive Review
+T2  - 2023 5th International Conference on Advances in Computing, Communication Control and Networking (ICAC3N)
+SP  - 967
+EP  - 972
+AU  - Akilan
+AU  - U. Hariharan
+AU  - I. B. Prakash
+AU  - K. Rajkumar
+PY  - 2023
+KW  - Patient monitoring
+KW  - Data analysis
+KW  - Reviews
+KW  - Telemedicine
+KW  - Standards organizations
+KW  - Internet of Medical Things
+KW  - Transforms
+KW  - Internet of Medical Things (IoMT)
+KW  - healthcare
+KW  - medical devices
+KW  - wearables
+KW  - remote patient monitoring
+KW  - telemedicine
+KW  - healthcare efficiency
+KW  - patient outcomes
+KW  - data security
+KW  - interoperability
+KW  - artificial intelligence
+KW  - personalized medicine
+KW  - implementation strategies
+DO  - 10.1109/ICAC3N60023.2023.10541669
+JO  - 2023 5th International Conference on Advances in Computing, Communication Control and Networking (ICAC3N)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 5th International Conference on Advances in Computing, Communication Control and Networking (ICAC3N)
+Y1  - 15-16 Dec. 2023
+AB  - The Internet of Medical Things (IoMT) is a transformative paradigm in healthcare that utilizes interconnected medical devices, wearables, and healthcare systems to revolutionize patient care, enhance clinical outcomes, and improve healthcare efficiency. This review paper provides a comprehensive analysis of the IoMT, encompassing its definition, key technologies, applications, benefits, challenges, and future prospects. Through a synthesis of existing literature, this paper presents a holistic understanding of the IoMT landscape, its implications for healthcare stakeholders, and its potential to transform healthcare delivery. The review highlights various applications of IoMT, including remote patient monitoring, telemedicine, and smart healthcare facilities, emphasizing their impact on improving patient outcomes and advancing medical research. Moreover, it addresses challenges such as data security, interoperability, ethical considerations, and regulatory frameworks. The paper concludes by identifying research gaps and proposing future directions, including the integration of artificial intelligence, personalized medicine, and scalable implementation strategies. This review contributes to the growing body of knowledge on IoMT and provides valuable insights for researchers, clinicians, and policymakers.
+ER  - 
+
+TY  - CONF
+TI  - Generative Design Methodology for Internet of Medical Things (IoMT)-based Wearable Biomedical Devices
+T2  - 2021 3rd International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA)
+SP  - 1
+EP  - 4
+AU  - C. Dilibal
+AU  - B. L. Davis
+AU  - C. Chakraborty
+PY  - 2021
+KW  - Industries
+KW  - Human computer interaction
+KW  - Machine learning algorithms
+KW  - Design methodology
+KW  - Tools
+KW  - Three-dimensional printing
+KW  - Iterative algorithms
+KW  - Generative design
+KW  - biomedical device
+KW  - internet of medical things
+KW  - telemedicine
+DO  - 10.1109/HORA52670.2021.9461370
+JO  - 2021 3rd International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 3rd International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA)
+Y1  - 11-13 June 2021
+AB  - Application-driven generative design concept produces multiple solutions in varied fields in the industry. Generative design is an iterative design process that involves a machine learning algorithm that creates varied outputs that meet pre-determined constraints. This methodology provides an efficient tool for creating different design options for biomedical devices. Biomedical devices need different functionality and complexity. The generative design combined with additive manufacturing increases the functionality of the biomedical device with reduced material and total cost. Using artificial intelligence (AI) algorithm and the cloud, generative design enables to develop creative design options for the internet of medical things (IoMT)-based biomedical devices. In this study, the crucial role of generative design methodology is revealed for creating functional IoMT-based biomedical devices.
+ER  - 
+
+TY  - CONF
+TI  - Integrating Medical and Wearable Devices with E-Health Systems Using Horizontal IoT Platforms
+T2  - 2023 IEEE Sensors Applications Symposium (SAS)
+SP  - 1
+EP  - 6
+AU  - M. A. Issa
+AU  - A. Eldosouky
+AU  - M. Ibnkahla
+AU  - J. Jaskolka
+AU  - A. Matrawy
+PY  - 2023
+KW  - Performance evaluation
+KW  - Wireless communication
+KW  - Medical devices
+KW  - Wearable computers
+KW  - Data visualization
+KW  - Data collection
+KW  - Sensors
+KW  - E-health
+KW  - Device Integration
+KW  - Horizontal IoT Platforms
+KW  - OM2M
+DO  - 10.1109/SAS58821.2023.10254186
+JO  - 2023 IEEE Sensors Applications Symposium (SAS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE Sensors Applications Symposium (SAS)
+Y1  - 18-20 July 2023
+AB  - The Internet of Things (IoT) has unleashed the potential to expand the deployment of e-health systems by facilitating remote monitoring and introducing emerging IoT-enabled devices. However, this requires e-health systems to dynamically integrate a variety of heterogeneous IoT-enabled devices. In this paper, a four-phase device integration process is proposed to connect IoT-enabled medical devices with e-health systems through the use of horizontal IoT platforms. Horizontal platforms are used to facilitate the management of heterogeneous devices and their huge amount of data. The IoT-enabled medical devices are classified into direct and indirect devices based on their data availability to the platform. Data collection from direct devices is performed through wired or wireless communication. In contrast, indirect devices make their data available only to the cloud, from where the platform can access and retrieve the data. The proposed integration process is then implemented using OM2M horizontal IoT platform through two use cases of integrating direct and indirect real devices. For each use case, the technical details of the implementation phases are provided to demonstrate the effectiveness of the proposed device integration process. Finally, technical considerations and challenges are discussed for generalizing the proposed integration process to other medical devices.
+ER  - 
+
+TY  - CONF
+TI  - IoT enabled applications for Healthcare decisions
+T2  - 2022 International Conference on Decision Aid Sciences and Applications (DASA)
+SP  - 47
+EP  - 54
+AU  - I. Suhail
+AU  - S. Pillai
+PY  - 2022
+KW  - Industries
+KW  - Heart beat
+KW  - Wearable computers
+KW  - Medical services
+KW  - Internet of Medical Things
+KW  - Electrocardiography
+KW  - Security
+KW  - IoT
+KW  - IoMT
+KW  - Digitalization
+KW  - Healthcare
+KW  - Wearables
+KW  - Technology
+KW  - E-health
+KW  - Remote health monitoring
+DO  - 10.1109/DASA54658.2022.9765251
+JO  - 2022 International Conference on Decision Aid Sciences and Applications (DASA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 International Conference on Decision Aid Sciences and Applications (DASA)
+Y1  - 23-25 March 2022
+AB  - With the advent of digital transformation, technology has brought about a gigantic and momentous change in almost every industry. Internet of Things (IoT), being one of the most revolutionizing technology, has been impacting all fields of life immensely, but its impact on the healthcare industry has been particularly significant due to its cutting edge transition. The objective of this paper is to understand the role of IoT in this sector, its various use cases, and on how the devices assists medical professionals to function more efficiently and patients for an enhanced treatment. For instance, the Intelligent Asthma Monitoring wearable technology can forecast the oncoming asthma attack way before the person wearing it can comprehend. Apple watches, though not designed with this agenda in the first place, have now been a significant part in gathering information about people with the new blood oxygen measuring functionality, echocardiogram (ECG) tracking, and also detecting irregular heartbeat which is an indicator of Atrial Fibrillation (AFib). Furthermore, the paper will also address the probable challenges of the technology in the sector and understand the current and future adaptability of internet of medical thing devices.
+ER  - 
+
+TY  - CONF
+TI  - Development of Health Monitoring Wearable Device using ESP32
+T2  - 2024 International Conference on Inventive Computation Technologies (ICICT)
+SP  - 2007
+EP  - 2012
+AU  - M. Pawar
+AU  - S. Rusia
+AU  - S. Tijare
+AU  - A. Gadpalliwar
+AU  - M. Ashtekar
+AU  - R. Pichkate
+PY  - 2024
+KW  - Temperature sensors
+KW  - Temperature measurement
+KW  - Heart rate
+KW  - Cloud computing
+KW  - Microcontrollers
+KW  - Organic light emitting diodes
+KW  - Biomedical monitoring
+KW  - NodeMCU ESP32
+KW  - Heart Rate and Pulse Oximeter Sensor(MAX30102)
+KW  - OLED
+KW  - Temperature Sensor(DS18B20
+KW  - Blynk
+KW  - Ubidots
+DO  - 10.1109/ICICT60155.2024.10544910
+JO  - 2024 International Conference on Inventive Computation Technologies (ICICT)
+IS  - 
+SN  - 2767-7788
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Inventive Computation Technologies (ICICT)
+Y1  - 24-26 April 2024
+AB  - Particularly in the wake of the pandemic, telehealth has gained a significant role in the delivery of healthcare globally. The use of healthcare monitoring systems has greatly increased. The goal of this project is to create a prototype home health monitoring system that can take the place of standard physical examinations performed in hospitals. The goal is to extract important health metrics from the PPG data utilising the MAX30102 Photoplethysmography (PPG) module, infrared temperature sensor (DS18B20), an OLED display, and the Blynk cloud platform. These parameters include heart rate and oxygen saturation.
+ER  - 
+
+TY  - CONF
+TI  - WoS Bibliometric-Based Review on IoT in Healthcare Sector
+T2  - 2023 International Conference on Communication, Security and Artificial Intelligence (ICCSAI)
+SP  - 107
+EP  - 112
+AU  - N. Manchanda
+AU  - D. Chhabra
+AU  - M. Malik
+AU  - K. Kumar
+PY  - 2023
+KW  - Telemedicine
+KW  - Bibliometrics
+KW  - Medical services
+KW  - Internet of Things
+KW  - Security
+KW  - Wearable devices
+KW  - Remote monitoring
+KW  - Internet of Things(IoT)
+KW  - Healthcare sector
+KW  - Bibliometric Analysis
+KW  - WoS
+KW  - Rstudio
+DO  - 10.1109/ICCSAI59793.2023.10421430
+JO  - 2023 International Conference on Communication, Security and Artificial Intelligence (ICCSAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Communication, Security and Artificial Intelligence (ICCSAI)
+Y1  - 23-25 Nov. 2023
+AB  - The healthcare industry has experienced a significant digital revolution in recent years. The way doctors and hospitals provide care for their patients is changing as a result of digital technologies like IoT devices and monitors. This is a good development that is assisting in streamlining healthcare, reducing expenses and enhancing access to vital medical information. The pharmaceutical production process can be optimized with the use of Internet of Things (IoT) technology, and it enables healthcare professionals to access patient data quickly and effectively. According to the Markets and Markets study, the market for IoT medical devices is expected to reach ${{\$ }}94.2$ billion by 2026 [1]. We refer to the WoS articles from the past seven years, which were published between 2016 and 2022. The “bibliometric” library is used in the RStudio environment to conduct the whole analysis. We are able to find the outcomes using different aspects like sources, technology, year, research gaps, citations, research impact, publisher etc.
+ER  - 
+
+TY  - CONF
+TI  - IoT Revolutionizing Healthcare: A Survey of Smart Healthcare System Architectures
+T2  - 2023 International Conference on Research Methodologies in Knowledge Management, Artificial Intelligence and Telecommunication Engineering (RMKMATE)
+SP  - 1
+EP  - 5
+AU  - D. R. S
+AU  - A. B
+PY  - 2023
+KW  - Surveys
+KW  - Patient monitoring
+KW  - Protocols
+KW  - Wearable computers
+KW  - Systems architecture
+KW  - Medical services
+KW  - Standardization
+KW  - Internet of Things (IoT)
+KW  - Global System for Mobile Communication (GSM)
+KW  - Remote Patient Monitoring
+KW  - Intelligent Healthcare Systems and Healthcare Industry
+DO  - 10.1109/RMKMATE59243.2023.10369980
+JO  - 2023 International Conference on Research Methodologies in Knowledge Management, Artificial Intelligence and Telecommunication Engineering (RMKMATE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Research Methodologies in Knowledge Management, Artificial Intelligence and Telecommunication Engineering (RMKMATE)
+Y1  - 1-2 Nov. 2023
+AB  - The Internet of Things (IoT) has had a profound impact on the healthcare sector by paving the way for the creation of smart healthcare systems that improve patient monitoring, diagnosis, and individualized care. The purpose of this study is to provide a review of the state of the art in IoT-based healthcare system architectures. In this study, we take a look at the current state of the art of Internet of Things (IoT) technologies, protocols, and communication models used in healthcare settings. The survey digs into the roles and interconnections of key components and layers of IoT architecture, such as sensor nodes, gateways, cloud platforms, and data analytics, in a smart healthcare ecosystem. Furthermore, it investigates the potential for incorporating wearable devices, medical sensors, and other smart healthcare gadgets that enable real - time data gathering and transmission. In addition, the paper explores the dangers and vulnerabilities inherent in IoT - based healthcare systems, as well as the current solutions available for addressing these issues and safeguarding sensitive patient data. The challenges of interoperability and standardization are also explored in order to guarantee the smooth integration and communication of various healthcare equipment and systems. Using examples like remote patient monitoring, chronic illness management, fall detection, and elderly care, the survey emphasizes the beneficial effects of IoT on patient outcomes and healthcare efficiency.
+ER  - 
+
+TY  - CONF
+TI  - Review of Secure Healthcare and Patient Monitoring System Using Block Chain for Accessing Medical Records
+T2  - 2023 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)
+SP  - 1
+EP  - 6
+AU  - K. Tabassum
+AU  - L. A. Abukhamis
+PY  - 2023
+KW  - Industries
+KW  - Data privacy
+KW  - Smart contracts
+KW  - Medical services
+KW  - Switches
+KW  - Standardization
+KW  - Blockchains
+KW  - Healthcare
+KW  - Block chain
+KW  - Electronic Health Record
+KW  - Data Security
+KW  - Patient Monitoring
+KW  - Internet of Things
+DO  - 10.1109/CSDE59766.2023.10487648
+JO  - 2023 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)
+Y1  - 4-6 Dec. 2023
+AB  - Healthcare industry is evolving rapidly due to the rigorous research and development in health care industry and is contributing to the enormous development the most happening and upcoming innovative block chain technology. This development in both health care and technological industry has enhanced the quality of fitness of an individual by the use of miniaturized sensors that could be invasively or non-invasively embedded to monitor human vital signs to offer a secure patient healthcare system. When sharing personal medical information, data security and comfort are essential requirements for interaction with electronic medical records. However, it is hard for current systems to meet these requirements because they have inconsistent security policies and access control structures. Another problem is switching the medical providers that is extremely unmanageable and creates tedious issues for medical claim approvals since maximum advanced healthcare systems are distributed greatly with low speed issues and frauds. The new solutions should be directed towards improving data access and should be managed by the government in terms of privacy and security requirements to ensure the reliability of data for medical purposes. Block chain technology is the most unique and real solution that promises secure patient data coordination and whole healthcare system, provides pre-approved constraints. Block chain paves the way for a revolution in the traditional pharmaceutical industry and benefits from unique features such as data privacy and transparency. This paper proposes a block chain solution to facilitate patients and healthcare system users to access their health care records with smart contract technology.
+ER  - 
+
+TY  - STD
+TI  - IEEE Standard Health Informatics--Device Interoperability Part 10103: Point‐of‐Care Medical Device Communication--Nomenclature--Implantable Device, Cardiac
+T2  - IEEE Std 11073-10103-2023 (Revision of IEEE Std 11073-10103-2012)
+SP  - 1
+EP  - 140
+PY  - 2024
+KW  - IEEE Standards
+KW  - Synchronization
+KW  - Cardiology
+KW  - Medical devices
+KW  - Pacemakers
+KW  - Remote monitoring
+KW  - Point of care
+KW  - Defibrillation
+KW  - Cardiovascular diseases
+KW  - Implants
+KW  - Terminology
+KW  - cardiac resynchronization therapy
+KW  - codes
+KW  - CRT
+KW  - follow-up
+KW  - home monitoring
+KW  - ICD
+KW  - IDC
+KW  - IEEE 11073-10103™
+KW  - implantable cardioverter defibrillator
+KW  - implantable devices
+KW  - implantable device cardiac
+KW  - medical device communication
+KW  - nomenclature
+KW  - pacemaker
+KW  - remote follow-up
+KW  - remote monitoring
+KW  - terminology
+DO  - 10.1109/IEEESTD.2024.10541939
+JO  - IEEE Std 11073-10103-2023 (Revision of IEEE Std 11073-10103-2012)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE Std 11073-10103-2023 (Revision of IEEE Std 11073-10103-2012)
+Y1  - 30 May 2024
+AB  - The base nomenclature provided in IEEE 11073 to support terminology for implantable cardiac devices is extended in this standard. Devices within the scope of this nomenclature are implantable devices such as pacemakers, defibrillators, devices for cardiac resynchronization therapy, and implantable cardiac monitors. The discrete terms necessary to convey a clinically relevant summary of the information obtained during a device interrogation are defined in this nomenclature. To improve workflow efficiencies, cardiology and electrophysiology practices require the management of summary interrogation information from all vendor devices and systems in a central system such as an Electronic Health Records (EHR) system or a device clinic management system. To address this requirement, the Implantable Device, Cardiac (IDC) Nomenclature defines a standard-based terminology for device data. The nomenclature facilitates the transfer of data from the vendor proprietary systems to the clinic EHR or device clinic management system.
+ER  - 
+
+TY  - CONF
+TI  - Approaches for WSN (Wireless Sensor Networks) Standardization and Their Interoperability in Combining into a Global Network
+T2  - 2023 IEEE East-West Design & Test Symposium (EWDTS)
+SP  - 1
+EP  - 4
+AU  - A. Petrenko
+PY  - 2023
+KW  - Wireless communication
+KW  - Wireless sensor networks
+KW  - Cloud computing
+KW  - Web services
+KW  - Medical services
+KW  - Standardization
+KW  - Convolutional neural networks
+KW  - wireless sensor network
+KW  - fog and edge computing networks service-oriented architecture
+KW  - data aggregation
+KW  - m-health
+DO  - 10.1109/EWDTS59469.2023.10297078
+JO  - 2023 IEEE East-West Design & Test Symposium (EWDTS)
+IS  - 
+SN  - 2472-761X
+VO  - 
+VL  - 
+JA  - 2023 IEEE East-West Design & Test Symposium (EWDTS)
+Y1  - 22-25 Sept. 2023
+AB  - Wireless sensor networks (WSN) are networks consisting of a collection of sensors with the functions of collecting, processing, and transmitting data on the state of the environment. In the article, using the example of a specific case of the so-called WBSM networks (Wireless Body Sensor Network), a service-oriented approach to their implementation is considered as a guarantee of ensuring the standardization and interoperability of the components of their structures when implementing the scenarios of calculations involved in them. This approach will differ from analogs by maximally simplifying the design of calculation scenarios due to the absence of low-level details in the scenario descriptions. The proposed solutions were tested by creating a prototype of a mobile medical intelligence platform WBSM, which enables remote interaction of patients and doctors, which is especially critical in the conditions of a pandemic to identify risk groups of patients with chronic diseases.
+ER  - 
+
+TY  - CONF
+TI  - A Study on the Considerations for Establishing a Security Model for Non-face-to-face Telehealth
+T2  - 2022 13th International Conference on Information and Communication Technology Convergence (ICTC)
+SP  - 1806
+EP  - 1810
+AU  - J. Jin
+AU  - I. Lee
+PY  - 2022
+KW  - Technical requirements
+KW  - Hospitals
+KW  - Pandemics
+KW  - Telemedicine
+KW  - Surgery
+KW  - Organizations
+KW  - Malware
+KW  - Smart Healthcare
+KW  - Telehealth
+KW  - Information Security
+KW  - Security Model
+KW  - Non-face-to-face
+KW  - Telemedicine
+DO  - 10.1109/ICTC55196.2022.9952606
+JO  - 2022 13th International Conference on Information and Communication Technology Convergence (ICTC)
+IS  - 
+SN  - 2162-1241
+VO  - 
+VL  - 
+JA  - 2022 13th International Conference on Information and Communication Technology Convergence (ICTC)
+Y1  - 19-21 Oct. 2022
+AB  - Due to the global COVID-19 pandemic, interest in non-face-to-face telehealth is increasing worldwide, and telehealth services are being activated in various fields. In some countries, successful cases of remote surgery using non-face-to-face telehealth services are emerging one after another. Due to the absence of related standards presented to precisely handle security requirements in a non-face-to-face telehealth environment, security threats in telehealth are proceeding in a form that relies entirely on IT technology. However, the IT technology used in the medical environment is somewhat different from the existing ICT technology, so the need for a cybersecurity framework for non-face-to-face telehealth is becoming a much more important issue. This paper focuses on what needs to be considered to establish an appropriate security model in non-face-to-face telehealth.
+ER  - 
+
+TY  - CONF
+TI  - Exploring the Potential of Distributed Ledger Technology in e-Health Monitoring
+T2  - 2023 1st International Conference on Cognitive Computing and Engineering Education (ICCCEE)
+SP  - 1
+EP  - 7
+AU  - R. Singh
+AU  - M. M. Baig
+AU  - S. V. Sonekar
+AU  - S. Sawwashere
+PY  - 2023
+KW  - Industries
+KW  - Distributed ledger
+KW  - Medical services
+KW  - Organizations
+KW  - Transforms
+KW  - Monitoring
+KW  - Interoperability
+KW  - Healthcare
+KW  - e-medical
+KW  - Health monitoring
+KW  - Blockchain
+KW  - Distributed ledger
+DO  - 10.1109/ICCCEE55951.2023.10424046
+JO  - 2023 1st International Conference on Cognitive Computing and Engineering Education (ICCCEE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 1st International Conference on Cognitive Computing and Engineering Education (ICCCEE)
+Y1  - 27-29 April 2023
+AB  - The potential of distributed ledger technology (DLT) to transform various industries, such as healthcare, has been widely acknowledged. Due to the increasing interest in the technology's use in monitoring health data. One of the most important advantages of DLT in monitoring is its ability for creating secure and reliable records. This feature allows for the preservation of sensitive information, and it can be used to protect the data of various individuals. In addition, it can allow researchers and healthcare providers to share information between themselves and other healthcare organizations. One of the main advantages of DLT in the monitoring of health data is its ability to improve interoperability. This technology can help create a decentralized system that will allow healthcare providers to store and share health data. This eliminates the need for central data hubs and enables them to access and use the information they need to improve patient care. Another advantage of DLT in monitoring is it's ability to allow healthcare organizations to use smart contracts. This feature can help them automate various processes, such as drug supply chain management and claims management. Despite the various advantages of DLT in monitoring, there are still many challenges that need to be addressed in order to successfully implement it in the field. One of these is the lack of interoperability. This issue can prevent DLT systems from being able to work seamlessly with other systems. Also, the lack of regulations is a major concern when it comes to the use of DLT in healthcare. The potential of DLT to significantly impact the monitoring industry is immense. Its ability to improve data interoperability and secure storage can lead to the creation of more effective and efficient systems. However, it's important to note that the technology still has a long way to go before it fully realizes its full potential. This paper aims to review the literature on the subject.
+ER  - 
+
+TY  - CONF
+TI  - Harnessing 5G Networks for Health Care: Challenges and Potential Applications
+T2  - 2023 International Conference on Smart Applications, Communications and Networking (SmartNets)
+SP  - 1
+EP  - 6
+AU  - S. M. A. A. Abir
+AU  - M. Abuibaid
+AU  - J. S. Huang
+AU  - Y. Hong
+PY  - 2023
+KW  - 5G mobile communication
+KW  - Wearable computers
+KW  - Telemedicine
+KW  - Medical services
+KW  - Data transfer
+KW  - Three-dimensional printing
+KW  - Security
+KW  - 5G network
+KW  - Healthcare
+KW  - Emergency Vehicle Communication System
+DO  - 10.1109/SmartNets58706.2023.10215757
+JO  - 2023 International Conference on Smart Applications, Communications and Networking (SmartNets)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Smart Applications, Communications and Networking (SmartNets)
+Y1  - 25-27 July 2023
+AB  - The fifth generation (5G) network has revolutionized the healthcare field, offering high-speed data transfer, low latency, and improved network coverage. This has opened new opportunities to help healthcare providers break through barriers for better care delivery. The paradigm shift towards a distributed patient-centric approach in health care has driven the need for the utilization of 4G and other advanced technologies for smart healthcare. However, the limitations of fourth-generation healthcare systems require machine-to-machine (M2M) or device-to-device (D2D) communication, which can be addressed by 5G network infrastructure with its ultra-low latency, high availability, reliability, and security features. This paper provides an overview of the role of smart healthcare in transforming the healthcare industry through the integration of advanced technologies such as electronic health records (EHRs), telemedicine, internet of things (IoT), wearable devices, artificial intelligence (AI), blockchain, and 3D printing. It also discusses the key features of 5G networks, including high-speed data transfer, low latency, increased bandwidth, improved network coverage, network slicing, and improved security. Additionally, this paper proposes a 5G-enabled emergency vehicle communication system as a potential application of 5G technology in health care.
+ER  - 
+
+TY  - CONF
+TI  - Analysis of IoT Health Data: State of the Art and Research Opportunities
+T2  - 2024 International Conference on Circuit, Systems and Communication (ICCSC)
+SP  - 1
+EP  - 6
+AU  - Z. S. Houssaini
+AU  - Y. Balboul
+AU  - A. Bouayad
+PY  - 2024
+KW  - Patient monitoring
+KW  - Data analysis
+KW  - Surveillance
+KW  - Focusing
+KW  - Data protection
+KW  - Internet of Medical Things
+KW  - Distance measurement
+KW  - Internet of Medical Things
+KW  - Healthcare System
+KW  - Remote Patient Monitoring
+KW  - Data Analysis Methods
+DO  - 10.1109/ICCSC62074.2024.10617220
+JO  - 2024 International Conference on Circuit, Systems and Communication (ICCSC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Circuit, Systems and Communication (ICCSC)
+Y1  - 28-29 June 2024
+AB  - The increasing integration of Internet of Things (IoT) devices in the healthcare sector has transformed the way medical data is collected and analyzed. This article aims to provide a comprehensive overview of the current state of the Internet of Medical Things (IoMT), highlighting recent advancements, benefits, challenges encountered, as well as future perspectives and research opportunities. We take a closer look at the technologies used, data analysis methods, security and privacy concerns, as well as potential applications in preventive medicine, chronic disease management, and remote patient monitoring.
+ER  - 
+
+TY  - CONF
+TI  - Systematic Threat Analysis of Modern Unified Healthcare Communication Systems
+T2  - GLOBECOM 2022 - 2022 IEEE Global Communications Conference
+SP  - 1404
+EP  - 1410
+AU  - A. I. Newaz
+AU  - A. Aris
+AU  - A. K. Sikder
+AU  - A. S. Uluagac
+PY  - 2022
+KW  - Performance evaluation
+KW  - Medical devices
+KW  - Systematics
+KW  - Statistical analysis
+KW  - Communication systems
+KW  - Automata
+KW  - Medical services
+KW  - Smart Medical Device
+KW  - Healthcare Communication
+KW  - ISO/IEEE-11073
+KW  - HL7
+DO  - 10.1109/GLOBECOM48099.2022.10001605
+JO  - GLOBECOM 2022 - 2022 IEEE Global Communications Conference
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - GLOBECOM 2022 - 2022 IEEE Global Communications Conference
+Y1  - 4-8 Dec. 2022
+AB  - Recently, smart medical devices have become preva-lent in remote monitoring of patients and the delivery of medication. The ongoing Covid-19 pandemic situation has boosted the upward trend of the popularity of smart medical devices in the healthcare system. Simultaneously, different device manufacturers and technologies compete for a share in a smart medical device's market, which forces the integration of diverse smart medical de-vices into a common healthcare ecosystem. Hence, modern unified healthcare communication systems (UHCSs) combine ISO/IEEE 11073 and Health Level Seven (HL7) communication standards to support smart medical devices' interoperability and their communication with healthcare providers. Despite their advantages in supporting various smart medical devices and communication technologies, these standards do not provide any security and suffer from vulnerabilities. Existing studies provide stand-alone security solutions to components of UHCSs and do not cover UHCSs holistically. In this paper, we perform a systematic threat analysis of UHCSs that relies on attack-defense tree (ADTree) formalisms. Considering the attack landscape and defense ecosys-tem, we build an ADTree for UHCSs and convert the ADTree to stochastic timed automata (STA) to perform quantitative analysis. Our analysis using UPPAAL SMC shows that the Man-in-the-Middle and unauthorized remote access attacks are the most probable attacks that a malicious entity could pursue, causing mistreatment to patients. We also extract valuable information about the top threats, the likelihood of performing different individual and simultaneous attacks, and the expected cost for attackers.
+ER  - 
+
+TY  - CONF
+TI  - A 5 G health use case calling for ecosystem strategies: Resolving technology and business dependencies necessary to kick off the market
+T2  - 2021 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)
+SP  - 323
+EP  - 328
+AU  - E. Brandsma
+AU  - H. K. Hallingby
+AU  - P. H. Lehne
+PY  - 2021
+KW  - Economics
+KW  - Patient monitoring
+KW  - Ultrasonic imaging
+KW  - 5G mobile communication
+KW  - Hospitals
+KW  - Inhibitors
+KW  - Biological system modeling
+KW  - remote patient monitoring
+KW  - 5G
+KW  - interoperability
+KW  - ecosystem
+KW  - business
+DO  - 10.1109/EuCNC/6GSummit51104.2021.9482489
+JO  - 2021 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)
+IS  - 
+SN  - 2575-4912
+VO  - 
+VL  - 
+JA  - 2021 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)
+Y1  - 8-11 June 2021
+AB  - 5G-HEART, as one of the 5G PPP Phase 3 (ICT-19) projects, deploys innovative digital use cases involving healthcare, transport, and aquaculture. In general, connectivity is imperative to realize economic and welfare benefits and 5G-HEART studies whether 5G can provide capabilities which current connectivity solutions cannot. This article focuses on one healthcare use case; Remote Patient Monitoring for transitional care, a compelling use case that could be enabled by 5G connectivity. We describe and analyze this use case according to technology and business status and gaps, revealing dependencies and challenges between technologies and business partners in their value creation and capturing. This approach corresponds to perceiving the 5G market as an ecosystem. Based on our analyses we indicate scenarios for resolution in line with ecosystem strategies; more importantly we highlight challenges and inhibitors that need to be addressed by the ecosystem. Thus, our contribution is not intended to offer a clear-cut solution but rather to create awareness of the problems and to trigger a discussion to help ensure maximum impact of 5G, particularly in relation to connected care.
+ER  - 
+
+TY  - CONF
+TI  - Entrust: usEr ceNtric plaTform foR continoUS healThcare
+T2  - 2024 20th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)
+SP  - 595
+EP  - 600
+AU  - G. D’Aniello
+AU  - L. Greco
+AU  - F. Pupo
+AU  - C. Savaglio
+PY  - 2024
+KW  - Patient monitoring
+KW  - Fluids
+KW  - Hospitals
+KW  - Computational modeling
+KW  - Medical services
+KW  - Computer architecture
+KW  - Internet of Things
+KW  - Internet of Things
+KW  - Edge Intelligence
+KW  - Health-care
+KW  - Wearable Computing
+DO  - 10.1109/DCOSS-IoT61029.2024.00093
+JO  - 2024 20th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)
+IS  - 
+SN  - 2325-2944
+VO  - 
+VL  - 
+JA  - 2024 20th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)
+Y1  - 29 April-1 May 2024
+AB  - The continuous growth in the worldwide demand for medical services pushes the traditional model of hospital care towards a more sustainable one which makes continuous monitoring of health status as well as remote treatment of diseases (where possible) feasible. In this context, the synergic exploitation of well-established paradigms such as Internet of Things (IoT), Wearable Computing and Edge Intelligence (EI) within a single platform can represent a game-changer with respect to the current smart healthcare scenario. In this paper we introduce ENTRUST (usEr ceNtric plaTform foR continoUS healThcare), an innovative solution pivoted around a seamless edge-cloud architecture and a simulation-based approach for the development of next-generation, daily healthcare services. The system desiderata and challenges towards its implementation are hence discussed and a use case reported to exemplify the envisioned ENTRUST approach.
+ER  - 
+
+TY  - CONF
+TI  - Tech-Driven Wellness: Navigating the Confluence of Technology and Digital Health
+T2  - 2024 2nd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)
+SP  - 1
+EP  - 6
+AU  - N. Bhatt
+AU  - B. Bisht
+AU  - D. C. G.
+AU  - A. Mittal
+AU  - N. Garg
+PY  - 2024
+KW  - Privacy
+KW  - Ethics
+KW  - Solid modeling
+KW  - 5G mobile communication
+KW  - Telemedicine
+KW  - Scalability
+KW  - Education
+KW  - Healthcare
+KW  - digital health
+KW  - technology
+KW  - telemedicine
+KW  - telehealth
+DO  - 10.1109/AIMLA59606.2024.10531325
+JO  - 2024 2nd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 2nd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)
+Y1  - 15-16 March 2024
+AB  - The fast-developing discipline of "digital health" is changing how healthcare is administered and provided. Technology integration into healthcare is transforming the way professionals and patients interact with healthcare services. Development in technology such as (AR) & (VR) augmented reality & virtual reality are expected to revolutionize healthcare education, therapeutic applications, and provide immersive experiences for both professionals and patients. 5G technology will enable high-speed connectivity for real- time data, leading to advancements in remote surgery, interventions, and telemedicine services. Health data analytics and predictive modeling will enable healthcare providers to adopt more proactive approaches to disease prevention and management. The synergy between technology and healthcare is driving unprecedented advancements, reshaping the way healthcare is delivered. The future promises enhanced efficiency, accessibility, and a paradigm shift towards more personalized and proactive healthcare. However, It's critical to maintain awareness of privacy issues, ethical issues, and equitable integration of technology to ensure that benefits are accessible to all. Collaboration between technology innovators, healthcare policymakers, and professionals will widely contribute to understanding the exact capability of digital health for the betterment of human & communities worldwide.
+ER  - 
+
+TY  - JOUR
+TI  - Design and Usability Assessment of a Multi-Device SOA-Based Telecare Framework for the Elderly
+T2  - IEEE Journal of Biomedical and Health Informatics
+SP  - 268
+EP  - 279
+AU  - S. Macis
+AU  - D. Loi
+AU  - A. Ulgheri
+AU  - D. Pani
+AU  - G. Solinas
+AU  - S. L. Manna
+AU  - V. Cestone
+AU  - D. Guerri
+AU  - L. Raffo
+PY  - 2020
+KW  - Senior citizens
+KW  - Usability
+KW  - TV
+KW  - Interoperability
+KW  - Medical services
+KW  - Service-oriented architecture
+KW  - Standards
+KW  - Telemonitoring
+KW  - interoperability
+KW  - Bluetooth
+KW  - Android
+KW  - m-health
+KW  - elderly
+DO  - 10.1109/JBHI.2019.2894552
+JO  - IEEE Journal of Biomedical and Health Informatics
+IS  - 1
+SN  - 2168-2208
+VO  - 24
+VL  - 24
+JA  - IEEE Journal of Biomedical and Health Informatics
+Y1  - Jan. 2020
+AB  - Telemonitoring is a branch of telehealth that aims at remotely monitoring vital signs, which is important for chronically ill patients and the elderly living alone. The available standalone devices and applications for the self-monitoring of health parameters largely suffer from interoperability problems; meanwhile, telemonitoring medical devices are expensive, self-contained, and are not integrated into user-friendly technological platforms for the end user. This paper presents the technical aspects and usability assessment of the telemonitoring features of the HEREiAM platform, which supports heterogeneous information technology systems. By exploiting a service-oriented architecture, the measured parameters collected by off-the-shelf Bluetooth medical devices are sent as XML documents to a private cloud that implements an interoperable health service infrastructure, which is compliant with the most recent healthcare standards and security protocols. This Android-based system is designed to be accessible both via TV and portable devices, and includes other utilities designed to support the elderly living alone. Four usability assessment sessions with quality-validated questionnaires were performed to accurately understand the ease of use, usefulness, acceptance, and quality of the proposed system. The results reveal that our system achieved very high usability scores even at its first use, and the scores did not significantly change over time during a field trial that lasted for four months, reinforcing the idea of an intuitive design. At the end of such a trial, the user-experience questionnaire achieved excellent scores in all aspects with respect to the benchmark. Good results were also reported by general practitioners who assessed the quality of their remote interfaces for telemonitoring.
+ER  - 
+
+TY  - CONF
+TI  - A Prototype of IoT-based Real-time Respiratory Rate Monitoring Using an Accelerometer Sensor
+T2  - 2022 4th International Conference on Biomedical Engineering (IBIOMED)
+SP  - 42
+EP  - 46
+AU  - M. H. Andarevi
+AU  - A. A. Iskandar
+PY  - 2022
+KW  - Accelerometers
+KW  - Protocols
+KW  - Medical devices
+KW  - Prototypes
+KW  - Medical services
+KW  - Manuals
+KW  - Real-time systems
+KW  - Accelerometer
+KW  - Internet of Things
+KW  - Monitoring
+KW  - MQTT
+KW  - Real-time systems
+DO  - 10.1109/IBIOMED56408.2022.9988053
+JO  - 2022 4th International Conference on Biomedical Engineering (IBIOMED)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 4th International Conference on Biomedical Engineering (IBIOMED)
+Y1  - 18-19 Oct. 2022
+AB  - The emergence of the internet of things (IoT) has provided a dynamic change of healthcare system that enables interoperability and secure data transmission for a more effective healthcare delivery. This paper extends the implementation of IoT in combining medical devices and sensors with an IoT platform. Among various fundamental vital signs, respiratory rate is one of the most sensitive indicators of physiological conditions. Although it is deemed as a prognostic parameter that can predict miscellaneous diseases, respiratory rate monitoring remains frequently omitted and considered as time-consuming using manual counting methods. To address this problem, this paper presents a prototype of a respiratory rate monitoring device based on IoT and real-time systems. The device is equipped with an accelerometer sensor to measure abdominal movement generated by the inhale-exhale process. Butterworth filter and peak detection algorithm are applied to the signal to detect respiratory cycles. The proposed system uses the message queuing telemetry transport (MQTT) protocol that implements publish-subscribe systems. Respiratory rate results are featured on the Node-RED dashboard with motion and peak signals plotted during the test. Monitoring was carried out on five participants and the results were analyzed using paired t-test. Good performance was demonstrated by having no significant difference in respiratory rate using the proposed method compared to the actual values (p>0.05). Hence, this work provides a convenient technique for respiratory rate estimation and may further allow for the improvement of the effectiveness of remote patient monitoring.
+ER  - 
+
+TY  - CONF
+TI  - Exploring the Potential of Dew Computing for Smart Healthcare: A Comprehensive Review
+T2  - 2023 10th International Conference on Computing for Sustainable Global Development (INDIACom)
+SP  - 1384
+EP  - 1389
+AU  - A. Manocha
+AU  - Z. S. Masoodi
+PY  - 2023
+KW  - Cloud computing
+KW  - Patient monitoring
+KW  - Systematics
+KW  - Medical devices
+KW  - Scalability
+KW  - Medical services
+KW  - Market research
+KW  - Dew Computing
+KW  - IoT
+KW  - Internet of Medical Things (IoMT)
+KW  - e-Healthcare
+DO  - 
+JO  - 2023 10th International Conference on Computing for Sustainable Global Development (INDIACom)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 10th International Conference on Computing for Sustainable Global Development (INDIACom)
+Y1  - 15-17 March 2023
+AB  - Extensive research has been dedicated to the exploration of Internet of Medical Things (IoMT) to improve healthcare services. The integration of Internet of Things (IoT), medical devices and cloud computing has facilitated a synergistic approach to prevent, diagnose, treat, and manage chronic illnesses more effectively. With remote patient monitoring and real-time feedback, healthcare outcomes can be significantly improved. This Integration of technology with healthcare relies on good network connectivity, adequate bandwidth, and low latency. However, in areas with poor network connectivity, the effectiveness and reliability of these technologies may be compromised. In order to overcome these limitations Dew Computing has emerged as a new paradigm that researchers have explored in resource constrained environments. This paper aims to study the application of IoT and Dew Computing in providing innovative solutions for complementing and strengthening existing e-healthcare. We conducted a comprehensive and systematic literature review to summarize the latest information available on Dew Computing Inspired state-of-the-art frameworks in the healthcare industry. This paper emphasizes the application of Dew Computing in the context of Healthcare IoT to address the issues of restricted scalability and interoperability commonly encountered in cloud computing systems. This is achieved by conducting a thorough analysis of pertinent literature in well-known databases. The scarcity of studies that have evaluated the practical implementation of their research suggests that the application of Dew Computing in eHealth may still be in its early stages of development. This review also identifies the trends and explores potential future directions which could lead to unprecedented breakthroughs in on-demand medical services. Finally, several research challenges and open issues are discussed for further work.
+ER  - 
+
+TY  - CONF
+TI  - HEKA: A Novel Intrusion Detection System for Attacks to Personal Medical Devices
+T2  - 2020 IEEE Conference on Communications and Network Security (CNS)
+SP  - 1
+EP  - 9
+AU  - A. I. Newaz
+AU  - A. K. Sikder
+AU  - L. Babun
+AU  - A. S. Uluagac
+PY  - 2020
+KW  - Security
+KW  - Protocols
+KW  - Medical services
+KW  - IEEE Standards
+KW  - ISO Standards
+KW  - Biomedical monitoring
+KW  - Smart health system
+KW  - Personal medical device
+KW  - Cyber attacks
+KW  - Intrusion detection
+KW  - Medical security
+DO  - 10.1109/CNS48642.2020.9162311
+JO  - 2020 IEEE Conference on Communications and Network Security (CNS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE Conference on Communications and Network Security (CNS)
+Y1  - 29 June-1 July 2020
+AB  - Modern Smart Health Systems (SHS) involve the concept of connected personal medical devices. These devices significantly improve the patient's lifestyle as they permit remote monitoring and transmission of health data (i.e., telemedicine), lowering the treatment costs for both the patient and the healthcare providers. Although specific SHS communication standards (i.e., ISO/IEEE 11073) enable real-time plug-and-play interoperability and communication between different personal medical devices, they do not specify any features for secure communications. In this paper, we demonstrate how personal medical device communication is indeed vulnerable to different cyber attacks. Specifically, we show how an external attacker can hook into the personal medical device's communication and eavesdrop the sensitive health data traffic, and implement manin-the-middle, replay, false data injection, and denial-of-service attacks. Furthermore, we also propose an Intrusion Detection System (IDS), HEKA, to monitor personal medical device traffic and detect attacks on them. HEKA passively hooks into the personal medical traffic generated by medical devices to learn the contiguous sequence of packets information from the captured traffic and detects irregular traffic-flow patterns using an n-grambased approach and different machine learning techniques. We implemented HEKA in a testbed consisting of eight off-the-shelf personal medical devices and evaluated its performance against four different attacks. Our extensive evaluation shows that HEKA can effectively detect different attacks on personal medical devices with an accuracy of 98.4% and Fl-score of 98%.
+ER  - 
+
+TY  - CONF
+TI  - Next-Gen Telehealth Ecosystems Using IoT for Virtual Consultations and Support
+T2  - 2024 10th International Conference on Communication and Signal Processing (ICCSP)
+SP  - 514
+EP  - 519
+AU  - A. Kathija Nasreen
+AU  - S. Priya
+AU  - N. S. Gupta
+AU  - L. K. Shoba
+AU  - N. Mohankumar
+AU  - S. Arunkumar
+PY  - 2024
+KW  - Data privacy
+KW  - Technological innovation
+KW  - Telemedicine
+KW  - Ecosystems
+KW  - Medical services
+KW  - Real-time systems
+KW  - Safety
+KW  - IoT
+KW  - Virtual Consultations
+KW  - Remote Monitoring
+KW  - Remote Areas
+KW  - Virtual Healthcare
+DO  - 10.1109/ICCSP60870.2024.10544258
+JO  - 2024 10th International Conference on Communication and Signal Processing (ICCSP)
+IS  - 
+SN  - 2836-1873
+VO  - 
+VL  - 
+JA  - 2024 10th International Conference on Communication and Signal Processing (ICCSP)
+Y1  - 12-14 April 2024
+AB  - The research discussed focuses on improving virtual medical consultations and support using Internet of Things (IoT) technologies in telehealth services. It is predicted that IoT devices can assist with creating a new telehealth environment where patients and doctors can communicate easily for remote monitoring, diagnosis, and treatment. The main objective of this unique approach is to expand access to healthcare, especially in poor and rural areas. Connected medical equipment, smart sensors, and wearable technology all play an important role in this system. These IoT components enable gathering real-time and complete patient data, helping doctors make better, more individualized choices and care plans. Data safety, privacy, and system compatibility are some areas where this integration hits a snag. Sensitive patient data and the integrity of the IoT-enabled systems need robust safety measures. These IoT improvements in telemedicine have had a revolutionary effect. Proactive interventions, continuous health monitoring, and individualized care are ways patients might benefit from improved medical care. Virtual consultations are increasingly used in the medical field, and a more connected and data-driven framework for the patient experience is emerging.
+ER  - 
+
+TY  - JOUR
+TI  - Harnessing the Power of Smart and Connected Health to Tackle COVID-19: IoT, AI, Robotics, and Blockchain for a Better World
+T2  - IEEE Internet of Things Journal
+SP  - 12826
+EP  - 12846
+AU  - F. Firouzi
+AU  - B. Farahani
+AU  - M. Daneshmand
+AU  - K. Grise
+AU  - J. Song
+AU  - R. Saracco
+AU  - L. L. Wang
+AU  - K. Lo
+AU  - P. Angelov
+AU  - E. Soares
+AU  - P. -S. Loh
+AU  - Z. Talebpour
+AU  - R. Moradi
+AU  - M. Goodarzi
+AU  - H. Ashraf
+AU  - M. Talebpour
+AU  - A. Talebpour
+AU  - L. Romeo
+AU  - R. Das
+AU  - H. Heidari
+AU  - D. Pasquale
+AU  - J. Moody
+AU  - C. Woods
+AU  - E. S. Huang
+AU  - P. Barnaghi
+AU  - M. Sarrafzadeh
+AU  - R. Li
+AU  - K. L. Beck
+AU  - O. Isayev
+AU  - N. Sung
+AU  - A. Luo
+PY  - 2021
+KW  - COVID-19
+KW  - Pandemics
+KW  - Artificial intelligence
+KW  - Medical services
+KW  - Internet of Things
+KW  - Vaccines
+KW  - Robots
+KW  - Artificial intelligence (AI)
+KW  - big data
+KW  - blockchain
+KW  - COVID-19
+KW  - digital twin
+KW  - eHealth
+KW  - healthcare
+KW  - Internet of Things (IoT)
+KW  - pandemic
+KW  - robotics
+KW  - wearable
+DO  - 10.1109/JIOT.2021.3073904
+JO  - IEEE Internet of Things Journal
+IS  - 16
+SN  - 2327-4662
+VO  - 8
+VL  - 8
+JA  - IEEE Internet of Things Journal
+Y1  - 15 Aug.15, 2021
+AB  - As COVID-19 hounds the world, the common cause of finding a swift solution to manage the pandemic has brought together researchers, institutions, governments, and society at large. The Internet of Things (IoT), artificial intelligence (AI)—including machine learning (ML) and Big Data analytics—as well as Robotics and Blockchain, are the four decisive areas of technological innovation that have been ingenuity harnessed to fight this pandemic and future ones. While these highly interrelated smart and connected health technologies cannot resolve the pandemic overnight and may not be the only answer to the crisis, they can provide greater insight into the disease and support frontline efforts to prevent and control the pandemic. This article provides a blend of discussions on the contribution of these digital technologies, propose several complementary and multidisciplinary techniques to combat COVID-19, offer opportunities for more holistic studies, and accelerate knowledge acquisition and scientific discoveries in pandemic research. First, four areas, where IoT can contribute are discussed, namely: 1) tracking and tracing; 2) remote patient monitoring (RPM) by wearable IoT (WIoT); 3) personal digital twins (PDTs); and 4) real-life use case: ICT/IoT solution in South Korea. Second, the role and novel applications of AI are explained, namely: 1) diagnosis and prognosis; 2) risk prediction; 3) vaccine and drug development; 4) research data set; 5) early warnings and alerts; 6) social control and fake news detection; and 7) communication and chatbot. Third, the main uses of robotics and drone technology are analyzed, including: 1) crowd surveillance; 2) public announcements; 3) screening and diagnosis; and 4) essential supply delivery. Finally, we discuss how distributed ledger technologies (DLTs), of which blockchain is a common example, can be combined with other technologies for tackling COVID-19.
+ER  - 
+
+TY  - JOUR
+TI  - Empowering Healthcare With IoMT: Evolution, Machine Learning Integration, Security, and Interoperability Challenges
+T2  - IEEE Access
+SP  - 20603
+EP  - 20623
+AU  - G. R. Pradyumna
+AU  - R. B. Hegde
+AU  - K. B. Bommegowda
+AU  - T. Jan
+AU  - G. R. Naik
+PY  - 2024
+KW  - Medical services
+KW  - Medical diagnostic imaging
+KW  - Prediction algorithms
+KW  - Real-time systems
+KW  - Hospitals
+KW  - Medical devices
+KW  - Classification algorithms
+KW  - Internet of Medical Things
+KW  - Internet of Medical Things
+KW  - Internet of Things
+DO  - 10.1109/ACCESS.2024.3362239
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - The Internet of Medical Things (IoMT) is the subset of the Internet of Things (IoT) that connects multiple medical devices, collect information/data from devices, and transmits and process data in real-time. IoMT is crucial for increasing electronic device accuracy, reliability, and productivity in the healthcare industry. IoMT has emerged as a next-generation bio-analytical tool that converges network-linked biomedical devices with relevant software applications for advancing human health. Adapting IoMT and associated technologies has fixed several problems using telemedicine, remote monitoring, sensors, robotics, etc. However, adopting IoMT technologies for a large population is challenging due to extensive data management, privacy, security, upgradation, scalability, etc. Although significant research has been carried out in this domain, identifying emerging trends and highlighting the technological advancement and challenges within IoMT is required for its success. Moreover, it will aid policymakers, scientists, healthcare practitioners, and researchers to measure the pertinence of IoMT in healthcare sectors more efficiently. This review discusses the evolution of IoMT, Machine Learning Integration, Security, and interoperability challenges of IoMT devices.
+ER  - 
+
+TY  - CONF
+TI  - Smart Healthcare in Improving the Quality of Life: Revolutionizing with Application of IoT and Block Chain Technology
+T2  - 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)
+SP  - 1
+EP  - 7
+AU  - L. Das
+AU  - D. Singh
+AU  - S. Vats
+AU  - K. Taliyan
+AU  - D. Bhargava
+AU  - D. Bhatnagar
+PY  - 2024
+KW  - Technological innovation
+KW  - Surveillance
+KW  - Medical services
+KW  - Blockchains
+KW  - Safety
+KW  - Internet of Things
+KW  - Electronic medical records
+KW  - Internet of Things (IoT)
+KW  - Smart Healthcare Systems and Healthcare Industry
+KW  - Healthcare Sector Architecture
+KW  - Remote Patient Monitoring
+KW  - Diagnosis
+KW  - Block chain Technology
+DO  - 10.1109/IC3SE62002.2024.10593009
+JO  - 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)
+Y1  - 9-11 May 2024
+AB  - One of the many essential elements of life is one's health. Our healthcare systems has to possess to stay as secure as well as successful as it can be hoping for a healthier society. The establishment of sophisticated medical facilities which improve tracking of patients evaluation, and customized therapy has been brought feasible by the Internet Of Things(IoT), which is having an enormous impact upon the healthcare sector. In addition, healthcare facilities, pharmaceutical companies, diagnostic centres, and doctors might freely trade and maintain information and data about patients effectively with the use of blockchain-based technology. Blockchain-based tools are adequate to build confidence and recognized and access incorrect information provided by doctors. Blockchain innovations may therefor help with the privacy, efficiency, safety, and visibility of health related information trade in the medical sector. Through the help of such technology, hospitals can get precise as superior knowledge that will improve client analysis of data and help with the efficient handling of illness. Substantial studies and evaluations has been done to look into every potential as the use of blockchain technology possess to improve the current situation of the healthcare in general. The study seeks to provide an overview of the current state and advancement in the industries which promotes IoT- based healthcare systems. As a result, the study additionally explores into the possibilities of merging healthcare sensors, wearable gadgets, and various other modern medical tools that enable immediate time gathering of information. The article additionally dicusses the dangers and weakness that exist in that plag in IoT-based healthcare systems as well as its features, and also in addition to the results and remedies which currently exist to fix such issues and problems while safeguarding private information and data about patients. Lastly, this presents as well as examines and array for applications of blockchain technology over the healthcare organisations and institutions.
+ER  - 
+
+TY  - CONF
+TI  - IoT Revolution: Exploring the Evolution and Diverse Applications of Internet of Things across Healthcare, Transportation, Manufacturing, and Agriculture
+T2  - 2023 3rd International Conference on Advancement in Electronics & Communication Engineering (AECE)
+SP  - 805
+EP  - 810
+AU  - S. Gupta
+PY  - 2023
+KW  - Transportation industry
+KW  - Medical services
+KW  - Agriculture
+KW  - Internet of Things
+KW  - Biomedical monitoring
+KW  - Monitoring
+KW  - Interoperability
+KW  - Health care
+KW  - transportation
+KW  - manufacturing
+KW  - agriculture
+KW  - evolution
+KW  - applications
+KW  - remote monitoring
+KW  - traffic management
+KW  - production optimization
+KW  - crop monitoring
+KW  - challenges
+KW  - opportunities
+DO  - 10.1109/AECE59614.2023.10428150
+JO  - 2023 3rd International Conference on Advancement in Electronics & Communication Engineering (AECE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 3rd International Conference on Advancement in Electronics & Communication Engineering (AECE)
+Y1  - 23-24 Nov. 2023
+AB  - The Internet of Things (IoT) is an emerging industry in which diverse items are linked to the web so that they may share information and interact with one another. Over time, IoT has developed as a concept, and its use has spread to new fields including medicine, transportation, industry, and agriculture. In this article, we'll try to trace how the Internet of Things has developed in many contexts. First, it gives a brief introduction to the Internet of Things, its background, and the foundational technologies that have contributed to its explosive expansion. Next, the study looks at how IoT is being utilized in different industries, beginning with healthcare, where it is being used to remotely monitor patients and enhance healthcare results. After discussing how IoT devices are used to monitor cars and enhance traffic control, the paper shifts its focus to the transportation industry. It also takes a look at how manufacturers are using IoT to streamline their operations and cut down on expenses. The study concludes with a discussion of how farmers may utilize IoT to increase their harvests by keeping tabs on things like weather, soil, and crop conditions.
+ER  - 
+
+TY  - CONF
+TI  - An Approach to Control Network Traffic Congestion Using Load Balancing and Feedback Exchange Mechanism
+T2  - 2023 3rd International Conference on Advancement in Electronics & Communication Engineering (AECE)
+SP  - 727
+EP  - 732
+AU  - S. Gupta
+PY  - 2023
+KW  - Wireless sensor networks
+KW  - Transportation industry
+KW  - Medical services
+KW  - Internet of Things
+KW  - Biomedical monitoring
+KW  - Monitoring
+KW  - Interoperability
+KW  - Healthcare
+KW  - transportation
+KW  - manufacturing
+KW  - agriculture
+KW  - evolution
+KW  - applications
+KW  - remote monitoring
+KW  - traffic management
+KW  - production optimization
+KW  - crop monitoring
+KW  - challenges
+KW  - opportunities
+DO  - 10.1109/AECE59614.2023.10428528
+JO  - 2023 3rd International Conference on Advancement in Electronics & Communication Engineering (AECE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 3rd International Conference on Advancement in Electronics & Communication Engineering (AECE)
+Y1  - 23-24 Nov. 2023
+AB  - The Internet of Things (IoT) is an emerging industry in which diverse items are linked to the web so that they may share information and interact with one another. Over time, IoT has developed as a concept, and its use has spread to new fields including medicine, transportation, industry, and agriculture. In this article, we'll try to trace how the Internet of Things has developed in many contexts. First, it gives a brief introduction to the Internet of Things, its background, and the foundational technologies that have contributed to its explosive expansion. Next, the study looks at how IoT is being utilized in different industries, beginning with healthcare, where it is being used to remotely monitor patients and enhance healthcare results. After discussing how IoT devices are used to monitor cars and enhance traffic control, the paper shifts its focus to the transportation industry. It also takes a look at how manufacturers are using IoT to streamline their operations and cut down on expenses. The study concludes with a discussion of how farmers may utilize IoT to increase their harvests by keeping tabs on things like weather, soil, and crop conditions.
+ER  - 
+
+TY  - CONF
+TI  - Transforming Malaysia’s Economic Landscape: The Pivotal Role of the Internet of Things (IoT)
+T2  - 2023 IEEE 21st Student Conference on Research and Development (SCOReD)
+SP  - 463
+EP  - 468
+AU  - J. Justin
+AU  - N. F. Razali
+AU  - M. N. A. Badaruddin
+PY  - 2023
+KW  - Productivity
+KW  - Technological innovation
+KW  - Costs
+KW  - Smart cities
+KW  - Scalability
+KW  - Agriculture
+KW  - Manufacturing
+KW  - Agriculture
+KW  - Economic Growth
+KW  - Healthcare
+KW  - Internet of Things
+KW  - Manufacturing
+KW  - Smart City
+KW  - Smart Home
+KW  - Transportation
+KW  - Wearables
+DO  - 10.1109/SCOReD60679.2023.10563516
+JO  - 2023 IEEE 21st Student Conference on Research and Development (SCOReD)
+IS  - 
+SN  - 2643-2447
+VO  - 
+VL  - 
+JA  - 2023 IEEE 21st Student Conference on Research and Development (SCOReD)
+Y1  - 13-14 Dec. 2023
+AB  - This paper examines the role of the Internet of Things (IoT) in driving Malaysia’s economic growth, delving into its multifaceted impacts and enhancement strategies. IoT’s network of interconnected devices profoundly influences diverse sectors, and this paper systematically dissects both its positive and negative ramifications. The literature review section highlights IoT’s architecture and its applications in diverse fields like smart cities, wearables, smart homes, manufacturing, agriculture, and transportation. IoT’s potential to increase productivity, reduce costs, less energy consumption, and improve decision-making is emphasized. The paper highlights specific sectors in Malaysia where the implementation of IoT could produce a significant number of economic benefits. In healthcare, wearable devices and remote monitoring can reduce healthcare expenses. In agriculture, plant farming through IoT can increase crop yields and efficient resource usage. IoT-based automation in manufacturing can increase productivity. New job opportunities and innovation from AI are stressed as economic growth drivers. Challenges like scalability, security, interoperability, and ethical concerns help in highlighting IoT’s positive impact on economic development. By analysing IoT’s implications and lessons from successful implementations, this study contributes great knowledge into how Malaysia can utilize IoT to promote economic growth and innovation.
+ER  - 
+
+TY  - CONF
+TI  - Blockchain-powered Healthcare: Revolutionizing Security and Privacy in IoT-based Systems
+T2  - 2024 International Conference on Computational Intelligence and Computing Applications (ICCICA)
+SP  - 375
+EP  - 380
+AU  - D. Singla
+AU  - S. Kumar
+AU  - D. Dhingra
+AU  - A. Ghandhi
+PY  - 2024
+KW  - Patient monitoring
+KW  - Scalability
+KW  - Smart contracts
+KW  - Memory
+KW  - Medical services
+KW  - Computer architecture
+KW  - Blockchains
+KW  - Internet of things
+KW  - Blockchain Security
+KW  - Proxy reencryption
+KW  - IPFS
+DO  - 10.1109/ICCICA60014.2024.10585062
+JO  - 2024 International Conference on Computational Intelligence and Computing Applications (ICCICA)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2024 International Conference on Computational Intelligence and Computing Applications (ICCICA)
+Y1  - 23-24 May 2024
+AB  - The rapid growth of the IoT and wearable device industries has expanded remote patient monitoring, but healthcare systems face security vulnerabilities inherent in their client/server architecture. To address these challenges and meet regulatory standards, a shift to a distributed architecture is necessary. Blockchain technology offers promise with its distributed nature and security features. MediSecureNet, proposed in this paper, integrates blockchain and IoT to create a secure healthcare system. Prioritizing security, scalability, and processing speed, MediSecureNet focuses on remote patient monitoring, particularly for chronic conditions. It incorporates a re-encryption proxy for security, blockchain for hash data storage, and smart contracts for access management. Scalability is achieved through an off-chain IPFS database, and an Ethereum-based proof of authority mechanism enhances data storage efficiency.
+ER  - 
+
+TY  - CONF
+TI  - Exploring advantages and difficulties of Internet of Things (IoT) in Health care
+T2  - 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)
+SP  - 1
+EP  - 6
+AU  - A. Gupta
+AU  - V. Kumar
+AU  - A. Kumar
+AU  - S. Tripathi
+PY  - 2023
+KW  - Industries
+KW  - Telemedicine
+KW  - Scalability
+KW  - Medical services
+KW  - Market research
+KW  - Sensors
+KW  - Internet of Things
+KW  - IoT
+KW  - Healthcare
+KW  - Sensors
+KW  - Advantages
+KW  - Difficulties
+DO  - 10.1109/ICCCNT56998.2023.10306402
+JO  - 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)
+IS  - 
+SN  - 2473-7674
+VO  - 
+VL  - 
+JA  - 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)
+Y1  - 6-8 July 2023
+AB  - The Internet of Things, with its expanding range of use cases across disciplines, has significantly altered the way we live. One example of an application of the Internet of Things is in the healthcare industry, which links internet-connected gadgets, machinery, patients, and medical professionals. When it comes to healthcare costs, the necessity and accessibility of resources, and personal care in general, particularly for older members of society, healthcare has emerged as a key socioeconomic concern in recent years. This new trend in healthcare has made it feasible for doctors to provide remote monitoring, chronic illness management, and seniors care of patients located in remote areas, and it has even made it possible for doctors to care for patients who are institutionalized so long as they remain connected to the internet. The widespread adoption of the Internet of Things (IoT) in healthcare and other similar technologies has helped to tackle a number of problems by utilizing remote monitoring, telemedicine, sensors, and other technologies. However, it seems difficult to accomplish widespread adoption because of considerations such as the need to protect users' privacy and the security of their data, the administration of massive amounts of data, scalability, upgradeability, etc. This new trend is both efficient and clever. The advantages and difficulties of trends in healthcare, which have altered the conventional healthcare system by making health management more effective via to their applications, are discussed in this study.
+ER  - 
+
+TY  - CONF
+TI  - A Survey on Blockchain for Healthcare Informatics and Applications
+T2  - 2020 7th International Conference on Internet of Things: Systems, Management and Security (IOTSMS)
+SP  - 1
+EP  - 9
+AU  - K. Wilber
+AU  - S. Vayansky
+AU  - N. Costello
+AU  - D. Berdik
+AU  - Y. Jararweh
+PY  - 2020
+KW  - Industries
+KW  - Scalability
+KW  - Insurance
+KW  - Blockchain
+KW  - Medical services
+KW  - Companies
+KW  - Pharmaceuticals
+DO  - 10.1109/IOTSMS52051.2020.9340232
+JO  - 2020 7th International Conference on Internet of Things: Systems, Management and Security (IOTSMS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 7th International Conference on Internet of Things: Systems, Management and Security (IOTSMS)
+Y1  - 14-16 Dec. 2020
+AB  - Blockchain, cryptographically linked blocks of data, is the key technology behind the infamous cryptocurrency Bitcoin, however, blockchain can serve more use cases than just cryptocurrency. The technology has use cases in any industry that generates and transfers data. In a use case such as cryptocurrency the blockchain is used to manage transactions from peer-to-peer in a way that does not allow for that transaction's data to be manipulated by one of the involved parties or a third party. This is a valuable process that other industries could leverage. One such industry that could benefit from applying blockchain technology for a multitude of cases is the healthcare industry. Primary care doctors could be connected to a blockchain system that allowed them to access patient data and securely monitor the respective patient, pharmaceutical companies could increase their products validity in the marketplace with individual product tracking, and the insurance industry could trust all the information about a client. All of these are possible use cases for blockchain in the healthcare industry. Currently, the healthcare industry is not leveraging the blockchain at scale. Within this paper we are going to explore the possibilities for blockchain technology and the use cases in the healthcare industry specifically, and how the different industries within the healthcare industry can implement a blockchain system.
+ER  - 
+
+TY  - CONF
+TI  - A Descriptive Research on Internet of Things Implementation in Healthcare Sector
+T2  - 2022 5th International Conference on Contemporary Computing and Informatics (IC3I)
+SP  - 308
+EP  - 312
+AU  - V. Veeraiah
+AU  - G. K. Ravi Kumar
+AU  - D. P. Singh
+AU  - A. Chaudhary
+AU  - G. Elkady
+AU  - D. S. Ross
+PY  - 2022
+KW  - Wearable computers
+KW  - Telemedicine
+KW  - Medical services
+KW  - Real-time systems
+KW  - Internet of Things
+KW  - Biomedical monitoring
+KW  - Medical diagnostic imaging
+KW  - Internet of Things
+KW  - Healthcare
+KW  - Operating Room
+KW  - Monitoring
+KW  - Efficiency
+DO  - 10.1109/IC3I56241.2022.10073463
+JO  - 2022 5th International Conference on Contemporary Computing and Informatics (IC3I)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 5th International Conference on Contemporary Computing and Informatics (IC3I)
+Y1  - 14-16 Dec. 2022
+AB  - The Web of Things (IoT) is critical for the virtual change in medication because it provides innovative business models to facilitate and promote improvements in practice operations, control costs, enhance productivity, and improve patients’ experiences. The use of innovative IoT techniques in personalized health, however, remains incredibly challenging due to several issues, such as incoherent IoT program structures, diversity among connected wearable devices, a lack of accurate and affordable smart medical sensors, the complexity of the generated data, and an increased need for interoperability. This research delves at the history of IoT in healthcare, with a focus on how these technologies are being used to the rapidly expanding area of personalized medicine. It covers both common health scenarios and cutting-edge, intricate methods generated from the Internet of Things. It highlights the scientific, ethical, and economic challenges of developing a better medical system for early illness detection. At long last, the Web of Things (IoT) is permitting present-day medication to answer the requests rapidly of the time by creating a platform for communication across different health sectors, providing digital help at every stage, and so on.
+ER  - 
+
+TY  - CONF
+TI  - Internet of Things and Software Applications in Patient Safety Adverse Event Detection and Reporting: A Comprehensive Literature Review
+T2  - 2024 International Conference on Science, Engineering and Business for Driving Sustainable Development Goals (SEB4SDG)
+SP  - 1
+EP  - 11
+AU  - O. O. Afolalu
+AU  - S. A. Afolalu
+AU  - O. F. Afolalu
+AU  - O. A. Akpor
+PY  - 2024
+KW  - Industries
+KW  - Event detection
+KW  - Bibliographies
+KW  - Medical services
+KW  - Software
+KW  - Safety
+KW  - Internet of Things
+KW  - Internet of Things
+KW  - Software
+KW  - Patient Safety
+KW  - Adverse events
+KW  - Reporting
+KW  - Detection
+KW  - Healthcare
+KW  - Challenges
+DO  - 10.1109/SEB4SDG60871.2024.10629786
+JO  - 2024 International Conference on Science, Engineering and Business for Driving Sustainable Development Goals (SEB4SDG)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Science, Engineering and Business for Driving Sustainable Development Goals (SEB4SDG)
+Y1  - 2-4 April 2024
+AB  - The Internet of Things (IoT) and software applications have radically improved healthcare, especially in terms of detecting and reporting adverse events that compromise patient safety. With the prompt detection and reporting of adverse occurrences, this literature review seeks to give a thorough understanding of the origin, applications, benefits, and challenges of IoT and software solutions in improving patient safety. A thorough literature search was undertaken in six scholarly databases including, PubMed, IEEE Xplore, ScienceDirect, Scopus, and Google Scholar, to identify articles related to IoT and software applications for detecting and reporting patient safety adverse events (AEs). Seventy-four pertinent publications were found and included after a thorough search of the peer-reviewed literature. To gain an understanding of the design components, the history of IoT applications, and the wide range of application domains in patient safety adverse event detection and reporting, these publications underwent critical analysis. The review identified a promising path for timely and precise adverse event identification through the combined efforts of IoT technology, including wearables, sensors, and real-time monitoring systems, with sophisticated software applications for the administration of medications, detection, and prevention of falls, and remote patient monitoring, all of which improved patient safety. Despite the promising prospects of IoT technologies, problems with data privacy, security, and scalability were identified as challenges to their successful integration into health systems' safety. The critical importance of IoT and software technologies in modernizing patient safety adverse event detection and reporting is highlighted by this study. This calls for improved knowledge in integrating IoT technological solutions into safe healthcare practices through collaborative research, and interventional studies to assess the impact it has on health outcomes of hospitalized patients.
+ER  - 
+
+TY  - CONF
+TI  - Transforming Modern Medicine with the Role of the Healthcare Internet of Things in Enhancing Patient Care and Monitoring
+T2  - 2024 IEEE 13th International Conference on Communication Systems and Network Technologies (CSNT)
+SP  - 566
+EP  - 573
+AU  - Inzimam
+AU  - B. J
+AU  - K. Desai
+PY  - 2024
+KW  - Deep learning
+KW  - Data analysis
+KW  - Telemedicine
+KW  - Government
+KW  - Medical services
+KW  - Internet of Things
+KW  - Artificial intelligence
+KW  - AI
+KW  - Healthcare
+KW  - Internet of Things
+KW  - Medicine
+KW  - Monitoring
+KW  - Patient Care
+KW  - Predictive Analytics
+KW  - Remote Monitoring
+KW  - Sensors
+KW  - Telemedicine
+DO  - 10.1109/CSNT60213.2024.10545906
+JO  - 2024 IEEE 13th International Conference on Communication Systems and Network Technologies (CSNT)
+IS  - 
+SN  - 2473-5655
+VO  - 
+VL  - 
+JA  - 2024 IEEE 13th International Conference on Communication Systems and Network Technologies (CSNT)
+Y1  - 6-7 April 2024
+AB  - The present healthcare sector is experiencing a fundamental upheaval with the emergence of the Healthcare Internet of Things (HIoT). This article delves into the transformational potential of HIoT by examining its use in bettering patient care and monitoring. The paper dives into the introduction of HIoT, the methodologies adopted for research and development, the compelling findings gained, and the farreaching consequences in conclusion The opening part sets the scene by describing the fundamental transformation in healthcare facilitated by HIoT. It emphasizes the catalyst for rethinking patient care and monitoring as the combination of internet-connected devices, smart sensors, and data analytics. HIoT equips doctors with up-to-the-minute information, allowing for more precise diagnoses and more individualized plans of care. Furthermore, deep learning and artificial intelligence were incorporated to exploit the richness of HIoTgenerated data, allowing sophisticated analytics and informed decision-making. The compelling findings of this study are clear, with the suggested technique regularly beating existing methods across numerous criteria. A remarkable accuracy score of 0.94 was reached, demonstrating the reliability of the suggested strategy in supporting informed healthcare decisions. Furthermore, in terms of cost efficiency, the suggested approach scored 0.95, suggesting its costeffectiveness and potential for economic viability. The development of HIoT promises a healthcare system that is more patient-centered, data-driven, and efficient in the future. To ensure healthcare continues to grow into an age of unmatched patient care and monitoring, researchers, healthcare providers, and governments must work together to harness this transformational potential while tackling the issues that come with it.
+ER  - 
+
+TY  - JOUR
+TI  - An Overview of Blood Pressure Measurement in Telemonitoring Context
+T2  - IEEE Consumer Electronics Magazine
+SP  - 42
+EP  - 50
+AU  - N. Georgi
+AU  - M. Kuchenbuch
+AU  - A. Corvol
+AU  - R. L. B. Jeannés
+PY  - 2020
+KW  - Biomedical monitoring
+KW  - Blood pressure
+KW  - Sensors
+KW  - Pressure measurement
+KW  - Monitoring
+KW  - Temperature measurement
+KW  - Manuals
+DO  - 10.1109/MCE.2019.2956222
+JO  - IEEE Consumer Electronics Magazine
+IS  - 5
+SN  - 2162-2256
+VO  - 9
+VL  - 9
+JA  - IEEE Consumer Electronics Magazine
+Y1  - 1 Sept. 2020
+AB  - Blood pressure is an important measure for monitoring hypertension and other cardiac diseases. Learned societies recommend following specific guidelines when measuring it. With the growing market of connected sensors, also known as the Internet of Things, the general public can be guided in performing a blood pressure measurement in compliance with international recommendations. In this article, we address commercialized blood pressure monitors and discuss how it is possible to improve measurement reliability by combining data from different sources in accordance with guidelines. To this purpose, we investigate the connected sensors market and determine which recommendations can be checked by commercialized sensors to guide users in performing a reliable blood pressure measurement.
+ER  - 
+
+TY  - CONF
+TI  - Lightweight Security Framework for IoT Enabled Tracking of COVID-19 and its Variants
+T2  - 2021 2nd International Conference on Computational Methods in Science & Technology (ICCMST)
+SP  - 287
+EP  - 292
+AU  - M. Gupta
+AU  - R. B. Patel
+AU  - S. Jain
+PY  - 2021
+KW  - COVID-19
+KW  - Pandemics
+KW  - Urban areas
+KW  - Smart contracts
+KW  - Blockchains
+KW  - History
+KW  - Security
+KW  - COVID-19
+KW  - Corona Virus
+KW  - Blockchain
+KW  - IoT
+KW  - Internet of Things
+KW  - Tracking
+KW  - Remote Health Monitoring
+DO  - 10.1109/ICCMST54943.2021.00066
+JO  - 2021 2nd International Conference on Computational Methods in Science & Technology (ICCMST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 2nd International Conference on Computational Methods in Science & Technology (ICCMST)
+Y1  - 17-18 Dec. 2021
+AB  - COVID-19 became the headlines of every nation because of its unrivalled transmission speed and outbreaks in humans, but its new variants are raising new challenges after every few months iteratively. Keeping track of travel history and maintaining a record of people coming in contact with any COVID affected individual has become a prime concern to control the spread of this pandemic disease. The existing tracking system lags in fetching records of people who came in contact with the affected one and maintaining travel history across the local boundaries of the cities. In this position paper, we are proposing a framework for an IoT driven blockchain (BC) based secured tracking system that gathers users' travel and meeting history, and it may help with remote health monitoring. The data gathered for the same is treated as immutable and achieves interoperability with the help of Smart Contracts (SC). It could be proved as a useful framework for post COVID-19 economic revival with the help of an IoT driven blockchain based secured model for remote health monitoring & chain tracking.
+ER  - 
+
+TY  - JOUR
+TI  - Managing Distributed Machine Learning Lifecycle for Healthcare Data in the Cloud
+T2  - IEEE Access
+SP  - 115750
+EP  - 115774
+AU  - E. Zeydan
+AU  - S. S. Arslan
+AU  - M. Liyanage
+PY  - 2024
+KW  - Medical services
+KW  - Data engineering
+KW  - Surveys
+KW  - Deep learning
+KW  - Big Data
+KW  - Artificial intelligence
+KW  - Machine learning
+KW  - Federated learning
+KW  - Cloud computing
+KW  - Machine learning
+KW  - healthcare
+KW  - biomedicine
+KW  - data management
+KW  - federated learning
+KW  - cloud
+KW  - coded computation
+KW  - distributed systems
+DO  - 10.1109/ACCESS.2024.3443520
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - The main objective of this paper is to highlight the research directions and explain the main roles of current Artificial Intelligence (AI)/Machine Learning (ML) frameworks and available cloud infrastructures in building end-to-end ML lifecycle management for healthcare systems and sensitive biomedical data. We identify and explore the versatility of many genuine techniques from distributed computing and current state-of-the-art ML research, such as building cognition-inspired learning pipelines and federated learning (FL) ecosystem. Additionally, we outline the advantages and highlight the main obstacles of our methodology utilizing contemporary distributed secure ML techniques, such as FL, and tools designed for managing data throughout its lifecycle. For a robust system design, we present key architectural decisions essential for optimal healthcare data management, focusing on security, privacy and interoperability. Finally, we discuss ongoing efforts and future research directions to overcome existing challenges and improve the effectiveness of AI/ML applications in the healthcare domain.
+ER  - 
+
+TY  - CONF
+TI  - Current Advancements in Cardiovascular Disease Management using Artificial Intelligence and Machine Learning Models: Current Scenario and Challenges
+T2  - 2022 10th International Conference on Emerging Trends in Engineering and Technology - Signal and Information Processing (ICETET-SIP-22)
+SP  - 1
+EP  - 6
+AU  - K. Bhadri
+AU  - N. Karnik
+AU  - P. Dhatrak
+PY  - 2022
+KW  - Pandemics
+KW  - Wearable computers
+KW  - Machine learning
+KW  - Medical services
+KW  - Electrocardiography
+KW  - Market research
+KW  - Software
+KW  - Artificial Intelligence (AI)
+KW  - Cardiology
+KW  - DL (deep learning)
+KW  - Medical imaging
+KW  - ML (machine learning)
+DO  - 10.1109/ICETET-SIP-2254415.2022.9791776
+JO  - 2022 10th International Conference on Emerging Trends in Engineering and Technology - Signal and Information Processing (ICETET-SIP-22)
+IS  - 
+SN  - 2157-0485
+VO  - 
+VL  - 
+JA  - 2022 10th International Conference on Emerging Trends in Engineering and Technology - Signal and Information Processing (ICETET-SIP-22)
+Y1  - 29-30 April 2022
+AB  - Recently, Artificial Intelligence (AI) and Machine Learning (ML) have been significant contributors to the development of sophisticated systems and models for cardiovascular disease (CVD) management. There is a wide scope of applications available today. Electrocardiography (ECG), cardiovascular image analysis and wearables for remote monitoring are the most consistently developing domains that are beginning to be AI-driven as technology and software advance over time. Furthermore, throughout the COVID-19 pandemic, AI has been utilised for cardiovascular disease management, drug targeting and risk analysis. The aim of the review is to highlight the recent advancements related to CVD management using AI and ML-based technologies. The works of literature reviewed in the present study consider the advancements of AI and ML-based CVD management technologies developed in the past decade. The different methods and technologies were studied, the working of various AI and ML algorithms have been discussed and few research gaps have been identified. The current implementations of AI algorithms lay a foundation to reduce the time and effort required to develop newer systems for future developments. Subsequently, overcoming the limitations of data processing techniques, many parameters required, and standardized datasets will improve the accuracy, implementation and interoperability of the AI and ML-based technologies for seamless integration in healthcare.
+ER  - 
+
+TY  - JOUR
+TI  - Empowering Healthcare With Cyber-Physical System—A Systematic Literature Review
+T2  - IEEE Access
+SP  - 83952
+EP  - 83993
+AU  - H. M. Khater
+AU  - F. Sallabi
+AU  - M. A. Serhani
+AU  - E. Barka
+AU  - K. Shuaib
+AU  - A. Tariq
+AU  - M. Khayat
+PY  - 2024
+KW  - Medical services
+KW  - Sensors
+KW  - Real-time systems
+KW  - Monitoring
+KW  - Intelligent sensors
+KW  - Cloud computing
+KW  - Cyber-physical systems
+KW  - Internet of Things
+KW  - Cyber-physical systems
+KW  - healthcare
+KW  - real-time processing
+KW  - IoT
+DO  - 10.1109/ACCESS.2024.3407376
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - Cyber-physical systems (CPS) are recognized for their intelligence as they seamlessly interact with humans, enhancing the physical world through computation, communication, and control. Over the last few years, the evolution of CPS, including IoT components, has significantly impacted many facets of people’s lifestyles. It has been immersed in a wide range of services and applications in various areas, including manufacturing, healthcare, and energy. However, the interrelationship between the cyber and physical worlds gives rise to a multitude of research problems and challenges. In the healthcare field, for instance, CPS introduces complexities related to interoperability, privacy, data security, and real-time data processing with critical implications for the reliability and safety of medical processes. To address these challenges and harness the full potential of CPS in healthcare, this paper, through a comprehensive literature review, aims to discuss cutting-edge CPS technologies and solutions that hold promise for healthcare applications. To this end, we propose a comprehensive architectural model that can serve as a benchmark for implementing CPS in healthcare applications. This model thoroughly details how services, components, and technologies can be integrated to transform massive raw data collected from the physical world into valuable information for an enhanced decision-making process. Finally, a use case on healthcare CPS is presented, outlining its characteristics, the role that different technologies have played in its development, and the major challenges in implementing such systems successfully. This study provides a cohesive understanding of the role CPS can play in empowering healthcare while offering insights into the challenges, and future research trends.
+ER  - 
+
+TY  - CONF
+TI  - Designing a Testing Environment for the CAPABLE Telemonitoring and Coaching Platform
+T2  - 2022 IEEE 21st Mediterranean Electrotechnical Conference (MELECON)
+SP  - 1112
+EP  - 1117
+AU  - G. Lanzola
+AU  - F. Polce
+AU  - V. Tibollo
+AU  - S. Quaglini
+AU  - S. Wilk
+PY  - 2022
+KW  - Medical devices
+KW  - Microprocessors
+KW  - Semantics
+KW  - Computer architecture
+KW  - Medical services
+KW  - Regulation
+KW  - History
+KW  - Health technology assessment
+KW  - distributed system testing
+KW  - patient coaching
+KW  - mHealth
+DO  - 10.1109/MELECON53508.2022.9843001
+JO  - 2022 IEEE 21st Mediterranean Electrotechnical Conference (MELECON)
+IS  - 
+SN  - 2158-8481
+VO  - 
+VL  - 
+JA  - 2022 IEEE 21st Mediterranean Electrotechnical Conference (MELECON)
+Y1  - 14-16 June 2022
+AB  - The CAPABLE project has been funded by the European Union to develop a telemonitoring and coaching platform improving the quality of life for cancer patients. The platform, based on a multi agent blackboard architecture, is classified as a medical device according to the current EU regulation. Thus it needs extensive tests before being put into service for the planned clinical trials, which calls for a dedicated simulating and testing environment. Materials and Methods: Coordination in CAPABLE is achieved through the Case Manager, a component able to generate and notify events to other interested agent components. For representing and exchanging health care information we have adopted HL7 FHIR as a semantic interoperability standard. Results: FHIR has been exploited to design a structured history of a real patient affected by renal cell carcinoma. A simulator has been developed for automating the whole testing process represented by specific scenarios of the patient’s history. Conclusions: The simulator relies on the events produced by the Case Manager for coordinating the agents. This proved to be effective in checking that the agents reactions to new data showing up on the blackboard comply with the expected behavior.
+ER  - 
+
+TY  - CONF
+TI  - Artificial Intelligence in Open Radio Access Network: Use Case of Internet of Medical Things
+T2  - 2021 International Conference on Biomedical Innovations and Applications (BIA)
+SP  - 5
+EP  - 8
+AU  - V. Trifonov
+AU  - I. Atanasov
+AU  - E. Pencheva
+PY  - 2022
+KW  - Performance evaluation
+KW  - Technological innovation
+KW  - Internet of Medical Things
+KW  - Software
+KW  - Service-oriented architecture
+KW  - Sensors
+KW  - Resource management
+KW  - mobile communications
+KW  - Radio Resource Control
+KW  - service-oriented architecture
+KW  - narrowband Internet of Things
+DO  - 10.1109/BIA52594.2022.9831297
+JO  - 2021 International Conference on Biomedical Innovations and Applications (BIA)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2021 International Conference on Biomedical Innovations and Applications (BIA)
+Y1  - 2-4 June 2022
+AB  - Open Radio Access Network (O-RAN) is a concept for disaggregating software from hardware and opening interfaces to allow interoperability between multiple vendors. The usage of Artificial Intelligence and Machine Learning solutions enables sensing RAN environment and application context to enhance RAN performance. Embedding intelligence at network and component level allows dynamic radio resource allocation and optimization of network efficiency. The paper studies an O-RAN use case of Internet of Medical Things aimed at optimization of radio resource management. The use case illustrates the adaptive inactivity timer control for narrowband medical devices.
+ER  - 
+
+TY  - JOUR
+TI  - An IoT-Based Healthcare Platform for Patients in ICU Beds During the COVID-19 Outbreak
+T2  - IEEE Access
+SP  - 27262
+EP  - 27277
+AU  - I. d. M. B. Filho
+AU  - G. Aquino
+AU  - R. S. Malaquias
+AU  - G. Girão
+AU  - S. R. M. Melo
+PY  - 2021
+KW  - Medical services
+KW  - COVID-19
+KW  - Monitoring
+KW  - Sensors
+KW  - Cloud computing
+KW  - Protocols
+KW  - Biomedical monitoring
+KW  - Healthcare
+KW  - Internet of Things
+KW  - COVID-19
+KW  - remote monitoring
+KW  - platform
+DO  - 10.1109/ACCESS.2021.3058448
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 9
+VL  - 9
+JA  - IEEE Access
+Y1  - 2021
+AB  - There is a global concern with the escalating number of patients at hospitals caused mainly by population aging, chronic diseases, and recently by the COVID-19 outbreak. To smooth this challenge, IoT emerges as an encouraging paradigm because it provides the scalability required for this purpose, supporting continuous and reliable health monitoring on a global scale. Based on this context, an IoT-based healthcare platform to provide remote monitoring for patients in a critical situation was proposed in the authors’ previous works. Therefore, this paper aims to extend the platform by integrating wearable and unobtrusive sensors to monitor patients with coronavirus disease. Furthermore, we report a real deployment of our approach in an intensive care unit for COVID-19 patients in Brazil.
+ER  - 
+
+TY  - JOUR
+TI  - Block Chain Based Internet of Medical Things for Uninterrupted, Ubiquitous, User-Friendly, Unflappable, Unblemished, Unlimited Health Care Services (BC IoMT U6 HCS)
+T2  - IEEE Access
+SP  - 216856
+EP  - 216872
+AU  - J. Indumathi
+AU  - A. Shankar
+AU  - M. R. Ghalib
+AU  - J. Gitanjali
+AU  - Q. Hua
+AU  - Z. Wen
+AU  - X. Qi
+PY  - 2020
+KW  - Medical services
+KW  - Blockchain
+KW  - Internet
+KW  - Cloud computing
+KW  - Computer architecture
+KW  - Medical diagnostic imaging
+KW  - Medical devices
+KW  - Authentication
+KW  - authorization
+KW  - availability
+KW  - block chain
+KW  - cloud computing
+KW  - confidential
+KW  - consensus
+KW  - data privacy
+KW  - data security
+KW  - electronic medical records
+KW  - health care
+KW  - integrity
+KW  - internet of medical things
+KW  - Internet of Things
+KW  - interoperability
+KW  - patient centric health care
+KW  - privacy preserving
+KW  - provable data possession
+KW  - remote monitoring devices
+KW  - security
+DO  - 10.1109/ACCESS.2020.3040240
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 8
+VL  - 8
+JA  - IEEE Access
+Y1  - 2020
+AB  - The most burning topic of today, calls for a holistic solution that is reliable, secure, privacy preserved, cost effective Cloud storage that can tide over the turbulent conditions of the rapidly budding digital storage technologies. This send an outcry for a devoted solution, in the form of an individualized, patient-centric care - IoMT that augments precise disease identifications, decrease in errors, reduction in costs of care through the support of technology, allows patients to direct health information data to doctors,manage drugs, keep Personal Health Records, caters to remote medical supports Care, provides proactive approach to preserving Good Health, improves and Accelerates Clinician Workflows, empowers extreme connectivity due to better automation and perceptions in the DNA of IoMT functions. But IoMT adoption is like a rose with thorns like constraints of increased administrative costs, deficiency of universal data access, present-day electronic medical records. The BCT is used in the framework to overcome the security issues of IoMT through the use of latest encryptions. Furthermore, this framework harnesses the benefits of Block Chain like reduced cost, speed, automation, immutability, near-impossible loss of data, permanence, removal of intermediaries, decentralization of consensus, legitimate access to health data, data safekeeping, accrual-based imbursement mechanisms, and medical supply chain efficacy. The outcomes in this paper are (i)A systematic investigation of the current IoMT, Block Chain and Cloud Storage in Health Care;(ii) Explore the challenges and necessities for the confluence of Block Chain (BC), Internet of Medical Things (IoMT), Cloud Computing (CC);(iii)Formulate the requirements necessary for the real-time remote Health Care of one-to-one care structure, which, supports the vital functions that are critical to the Patient Centric Health Care;(iv) Design and develop a novel BC IoMT U6 HCS (Block Chain based Internet of Medical Things for Uninterrupted, Ubiquitous, User-friendly, Unflappable, Unblemished, Unlimited Health Care Services) Layered Architecture, to support the vital functions critical for Patient Centric Health Care and (v) Implement and test with the previous established and proven techniques. The integrity of the Layered Architecture is validated with the already existing ones in terms of audit performances. The results from the Layered Architecture are validated and are proven to be competent in achieving safe auditing and surpass the former ones. The technology is in the sprouting phases, it is perilous that affiliates of the Health Care community realize the rudimentary ideas behind Block Chain, and detect its feasible impact on the future of patient centric medical care. Finally, and most importantly, this paper also gives a panoramic view on the current research status, and imminent directions of Secure Internet of Medical Things Using Block Chain.
+ER  - 
+
+TY  - CONF
+TI  - Lightweight Remote Control of Distributed Web-of-Things Platforms: First Prototype
+T2  - 2020 IEEE International Conference on Internet of Things and Intelligence System (IoTaIS)
+SP  - 103
+EP  - 108
+AU  - A. Tiberkak
+AU  - A. Hentout
+AU  - A. Belkhir
+PY  - 2021
+KW  - Protocols
+KW  - Web pages
+KW  - Prototypes
+KW  - Service-oriented architecture
+KW  - Servers
+KW  - Remote monitoring
+KW  - Graphical user interfaces
+KW  - Web Technologies
+KW  - Web of Things
+KW  - Remote control
+KW  - Outdoor UPnP (OUPnP)
+DO  - 10.1109/IoTaIS50849.2021.9359718
+JO  - 2020 IEEE International Conference on Internet of Things and Intelligence System (IoTaIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Internet of Things and Intelligence System (IoTaIS)
+Y1  - 27-28 Jan. 2021
+AB  - Web of Things is the concept of controlling smart and communicating systems, Connected Objects (COs), through Web applications. Web technologies offer interoperable and flexible technologies to implement sophisticated GUI to control COs. However, such technologies are very limited in terms of communication protocols. This paper proposes a lightweight platform to control COs via Web applications without adding any extension to the Web browser. For this, only the standardized protocol HTTP is used by exploiting two JavaScript objects: (i) XMLHttpRequest for synchronous communication and (ii) EventSource for CO-to-Web application communication. The proposed platform implements the basic functionalities, inspired from OUPnP/UPNP, for remote monitoring and controlling of COs such as: (a) Discovering to allow COs advertising their presence to Web applications and Web applications to find available COs, (b) Description to know how controlling COs and their services, (c) Controlling to allow Web application invoking COs services, and finally (d) Eventing to allow CO sending notifications to the adequate Web applications. Moreover, this platform allows dynamic incorporation of pre-implemented control panel (fragment of Web page) on the Web application to control COs.
+ER  - 
+
+TY  - CONF
+TI  - High Security Ubiquitous H-IoT on a WBAN-based EHR using Blockchain
+T2  - 2021 IEEE International Conference on Automation/XXIV Congress of the Chilean Association of Automatic Control (ICA-ACCA)
+SP  - 1
+EP  - 6
+AU  - H. Kaschel
+AU  - A. Diaz
+PY  - 2021
+KW  - Wireless communication
+KW  - Wireless sensor networks
+KW  - Blockchain
+KW  - Body area networks
+KW  - Software
+KW  - Physiology
+KW  - Security
+KW  - Blockchain
+KW  - Electronic Health Records (EHR)
+KW  - Interoperability Healthcare Internet of Things (H-IoT)
+KW  - Wireless Body Area Network (WBAN)
+DO  - 10.1109/ICAACCA51523.2021.9465266
+JO  - 2021 IEEE International Conference on Automation/XXIV Congress of the Chilean Association of Automatic Control (ICA-ACCA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Automation/XXIV Congress of the Chilean Association of Automatic Control (ICA-ACCA)
+Y1  - 22-26 March 2021
+AB  - In the last decades the Internet of things IoT has had a great development of health systems. With the incorporation of medicine 4.0, it has allowed the development of software and electronic devices, obtaining various systems applied to Healthcare IoT (H-IoT). Through the use of WBAN (Wireless Body Area Network) the communication systems between sensor nodes allow the measurement of physiological variables which are collected and processed. In order not to compromise the privacy of the data and the security, the use of new technologies that promote safe data, such as the blockchain, is proposed. In this article we present the main concepts and requirements needed to design a high security ubiquitous H-IoT in a WBAN-based EHR using Blockchain. The advantages of implementing a system of this nature in the short or medium term will allow the countries of the world to greatly alleviate the burden on public health institutions, reducing health costs and increasing people's quality of life.
+ER  - 
+
+TY  - CONF
+TI  - Exploring the Impact of Edge Intelligence and IoT on Healthcare: A Comprehensive Survey
+T2  - 2023 International Conference on Sustainable Computing and Smart Systems (ICSCSS)
+SP  - 1108
+EP  - 1114
+AU  - R. Punugoti
+AU  - V. Dutt
+AU  - A. Anand
+AU  - N. Bhati
+PY  - 2023
+KW  - Surveys
+KW  - Patient monitoring
+KW  - Smart healthcare
+KW  - Medical services
+KW  - Solids
+KW  - Real-time systems
+KW  - Internet of Things
+KW  - Internet of Things
+KW  - Edge Computing
+KW  - Healthcare Delivery
+KW  - Wearable Sensors
+KW  - Artificial Intelligence
+KW  - Patient Outcomes
+DO  - 10.1109/ICSCSS57650.2023.10169733
+JO  - 2023 International Conference on Sustainable Computing and Smart Systems (ICSCSS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Sustainable Computing and Smart Systems (ICSCSS)
+Y1  - 14-16 June 2023
+AB  - The Internet of Things (IoT) will disrupt medicine the most. Healthcare uses edge computing, deep learning, IoT, and machine learning for real-time analytics, monitoring, and data analysis. This research will evaluate, expand, overcome difficulties, and improve IoT-based healthcare systems. The article explores healthcare IoT and edge computing’s benefits and drawbacks. Edge computing can improve healthcare delivery, cost, and results, according to the authors. Researchers offer wearable sensors, smart health gateways, early warning score health monitoring, and artificial intelligence case studies. The authors evaluate edge computing’s enabling technologies, applications, and obstacles in healthcare and provide solutions. Existing research lack solid empirical evaluation, hyper-specialization in one healthcare field, and inadequate study of hurdles and difficulties. This research also includes various IoT services, utilization rate graphs, major drivers driving edge-IoT operations graph, IoT adoption graph, and recent Medicare technologies diagram.
+ER  - 
+
+TY  - CONF
+TI  - BlockIoT-RETEL: Blockchain and IoT Based Read-Execute-Transact-Erase-Loop Environment for Integrating Personal Health Data
+T2  - 2021 IEEE International Conference on Blockchain (Blockchain)
+SP  - 237
+EP  - 243
+AU  - M. Shukla
+AU  - J. Lin
+AU  - O. Seneviratne
+PY  - 2021
+KW  - Medical devices
+KW  - Smart contracts
+KW  - Point of care
+KW  - Decision making
+KW  - Data integration
+KW  - Medical services
+KW  - Data collection
+KW  - Smart Contracts
+KW  - Novel Programming Paradigm
+KW  - Applications and Services based on blockchain
+KW  - Healthcare Decentralized Application
+KW  - Internet-of-Things
+DO  - 10.1109/Blockchain53845.2021.00039
+JO  - 2021 IEEE International Conference on Blockchain (Blockchain)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Blockchain (Blockchain)
+Y1  - 6-8 Dec. 2021
+AB  - The development and adoption of Electronic Health Records and health monitoring Internet of Things (IoT) devices have enabled the digitization of patient records. They have also substantially transformed the healthcare delivery system in remote patient monitoring, healthcare decision-making, and medical research. However, data tends to be fragmented among health information systems, preventing interoperability of medical data at the point of care. In order to address this gap, we propose and implement a novel architecture that utilizes blockchain and IoT technologies for integrating personal health data. The architecture comprises of two components: (1) BlockIoT contains a suite of smart contracts that define data collection and integration functionalities, and (2) RETEL utilizes a novel smart contract deployment and execution architecture. The BlockIoT-RETEL architecture combines these two components to provide a scalable mechanism for bootstrapping a personal health data collection infrastructure in the context of healthcare. We have compared the key functionalities of our system with existing comparable state-of-the-art systems in healthcare and evaluated the performance in prototypical healthcare settings with simulated data that shows promising results.
+ER  - 
+
+TY  - CONF
+TI  - Healthcare Supply Chain Security with ZeroKnowledge Proof Authentication in Blockchain for Personalized Healthcare Monitoring
+T2  - 2024 Third International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE)
+SP  - 1
+EP  - 6
+AU  - Y. K. Aluri
+AU  - S. Katlagunta
+AU  - T. Musunuru
+AU  - A. Mylarapu
+AU  - K. V. S. S. R. Kuruba
+AU  - E. J. V
+PY  - 2024
+KW  - Technological innovation
+KW  - Computational modeling
+KW  - Scalability
+KW  - Supply chains
+KW  - Smart contracts
+KW  - Medical services
+KW  - Elliptic curve cryptography
+KW  - Blockchain
+KW  - Internet of Things
+KW  - Zero Knowledge Proof
+KW  - Elliptic Curve Cryptography
+KW  - Smart Contract
+DO  - 10.1109/ICDCECE60827.2024.10549637
+JO  - 2024 Third International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 Third International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE)
+Y1  - 26-27 April 2024
+AB  - The current healthcare ecosystem often faces challenges such as data breaches, unauthorized access, data silos, and difficulties in tracking and verifying medical device supply chains. These issues pose a threat to patient confidentiality, trust in healthcare data, and the efficiency of healthcare operations. To address these challenges, a proposed model introduces a unique approach to bolstering the security and efficiency of Internet of Things (IoT) devices in healthcare through the use of advanced cryptographic techniques. Specifically, the model utilizes a heavy computation algorithm known as Elliptic Curve Cryptography (ECC) for packet verification in IoT devices. In addition to ECC, the model incorporates Zero Knowledge Proof (ZKP) for verification, providing a lighter alternative to ECC. ZKP works by signing the input messages and subsequently verifying the data, offering a robust security measure. The implementation strategy involves simulating IoT sensors, each equipped with ECC and Zero Knowledge proof capabilities for enhanced security.
+ER  - 
+
+TY  - CONF
+TI  - Integration of a Smart Bed Infrastructure with Hospital Information Systems using Fast Health Interoperability Resources: *A case study of the Wireless biOmonitoring stickers and smart bed architecture: toWards Untethered Patients (WoW) R&D Project
+T2  - 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC)
+SP  - 1
+EP  - 6
+AU  - D. Portugal
+AU  - J. N. Faria
+AU  - M. Domingues
+AU  - L. Gaspar
+PY  - 2023
+KW  - Wireless communication
+KW  - Wireless sensor networks
+KW  - Hospitals
+KW  - Computer architecture
+KW  - Logic gates
+KW  - Writing
+KW  - Security
+DO  - 10.1109/CCNC51644.2023.10060813
+JO  - 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC)
+IS  - 
+SN  - 2331-9860
+VO  - 
+VL  - 
+JA  - 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC)
+Y1  - 8-11 Jan. 2023
+AB  - This work describes a wireless patient biomonitoring system and focuses on its connections to a Hospital Information System (HIS) in use by multiple hospitals. The main objective is to gracefully integrate the various components of the proposed IoT architecture, with special emphasis on interoperability. The architecture is designed to monitor patients' vital signs via a locally embedded smart bed node that collects data via Bluetooth Low Energy (BLE) from wireless sensor patches attached to the patients' skin. The smart bed infrastructure connects to a remote gateway via Message Queuing Telemetry Transport (MQTT), which manages patient data. The Gateway also provides a translation layer using the Fast Healthcare Interoperability Resources (FHIR) protocol that uses a secure REST API to transmit health information to the clinical software in use, and fulfill interoperability requirements.
+ER  - 
+
+TY  - JOUR
+TI  - Telemonitoring System for Infectious Disease Prediction in Elderly People Based on a Novel Microservice Architecture
+T2  - IEEE Access
+SP  - 118340
+EP  - 118354
+AU  - H. Calderón-Gómez
+AU  - L. Mendoza-Pittí
+AU  - M. Vargas-Lombardo
+AU  - J. M. Gómez-Pulido
+AU  - J. L. Castillo-Sequera
+AU  - J. Sanz-Moreno
+AU  - G. Sención
+PY  - 2020
+KW  - Infectious diseases
+KW  - Senior citizens
+KW  - Computer architecture
+KW  - Hospitals
+KW  - Technological innovation
+KW  - Cloud computing
+KW  - Artificial intelligence
+KW  - e-health
+KW  - elderly people
+KW  - infectious diseases
+KW  - microservice architecture
+KW  - microservices
+KW  - telemonitoring
+DO  - 10.1109/ACCESS.2020.3005638
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 8
+VL  - 8
+JA  - IEEE Access
+Y1  - 2020
+AB  - This article describes the design, development and implementation of a set of microservices based on an architecture that enables detection and assisted clinical diagnosis within the field of infectious diseases of elderly patients, via a telemonitoring system. The proposed system is designed to continuously update a medical database fed with vital signs from biosensor kits applied by nurses to elderly people on a daily basis. The database is hosted in the cloud and is managed by a flexible microservices software architecture. The computational paradigms of the edge and the cloud were used in the implementation of a hybrid cloud architecture in order to support versatile high-performance applications under the microservices pattern for the pre-diagnosis of infectious diseases in elderly patients. The results of an analysis of the usability of the equipment, the performance of the architecture and the service concept show that the proposed e-health system is feasible and innovative. The system components are also selected to give a cost-effective implementation for people living in disadvantaged areas. The proposed e-health system is also suitable for distributed computing, big data and NoSQL structures, thus allowing the immediate application of machine learning and AI algorithms to discover knowledge patterns from the overall population.
+ER  - 
+
+TY  - CONF
+TI  - Towards a Web of Things-based system for a smart hospital
+T2  - 2020 2nd International Workshop on Human-Centric Smart Environments for Health and Well-being (IHSH)
+SP  - 22
+EP  - 27
+AU  - I. Mezenner
+AU  - S. Bouyakoub
+AU  - F. M. Bouyakoub
+PY  - 2021
+KW  - Sequential analysis
+KW  - Hospitals
+KW  - Service-oriented architecture
+KW  - Sensors
+KW  - Biomedical monitoring
+KW  - Monitoring
+KW  - Medical diagnostic imaging
+KW  - Web of Things (WoT)
+KW  - smart hospital
+KW  - health monitoring
+KW  - Web services
+KW  - orchestration
+KW  - BPEL
+DO  - 10.1109/IHSH51661.2021.9378740
+JO  - 2020 2nd International Workshop on Human-Centric Smart Environments for Health and Well-being (IHSH)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 2nd International Workshop on Human-Centric Smart Environments for Health and Well-being (IHSH)
+Y1  - 9-10 Feb. 2021
+AB  - The adoption of the Web of Things (WoT) has revolutionized the medical sector by giving rise to a number of easy-to-use solutions. In this context, improving remote patient health monitoring in a hospital is a recurring consideration, due to various difficulties encountered by medical staff during the performance of their duties, such as heavy workload, manual input of patient data, delays in treatments or interventions, and possible human errors (diagnostic, dosage, etc.). For this matter, we propose a platform that allows to permanently monitor the vital signs of hospitalized patients using sensors. Automatic intervention scenarios are developed to provide the necessary treatment to the patient remotely. In case of life-threatening circumstances, the medical staff is alerted by receiving notifications summarizing the patient's condition. Based on a service-oriented architecture (SOA), the successful sequencing of these functionalities depends on the composition of the different Web services exposed by the smart things connected to the Web.
+ER  - 
+
+TY  - JOUR
+TI  - FoG-Oriented Secure and Lightweight Data Aggregation in IoMT
+T2  - IEEE Access
+SP  - 111072
+EP  - 111082
+AU  - M. Azeem
+AU  - A. Ullah
+AU  - H. Ashraf
+AU  - N. Jhanjhi
+AU  - M. Humayun
+AU  - S. Aljahdali
+AU  - T. A. Tabbakh
+PY  - 2021
+KW  - Data aggregation
+KW  - Security
+KW  - Medical services
+KW  - Data privacy
+KW  - Sensors
+KW  - Authentication
+KW  - Servers
+KW  - IoT
+KW  - healthcare
+KW  - fog computing
+KW  - security
+KW  - authentication
+KW  - anonymity
+KW  - data aggregation
+DO  - 10.1109/ACCESS.2021.3101668
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 9
+VL  - 9
+JA  - IEEE Access
+Y1  - 2021
+AB  - Internet of Medical Things (IoMT) is becoming an essential part of remote health monitoring due to the evolution of medical wireless sensors and intelligent communication technologies. IoT-based healthcare applications are employed in the medical centers to provide continuous health monitoring of a patient. However, recent smart medical devices have limited resources to handle the huge amount of healthcare data. IoMT faces several challenging issues, like security, privacy, anonymity, and interoperability. In data aggregation and communication, the privacy and security of medical information is a demanding task. Therefore, we proposed a suitable scheme to overcome the limitations of existing research studies. This paper presents an Efficient and Secure Data Transmission and Aggregation (ESDTA) scheme to enhance aggregation efficiency and data security. Our proposed work provides secure data aggregation and data forwarding of healthcare parameter values by employing the Secure Message Aggregation (SMA) algorithm and Secure Message Decryption (SMD) algorithm at the Mobile Node (MN) and Fog Node (FN), respectively. From a security perspective, the proposed scheme preserves the data integrity and also protect against several security threats like data fabrication and replay attack. The proposed scenario is simulated through simulation tool NS 2.35. The simulation results prove that aggregation at the MN effectively reduces transmission and communication costs. Furthermore, the effective computation at the FN minimizes the storage and computational cost at the cloud server. Thus, the analysis of the proposed scheme shows the supremacy of our proposed work. We compare our scheme with other related secure data aggregation-based schemes in terms of communication cost, energy consumption, resilience, storage and computational cost.
+ER  - 
+
+TY  - CONF
+TI  - Recent Advancements of Internet of Medical Things (IoMT): Challenges and Future Opportunities with Emerging Technologies
+T2  - 2022 International Conference on Automation, Computing and Renewable Systems (ICACRS)
+SP  - 278
+EP  - 283
+AU  - D. T. Shah
+AU  - A. Patel
+AU  - A. Budhrani
+AU  - K. Patel
+PY  - 2022
+KW  - Renewable energy sources
+KW  - Hospitals
+KW  - Internet of Medical Things
+KW  - Sensors
+KW  - Security
+KW  - Reliability
+KW  - Monitoring
+KW  - Internet of Medical Things (IoMT)
+KW  - Smart healthcare
+KW  - Tele-surgeries
+KW  - Remote Health Monitoring (RHM)
+KW  - Challenges
+KW  - Future trends
+DO  - 10.1109/ICACRS55517.2022.10029214
+JO  - 2022 International Conference on Automation, Computing and Renewable Systems (ICACRS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 International Conference on Automation, Computing and Renewable Systems (ICACRS)
+Y1  - 13-15 Dec. 2022
+AB  - Internet of Medical Things (IoMT) is one of the thriving areas of current era which focuses on the digitization of healthcare services by connecting hospitals, medical resources, healthcare professionals and patients over Internet. Internet of Things (IoT) plays important role in IoMT to connect medical devices with each other for the communication of data between doctors, medical staffs, hospitals and patient for offering efficient and reliable medical services. Currently, IoMT offers various services like patient data management, diagnosis of diseases, remote healthcare monitoring, tele-surgery, etc. In this paper, the IoMT is covered with respect to its applications, use cases and case studies. The analysis shows that the IoMT is one of the most growing fields of Information Technology (IT) which uses the various sensors, equipment, and devices to sense the health-related data of humans and share the data with hospitals, doctors and healthcare professionals for remote diagnosis and treatments. However, IoMT is being adopted widely to offer tele-surgeries, real-time health monitoring and diagnosis of various diseases by integration of various technologies, still many challenges such as Interoperability, privacy and security, Energy Consumption, network latency, etc. need focus of researchers for better and accurate outcome. Here, the major challenges of IoMT are covered which will be helpful to the researcher and medical professional for improvement in healthcare domain.
+ER  - 
+
+TY  - CONF
+TI  - Advanced ICU Patient Monitoring With Sensor Integration, IV Detection WITH Canny Edge Detection and ECG Monitoring With Live Feed
+T2  - 2023 International Conference on Recent Advances in Electrical, Electronics & Digital Healthcare Technologies (REEDCON)
+SP  - 335
+EP  - 339
+AU  - K. A. Reddy
+AU  - S. Pavan
+AU  - K. Mannem
+AU  - B. Priya
+PY  - 2023
+KW  - Patient monitoring
+KW  - Microcontrollers
+KW  - Image processing
+KW  - Detectors
+KW  - Electrocardiography
+KW  - Streaming media
+KW  - Real-time systems
+KW  - Advanced ICU
+KW  - patient vitals
+KW  - Image processing
+KW  - IV fluid level detector
+DO  - 10.1109/REEDCON57544.2023.10151176
+JO  - 2023 International Conference on Recent Advances in Electrical, Electronics & Digital Healthcare Technologies (REEDCON)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Recent Advances in Electrical, Electronics & Digital Healthcare Technologies (REEDCON)
+Y1  - 1-3 May 2023
+AB  - The Advanced Intensive Care Unit (ICU) system brings new opportunities for monitoring and providing patient care. It requires techniques to integrate data from multiple sources in a streamlined manner, to provide a comprehensive view of the patient’s condition. The Digital ICU architecture is designed to enable the integration of patient data from multiple sources, to provide an intelligent patient monitoring platform and enhance patient care outcomes. The Digital ICU system is used for monitoring critically ill patients and ambit its advantages in overcoming the limitations of traditional monitoring systems. Finally, the paper proposes new implementations to enable the interoperability of digital ICU systems. We envision that the proposed Digital ICU system will improve clinical efficiency, provides remote monitoring, a real-time dashboard and alerts, enhance patient outcomes, and provide a new dimension to patient care in a faster manner. The proposed system will increase the efficiency of the nurses and helps in effective look of the admitted patients.
+ER  - 
+
+TY  - JOUR
+TI  - Digital Privacy in Healthcare: State-of-the-Art and Future Vision
+T2  - IEEE Access
+SP  - 84273
+EP  - 84291
+AU  - S. S. Mahadik
+AU  - P. M. Pawar
+AU  - R. Muthalagu
+AU  - N. R. Prasad
+AU  - S. -K. Hawkins
+AU  - D. Stripelis
+AU  - S. Rao
+AU  - P. Ejim
+AU  - B. Hecht
+PY  - 2024
+KW  - Privacy
+KW  - Medical services
+KW  - Data privacy
+KW  - Social networking (online)
+KW  - Law
+KW  - Regulation
+KW  - Web sites
+KW  - Artificial intelligence
+KW  - Digital privacy
+KW  - healthcare
+KW  - artificial intelligence
+KW  - challenges
+KW  - data privacy
+DO  - 10.1109/ACCESS.2024.3410035
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - The article draws inspiration from IEEE Digital Privacy, which explores attaining privacy goals for individuals in the digital realm. Privacy is an umbrella term that equates to respect for an individual’s dignity. When it integrates with digital technology, it alludes to individuals’ right and authority to control the flow of their personally identifiable information (PII) on the digital platform. Adopting digital technology in healthcare is not novel, but the COVID-19 outbreak has accelerated its incorporation into healthcare. Digital technology perks a wide range of healthcare professions, including biomedicine, diagnostic imaging, and remote patient monitoring, to mention a few, through facilitating accurate and effective health-related decisions. Thanks to technological advancements, healthcare professionals and other medical personnel are now quickly accessing and retaining patient information, which aids in scouring for optimal and swiftly acted-upon medications. While the technology’s inception is positive, it raised privacy issues for patients’ PII and other sensitive health data that remain intact. The review article addresses the key challenges in digital privacy for healthcare while also reviewing the state-of-the-art work by investigating data encryption techniques, access control mechanisms, and risk assessment techniques with digital privacy as a primary concern. Every country has enacted resilient laws and regulations to protect digital privacy in healthcare, which are briefed in the article. Artificial intelligence (AI) has proven valuable in cybersecurity and healthcare technology growth. As a result, the article delves into the hurdles of employing AI for healthcare digital privacy and cutting-edge work in healthcare digital privacy using AI. Finally, the article concludes with a future vision of data privacy in healthcare.
+ER  - 
+
+TY  - CONF
+TI  - Linking Healthcare to Remote Areas through LoRa-IoT-based Communication
+T2  - 2023 IEEE Future Networks World Forum (FNWF)
+SP  - 1
+EP  - 5
+AU  - P. Mishra
+AU  - D. K. Yadav
+AU  - S. Chinara
+PY  - 2023
+KW  - Medical services
+KW  - Internet of Things
+KW  - Cloud computing
+KW  - Monitoring
+KW  - Wireless sensor networks
+KW  - Wireless communication
+KW  - Sensors
+KW  - Internet of Things
+KW  - LoRa
+KW  - Health care
+KW  - cloud computing and fog computing
+DO  - 10.1109/FNWF58287.2023.10520616
+JO  - 2023 IEEE Future Networks World Forum (FNWF)
+IS  - 
+SN  - 2770-7679
+VO  - 
+VL  - 
+JA  - 2023 IEEE Future Networks World Forum (FNWF)
+Y1  - 13-15 Nov. 2023
+AB  - Eventually, the ways of interactions among humans, health devices, and healthcare facilities are evolving and becoming smarter and quicker. Wireless wearables unified with IoT are becoming an effective everyday tool to analyze and collect patients' health data and keep a track of the health of those who have a risk of persistent disease. Uninterrupted attendance by the healthcare workers and convenience for the patients during a crisis in remote areas is the primary factor to be addressed by a healthcare monitoring system. Such a system materializes personal medical treatment to rural patients and helps to reduce their medical costs with a constantly enhanced outcome. LoRa due to its wide coverage, offers a concrete framework for IoT that can certainly transform the healthcare trade to the next level yet it encounters some challenges like latency, unbalanced loading of data, and diverseness of the applications and user requests. Healthcare is such a field where even a little delay may cost the life of a patient. Cloud computing has been considered as a base to provide IoT solutions but it too calls for limitations when it comes to distance from the point of origin of IoT data. There is an upsurge of Fog computing solutions, to eradicate such challenges by bringing computation power nearer to the origin of data. Notwithstanding, the cloud-fog-IoT unification and interoperability entail intricate engineering of services and applications so that the solutions can utilize the distributed resources without bargaining the Quality of Service (QoS), privacy, and efficiency.
+ER  - 
+
+TY  - JOUR
+TI  - Resolving Data Overload and Latency Issues in Multivariate Time-Series IoMT Data for Mental Health Monitoring
+T2  - IEEE Sensors Journal
+SP  - 25421
+EP  - 25428
+AU  - D. Gupta
+AU  - M. P. S. Bhatia
+AU  - A. Kumar
+PY  - 2021
+KW  - Medical services
+KW  - Sensors
+KW  - Monitoring
+KW  - Real-time systems
+KW  - Mental health
+KW  - Data models
+KW  - Computational modeling
+KW  - Clustering
+KW  - CNN
+KW  - IoMT
+KW  - k-medoids
+KW  - mental state
+DO  - 10.1109/JSEN.2021.3095853
+JO  - IEEE Sensors Journal
+IS  - 22
+SN  - 1558-1748
+VO  - 21
+VL  - 21
+JA  - IEEE Sensors Journal
+Y1  - 15 Nov.15, 2021
+AB  - Pervasive healthcare services have evolved substantially in the recent years with IoMT rapidly changing the pace and scale of healthcare delivery. A promising application of IoMT is to fetch patterns of mental behaviour symptomatology based on bio-signals and transfer it to the corresponding hospital or psychologist for remote monitoring. But the data volume & performance, device diversity & interoperability, hacking & unauthorized use and acceptance & adoption barriers still restrain the practical and competent use of these devices. This research presents a plausible solution to surmount the data overload and processing latency in real-time sensory data collected through wearable devices for mental health monitoring. We propose a modified k-medoid data clustering technique based on time-frame restricted intra-cluster similarity calculations to obtain a summarized version of the original benchmark WESAD dataset for which the degree of information lost is minimum. A CNN is then trained on this summarized dataset for classification of mental state into the baseline, stress and amusement categories. The results show a significant reduction in the average execution time by 34% with a comparable accuracy to the original dataset, thus offering prompt real-time healthcare analytics.
+ER  - 
+
+TY  - CONF
+TI  - Fog Computing with Optimized Block Chain Technique for IoT Based Data Security
+T2  - 2023 International Conference on Circuit Power and Computing Technologies (ICCPCT)
+SP  - 1142
+EP  - 1147
+AU  - G. S. Dhanya
+AU  - S. M. Celestin Vigila
+PY  - 2023
+KW  - Cloud computing
+KW  - Authentication
+KW  - Medical services
+KW  - Quality of service
+KW  - Electromyography
+KW  - Electroencephalography
+KW  - Blockchains
+KW  - IoT- Internet of Things
+KW  - FC-Fog Computing
+KW  - CSA-Crow Search Algorithm
+KW  - GKA-Group Key Authentication
+KW  - SDN- Software defined Networks
+KW  - PHD-Patient Health Data
+DO  - 10.1109/ICCPCT58313.2023.10245224
+JO  - 2023 International Conference on Circuit Power and Computing Technologies (ICCPCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Circuit Power and Computing Technologies (ICCPCT)
+Y1  - 10-11 Aug. 2023
+AB  - The Internet of Things (IoT) for medical purposes offers a number of benefits, including the aptitude to follow the individual's physical state over a range of time intervals and transmitting data in real time. Using gadgets like glucose meters, heart monitoring implants, Electrocardiogram (ECG), blood pressure monitors, Electroencephalography (EEG) and Electromyography (EMG) wearable strategies, medical personnel can gather local patient wellness data and make choices based on it. The IoT devices' weak authentication and encryption procedures make them readily hackable and may expose users to a number of risks, some of which could be fatal. The Quality of Service (QoS) needs for healthcare IoT devices, such as dependability, authorization, identity and security, cannot be met by current algorithms using machine learning or blockchain approaches operating in the cloud computing environment. Henceforth the proposed work develops an advanced Fog computing (FC) to oppose advance cloud computing at an edge of networks together with Block chain topology. Fog computing has been emphasized as promising method for low-cost remote monitoring, limiting down on latency, and boosting efficiency, while blockchain has been touted for guaranteeing the security of private data, building a decentralized database, and improving data interoperability. The problem of healthcare IoT device recognition, permission and confirmation for scalability often broadcast of data in a distributed setting can be handled by merging FC with block chain. So, leveraging FC and blockchain, a creative solution to the aforementioned issue.
+ER  - 
+
+

@@ -1,0 +1,635 @@
+PMID- 33805471
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210428
+IS  - 2075-4418 (Print)
+IS  - 2075-4418 (Electronic)
+IS  - 2075-4418 (Linking)
+VI  - 11
+IP  - 4
+DP  - 2021 Mar 29
+TI  - Mobile Health in Remote Patient Monitoring for Chronic Diseases: Principles, 
+      Trends, and Challenges.
+LID - 10.3390/diagnostics11040607 [doi]
+LID - 607
+AB  - Chronic diseases are becoming more widespread. Treatment and monitoring of these 
+      diseases require going to hospitals frequently, which increases the burdens of 
+      hospitals and patients. Presently, advancements in wearable sensors and 
+      communication protocol contribute to enriching the healthcare system in a way 
+      that will reshape healthcare services shortly. Remote patient monitoring (RPM) is 
+      the foremost of these advancements. RPM systems are based on the collection of 
+      patient vital signs extracted using invasive and noninvasive techniques, then 
+      sending them in real-time to physicians. These data may help physicians in taking 
+      the right decision at the right time. The main objective of this paper is to 
+      outline research directions on remote patient monitoring, explain the role of AI 
+      in building RPM systems, make an overview of the state of the art of RPM, its 
+      advantages, its challenges, and its probable future directions. For studying the 
+      literature, five databases have been chosen (i.e., science direct, IEEE-Explore, 
+      Springer, PubMed, and science.gov). We followed the (Preferred Reporting Items 
+      for Systematic Reviews and Meta-Analyses) PRISMA, which is a standard methodology 
+      for systematic reviews and meta-analyses. A total of 56 articles are reviewed 
+      based on the combination of a set of selected search terms including RPM, data 
+      mining, clinical decision support system, electronic health record, cloud 
+      computing, internet of things, and wireless body area network. The result of this 
+      study approved the effectiveness of RPM in improving healthcare delivery, 
+      increase diagnosis speed, and reduce costs. To this end, we also present the 
+      chronic disease monitoring system as a case study to provide enhanced solutions 
+      for RPMs.
+FAU - El-Rashidy, Nora
+AU  - El-Rashidy N
+AUID- ORCID: 0000-0001-8177-9439
+AD  - Machine Learning and Information Retrieval Department, Faculty of Artificial 
+      Intelligence, Kafrelsheiksh University, Kafrelsheiksh 13518, Egypt.
+FAU - El-Sappagh, Shaker
+AU  - El-Sappagh S
+AD  - Centro Singular de Investigación en Tecnoloxías Intelixentes (CiTIUS), 
+      Universidade de Santiago de Compostela, 15782 Santiago de Compostela, Spain.
+AD  - Information Systems Department, Faculty of Computers and Artificial Intelligence, 
+      Benha University, Banha 13518, Egypt.
+FAU - Islam, S M Riazul
+AU  - Islam SMR
+AUID- ORCID: 0000-0003-2968-9561
+AD  - Department of Computer Science and Engineering, Sejong University, Seoul 05006, 
+      Korea.
+FAU - M El-Bakry, Hazem
+AU  - M El-Bakry H
+AD  - Information Systems Department, Faculty of Computers and Information, Mansoura 
+      University, Mansoura 13518, Egypt.
+FAU - Abdelrazek, Samir
+AU  - Abdelrazek S
+AUID- ORCID: 0000-0002-1943-2861
+AD  - Information Systems Department, Faculty of Computers and Information, Mansoura 
+      University, Mansoura 13518, Egypt.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210329
+PL  - Switzerland
+TA  - Diagnostics (Basel)
+JT  - Diagnostics (Basel, Switzerland)
+JID - 101658402
+PMC - PMC8067150
+OTO - NOTNLM
+OT  - AI
+OT  - clinical-decision support system
+OT  - cloud computing
+OT  - electronic health
+OT  - electronic health record
+OT  - internet of things
+OT  - remote patient monitoring
+OT  - wireless body area network
+COIS- The authors declare that they have no competing interests.
+EDAT- 2021/04/04 06:00
+MHDA- 2021/04/04 06:01
+PMCR- 2021/03/29
+CRDT- 2021/04/03 01:20
+PHST- 2020/12/15 00:00 [received]
+PHST- 2021/02/17 00:00 [revised]
+PHST- 2021/03/05 00:00 [accepted]
+PHST- 2021/04/03 01:20 [entrez]
+PHST- 2021/04/04 06:00 [pubmed]
+PHST- 2021/04/04 06:01 [medline]
+PHST- 2021/03/29 00:00 [pmc-release]
+AID - diagnostics11040607 [pii]
+AID - diagnostics-11-00607 [pii]
+AID - 10.3390/diagnostics11040607 [doi]
+PST - epublish
+SO  - Diagnostics (Basel). 2021 Mar 29;11(4):607. doi: 10.3390/diagnostics11040607.
+
+PMID- 31932232
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210416
+LR  - 20210416
+IS  - 2531-0437 (Electronic)
+IS  - 2531-0429 (Linking)
+VI  - 26
+IP  - 4
+DP  - 2020 Jul-Aug
+TI  - Telemonitoring systems for respiratory patients: technological aspects.
+PG  - 221-232
+LID - S2531-0437(19)30214-4 [pii]
+LID - 10.1016/j.pulmoe.2019.11.006 [doi]
+AB  - This review introduces the reader to the available technologies in the field of 
+      telemonitoring, with focus on respiratory patients. In the materials and methods 
+      section, a general structure of telemonitoring systems for respiratory patients 
+      is presented and the sensors of interest are illustrated, i.e., respiratory 
+      monitors (wearable and non-wearable), activity trackers, pulse oximeters, 
+      environmental monitors and other sensors of physiological variables. Afterwards, 
+      the most common communication protocols are briefly introduced. In the results 
+      section, selected clinical studies that prove the significance of the presented 
+      parameters in chronic respiratory diseases are presented. This is followed by a 
+      discussion on the main current issues in telemedicine, in particular legal 
+      aspects, data privacy and benefits both in economic and health terms.
+CI  - Copyright © 2019 Sociedade Portuguesa de Pneumologia. Published by Elsevier 
+      España, S.L.U. All rights reserved.
+FAU - Angelucci, Alessandra
+AU  - Angelucci A
+AD  - Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, 
+      32 - 20133 Milano, Italy.
+FAU - Aliverti, Andrea
+AU  - Aliverti A
+AD  - Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, 
+      32 - 20133 Milano, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200110
+PL  - Spain
+TA  - Pulmonology
+JT  - Pulmonology
+JID - 101723786
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Chronic Disease
+MH  - Communication
+MH  - Confidentiality/legislation & jurisprudence
+MH  - Environmental Monitoring/instrumentation
+MH  - Fitness Trackers/statistics & numerical data
+MH  - Humans
+MH  - Monitoring, Physiologic/economics/*instrumentation
+MH  - Oximetry/instrumentation
+MH  - Respiratory Tract Diseases/*physiopathology
+MH  - Technology/economics/*instrumentation
+MH  - Telemedicine/economics/*methods
+MH  - Wearable Electronic Devices/statistics & numerical data
+OTO - NOTNLM
+OT  - Telemedicine
+OT  - Telemonitoring
+OT  - eHealth
+EDAT- 2020/01/15 06:00
+MHDA- 2021/04/17 06:00
+CRDT- 2020/01/15 06:00
+PHST- 2019/11/22 00:00 [received]
+PHST- 2019/11/25 00:00 [accepted]
+PHST- 2020/01/15 06:00 [pubmed]
+PHST- 2021/04/17 06:00 [medline]
+PHST- 2020/01/15 06:00 [entrez]
+AID - S2531-0437(19)30214-4 [pii]
+AID - 10.1016/j.pulmoe.2019.11.006 [doi]
+PST - ppublish
+SO  - Pulmonology. 2020 Jul-Aug;26(4):221-232. doi: 10.1016/j.pulmoe.2019.11.006. Epub 
+      2020 Jan 10.
+
+PMID- 32859036
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20200903
+LR  - 20201001
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 20
+IP  - 17
+DP  - 2020 Aug 26
+TI  - Security in IoMT Communications: A Survey.
+LID - 10.3390/s20174828 [doi]
+LID - 4828
+AB  - The Internet of Medical Things (IoMT) couples IoT technologies with healthcare 
+      services in order to support real-time, remote patient monitoring and treatment. 
+      However, the interconnectivity of critical medical devices with other systems in 
+      various network layers creates new opportunities for remote adversaries. Since 
+      most of the communication protocols have not been specifically designed for the 
+      needs of connected medical devices, there is a need to classify the available IoT 
+      communication technologies in terms of security. In this paper we classify IoT 
+      communication protocols, with respect to their application in IoMT. Then we 
+      describe the main characteristics of IoT communication protocols used at the 
+      perception, network and application layer of medical devices. We examine the 
+      inherent security characteristics and limitations of IoMT-specific communication 
+      protocols. Based on realistic attacks we identify available mitigation controls 
+      that may be applied to secure IoMT communications, as well as existing research 
+      and implementation gaps.
+FAU - Koutras, Dimitris
+AU  - Koutras D
+AUID- ORCID: 0000-0002-9154-8340
+AD  - Department of Informatics, University of Piraeus, 80, M. Karaoli & A. Dimitriou 
+      St., 18534 Piraeus, Greece.
+FAU - Stergiopoulos, George
+AU  - Stergiopoulos G
+AD  - Department of Informatics, University of Piraeus, 80, M. Karaoli & A. Dimitriou 
+      St., 18534 Piraeus, Greece.
+FAU - Dasaklis, Thomas
+AU  - Dasaklis T
+AUID- ORCID: 0000-0003-1240-4822
+AD  - Department of Informatics, University of Piraeus, 80, M. Karaoli & A. Dimitriou 
+      St., 18534 Piraeus, Greece.
+FAU - Kotzanikolaou, Panayiotis
+AU  - Kotzanikolaou P
+AUID- ORCID: 0000-0002-8771-9020
+AD  - Department of Informatics, University of Piraeus, 80, M. Karaoli & A. Dimitriou 
+      St., 18534 Piraeus, Greece.
+FAU - Glynos, Dimitris
+AU  - Glynos D
+AD  - CENSUS S.A., I. Gkoura 16, 54352 Thessaloniki, Greece.
+FAU - Douligeris, Christos
+AU  - Douligeris C
+AD  - Department of Informatics, University of Piraeus, 80, M. Karaoli & A. Dimitriou 
+      St., 18534 Piraeus, Greece.
+LA  - eng
+GR  - European Union and Greek national funds/Research - Create - Innovate/
+PT  - Journal Article
+PT  - Review
+DEP - 20200826
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+PMC - PMC7506588
+OTO - NOTNLM
+OT  - IoT communication protocols
+OT  - internet of medical things
+OT  - perception-network-application layer
+OT  - security
+COIS- The authors declare no conflicts of interest.
+EDAT- 2020/08/30 06:00
+MHDA- 2020/08/30 06:01
+PMCR- 2020/09/01
+CRDT- 2020/08/30 06:00
+PHST- 2020/07/23 00:00 [received]
+PHST- 2020/08/20 00:00 [revised]
+PHST- 2020/08/21 00:00 [accepted]
+PHST- 2020/08/30 06:00 [entrez]
+PHST- 2020/08/30 06:00 [pubmed]
+PHST- 2020/08/30 06:01 [medline]
+PHST- 2020/09/01 00:00 [pmc-release]
+AID - s20174828 [pii]
+AID - sensors-20-04828 [pii]
+AID - 10.3390/s20174828 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2020 Aug 26;20(17):4828. doi: 10.3390/s20174828.
+
+PMID- 37964800
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240215
+IS  - 1178-2390 (Print)
+IS  - 1178-2390 (Electronic)
+IS  - 1178-2390 (Linking)
+VI  - 16
+DP  - 2023
+TI  - A Systematic Literature Review on Trustworthiness for Applications Used in 
+      eHealth Environments.
+PG  - 3393-3403
+LID - 10.2147/JMDH.S429071 [doi]
+AB  - CONTEXT: The technological advancement of the Internet of Things (IoT) creates 
+      opportunities in various social sectors. Patients in clinics or home care have 
+      their comfort and safety enhanced with remote monitoring, sensors and 
+      applications that control and transfer patient data. These applications must be 
+      trustworthy, since they deal with sensitive data. PURPOSE: The purpose of this 
+      work is to identify gaps in trustworthiness, availability, effectiveness, 
+      security and other attributes. Also, to highlight challenges and opportunities 
+      for research and give guidance on choosing the right technology or application 
+      based on the resources available to support patients and doctors, protocol of 
+      communication and maturity level of these technologies. METHODOLOGY: This work 
+      presents a systematic review of the literature following four steps: Definition 
+      of the Research Questions, Conduct Search, Screening of Papers, and Data 
+      Extraction and Mapping Process. RESULTS: Based on the articles studied, it was 
+      possible to answer important questions about eHealth applications. The results 
+      highlight how eHealth applications can enhance patient care by monitoring health 
+      data and supporting doctors' decision-making with a reasonable level of 
+      trustworthiness. Additionally, the results demonstrate how applications can 
+      notify external caregivers in emergencies and assist in diagnosis and treatment 
+      of illnesses. However, these applications still face problems related to sensor 
+      lifetime, medical data sharing, interoperability and lack of standardization. 
+      Finally, we suggest a literature mapping to support the choice of technologies 
+      based on resources available, communication protocol and technological maturity. 
+      CONCLUSION: This work carries out a systematic literature review to discuss 
+      state-of-the-art eHealth applications and gather new information of current 
+      research. In this process it was possible to show how these applications work, 
+      map out their main technological characteristics to assist the decision-making 
+      process for future works and uncover eHealth applications' strengths, future 
+      perspectives and challenges, specifically related to the high level of 
+      trustworthiness necessary.
+CI  - © 2023 Renó et al.
+FAU - Renó, Breno
+AU  - Renó B
+AUID- ORCID: 0000-0003-1040-276X
+AD  - Institute of System Engineering and Information Technology (IESTI), Federal 
+      University of Itajubá (UNIFEI), Itajubá, MG, Brazil.
+FAU - Oliveira, Edvard Martins
+AU  - Oliveira EM
+AUID- ORCID: 0000-0002-2842-2155
+AD  - Institute of System Engineering and Information Technology (IESTI), Federal 
+      University of Itajubá (UNIFEI), Itajubá, MG, Brazil.
+FAU - Souza, Adler Diniz
+AU  - Souza AD
+AUID- ORCID: 0000-0002-9393-398X
+AD  - Institute of Mathematics and Computing (IMC), Federal University of Itajubá 
+      (UNIFEI), Itajubá, MG, Brazil.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20231109
+PL  - New Zealand
+TA  - J Multidiscip Healthc
+JT  - Journal of multidisciplinary healthcare
+JID - 101512691
+PMC - PMC10642382
+OTO - NOTNLM
+OT  - IoT
+OT  - decision making
+OT  - healthcare
+OT  - internet of things
+OT  - remote monitoring
+COIS- Research developed under a scholarship provided by the Minas Gerais State 
+      Research Support Foundation (FAPEMIG). This work was supported by Universidade 
+      Federal de Itajubá (UNIFEI) [Grant Support for Young Researchers, Grant Support 
+      to Scientific Communication]. The authors report no other conflicts of interest 
+      in this work.
+EDAT- 2023/11/15 06:43
+MHDA- 2023/11/15 06:44
+PMCR- 2023/11/09
+CRDT- 2023/11/15 04:09
+PHST- 2023/07/07 00:00 [received]
+PHST- 2023/10/13 00:00 [accepted]
+PHST- 2023/11/15 06:44 [medline]
+PHST- 2023/11/15 06:43 [pubmed]
+PHST- 2023/11/15 04:09 [entrez]
+PHST- 2023/11/09 00:00 [pmc-release]
+AID - 429071 [pii]
+AID - 10.2147/JMDH.S429071 [doi]
+PST - epublish
+SO  - J Multidiscip Healthc. 2023 Nov 9;16:3393-3403. doi: 10.2147/JMDH.S429071. 
+      eCollection 2023.
+
+PMID- 35214404
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220301
+LR  - 20220301
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 22
+IP  - 4
+DP  - 2022 Feb 15
+TI  - LoRaChainCare: An IoT Architecture Integrating Blockchain and LoRa Network for 
+      Personal Health Care Data Monitoring.
+LID - 10.3390/s22041497 [doi]
+LID - 1497
+AB  - Over the past several years, the adoption of HealthCare Monitoring Systems (HCS) 
+      in health centers and organizations like hospitals or eldery homes growth 
+      significantly. The adoption of such systems is revolutionized by a propelling 
+      advancements in IoT and Blockchain technologies. Owing to technological 
+      advancement in IoT sensors market, innovations in HCS to monitor patients health 
+      status have motivated many countries to strength their efforts to support their 
+      citizens with such care delivery systems under the directives of a physician who 
+      has access to patient's data. Nevertheless, secure data sharing is a principal 
+      patient's concern to be comfort to use such systems. Current HCS are not able to 
+      provide reassuring security policies. For that, one of our focus in this work, is 
+      to provide security countermeasures, likewise cost-efficient solution for HCS by 
+      integrating storage model based on Blockchain and Interplanetary File Systems 
+      (IPFS). Blockchain technology is an emerging solution in pharmaceutical industry 
+      and starts to take place for HCS and allows HealthCare providers to track 
+      connected devices and control access to shared data, hence protecting patients' 
+      privacy. Furthermore, the addition of Edge and Fog computing has improved HCS to 
+      react in real-time and enhance their reliability. A variety of communication 
+      protocols can connect sensor devices to edge/Fog layer and the best choice will 
+      depend upon connectivity requirements: range, bandwidth, power, interoperability, 
+      security, and reliability. Instead, systems efficiency would decline and hurt if 
+      communication protocol is inconsistent. LoRa (Long Range) communications 
+      technology is emerging as the leader among Low-Power Wide-Area Networks (LPWANs) 
+      entering the IoT domain benefiting from many features such as long-range 
+      distances and low power consumption. This work proposes LoRaChainCare, an 
+      architecture model for HCS which combines the technologies Blockchain, Fog/Edge 
+      computing, and the LoRa communication protocol. A real implementation of 
+      LoRaChainCare system is presented and evaluated in terms of cost, run time and 
+      power consumption.
+FAU - Dammak, Bouthaina
+AU  - Dammak B
+AD  - Department of Computer Science and Information Technology, Applied College, 
+      Princess Nourah Bint Abdulrahman University, Riyadh 84428, Saudi Arabia.
+FAU - Turki, Mariem
+AU  - Turki M
+AD  - ISIMG, University of Gabes, Gabes 6033, Tunisia.
+AD  - CES Lab, University of Sfax, Sfax 3038, Tunisia.
+FAU - Cheikhrouhou, Saoussen
+AU  - Cheikhrouhou S
+AUID- ORCID: 0000-0003-4607-7452
+AD  - ReDCAD, University of Sfax, Sfax 3038, Tunisia.
+FAU - Baklouti, Mouna
+AU  - Baklouti M
+AD  - CES Lab, University of Sfax, Sfax 3038, Tunisia.
+FAU - Mars, Rawya
+AU  - Mars R
+AD  - ReDCAD, University of Sfax, Sfax 3038, Tunisia.
+FAU - Dhahbi, Afef
+AU  - Dhahbi A
+AD  - Department of Administrative Sciences, Applied College, Princess Nourah Bint 
+      Abdulrahman University, Riyadh 84428, Saudi Arabia.
+LA  - eng
+GR  - PRFA-P- 43 - 2/Princess Nourah bint Abdulrahman University/
+PT  - Journal Article
+DEP - 20220215
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - *Blockchain
+MH  - Confidentiality
+MH  - Delivery of Health Care
+MH  - Humans
+MH  - Monitoring, Physiologic/methods
+MH  - Reproducibility of Results
+PMC - PMC8875370
+OTO - NOTNLM
+OT  - IPFS
+OT  - Internet-of-Things
+OT  - LoRa
+OT  - blockchain
+OT  - edge computing
+OT  - fog computing
+OT  - healthcare
+OT  - security
+COIS- The authors declare that there is no conflict of interest regarding the 
+      publication of this paper.
+EDAT- 2022/02/27 06:00
+MHDA- 2022/03/03 06:00
+PMCR- 2022/02/15
+CRDT- 2022/02/26 01:03
+PHST- 2021/12/28 00:00 [received]
+PHST- 2022/01/29 00:00 [revised]
+PHST- 2022/02/04 00:00 [accepted]
+PHST- 2022/02/26 01:03 [entrez]
+PHST- 2022/02/27 06:00 [pubmed]
+PHST- 2022/03/03 06:00 [medline]
+PHST- 2022/02/15 00:00 [pmc-release]
+AID - s22041497 [pii]
+AID - sensors-22-01497 [pii]
+AID - 10.3390/s22041497 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2022 Feb 15;22(4):1497. doi: 10.3390/s22041497.
+
+PMID- 37753901
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230928
+LR  - 20230928
+IS  - 1671-7104 (Print)
+IS  - 1671-7104 (Linking)
+VI  - 47
+IP  - 5
+DP  - 2023 Sep 30
+TI  - [Research Overview of Internet of Things Technology in Medical Engineering].
+PG  - 576-581
+LID - 10.3969/j.issn.1671-7104.2023.05.021 [doi]
+AB  - Internet of Things plays a vital role in the field of healthcare. Smart medical 
+      devices, innovative sensors and lightweight communication protocols are making 
+      the Internet of Medical Things possible. This paper summarizes the research 
+      progress of Internet of Things technology in medical engineering from two aspects 
+      of health monitoring system and ingestible sensor monitoring equipment. The 
+      health monitoring system is analyzed from heart disease monitoring, diabetes 
+      monitoring and brain nerve monitoring. The medical equipment that can absorb 
+      sensors is represented by capsule endoscope. This paper further summarizes the 
+      relevant situation of smart hospital, and finally discusses the challenges and 
+      countermeasures of the Internet of Things technology in medical engineering, in 
+      order to lay the foundation and provide ideas for the research of the Internet of 
+      Things technology in medical engineering.
+FAU - Liu, Wanrong
+AU  - Liu W
+AD  - Shanghai Sixth People's Hospital, Shanghai, 201306.
+FAU - Li, Bin
+AU  - Li B
+AD  - Shanghai Sixth People's Hospital, Shanghai, 201306.
+FAU - Ji, Zhiyong
+AU  - Ji Z
+AD  - Shanghai Sixth People's Hospital, Shanghai, 201306.
+LA  - chi
+PT  - English Abstract
+PT  - Journal Article
+PL  - China
+TA  - Zhongguo Yi Liao Qi Xie Za Zhi
+JT  - Zhongguo yi liao qi xie za zhi = Chinese journal of medical instrumentation
+JID - 9426153
+SB  - IM
+MH  - *Internet of Things
+MH  - Technology
+MH  - Internet
+MH  - Brain
+MH  - Communication
+OTO - NOTNLM
+OT  - Internet of Medical Things
+OT  - capsule endoscope
+OT  - intelligent hospital
+OT  - remote monitoring
+EDAT- 2023/09/27 12:42
+MHDA- 2023/09/28 06:43
+CRDT- 2023/09/27 07:53
+PHST- 2023/09/28 06:43 [medline]
+PHST- 2023/09/27 12:42 [pubmed]
+PHST- 2023/09/27 07:53 [entrez]
+AID - 10.3969/j.issn.1671-7104.2023.05.021 [doi]
+PST - ppublish
+SO  - Zhongguo Yi Liao Qi Xie Za Zhi. 2023 Sep 30;47(5):576-581. doi: 
+      10.3969/j.issn.1671-7104.2023.05.021.
+
+PMID- 38339656
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240214
+LR  - 20240214
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 24
+IP  - 3
+DP  - 2024 Jan 31
+TI  - PUFchain 3.0: Hardware-Assisted Distributed Ledger for Robust Authentication in 
+      Healthcare Cyber-Physical Systems.
+LID - 10.3390/s24030938 [doi]
+LID - 938
+AB  - This article presents a novel hardware-assisted distributed ledger-based solution 
+      for simultaneous device and data security in smart healthcare. This article 
+      presents a novel architecture that integrates PUF, blockchain, and Tangle for 
+      Security-by-Design (SbD) of healthcare cyber-physical systems (H-CPSs). 
+      Healthcare systems around the world have undergone massive technological 
+      transformation and have seen growing adoption with the advancement of 
+      Internet-of-Medical Things (IoMT). The technological transformation of healthcare 
+      systems to telemedicine, e-health, connected health, and remote health is being 
+      made possible with the sophisticated integration of IoMT with machine learning, 
+      big data, artificial intelligence (AI), and other technologies. As healthcare 
+      systems are becoming more accessible and advanced, security and privacy have 
+      become pivotal for the smooth integration and functioning of various systems in 
+      H-CPSs. In this work, we present a novel approach that integrates PUF with IOTA 
+      Tangle and blockchain and works by storing the PUF keys of a patient's Body Area 
+      Network (BAN) inside blockchain to access, store, and share globally. Each 
+      patient has a network of smart wearables and a gateway to obtain the 
+      physiological sensor data securely. To facilitate communication among various 
+      stakeholders in healthcare systems, IOTA Tangle's Masked Authentication Messaging 
+      (MAM) communication protocol has been used, which securely enables patients to 
+      communicate, share, and store data on Tangle. The MAM channel works in the 
+      restricted mode in the proposed architecture, which can be accessed using the 
+      patient's gateway PUF key. Furthermore, the successful verification of PUF 
+      enables patients to securely send and share physiological sensor data from 
+      various wearable and implantable medical devices embedded with PUF. Finally, 
+      healthcare system entities like physicians, hospital admin networks, and remote 
+      monitoring systems can securely establish communication with patients using MAM 
+      and retrieve the patient's BAN PUF keys from the blockchain securely. Our 
+      experimental analysis shows that the proposed approach successfully integrates 
+      three security primitives, PUF, blockchain, and Tangle, providing decentralized 
+      access control and security in H-CPS with minimal energy requirements, data 
+      storage, and response time.
+FAU - Bathalapalli, Venkata K V V
+AU  - Bathalapalli VKVV
+AD  - Department of Computer Science and Engineering, University of North Texas, 
+      Denton, TX 76203, USA.
+FAU - Mohanty, Saraju P
+AU  - Mohanty SP
+AUID- ORCID: 0000-0003-2959-6541
+AD  - Department of Computer Science and Engineering, University of North Texas, 
+      Denton, TX 76203, USA.
+FAU - Kougianos, Elias
+AU  - Kougianos E
+AUID- ORCID: 0000-0002-1616-7628
+AD  - Department of Electrical Engineering, University of North Texas, Denton, TX 
+      76203, USA.
+FAU - Iyer, Vasanth
+AU  - Iyer V
+AD  - Department of Computer Science and Digital Technologies, Grambling State 
+      University, Grambling, LA 71245, USA.
+FAU - Rout, Bibhudutta
+AU  - Rout B
+AUID- ORCID: 0000-0002-7748-1469
+AD  - Department of Physics, University of North Texas, Denton, TX 76201, USA.
+LA  - eng
+GR  - 2101181/National Science Foundation/
+PT  - Journal Article
+DEP - 20240131
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - Computer Security
+MH  - *Blockchain
+MH  - Computers
+MH  - Delivery of Health Care/methods
+PMC - PMC10857410
+OTO - NOTNLM
+OT  - Tangle
+OT  - blockchain
+OT  - hardware-assisted security (HAS)
+OT  - healthcare cyber–physical systems (H-CPS)
+OT  - masked authentication messaging (MAM)
+OT  - physical unclonable function (PUF)
+OT  - security-by-design (SbD)
+OT  - smart healthcare
+COIS- The authors declare no conflicts of interest.
+EDAT- 2024/02/10 10:52
+MHDA- 2024/02/10 22:54
+PMCR- 2024/01/31
+CRDT- 2024/02/10 01:16
+PHST- 2023/11/28 00:00 [received]
+PHST- 2024/01/19 00:00 [revised]
+PHST- 2024/01/27 00:00 [accepted]
+PHST- 2024/02/10 22:54 [medline]
+PHST- 2024/02/10 10:52 [pubmed]
+PHST- 2024/02/10 01:16 [entrez]
+PHST- 2024/01/31 00:00 [pmc-release]
+AID - s24030938 [pii]
+AID - sensors-24-00938 [pii]
+AID - 10.3390/s24030938 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2024 Jan 31;24(3):938. doi: 10.3390/s24030938.

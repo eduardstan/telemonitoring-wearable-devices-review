@@ -1,0 +1,723 @@
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 24
+IS  - 3
+SN  - 1424-8220
+JF  - Sensors (Basel, Switzerland)
+JO  - Sensors (Basel)
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L643471147&from=export
+U2  - L643471147
+C5  - 38339656
+DB  - Medline
+U3  - 2024-02-19
+L2  - http://dx.doi.org/10.3390/s24030938
+DO  - 10.3390/s24030938
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=14248220&id=doi:10.3390%2Fs24030938&atitle=PUFchain+3.0%3A+Hardware-Assisted+Distributed+Ledger+for+Robust+Authentication+in+Healthcare+Cyber-Physical+Systems&stitle=Sensors+%28Basel%29&title=Sensors+%28Basel%2C+Switzerland%29&volume=24&issue=3&spage=&epage=&aulast=Bathalapalli&aufirst=Venkata+K+V+V&auinit=V.K.V.V.&aufull=Bathalapalli+V.K.V.V.&coden=&isbn=&pages=-&date=2024&auinit1=V&auinitm=K.V.V.
+A1  - Bathalapalli, V.K.V.V.
+A1  - Mohanty, S.P.
+A1  - Kougianos, E.
+A1  - Iyer, V.
+A1  - Rout, B.
+M1  - (Bathalapalli V.K.V.V.; Mohanty S.P.) Department of Computer Science and Engineering, University of North Texas, TX 76203, Denton, United States
+M1  - (Kougianos E.) Department of Electrical Engineering, University of North Texas, TX 76203, Denton, United States
+M1  - (Iyer V.) Department of Computer Science and Digital Technologies, Grambling State University, Grambling, United States
+M1  - (Rout B.) Department of Physics, University of North Texas, Denton, United States
+T1  - PUFchain 3.0: Hardware-Assisted Distributed Ledger for Robust Authentication in Healthcare Cyber-Physical Systems
+LA  - English
+N2  - This article presents a novel hardware-assisted distributed ledger-based solution for simultaneous device and data security in smart healthcare. This article presents a novel architecture that integrates PUF, blockchain, and Tangle for Security-by-Design (SbD) of healthcare cyber-physical systems (H-CPSs). Healthcare systems around the world have undergone massive technological transformation and have seen growing adoption with the advancement of Internet-of-Medical Things (IoMT). The technological transformation of healthcare systems to telemedicine, e-health, connected health, and remote health is being made possible with the sophisticated integration of IoMT with machine learning, big data, artificial intelligence (AI), and other technologies. As healthcare systems are becoming more accessible and advanced, security and privacy have become pivotal for the smooth integration and functioning of various systems in H-CPSs. In this work, we present a novel approach that integrates PUF with IOTA Tangle and blockchain and works by storing the PUF keys of a patient's Body Area Network (BAN) inside blockchain to access, store, and share globally. Each patient has a network of smart wearables and a gateway to obtain the physiological sensor data securely. To facilitate communication among various stakeholders in healthcare systems, IOTA Tangle's Masked Authentication Messaging (MAM) communication protocol has been used, which securely enables patients to communicate, share, and store data on Tangle. The MAM channel works in the restricted mode in the proposed architecture, which can be accessed using the patient's gateway PUF key. Furthermore, the successful verification of PUF enables patients to securely send and share physiological sensor data from various wearable and implantable medical devices embedded with PUF. Finally, healthcare system entities like physicians, hospital admin networks, and remote monitoring systems can securely establish communication with patients using MAM and retrieve the patient's BAN PUF keys from the blockchain securely. Our experimental analysis shows that the proposed approach successfully integrates three security primitives, PUF, blockchain, and Tangle, providing decentralized access control and security in H-CPS with minimal energy requirements, data storage, and response time.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 47
+IS  - 5
+SP  - 576
+EP  - 581
+SN  - 1671-7104
+JF  - Zhongguo yi liao qi xie za zhi = Chinese journal of medical instrumentation
+JO  - Zhongguo Yi Liao Qi Xie Za Zhi
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L642379840&from=export
+U2  - L642379840
+C5  - 37753901
+DB  - Medline
+U3  - 2023-10-04
+U4  - 2024-02-01
+L2  - http://dx.doi.org/10.3969/j.issn.1671-7104.2023.05.021
+DO  - 10.3969/j.issn.1671-7104.2023.05.021
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=16717104&id=doi:10.3969%2Fj.issn.1671-7104.2023.05.021&atitle=Research+Overview+of+Internet+of+Things+Technology+in+Medical+Engineering&stitle=Zhongguo+Yi+Liao+Qi+Xie+Za+Zhi&title=Zhongguo+yi+liao+qi+xie+za+zhi+%3D+Chinese+journal+of+medical+instrumentation&volume=47&issue=5&spage=576&epage=581&aulast=Liu&aufirst=Wanrong&auinit=W.&aufull=Liu+W.&coden=&isbn=&pages=576-581&date=2023&auinit1=W&auinitm=
+A1  - Liu, W.
+A1  - Li, B.
+A1  - Ji, Z.
+M1  - (Liu W.; Li B.; Ji Z.) Shanghai Sixth People's Hospital, Shanghai, China
+T1  - Research Overview of Internet of Things Technology in Medical Engineering
+LA  - Chinese
+KW  - brain
+KW  - Internet
+KW  - internet of things
+KW  - interpersonal communication
+KW  - technology
+N2  - Internet of Things plays a vital role in the field of healthcare. Smart medical devices, innovative sensors and lightweight communication protocols are making the Internet of Medical Things possible. This paper summarizes the research progress of Internet of Things technology in medical engineering from two aspects of health monitoring system and ingestible sensor monitoring equipment. The health monitoring system is analyzed from heart disease monitoring, diabetes monitoring and brain nerve monitoring. The medical equipment that can absorb sensors is represented by capsule endoscope. This paper further summarizes the relevant situation of smart hospital, and finally discusses the challenges and countermeasures of the Internet of Things technology in medical engineering, in order to lay the foundation and provide ideas for the research of the Internet of Things technology in medical engineering.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 16
+SP  - 1
+EP  - 13
+SN  - 1179-1470
+JF  - Medical Devices: Evidence and Research
+JO  - Med. Devices Evid. Res.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2019077540&from=export
+U2  - L2019077540
+DB  - Embase
+U3  - 2023-01-31
+U4  - 2023-02-06
+L2  - http://dx.doi.org/10.2147/MDER.S392999
+DO  - 10.2147/MDER.S392999
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=11791470&id=doi:10.2147%2FMDER.S392999&atitle=Development+and+Evaluation+of+Wireless+Interfaces+to+Monitor+and+Control+Cycling+Exercise+During+Home+Telerehabilitation&stitle=Med.+Devices+Evid.+Res.&title=Medical+Devices%3A+Evidence+and+Research&volume=16&issue=&spage=1&epage=13&aulast=Smiley&aufirst=Aref&auinit=A.&aufull=Smiley+A.&coden=&isbn=&pages=1-13&date=2023&auinit1=A&auinitm=
+A1  - Smiley, A.
+A1  - Tsai, T.-Y.
+A1  - Havrylchuk, I.
+A1  - Cui, W.
+A1  - Parvanova, I.
+A1  - Zakashansky, E.
+A1  - Xhakli, T.
+A1  - Cui, H.
+A1  - Finkelstein, J.
+M1  - (Smiley A., Aref.smiley@gmail.com; Tsai T.-Y.; Havrylchuk I.; Cui W.; Parvanova I.; Zakashansky E.; Xhakli T.; Cui H.; Finkelstein J.) Center for Biomedical and Population Health Informatics, Icahn School of Medicine at Mount Sinai, 1770 Madison Avenue, New York, NY, United States
+AD  - A. Smiley, Center for Biomedical and Population Health Informatics, Icahn School of Medicine at Mount Sinai, 1770 Madison Avenue, New York, NY, United States
+T1  - Development and Evaluation of Wireless Interfaces to Monitor and Control Cycling Exercise During Home Telerehabilitation
+LA  - English
+KW  - computer
+KW  - computer interface
+KW  - DMG3415U
+KW  - general device
+KW  - human machine interface
+KW  - interactive biking system
+KW  - MC14093B
+KW  - oximeter
+KW  - pulse oximeter
+KW  - remote control
+KW  - semiconductor
+KW  - stationary bicycle
+KW  - tablet computer
+KW  - tachometer
+KW  - wireless interface
+KW  - article
+KW  - controlled study
+KW  - cost
+KW  - cycling
+KW  - data visualization
+KW  - exercise
+KW  - remote sensing
+KW  - software
+KW  - telerehabilitation
+KW  - velocity
+KW  - wireless communication
+KW  - DMG3415U
+KW  - MC14093B
+KW  - WristOx2
+C3  - DMG3415U
+C3  - MC14093B
+C3  - WristOx2
+C4  - DIODES
+C4  - ON Semiconductor
+N2  - Purpose: This paper focuses on developing and testing three versions of interactive bike (iBikE) interfaces for remote monitoring and control of cycling exercise sessions to promote upper and lower limb rehabilitation. Methods: Two versions of the system, which consisted of a portable bike and a tablet PC, were designed to communicate through either Bluetooth low energy (BLE) or Wi-Fi interfaces for real-time monitoring of exercise progress by both the users and their clinical team. The third version of the iBikE system consisted of a motorized bike and a tablet PC. It utilized conventional Bluetooth to implement remote control of the motorized bike’s speed during an exercise session as well as to provide real-time visualization of the exercise progress. We developed three customized tablet PC apps with similar user interfaces but different communication protocols for all the platforms to provide a graphical representation of exercise progress. The same microcontroller unit (MCU), ESP-32, was used in all the systems. Results: Each system was tested in 1-minute exercise sessions at various speeds. To evaluate the accuracy of the measured data, in addition to reading speed values from the iBikE app, the cycling speed of the bikes was measured continuously using a tachometer. The mean differences of averaged RPMs for both data sets were calculated. The calculated values were 0.38 ± 0.03, 0.25 ± 0.27, and 6.7 ± 3.3 for the BLE system, the Wi-Fi system, and the conventional Bluetooth system, respectively. Conclusion: All interfaces provided sufficient accuracy for use in telerehabilitation.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 26
+SN  - 2352-6483
+JF  - Smart Health
+JO  - Smart Health
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2019969914&from=export
+U2  - L2019969914
+DB  - Embase
+U3  - 2022-09-27
+U4  - 2022-10-20
+L2  - http://dx.doi.org/10.1016/j.smhl.2022.100305
+DO  - 10.1016/j.smhl.2022.100305
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=23526483&id=doi:10.1016%2Fj.smhl.2022.100305&atitle=Remote+patient+monitoring+service+for+sleeping+human+postures+in+a+WBAN&stitle=Smart+Health&title=Smart+Health&volume=26&issue=&spage=&epage=&aulast=Vyas&aufirst=Avani&auinit=A.&aufull=Vyas+A.&coden=&isbn=&pages=-&date=2022&auinit1=A&auinitm=
+A1  - Vyas, A.
+A1  - Pal, S.
+A1  - Kaur, K.
+M1  - (Vyas A.; Pal S., sujata@iitrpr.ac.in) Indian Institute of Technology Ropar, Punjab, India
+M1  - (Kaur K.) École de Technologie Supérieure, Montreal, Canada
+AD  - S. Pal, Indian Institute of Technology Ropar, Punjab, India
+T1  - Remote patient monitoring service for sleeping human postures in a WBAN
+LA  - English
+KW  - biosensor
+KW  - body area network
+KW  - arm
+KW  - article
+KW  - biomechanics
+KW  - body position
+KW  - communication protocol
+KW  - coronavirus disease 2019
+KW  - data aggregation
+KW  - discrete markov chain
+KW  - energy consumption
+KW  - human
+KW  - leg
+KW  - Markov chain
+KW  - medical decision making
+KW  - patient monitoring
+KW  - prone position
+KW  - relay node centric
+KW  - simulation
+KW  - sleep
+KW  - supine position
+KW  - telemonitoring
+N2  - Wireless Body Area Networks (WBANs) provide wireless remote patient monitoring services where doctors get patients' health records without physically visiting them. In WBANs, biosensors are placed on the patient's body that sense and transmit physiological data to the paired medical personnel. Such medical setups are appropriate for COVID-19 patient monitoring, where the patient remains isolated for an extended period. Sometimes, human body parts impede the signals transmitted by biosensors to the coordinator and this type of occlusion lasts for a longer duration during sleeping human postures. In such circumstances, an intermediate biosensor forwards the signals of the occluded biosensor node. The forwarding of messages results in quick depletion of energy resources at the intermediate biosensor, affecting the overall WBAN services. To resolve this, first, we propose an adaptive Relay-Node Centric (RNC) relay-based communication protocol for WBANs, which reduces energy used in relaying and improves the stability period of the network. Second, we design a novel simulation model using an existing real-life experimental dataset to simulate a WBAN placed on the sleeping patient's body. We derive a Discrete Markov Chain (DTMC) model from real-life data and use human biomechanisms to simulate biosensors' connectivity status in four human sleeping positions. Lastly, we evaluate the performance of RNC against the existing cost-function-based and Analytical Hierarchical Process (AHP) based relay selection protocols. Results obtained on the real-life dataset and designed simulation model show that RNC outperforms the existing methods in terms of network stability period and packet success ratio.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 69
+IS  - 9
+SP  - 2970
+EP  - 2981
+SN  - 1558-2531
+SN  - 0018-9294
+JF  - IEEE Transactions on Biomedical Engineering
+JO  - IEEE Trans. Biomed. Eng.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2017287948&from=export
+U2  - L2017287948
+C5  - 35275808
+DB  - Embase
+DB  - Medline
+U3  - 2022-03-22
+U4  - 2022-11-15
+L2  - http://dx.doi.org/10.1109/TBME.2022.3158544
+DO  - 10.1109/TBME.2022.3158544
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=15582531&id=doi:10.1109%2FTBME.2022.3158544&atitle=A+Wearable+Bioimpedance+Chest+Patch+for+Real-Time+Ambulatory+Respiratory+Monitoring&stitle=IEEE+Trans.+Biomed.+Eng.&title=IEEE+Transactions+on+Biomedical+Engineering&volume=69&issue=9&spage=2970&epage=2981&aulast=Qiu&aufirst=Chunkai&auinit=C.&aufull=Qiu+C.&coden=IEBEA&isbn=&pages=2970-2981&date=2022&auinit1=C&auinitm=
+A1  - Qiu, C.
+A1  - Wu, F.
+A1  - Han, W.
+A1  - Yuce, M.R.
+M1  - (Qiu C.; Wu F.; Han W.; Yuce M.R., mehmet.yuce@monash.edu) Monash University, The Department of Electrical and Computer Systems Engineering, Melbourne, VIC, Australia
+AD  - M.R. Yuce, Monash University, The Department of Electrical and Computer Systems Engineering, Melbourne, VIC, Australia
+T1  - A Wearable Bioimpedance Chest Patch for Real-Time Ambulatory Respiratory Monitoring
+LA  - English
+KW  - accelerometer
+KW  - AD5933
+KW  - BioZ
+KW  - BMI160
+KW  - integrated circuit
+KW  - respiratory monitor
+KW  - thermal sensor
+KW  - wearable sensor
+KW  - adult
+KW  - algorithm
+KW  - ambulatory monitoring
+KW  - article
+KW  - body temperature measurement
+KW  - body temperature monitoring
+KW  - breathing
+KW  - breathing pattern
+KW  - breathing rate
+KW  - cycling
+KW  - daily life activity
+KW  - female
+KW  - human
+KW  - human experiment
+KW  - impedance
+KW  - infrared radiation
+KW  - internet of things
+KW  - male
+KW  - normal human
+KW  - respiratory care
+KW  - running
+KW  - sitting
+KW  - standing
+KW  - supine position
+KW  - telemonitoring
+KW  - thorax
+KW  - walking
+KW  - waveform
+KW  - wireless communication
+KW  - AD5933
+KW  - BioZ
+KW  - BMI160
+C3  - AD5933
+C3  - BioZ
+C3  - BMI160(Bosch)
+C4  - Bosch
+N2  - Objective: This paper aims to introduce a wearable solution and a low-complexity algorithm for real-time continuous ambulatory respiratory monitoring. Methods: A wearable chest patch is designed using a bioimpedance (BioZ) sensor to measure the changes in chest impedance caused by breathing. Besides, a medical-grade infrared temperature sensor is utilized to monitor body temperature. The computing algorithm implemented on the patch enables computation of breath-by-breath respiratory rate and chest temperature in real-time. Two wireless communication protocols are included in the system, namely Bluetooth and Long Range (LoRa), which enable both short-range and long-range data transmission. Results: The breathing rate measured in static (i.e., standing, sitting, supine, and lateral lying) and dynamic (i.e., walking, running, and cycling) positions by our device yielded an accuracy of more than 97.8% and 98.5% relative to the ground truth, respectively. Additionally, the device's performance is evaluated in real-world scenarios both indoors and outdoors. Conclusion: The proposed system is capable of measuring breathing rate throughout a variety of daily activities. To the best of our knowledge, this is the first BioZ-based wearable patch capable of detecting breath-by-breath respiratory rate in real-time remotely under unrestricted ambulatory conditions. Significance: This study establishes a strategy for continuous respiratory monitoring that could aid in the early detection of cardiopulmonary disorders in everyday life.
+ER  - 
+
+TY  - JOUR
+M3  - Conference Abstract
+Y1  - 2022
+VL  - 134
+IS  - 4 SUPPL
+SP  - 59
+SN  - 1526-7598
+JF  - Anesthesia and Analgesia
+JO  - Anesth. Analg.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L637871821&from=export
+U2  - L637871821
+DB  - Embase
+U4  - 2022-05-03
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=15267598&id=doi:&atitle=Towards+Safe+Medical+Device+Remote+Control+in+Tele-Critical+Care+Applications&stitle=Anesth.+Analg.&title=Anesthesia+and+Analgesia&volume=134&issue=4+SUPPL&spage=59&epage=&aulast=Arney&aufirst=David&auinit=D.&aufull=Arney+D.&coden=&isbn=&pages=59-&date=2022&auinit1=D&auinitm=
+A1  - Arney, D.
+A1  - Zhang, Y.
+A1  - Kelly, S.
+A1  - Jaffe, M.B.
+A1  - Weininger, S.
+A1  - Goldman, J.M.
+M1  - (Arney D.; Zhang Y.; Kelly S.; Jaffe M.B.; Weininger S.; Goldman J.M.) Medical Device Plug-and-Play Interoperability and Cybersecurity Program Dept. of Anesthesia, Critical Care, and Pain Medicine, Massachusetts General Hospital, Boston, MA, United States
+AD  - D. Arney, Medical Device Plug-and-Play Interoperability and Cybersecurity Program Dept. of Anesthesia, Critical Care, and Pain Medicine, Massachusetts General Hospital, Boston, MA, United States
+T1  - Towards Safe Medical Device Remote Control in Tele-Critical Care Applications
+LA  - English
+KW  - adult
+KW  - Agnostic
+KW  - army
+KW  - artificial ventilation
+KW  - communication protocol
+KW  - computer
+KW  - computer security
+KW  - conference abstract
+KW  - controlled study
+KW  - coronavirus disease 2019
+KW  - disaster response
+KW  - genetic susceptibility
+KW  - human
+KW  - infusion rate
+KW  - intensive care
+KW  - intravenous drug administration
+KW  - locus of control
+KW  - medical device
+KW  - nomenclature
+KW  - proof of concept
+KW  - remote control
+KW  - software
+KW  - usability
+KW  - ventilator
+N2  - Introduction: The COVID-19 pandemic has advanced market awareness of the benefits of remote-controlled ventilators to reduce the exposure of healthcare workers to patients with COVID-19, enable more rapid and frequent ventilator setting adjustment, and preserve limited personal protective equipment. The US FDA permitted manufacturers to add remote monitoring and control capabilities to ventilators and infusion pumps through immediate in effect guidance [1,2]. When integrated with tele-critical care systems, remote control of medical devices allows distant clinical experts to collaborate with local clinicians to “virtually” manage the therapy of patients at hotspots. Core remote control capabilities can also be used by software applications to implement medical device control algorithms for Software as a Medical Device (SaMD). The US Army /TATRC launched the National Tele-Critical Care Network (NETCCN) to rapidly develop and deploy a platform to support COVID-19 disaster response [3]. We are investigating technical solutions, communication protocols, and safety assurance measures for integrating remote control of medical devices to the NETCCN systems. Methods: We developed an architecture and a prototype system (Figure 1) to investigate safety, security, and interoperability requirements for integration of remote control of medical devices with tele-critical care systems. The prototype system is based on OpenICE [4], an open-source interoperability platform developed by our program to transmit data and control medical devices at the patient's bedside. Customized interfaces (hardware and software) translate device proprietary protocols to ISO/IEEE 11073-10101 terminology over DDS middleware. Remote control applications of devices connected to OpenICE are implemented as either stand-alone OpenICE apps, which can be deployed inside or immediately outside the patient's room, or as web-based apps, which can be launched from any location to communicate with the OpenICE system. We refer to the former as “nearpatient remote control”, which may be at the bedside or co-located outside the room, and the latter as “far remote” control where the operator does not have physical access to the patient or medical equipment. Our prototype system uses the RTI Web Integration Service [5] to enable web-based control applications to communicate with the connected devices. Results: The generic architecture in Figure 1 is device agnostic: it can be used with critical care ventilators, IV infusion pumps, and other devices, provided that the device interfaces support remote control. As a proof of concept, we applied this architecture to a Q Core Sapphire IV infusion pump using a non-clinical control interface, and confirmed that the infusion rate could be adjusted by both near-patient and far remote (web) control applications with generally acceptable delays (3∼8 seconds from remote control action until the pump executes the change). This prototype system allows the exploration and validation of risks associated with medical device remote control in the tele-critical care context. An example of a risk identified in our study relates contention between near and far “loci of control”. Unexpected device behavior can occur if there is no mechanism to 1) explicitly prioritize loci of control that may occur simultaneously (e.g., always prioritize local control over far control to enable the local provider to regain control or prevent remote control); and 2) clearly indicate where the locus of control resides. Other risks may arise due to issues related to cybersecurity, network QoS, permission for remote control, and usability (e.g., use errors associated with far remote control due to the lack of a real-time view of the patient). We are collaborating with the AAMI InterOperability Working Group (IOWG) to share the experience and lessons learned in this effort to develop a safety standard for medical device remote control, and with other performers in the NETCCN portfolio. (Figure Presented).
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 20
+IS  - 11
+SP  - 485
+EP  - 494
+SN  - 1303-5150
+JF  - NeuroQuantology
+JO  - NeuroQuantology
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2017977547&from=export
+U2  - L2017977547
+DB  - Embase
+U3  - 2022-09-20
+U4  - 2022-09-27
+L2  - http://dx.doi.org/10.14704/NQ.2022.20.11.NQ66051
+DO  - 10.14704/NQ.2022.20.11.NQ66051
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=13035150&id=doi:10.14704%2FNQ.2022.20.11.NQ66051&atitle=Wireless+Sensor-Based+Hashing+Technique+For+Secure+Patient+Record+Transferring+In+Biometrics+System&stitle=NeuroQuantology&title=NeuroQuantology&volume=20&issue=11&spage=485&epage=494&aulast=Rajeswari&aufirst=S.&auinit=S.&aufull=Rajeswari+S.&coden=&isbn=&pages=485-494&date=2022&auinit1=S&auinitm=
+A1  - Rajeswari, S.
+A1  - Arunmozhi, S.A.
+A1  - Venkataramani, Y.
+M1  - (Rajeswari S., rajeswaris-ece@saranathan.ac.in; Arunmozhi S.A., arunmozhi-ece@saranathan.ac.in; Venkataramani Y., deanrd44@gmail.com) Department of Electronics and Communication Engineering, Saranathan College of Engineering, TamilNadu, Trichy, India
+AD  - S. Rajeswari, Department of Electronics and Communication Engineering, Saranathan College of Engineering, TamilNadu, Trichy, India
+T1  - Wireless Sensor-Based Hashing Technique For Secure Patient Record Transferring In Biometrics System
+LA  - English
+KW  - communication aid
+KW  - network server
+KW  - sensor
+KW  - Wireless Sensor
+KW  - accuracy
+KW  - algorithm
+KW  - arbitrary size
+KW  - article
+KW  - biometry
+KW  - communication technology
+KW  - confidentiality
+KW  - cryptography algorithm
+KW  - energy consumption
+KW  - Hashing Technique
+KW  - health
+KW  - health care
+KW  - health care personnel
+KW  - insurance
+KW  - machine learning
+KW  - medical record
+KW  - patient
+KW  - patient information
+KW  - patient mobility
+KW  - patient monitoring
+KW  - Patient permission
+KW  - privacy
+KW  - resource management
+KW  - secure health monitoring
+KW  - security
+KW  - signal processing
+KW  - size
+KW  - telemonitoring
+N2  - Over the past two periods, advancements in communication technology have exploded, with the last decade seeing an unprecedented explosion in the production of numerous cutting-edge, handheld and small communication devices. Modern, high-speed wireless communication technologies that employ complex network and communication protocols and standards have quickly supplanted the traditional wired scheme of communication. Wireless medical sensor networks are a promising application of WSNs in healthcare since they allow for remote patient monitoring (WMSNs). Reliable patient communication, patient mobility, and energy-efficient routing are at the forefront of current WMSN healthcare research developments. Nonetheless, patients' personal information is at risk when new technologies are implemented in healthcare applications without proper security measures being taken. In this study, we present a privacy-preserving strategy for the secure transfer of medical records over WSNs by combining secret sharing, and hashing. The healthcare information gathered by a wireless sensor network is broken down into subsets. In addition, a popular hashing algorithm is used to determine a unique identifier for each constituent. Any alterations to the message will result in a different hash value. Multipath routing is then used to send these parts to the servers. In order to verify the efficacy of the new method, this paper presents comprehensive simulations. The results indicate that secret splitting, in conjunction with multipath routing, aids in the maintenance of confidentiality in a wireless sensor network-based healthcare scheme.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 14
+IS  - 5
+SP  - 391
+EP  - 401
+SN  - 1755-0661
+SN  - 1755-0653
+JF  - International Journal of Medical Engineering and Informatics
+JO  - Int. J. Med. Eng. Inf.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2020877550&from=export
+U2  - L2020877550
+DB  - Embase
+U3  - 2022-11-03
+U4  - 2022-12-05
+L2  - http://dx.doi.org/10.1504/IJMEI.2022.125311
+DO  - 10.1504/IJMEI.2022.125311
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=17550661&id=doi:10.1504%2FIJMEI.2022.125311&atitle=Real-time+electrocardiogram+monitoring+for+heart+diseases+with+secured+internet+of+thing+protocol&stitle=Int.+J.+Med.+Eng.+Inf.&title=International+Journal+of+Medical+Engineering+and+Informatics&volume=14&issue=5&spage=391&epage=401&aulast=Thite&aufirst=Trupti+G.&auinit=T.G.&aufull=Thite+T.G.&coden=&isbn=&pages=391-401&date=2022&auinit1=T&auinitm=G
+A1  - Thite, T.G.
+A1  - Bhalke, D.G.
+M1  - (Thite T.G., truptithite.tae@kjei.edu.in) Electronics and Telecommunication Department, G H Raisoni College of Engineering and Management, Pune, India
+M1  - (Thite T.G., truptithite.tae@kjei.edu.in) Electronics and Telecommunication Department, Trinity Academy of Engineering, Pune, India
+M1  - (Bhalke D.G., dgbhalke@aissmscoe.com) Electronics and Telecommunication Department, All India Shri Shivaji Memorial Society College of Engineering, Pune, India
+AD  - T.G. Thite, Electronics and Telecommunication Department, G H Raisoni College of Engineering and Management, Pune, India
+T1  - Real-time electrocardiogram monitoring for heart diseases with secured internet of thing protocol
+LA  - English
+KW  - electrocardiograph
+KW  - wearable sensor
+KW  - article
+KW  - artificial intelligence
+KW  - atrial fibrillation
+KW  - cardiovascular disease
+KW  - communication protocol
+KW  - deep learning
+KW  - electrocardiogram
+KW  - electrocardiography
+KW  - electrocardiography monitoring
+KW  - feature extraction
+KW  - heart arrhythmia
+KW  - heart disease
+KW  - heart rate
+KW  - heart rate variability
+KW  - human
+KW  - image quality
+KW  - internet of things
+KW  - ischemic heart disease
+KW  - nerve cell network
+KW  - QRS complex
+KW  - QRS interval
+KW  - RR interval
+KW  - sensitivity and specificity
+KW  - signal detection
+KW  - signal processing
+KW  - support vector machine
+KW  - telemedicine
+KW  - telemonitoring
+N2  - Real-time effective ECG data collecting, transmitting, and monitoring system with feature extraction is a big challenge in biomedical signal processing. The electrocardiogram is a widely used testing system to measure and analyse coronary heart diseases, i.e., cardiovascular diseases (CVDs). Heart rate remote monitoring under the service provided by hospital equipment is the technology that currently needs to improve. IoT enabled medical device helps to achieve this efficiently. To design such systems energy-efficient communication protocol, data-transfer minimisation, assurance of delivery (security), heterogeneous natures of the environment are necessary considerations. This paper outlines a literature survey of three main important areas; ‘real-time ECG monitoring using wearable sensors’, ‘feature extraction and classification method for real-time ECG monitoring’, and ‘secured IoT protocol for real-time ECG monitoring’.
+ER  - 
+
+TY  - JOUR
+M3  - Review
+Y1  - 2021
+VL  - 11
+IS  - 4
+SN  - 2075-4418
+JF  - Diagnostics
+JO  - Diagn.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2007655228&from=export
+U2  - L2007655228
+DB  - Embase
+U3  - 2021-07-08
+U4  - 2021-10-08
+L2  - http://dx.doi.org/10.3390/diagnostics11040607
+DO  - 10.3390/diagnostics11040607
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=20754418&id=doi:10.3390%2Fdiagnostics11040607&atitle=Mobile+health+in+remote+patient+monitoring+for+chronic+diseases%3A+Principles%2C+trends%2C+and+challenges&stitle=Diagn.&title=Diagnostics&volume=11&issue=4&spage=&epage=&aulast=El-Rashidy&aufirst=Nora&auinit=N.&aufull=El-Rashidy+N.&coden=&isbn=&pages=-&date=2021&auinit1=N&auinitm=
+A1  - El-Rashidy, N.
+A1  - El-Sappagh, S.
+A1  - Riazul Islam, S.M.
+A1  - El-Bakry, H.M.
+A1  - Abdelrazek, S.
+M1  - (El-Rashidy N., noura.alrashidy@ai.kfs.edu.eg) Machine Learning and Information Retrieval Department, Faculty of Artificial Intelligence, Kafrelsheiksh University, Kafrelsheiksh, Egypt
+M1  - (El-Sappagh S., shaker.elsappagh@usc.es) Centro Singular de Investigación en Tecnoloxías Intelixentes (CiTIUS), Universidade de Santiago de Compostela, Santiago de Compostela, Spain
+M1  - (El-Sappagh S., shaker.elsappagh@usc.es) Information Systems Department, Faculty of Computers and Artificial Intelligence, Benha University, Banha, Egypt
+M1  - (Riazul Islam S.M., riaz@sejong.ac.kr) Department of Computer Science and Engineering, Sejong University, Seoul, South Korea
+M1  - (El-Bakry H.M., elbakry@mans.edu.eg; Abdelrazek S., samir.abdelrazek@mans.edu.eg) Information Systems Department, Faculty of Computers and Information, Mansoura University, Mansoura, Egypt
+AD  - S. El-Sappagh, Centro Singular de Investigación en Tecnoloxías Intelixentes (CiTIUS), Universidade de Santiago de Compostela, Santiago de Compostela, Spain
+AD  - S.M. Riazul Islam, Department of Computer Science and Engineering, Sejong University, Seoul, South Korea
+T1  - Mobile health in remote patient monitoring for chronic diseases: Principles, trends, and challenges
+LA  - English
+KW  - body area network
+KW  - real time tracking system
+KW  - wearable sensor
+KW  - adult
+KW  - artificial intelligence
+KW  - chronic disease
+KW  - clinical decision support system
+KW  - cloud computing
+KW  - data mining
+KW  - dementia
+KW  - electronic health record
+KW  - female
+KW  - health care cost
+KW  - health service
+KW  - heart arrhythmia
+KW  - heart disease
+KW  - human
+KW  - hypertension
+KW  - Internet
+KW  - internet of things
+KW  - knowledge base
+KW  - male
+KW  - mental health
+KW  - non invasive procedure
+KW  - pain assessment
+KW  - patient coding
+KW  - review
+KW  - social media
+KW  - systematic review
+KW  - telemonitoring
+KW  - vital sign
+N2  - Chronic diseases are becoming more widespread. Treatment and monitoring of these diseases require going to hospitals frequently, which increases the burdens of hospitals and patients. Presently, advancements in wearable sensors and communication protocol contribute to enriching the healthcare system in a way that will reshape healthcare services shortly. Remote patient monitoring (RPM) is the foremost of these advancements. RPM systems are based on the collection of patient vital signs extracted using invasive and noninvasive techniques, then sending them in real-time to physicians. These data may help physicians in taking the right decision at the right time. The main objective of this paper is to outline research directions on remote patient monitoring, explain the role of AI in building RPM systems, make an overview of the state of the art of RPM, its advantages, its challenges, and its probable future directions. For studying the literature, five databases have been chosen (i.e., science direct, IEEE-Explore, Springer, PubMed, and science.gov). We followed the (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) PRISMA, which is a standard methodology for systematic reviews and meta-analyses. A total of 56 articles are reviewed based on the combination of a set of selected search terms including RPM, data mining, clinical decision support system, electronic health record, cloud computing, internet of things, and wireless body area network. The result of this study approved the effectiveness of RPM in improving healthcare delivery, increase diagnosis speed, and reduce costs. To this end, we also present the chronic disease monitoring system as a case study to provide enhanced solutions for RPMs.
+ER  - 
+
+TY  - JOUR
+M3  - Review
+Y1  - 2020
+VL  - 19
+IS  - 1
+SN  - 1475-925X
+JF  - BioMedical Engineering Online
+JO  - Biomed. Eng. Online
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2007119971&from=export
+U2  - L2007119971
+C5  - 33126878
+DB  - Embase
+DB  - Medline
+U3  - 2020-11-04
+U4  - 2021-01-12
+L2  - http://dx.doi.org/10.1186/s12938-020-00825-9
+DO  - 10.1186/s12938-020-00825-9
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=1475925X&id=doi:10.1186%2Fs12938-020-00825-9&atitle=Towards+remote+healthcare+monitoring+using+accessible+IoT+technology%3A+state-of-the-art%2C+insights+and+experimental+design&stitle=Biomed.+Eng.+Online&title=BioMedical+Engineering+Online&volume=19&issue=1&spage=&epage=&aulast=Coulby&aufirst=G.&auinit=G.&aufull=Coulby+G.&coden=BEOIB&isbn=&pages=-&date=2020&auinit1=G&auinitm=
+A1  - Coulby, G.
+A1  - Clear, A.
+A1  - Jones, O.
+A1  - Young, F.
+A1  - Stuart, S.
+A1  - Godfrey, A.
+M1  - (Coulby G., g.d.coulby@northumbria.ac.uk; Clear A., a.clear@northumbria.ac.uk; Young F.; Godfrey A., a.godfrey@northumbria.ac.uk) Department of Computer and Information Sciences, Faculty of Engineering and Environment, Northumbria University, Newcastle Upon Tyne, United Kingdom
+M1  - (Jones O., ojones@ryderarchitecture.com) Director of Research, Ryder Architecture, Newcastle Upon Tyne, United Kingdom
+M1  - (Stuart S.) Department of Sport, Exercise and Rehabilitation, Faculty of Health and Life Sciences, Northumbria University, Newcastle Upon Tyne, United Kingdom
+AD  - A. Godfrey, Department of Computer and Information Sciences, Faculty of Engineering and Environment, Northumbria University, Newcastle Upon Tyne, United Kingdom
+T1  - Towards remote healthcare monitoring using accessible IoT technology: state-of-the-art, insights and experimental design
+LA  - English
+KW  - accelerometer
+KW  - application specific integrated circuit
+KW  - central processing unit
+KW  - computer
+KW  - electrocardiograph
+KW  - field programmable gate array
+KW  - galvanic skin response sensor
+KW  - magnetometer
+KW  - microcontroller unit
+KW  - microelectromechanical system
+KW  - photoelectric plethysmograph
+KW  - pulse oximeter
+KW  - smartphone
+KW  - wearable computer
+KW  - biomedical engineering
+KW  - cloud computing
+KW  - communication protocol
+KW  - information processing
+KW  - internet of things
+KW  - priority journal
+KW  - remote healthcare monitoring
+KW  - remote sensing
+KW  - review
+KW  - software
+KW  - technology
+N2  - Healthcare studies are moving toward individualised measurement. There is need to move beyond supervised assessments in the laboratory/clinic. Longitudinal free-living assessment can provide a wealth of information on patient pathology and habitual behaviour, but cost and complexity of equipment have typically been a barrier. Lack of supervised conditions within free-living assessment means there is need to augment these studies with environmental analysis to provide context to individual measurements. This paper reviews low-cost and accessible Internet of Things (IoT) technologies with the aim of informing biomedical engineers of possibilities, workflows and limitations they present. In doing so, we evidence their use within healthcare research through literature and experimentation. As hardware becomes more affordable and feature rich, the cost of data magnifies. This can be limiting for biomedical engineers exploring low-cost solutions as data costs can make IoT approaches unscalable. IoT technologies can be exploited by biomedical engineers, but more research is needed before these technologies can become commonplace for clinicians and healthcare practitioners. It is hoped that the insights provided by this paper will better equip biomedical engineers to lead and monitor multi-disciplinary research investigations.
+ER  - 
+
+TY  - JOUR
+M3  - Review
+Y1  - 2020
+VL  - 20
+IS  - 17
+SN  - 1424-8220
+JF  - Sensors (Basel, Switzerland)
+JO  - Sensors (Basel)
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L632727614&from=export
+U2  - L632727614
+C5  - 32859036
+DB  - Medline
+U3  - 2020-09-07
+U4  - 2020-09-11
+L2  - http://dx.doi.org/10.3390/s20174828
+DO  - 10.3390/s20174828
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=14248220&id=doi:10.3390%2Fs20174828&atitle=Security+in+IoMT+Communications%3A+A+Survey&stitle=Sensors+%28Basel%29&title=Sensors+%28Basel%2C+Switzerland%29&volume=20&issue=17&spage=&epage=&aulast=Koutras&aufirst=Dimitris&auinit=D.&aufull=Koutras+D.&coden=&isbn=&pages=-&date=2020&auinit1=D&auinitm=
+A1  - Koutras, D.
+A1  - Stergiopoulos, G.
+A1  - Dasaklis, T.
+A1  - Kotzanikolaou, P.
+A1  - Glynos, D.
+A1  - Douligeris, C.
+M1  - (Koutras D.; Stergiopoulos G.; Dasaklis T.; Kotzanikolaou P.; Douligeris C.) Department of Informatics, University of Piraeus, M. Karaoli & A. Dimitriou St., Greece
+M1  - (Glynos D.) Thessaloniki, Greece
+T1  - Security in IoMT Communications: A Survey
+LA  - English
+KW  - communication protocol
+KW  - Internet
+KW  - medical device
+KW  - perception
+KW  - review
+N2  - The Internet of Medical Things (IoMT) couples IoT technologies with healthcare services in order to support real-time, remote patient monitoring and treatment. However, the interconnectivity of critical medical devices with other systems in various network layers creates new opportunities for remote adversaries. Since most of the communication protocols have not been specifically designed for the needs of connected medical devices, there is a need to classify the available IoT communication technologies in terms of security. In this paper we classify IoT communication protocols, with respect to their application in IoMT. Then we describe the main characteristics of IoT communication protocols used at the perception, network and application layer of medical devices. We examine the inherent security characteristics and limitations of IoMT-specific communication protocols. Based on realistic attacks we identify available mitigation controls that may be applied to secure IoMT communications, as well as existing research and implementation gaps.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 26
+IS  - 4
+SP  - 221
+EP  - 232
+SN  - 2531-0437
+SN  - 2531-0429
+JF  - Pulmonology
+JO  - Pulmonology
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2004567277&from=export
+U2  - L2004567277
+C5  - 31932232
+DB  - Embase
+DB  - Medline
+U3  - 2020-01-15
+U4  - 2020-01-15
+L2  - http://dx.doi.org/10.1016/j.pulmoe.2019.11.006
+DO  - 10.1016/j.pulmoe.2019.11.006
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=25310437&id=doi:10.1016%2Fj.pulmoe.2019.11.006&atitle=Telemonitoring+systems+for+respiratory+patients%3A+technological+aspects&stitle=Pulmonology&title=Pulmonology&volume=26&issue=4&spage=221&epage=232&aulast=Angelucci&aufirst=Alessandra&auinit=A.&aufull=Angelucci+A.&coden=&isbn=&pages=221-232&date=2020&auinit1=A&auinitm=
+A1  - Angelucci, A.
+A1  - Aliverti, A.
+M1  - (Angelucci A.; Aliverti A.) Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, Milano, Italy
+AD  - A. Aliverti, Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, Milano, Italy
+T1  - Telemonitoring systems for respiratory patients: technological aspects
+LA  - English
+KW  - accelerometer
+KW  - activity tracker
+KW  - capacitive biosensor
+KW  - environmental monitor
+KW  - fiber optic biosensor
+KW  - flowmeter
+KW  - microprocessor
+KW  - mobile phone
+KW  - motion analysis system
+KW  - pulse oximeter
+KW  - respiratory monitor
+KW  - sensor
+KW  - smartphone
+KW  - spirometer
+KW  - thermometer
+KW  - carboxyhemoglobin
+KW  - deoxyhemoglobin
+KW  - nitrogen dioxide
+KW  - oxyhemoglobin
+KW  - article
+KW  - artificial ventilation
+KW  - breathing rate
+KW  - capnometry
+KW  - chronic obstructive lung disease
+KW  - chronic respiratory tract disease
+KW  - electrocardiography
+KW  - electrodermal response
+KW  - electroencephalography
+KW  - electromyography
+KW  - electrooculography
+KW  - end tidal carbon dioxide tension
+KW  - environmental monitoring
+KW  - forced expiratory volume
+KW  - forced oscillation technique
+KW  - forced vital capacity
+KW  - functional residual capacity
+KW  - heart disease
+KW  - human
+KW  - impedance
+KW  - lung artery pressure
+KW  - lung function test
+KW  - noninvasive ventilation
+KW  - oxygen saturation
+KW  - oxygen therapy
+KW  - plethysmography
+KW  - polysomnography
+KW  - pulse oximetry
+KW  - sleep disorder
+KW  - spirometry
+KW  - systematic review
+KW  - technology
+KW  - telecommunication
+KW  - telemedicine
+KW  - telemonitoring
+KW  - tidal volume
+N2  - This review introduces the reader to the available technologies in the field of telemonitoring, with focus on respiratory patients. In the materials and methods section, a general structure of telemonitoring systems for respiratory patients is presented and the sensors of interest are illustrated, i.e., respiratory monitors (wearable and non-wearable), activity trackers, pulse oximeters, environmental monitors and other sensors of physiological variables. Afterwards, the most common communication protocols are briefly introduced. In the results section, selected clinical studies that prove the significance of the presented parameters in chronic respiratory diseases are presented. This is followed by a discussion on the main current issues in telemedicine, in particular legal aspects, data privacy and benefits both in economic and health terms.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 58
+IS  - 4
+SP  - 785
+EP  - 804
+SN  - 1741-0444
+SN  - 0140-0118
+JF  - Medical and Biological Engineering and Computing
+JO  - Med. Biol. Eng. Comput.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2004180261&from=export
+U2  - L2004180261
+DB  - Embase
+U3  - 2020-02-10
+U4  - 2020-05-04
+L2  - http://dx.doi.org/10.1007/s11517-020-02125-9
+DO  - 10.1007/s11517-020-02125-9
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=17410444&id=doi:10.1007%2Fs11517-020-02125-9&atitle=A+novel+acquisition+platform+for+long-term+breathing+frequency+monitoring+based+on+inertial+measurement+units&stitle=Med.+Biol.+Eng.+Comput.&title=Medical+and+Biological+Engineering+and+Computing&volume=58&issue=4&spage=785&epage=804&aulast=Cesareo&aufirst=Ambra&auinit=A.&aufull=Cesareo+A.&coden=MBECD&isbn=&pages=785-804&date=2020&auinit1=A&auinitm=
+A1  - Cesareo, A.
+A1  - Biffi, E.
+A1  - Cuesta-Frau, D.
+A1  - D’Angelo, M.G.
+A1  - Aliverti, A.
+M1  - (Cesareo A.; Aliverti A.) Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, Piazza Leonardo da Vinci, 32, Milan, Italy
+M1  - (Biffi E., emilia.biffi@lanostrafamiglia.it) Scientific Institute, IRCCS E. Medea, Bioengineering Lab, Via Don Luigi Monza, 20, Bosisio Parini, Lecco, Italy
+M1  - (Cuesta-Frau D.) Technological Institute of Informatics, Universitat Politècnica de València, Alcoi Campus, Plaza Ferrandiz y Carbonell, 2, Alcoi, Spain
+M1  - (D’Angelo M.G.) Department of Neurorehabilitation, Neuromuscular Unit, Scientific Institute, IRCCS E. Medea, Via Don Luigi Monza, 20, Bosisio Parini, Lecco, Italy
+AD  - E. Biffi, Scientific Institute, IRCCS E. Medea, Bioengineering Lab, Via Don Luigi Monza, 20, Bosisio Parini, Lecco, Italy
+T1  - A novel acquisition platform for long-term breathing frequency monitoring based on inertial measurement units
+LA  - English
+KW  - smartphone
+KW  - abdomen
+KW  - algorithm
+KW  - article
+KW  - breathing rate
+KW  - communication protocol
+KW  - controlled study
+KW  - female
+KW  - human
+KW  - human experiment
+KW  - inertial sensor
+KW  - information processing
+KW  - male
+KW  - measurement
+KW  - mobile application
+KW  - normal human
+KW  - plethysmography
+KW  - priority journal
+KW  - remote sensing
+KW  - signal detection
+KW  - thorax
+KW  - trunk
+N2  - Continuous monitoring of breathing frequency (fB) could foster early prediction of adverse clinical effects and exacerbation of medical conditions. Current solutions are invasive or obtrusive and thus not suitable for prolonged monitoring outside the clinical setting. Previous studies demonstrated the feasibility of deriving fB by measuring inclination changes due to breathing using accelerometers or inertial measurement units (IMU). Nevertheless, few studies faced the problem of motion artifacts that limit the use of IMU-based systems for continuous monitoring. Moreover, few attempts have been made to move towards real portability and wearability of such devices. This paper proposes a wearable IMU-based device that communicates via Bluetooth with a smartphone, uploading data on a web server to allow remote monitoring. Two IMU units are placed on thorax and abdomen to record breathing-related movements, while a third IMU unit records body/trunk motion and is used as reference. The performance of the proposed system was evaluated in terms of long-acquisition-platform reliability showing good performances in terms of duration and data loss amount. The device was preliminarily tested in terms of accuracy in breathing temporal parameter measurement, in static condition, during postural changes, and during slight indoor activities showing favorable comparison against the reference methods (mean error breathing frequency < 5%). [Figure not available: see fulltext.].
+ER  - 
+

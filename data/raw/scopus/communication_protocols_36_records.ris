@@ -1,0 +1,1619 @@
+﻿TY  - JOUR
+AU  - Liu, W.
+AU  - Li, B.
+AU  - Ji, Z.
+TI  - Research Overview of Internet of Things Technology in Medical Engineering
+PY  - 2023
+T2  - Zhongguo yi liao qi xie za zhi = Chinese journal of medical instrumentation
+VL  - 47
+IS  - 5
+SP  - 576
+EP  - 581
+DO  - 10.3969/j.issn.1671-7104.2023.05.021
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172662569&doi=10.3969%2fj.issn.1671-7104.2023.05.021&partnerID=40&md5=edc3ccb36ae6e7f1bb7604e238cbd15b
+AB  - Internet of Things plays a vital role in the field of healthcare. Smart medical devices, innovative sensors and lightweight communication protocols are making the Internet of Medical Things possible. This paper summarizes the research progress of Internet of Things technology in medical engineering from two aspects of health monitoring system and ingestible sensor monitoring equipment. The health monitoring system is analyzed from heart disease monitoring, diabetes monitoring and brain nerve monitoring. The medical equipment that can absorb sensors is represented by capsule endoscope. This paper further summarizes the relevant situation of smart hospital, and finally discusses the challenges and countermeasures of the Internet of Things technology in medical engineering, in order to lay the foundation and provide ideas for the research of the Internet of Things technology in medical engineering.
+KW  - capsule endoscope
+KW  - intelligent hospital
+KW  - Internet of Medical Things
+KW  - remote monitoring
+KW  - Brain
+KW  - Communication
+KW  - Internet
+KW  - Internet of Things
+KW  - Technology
+KW  - brain
+KW  - Internet
+KW  - internet of things
+KW  - interpersonal communication
+KW  - technology
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Vyas, A.
+AU  - Pal, S.
+TI  - Optimum Placement of Relay Nodes in WBANs for Improving the QoS of Indoor RPM System
+PY  - 2021
+T2  - IEEE Sensors Journal
+VL  - 21
+IS  - 13
+C7  - 9371711
+SP  - 14434
+EP  - 14442
+DO  - 10.1109/JSEN.2021.3064267
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102627759&doi=10.1109%2fJSEN.2021.3064267&partnerID=40&md5=b24e552711252cb69912b702dc7d8fc9
+AB  - Pandemic situation such as COVID-19 boosted the demand for remote patient monitoring (RPM) system. The medical sensors attached to the human body in RPM system experience varying channel quality due to body movements. This paper analyzes the signal received from RPM sensors when a patient rotates by different angles while sitting on a chair as well as heed the use of a relay node placed on his/her body. Literature suggests many relay-based communication protocols to deliver physio-signals efficiently in an RPM application. However, limited studies have focused on the position of a relay node on the human body. In this paper, we empirically analyze the off-body communication path of sensor nodes by collecting data from different body orientations in a residential room. We estimate the path loss parameters for underweight, normal and overweight body mass index (BMI) categories. The estimated parameters are then used to simulate the physical layer of a home-based indoor RPM application. We inspect different relay node positions on the human body and allude an optimal position of the relay node that cover the transmission range of all sensors and provides an improved channel quality. We improve the Quality of Service (QoS) during non-line-of-sight (NLOS) situation and design an adaptive cross-layer communication protocol for WBANs. © 2001-2012 IEEE.
+KW  - communication
+KW  - indoor healthcare applications
+KW  - Path loss model
+KW  - relay node position
+KW  - Health
+KW  - Remote patient monitoring
+KW  - Sensor nodes
+KW  - Wireless local area networks (WLAN)
+KW  - Adaptive cross layers
+KW  - Body orientation
+KW  - Estimated parameter
+KW  - Nonline of sight
+KW  - Off-body communications
+KW  - Optimal position
+KW  - Optimum placement
+KW  - Transmission ranges
+KW  - Quality of service
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 9
+ER  -
+
+TY  - CONF
+AU  - Hafsiya, T.H.
+AU  - Rose, B.
+TI  - An IoT-Cloud Based Health Monitoring Wearable Device for Covid Patients
+PY  - 2021
+T2  - 2021 7th International Conference on Advanced Computing and Communication Systems, ICACCS 2021
+C7  - 9441717
+SP  - 266
+EP  - 269
+DO  - 10.1109/ICACCS51430.2021.9441717
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85108026871&doi=10.1109%2fICACCS51430.2021.9441717&partnerID=40&md5=97ba3e5b31b2fc6108829d87638d8f2b
+AB  - The biggest crisis facing the world today is the corona virus or covid 19. Most of the people in the Indian nation are ordinary people. Many tests for Covid19 are expensive and beyond the reach of the average person. With the advent of the novel Corona Virus, every country now places great importance on health care. So this year, the best solution for such infectious diseases is the IoT-cloud based health monitoring system. The Internet is a newcomer to the field of research, especially in the field of healthcare. With the proliferation of usable sensors and therefore smartphones, this remote health care monitoring has developed at such a pace. IoT health monitoring helps to prevent the spread of the disease and to make an accurate diagnosis of the patient's health condition even if the doctor is far away. In this paper, the portable physiological checking framework will be displayed, which will be able to constantly check the patient's heart rate, temperature, blood oxygen level and blood pressure, as the main symptoms of coronavirus are high fever, fatigue, and difficulty breathing. Sensor data is transferred directly to the IoT cloud using Wi-Fi. Any HTTP and MQTT protocols used in the IoT cloud to provide users with visible and timed sensor data. This data can be easily accessed by almost all smart terminals with a web browser. The patient's physical condition can also be monitored by the camera. Here we suggest a non - stop check and control device to check the patient's condition and store the patient's information in the cloud server, remote correspondence based on Wi-Fi module. A remote health monitoring system using IoT remotely diagnoses patients using the mobile/laptop application, based on these values obtained by authorized individuals who have access to data stored on any IoT platform. © 2021 IEEE.
+KW  - HTTP-Hyper Text Transfer Protocol
+KW  - IOT-Internet of Things
+KW  - MQQT- Message Queuing Transfer Telemetry
+KW  - Blood
+KW  - Blood pressure
+KW  - Diagnosis
+KW  - HTTP
+KW  - mHealth
+KW  - Remote patient monitoring
+KW  - Viruses
+KW  - Wearable sensors
+KW  - Wireless local area networks (WLAN)
+KW  - Health condition
+KW  - Health monitoring
+KW  - Health monitoring system
+KW  - Infectious disease
+KW  - Physical conditions
+KW  - Remote health monitoring
+KW  - Smart terminals
+KW  - Wearable devices
+KW  - Internet of things
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 14
+ER  -
+
+TY  - JOUR
+AU  - Lavric, A.
+AU  - Petrariu, A.I.
+AU  - Mutescu, P.-M.
+AU  - Coca, E.
+AU  - Popa, V.
+TI  - Internet of Things Concept in the Context of the COVID-19 Pandemic: A Multi-Sensor Application Design
+PY  - 2022
+T2  - Sensors
+VL  - 22
+IS  - 2
+C7  - 503
+DO  - 10.3390/s22020503
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85122347883&doi=10.3390%2fs22020503&partnerID=40&md5=d42042793ecb2ef276301d7613867d07
+AB  - In this paper, we present the design, development and implementation of an integrated system for the management of COVID-19 patient, using the LoRaWAN communication infrastructure. Our system offers certain advantages when compared to other similar solutions, allowing remote symptom and health monitoring that can be applied to isolated or quarantined people, without any external interaction with the patient. The IoT wearable device can monitor parameters of health condition like pulse, blood oxygen saturation, and body temperature, as well as the current location. To test the performance of the proposed system, two persons under quarantine were monitored, for a complete 14-day standard quarantine time interval. Based on the data transmitted to the monitoring center, the medical staff decided, after several days of monitoring, when the measured values were outside of the normal parameters, to do an RT-PCR test for one of the two persons, confirming the SARS-CoV2 virus infection. We have to emphasize the high degree of scalability of the proposed solution that can oversee a large number of patients at the same time, thanks to the LoRaWAN communication protocol used. This solution can be successfully implemented by local authorities to increase monitoring capabilities, also saving lives. © 2022 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - COVID-19 sensors
+KW  - Internet of Things
+KW  - IoT wearable device
+KW  - Quarantine monitoring
+KW  - Remote healthcare
+KW  - Telemedicine
+KW  - COVID-19
+KW  - Humans
+KW  - Internet of Things
+KW  - Oxygen Saturation
+KW  - Pandemics
+KW  - RNA, Viral
+KW  - SARS-CoV-2
+KW  - Diseases
+KW  - Health care
+KW  - Internet of things
+KW  - Remote patient monitoring
+KW  - Telemedicine
+KW  - Wearable sensors
+KW  - virus RNA
+KW  - Application design
+KW  - COVID-19 sensor
+KW  - Design development
+KW  - Design implementation
+KW  - Integrated systems
+KW  - IoT wearable device
+KW  - Multi-sensor applications
+KW  - Quarantine monitoring
+KW  - Remote healthcare
+KW  - Wearable devices
+KW  - human
+KW  - oxygen saturation
+KW  - pandemic
+KW  - Viruses
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 18
+ER  -
+
+TY  - BOOK
+AU  - Davis, M.W.
+AU  - Kirwan, M.J.
+AU  - Maclay, W.N.
+AU  - Pappas, H.P.
+TI  - Closing the care gap with wearable devices: Innovating healthcare with wearable patient monitoring
+PY  - 2022
+T2  - Closing the Care Gap with Wearable Devices: Innovating Healthcare with Wearable Patient Monitoring
+SP  - 1
+EP  - 182
+DO  - 10.4324/9781003304036
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141138821&doi=10.4324%2f9781003304036&partnerID=40&md5=638735c19689965cbef6dfec6bb9b2b4
+AB  - Patient-focused healthcare, driven by COVID-19 experiences, has become a hallmark for providing healthcare services to patients across all modalities of care and in the home. The ability to capture real-time patient data, no matter the location, via remote patient monitoring, and to transmit that data to providers and organizations approved by the consumer/patient, will become a critical capability for all healthcare providers. Of all the remote patient monitoring product designs, wearable medical devices are emerging as the best positioned to support the evolving patient-focused healthcare environment. This book is for those who are evaluating, selecting, implementing, managing, or designing wearable devices to monitor the health of patients and consumers. This book will provide the knowledge to understand the issues that mitigate the risk of wearable technologies so people can deliver successful projects using these technologies. It will discuss their use in remote patient monitoring, the advantages and disadvantages of different types of physiological sensors, different wireless communication protocols, and different power sources. It will describe issues and solutions in cybersecurity and HIPAA compliance, as well as setting them up to be used in healthcare systems and by patients. © 2023 Michael W. Davis, Michael J. Kirwan, Walter N. Maclay and Harry P. Pappas. All rights reserved.
+M3  - Book
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 6
+ER  -
+
+TY  - CHAP
+AU  - Kadhem, S.I.
+AU  - Al Sayed, I.A.M.
+AU  - Znad, T.S.
+AU  - Tawfeq, J.F.
+AU  - Radhi, A.D.
+AU  - Gheni, H.M.
+AU  - Al-Barazanchi, I.
+TI  - A Review of WBAN Intelligent System Connections for Remote Control of Patients with COVID-19
+PY  - 2023
+T2  - Lecture Notes on Data Engineering and Communications Technologies
+VL  - 179
+SP  - 242
+EP  - 254
+DO  - 10.1007/978-3-031-36258-3_21
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171150416&doi=10.1007%2f978-3-031-36258-3_21&partnerID=40&md5=03e1dc91d3f7fed36900ee2cbe0b5624
+AB  - Novel coronavirus infection (COVID-19) has severely threatened public health. Frequent hospital visits are required for COVID-19 therapy and monitoring, which raises the load on hospitals and patients. Current advancements in wearable sensors and communication protocols are contributing to improving the healthcare system and will soon transform healthcare delivery. Future patient monitoring and health information delivery systems will be profoundly impacted by current and upcoming communication breakthroughs and microelectronics and embedded systems technology improvements. Bandwidth constraints, power consumption, and skin or tissue protection are significant obstacles. This study offers a comprehensive analysis of wireless body area networks, details their use in the COVID-19 treatment process, and proposes a paradigm for integrating body area networks into telemedicine systems. This study also addresses current developments, the WBAN-telemedicine system, and the scope of future research. © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Blockchain
+KW  - Body sensor networks
+KW  - COVID-19
+KW  - Telemedicine
+KW  - Wireless body area networks
+KW  - Blockchain
+KW  - Body sensor networks
+KW  - Diagnosis
+KW  - Embedded systems
+KW  - Hospitals
+KW  - Intelligent systems
+KW  - Patient treatment
+KW  - Remote control
+KW  - Remote patient monitoring
+KW  - Telemedicine
+KW  - Wearable sensors
+KW  - Wireless local area networks (WLAN)
+KW  - 'current
+KW  - Block-chain
+KW  - Communications protocols
+KW  - Coronaviruses
+KW  - Healthcare delivery
+KW  - Healthcare systems
+KW  - Hospital visits
+KW  - Monitoring information
+KW  - Telemedicine systems
+KW  - Wireless body area network
+KW  - COVID-19
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Mia, M.M.H.
+AU  - Mahfuz, N.
+AU  - Habib, M.R.
+AU  - Hossain, R.
+TI  - An Internet of Things Application on Continuous Remote Patient Monitoring and Diagnosis
+PY  - 2021
+T2  - BioSMART 2021 - Proceedings: 4th International Conference on Bio-Engineering for Smart Technologies
+DO  - 10.1109/BioSMART54244.2021.9677715
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85125356139&doi=10.1109%2fBioSMART54244.2021.9677715&partnerID=40&md5=c4aa64823bdcea9ce36c2c71f55faca0
+AB  - The Internet of Things is redesigning a wide range of remote monitoring applications in the variant domain, including the health care industry. Remote Patient Monitoring (RPM) is not a new concept in modern technology, but the Internet of Things (IoT) makes it a better equipped and sophisticated control system. This research paper approaches a noninvasive wearable device that will monitor the vital signs of a patient in real-time by using the Internet of Things (IoT). The proposed device can monitor the body temperature, blood pressure, heart rate, oxygen saturation, glucose level in the blood, ECG, patient fall detection, location parameters. In addition, it has a breath analyzer unit that measures the total volatile organic compounds (TVOC), carbon dioxide, alcohol, hydrogen sulfide, and ammonia level in breath. The system is designed with an 8-bit microcontroller along with corresponding sensors. The sensor's data are fed into a web database using a wifi communication protocol. Furthermore, the system has a web dashboard and Role-Based Access (RBA) smartphone app to monitor multiple patients remotely. The proposed approach demonstrates advanced remote patient monitoring and diagnosis system for chronic disease patients, especially in a pandemic. © 2021 IEEE.
+KW  - Bio-Sensor
+KW  - Breath Analyzer
+KW  - Internet of Things
+KW  - Microcontroller
+KW  - Remote Patient Monitoring
+KW  - Role-Based Access
+KW  - Ammonia
+KW  - Blood
+KW  - Blood pressure
+KW  - Carbon dioxide
+KW  - Diagnosis
+KW  - Microcontrollers
+KW  - Remote patient monitoring
+KW  - Sulfur compounds
+KW  - Volatile organic compounds
+KW  - Wearable sensors
+KW  - Bio sensor
+KW  - Breath analyzers
+KW  - Healthcare industry
+KW  - Microcontroller
+KW  - Modern technologies
+KW  - Monitoring and diagnosis
+KW  - Monitoring applications
+KW  - Remote monitoring
+KW  - Research papers
+KW  - Role-based access
+KW  - Internet of things
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Wu, Y.
+AU  - Wu, Y.
+AU  - Yang, R.
+AU  - Feng, M.
+AU  - Pu, G.
+TI  - Cyber-Physical Wireless Networks for Smart Health Monitoring for Elderly Persons
+PY  - 2024
+T2  - Wireless Personal Communications
+DO  - 10.1007/s11277-024-11191-3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196186004&doi=10.1007%2fs11277-024-11191-3&partnerID=40&md5=76872e290c39df032528441dcd2a4152
+AB  - The rapid advancement in Cyber-Physical Systems (CPS) and wireless networking technologies has ushered in a new era for healthcare, particularly in the domain of smart health monitoring for elderly populations. This paper explores the development and implementation of a state-of-the-art cyber-physical wireless network system designed to enhance the health monitoring of elderly individuals, thereby improving their quality of life and enabling independent living. By leveraging the interconnectivity of CPS within a 6G wireless network framework, our proposed system facilitates real-time health monitoring and emergency response through the seamless integration of wearable health sensors, mobile devices, and cloud computing services. The core of our system architecture is built on robust wireless communication protocols that ensure reliable data transmission from wearable sensors to the central monitoring system. This paper introduces a digital twin (DT)-based model designed to enhance healthcare monitoring within smart homes, aiming at graphical monitoring, healthcare prediction, and intelligent control. A high-fidelity DT of the home and its equipment is developed for visual monitoring purposes, and two sets of devices are utilised to continually gather users’ electrocardiograph (ECG) waves and the WiFi signals within the home. Furthermore, two advanced deep learning algorithms are proposed for detecting falls using WiFi signals and identifying atrial fibrillation from ECG waves recorded by wearable devices. The effectiveness of the proposed model for smart home monitoring is confirmed through experimental results, showcasing the superiority of the developed intelligent algorithms in healthcare prediction compared to existing solutions. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2024.
+KW  - 6G
+KW  - Digital twin
+KW  - Elderly fall detection
+KW  - Human activity detection
+KW  - Medical CPS
+KW  - Wireless network
+KW  - Automation
+KW  - Cyber Physical System
+KW  - Deep learning
+KW  - Electrocardiography
+KW  - Embedded systems
+KW  - Intelligent buildings
+KW  - Network architecture
+KW  - Wireless local area networks (WLAN)
+KW  - 6g
+KW  - Cybe-physical systems
+KW  - Cyber physicals
+KW  - Cyber-physical systems
+KW  - Elderly fall detection
+KW  - Elderly falls
+KW  - Fall detection
+KW  - Health monitoring
+KW  - Human-activity detection
+KW  - Medical cyber physical systems
+KW  - Fall detection
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Cesareo, A.
+AU  - Biffi, E.
+AU  - Cuesta-Frau, D.
+AU  - D’Angelo, M.G.
+AU  - Aliverti, A.
+TI  - A novel acquisition platform for long-term breathing frequency monitoring based on inertial measurement units
+PY  - 2020
+T2  - Medical and Biological Engineering and Computing
+VL  - 58
+IS  - 4
+SP  - 785
+EP  - 804
+DO  - 10.1007/s11517-020-02125-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078842876&doi=10.1007%2fs11517-020-02125-9&partnerID=40&md5=9c7c261c96b5e0ae1d82c713e0258dfb
+AB  - Continuous monitoring of breathing frequency (fB) could foster early prediction of adverse clinical effects and exacerbation of medical conditions. Current solutions are invasive or obtrusive and thus not suitable for prolonged monitoring outside the clinical setting. Previous studies demonstrated the feasibility of deriving fB by measuring inclination changes due to breathing using accelerometers or inertial measurement units (IMU). Nevertheless, few studies faced the problem of motion artifacts that limit the use of IMU-based systems for continuous monitoring. Moreover, few attempts have been made to move towards real portability and wearability of such devices. This paper proposes a wearable IMU-based device that communicates via Bluetooth with a smartphone, uploading data on a web server to allow remote monitoring. Two IMU units are placed on thorax and abdomen to record breathing-related movements, while a third IMU unit records body/trunk motion and is used as reference. The performance of the proposed system was evaluated in terms of long-acquisition-platform reliability showing good performances in terms of duration and data loss amount. The device was preliminarily tested in terms of accuracy in breathing temporal parameter measurement, in static condition, during postural changes, and during slight indoor activities showing favorable comparison against the reference methods (mean error breathing frequency < 5%). [Figure not available: see fulltext.]. © 2020, International Federation for Medical and Biological Engineering.
+KW  - Mobile health units
+KW  - Monitoring, physiologic
+KW  - Optoelectronic plethysmography
+KW  - Respiration
+KW  - Wearable electronic devices
+KW  - Electron devices
+KW  - mHealth
+KW  - Plethysmography
+KW  - Wearable technology
+KW  - Continuous monitoring
+KW  - Electronic device
+KW  - Frequency monitoring
+KW  - Inertial measurement unit
+KW  - Medical conditions
+KW  - Parameter measurement
+KW  - Remote monitoring
+KW  - Respiration
+KW  - abdomen
+KW  - algorithm
+KW  - Article
+KW  - breathing rate
+KW  - communication protocol
+KW  - controlled study
+KW  - female
+KW  - human
+KW  - human experiment
+KW  - inertial measurement unit
+KW  - information processing
+KW  - male
+KW  - measurement
+KW  - mobile application
+KW  - normal human
+KW  - plethysmography
+KW  - priority journal
+KW  - remote sensing
+KW  - signal detection
+KW  - thorax
+KW  - trunk
+KW  - Monitoring
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 18
+ER  -
+
+TY  - CONF
+AU  - Barba, A.B.
+AU  - Bianco, G.M.
+AU  - Fiore, L.
+AU  - Arduini, F.
+AU  - Marrocco, G.
+AU  - Occhiuzzi, C.
+TI  - Design and Manufacture of Flexible Epidermal NFC Device for Electrochemical Sensing of Sweat
+PY  - 2022
+T2  - FLEPS 2022 - IEEE International Conference on Flexible and Printable Sensors and Systems, Proceedings
+DO  - 10.1109/FLEPS53764.2022.9781563
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85137182092&doi=10.1109%2fFLEPS53764.2022.9781563&partnerID=40&md5=dfe85e1b0461ca133454e91d2ce392b2
+AB  - Flexible and epidermal sensing devices are becoming vital to enable precision medicine and telemonitoring systems. The NFC (Near Field Communication) protocol is also becoming increasingly important for this application since it is embedded in most smartphones that can be used as pervasive and low-cost readers. Furthermore, the responder can be passive and can harvest enough power to perform electromagnetic sensing. Finally, the NFC coils are robust to bending and to the human body's presence. This contribution details the design of a new flexible device, including an electrochemical sensor communicating through the NFC protocol. A spiral NFC antenna is designed, and a manufactured prototype is experimentally tested to quantify the robustness to the inter-wearer variability and the bending. Lastly, the sensory data retrieval is validated by comparison with a portable potentiostat. The realized sensor can be comfortably worn and be easily read by smartphones independently from the wearer and from the point of application and could be used in future for estimating the user's psycho-physical health by analyzing the body's sweat. © 2022 IEEE.
+KW  - Biosensor
+KW  - chemical sensor
+KW  - epidermal electronics
+KW  - flexible device
+KW  - Healthcare Internet of Things
+KW  - Near Field Communication
+KW  - Biosensors
+KW  - Electrochemical sensors
+KW  - Flexible electronics
+KW  - mHealth
+KW  - Near field communication
+KW  - Smartphones
+KW  - Spiral antennas
+KW  - Voltage regulators
+KW  - Communication device
+KW  - Communications protocols
+KW  - Design and manufactures
+KW  - Electrochemical sensing
+KW  - Epidermal electronic
+KW  - Flexible device
+KW  - Healthcare internet of thing
+KW  - Near-field communication
+KW  - Sensing devices
+KW  - Smart phones
+KW  - Internet of things
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 11
+ER  -
+
+TY  - CONF
+AU  - Dhone, K.A.
+AU  - Joshi, S.
+AU  - Sonaskar, S.
+TI  - Next-Gen Medical Technology a Smart Approach to Syringe Injection Pump Automation
+PY  - 2024
+T2  - Journal of Physics: Conference Series
+VL  - 2763
+IS  - 1
+C7  - 012028
+DO  - 10.1088/1742-6596/2763/1/012028
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197266817&doi=10.1088%2f1742-6596%2f2763%2f1%2f012028&partnerID=40&md5=4e32badca74516902aa8cc7bcb136029
+AB  - This presents the design, implementation, and successful validation of a cutting-edge IoT-based Syringe Injection Pump (SIP) for precision medication administration. In response to the increasing demand for enhanced healthcare automation, this system leverages technologies to address critical challenges in medication delivery. This SIP incorporates a robust Internet of Things (IoT) framework, enabling seamless communication between the device and a central healthcare management system. The automated syringe injection process is governed by a sophisticated algorithm that considers patient-specific parameters, ensuring precise dosage administration. Through extensive testing and real-world simulations, the results demonstrate a significant reduction in human error and improved medication adherence. The system's architecture integrates secure communication protocols, ensuring data confidentiality and integrity during transmission. An innovative user interface provides healthcare professionals with real-time monitoring and control capabilities, enhancing situational awareness and responsiveness. Furthermore, the SIP's adaptability to diverse medical environments underscores its versatility in meeting the evolving needs of healthcare institutions. To validate the system's effectiveness, a comprehensive performance evaluations, including dosage accuracy, response time, and reliability under varying conditions was conducted. Results indicate an impressive dosage precision of 99.8%, showcasing the system's reliability in critical healthcare scenarios. The IoT connectivity facilitates remote monitoring and control, allowing healthcare providers to intervene promptly in case of anomalies or emergencies. In addition to its technical prowess, the SIP aligns with current healthcare trends by promoting sustainability and cost-effectiveness. The automated system optimizes resource utilization, reduces medication waste, and minimizes the environmental impact associated with traditional manual injection methods. In conclusion, this IoT-based Syringe Injection Pump represents a paradigm shift in medical technology, offering a smart and results-oriented solution for precise medication administration. The successful implementation and validation of this system pave the way for improved patient outcomes, streamlined healthcare workflows, and a more sustainable approach to medication delivery. This research contributes to the ongoing discourse on advancing medical technology and underscores the potential of IoT in shaping the future of healthcare.  © Published under licence by IOP Publishing Ltd.
+KW  - Automation
+KW  - Biomedical engineering
+KW  - Health care
+KW  - Internet of things
+KW  - Internet protocols
+KW  - Network architecture
+KW  - Pumps
+KW  - Sustainable development
+KW  - Syringes
+KW  - User interfaces
+KW  - Critical challenges
+KW  - Cutting edges
+KW  - Design implementation
+KW  - Extensive testing
+KW  - Healthcare management systems
+KW  - Injection process
+KW  - Injection pump
+KW  - Medical technologies
+KW  - Patient specific parameters
+KW  - Seamless communication
+KW  - Cost effectiveness
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - El-Rashidy, N.
+AU  - El-Sappagh, S.
+AU  - Riazul Islam, S.M.
+AU  - El-Bakry, H.M.
+AU  - Abdelrazek, S.
+TI  - Mobile health in remote patient monitoring for chronic diseases: Principles, trends, and challenges
+PY  - 2021
+T2  - Diagnostics
+VL  - 11
+IS  - 4
+C7  - 607
+DO  - 10.3390/diagnostics11040607
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107851533&doi=10.3390%2fdiagnostics11040607&partnerID=40&md5=359a9eb4f395099745e1242e053faa94
+AB  - Chronic diseases are becoming more widespread. Treatment and monitoring of these diseases require going to hospitals frequently, which increases the burdens of hospitals and patients. Presently, advancements in wearable sensors and communication protocol contribute to enriching the healthcare system in a way that will reshape healthcare services shortly. Remote patient monitoring (RPM) is the foremost of these advancements. RPM systems are based on the collection of patient vital signs extracted using invasive and noninvasive techniques, then sending them in real-time to physicians. These data may help physicians in taking the right decision at the right time. The main objective of this paper is to outline research directions on remote patient monitoring, explain the role of AI in building RPM systems, make an overview of the state of the art of RPM, its advantages, its challenges, and its probable future directions. For studying the literature, five databases have been chosen (i.e., science direct, IEEE-Explore, Springer, PubMed, and science.gov). We followed the (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) PRISMA, which is a standard methodology for systematic reviews and meta-analyses. A total of 56 articles are reviewed based on the combination of a set of selected search terms including RPM, data mining, clinical decision support system, electronic health record, cloud computing, internet of things, and wireless body area network. The result of this study approved the effectiveness of RPM in improving healthcare delivery, increase diagnosis speed, and reduce costs. To this end, we also present the chronic disease monitoring system as a case study to provide enhanced solutions for RPMs. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - AI
+KW  - Clinical-decision support system
+KW  - Cloud computing
+KW  - Electronic health
+KW  - Electronic health record
+KW  - Internet of things
+KW  - Remote patient monitoring
+KW  - Wireless body area network
+KW  - adult
+KW  - artificial intelligence
+KW  - chronic disease
+KW  - clinical decision support system
+KW  - cloud computing
+KW  - data mining
+KW  - dementia
+KW  - electronic health record
+KW  - female
+KW  - health care cost
+KW  - health service
+KW  - heart arrhythmia
+KW  - heart disease
+KW  - human
+KW  - hypertension
+KW  - Internet
+KW  - internet of things
+KW  - knowledge base
+KW  - male
+KW  - mental health
+KW  - non invasive procedure
+KW  - pain assessment
+KW  - patient coding
+KW  - Review
+KW  - social media
+KW  - systematic review
+KW  - telemonitoring
+KW  - vital sign
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 100
+ER  -
+
+TY  - JOUR
+AU  - Thite, T.G.
+AU  - Bhalke, D.G.
+TI  - Real-time electrocardiogram monitoring for heart diseases with secured internet of thing protocol
+PY  - 2022
+T2  - International Journal of Medical Engineering and Informatics
+VL  - 14
+IS  - 5
+SP  - 391
+EP  - 401
+DO  - 10.1504/IJMEI.2022.125311
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85140825532&doi=10.1504%2fIJMEI.2022.125311&partnerID=40&md5=14645e992e6dc1336c97bd657745f9e3
+AB  - Real-time effective ECG data collecting, transmitting, and monitoring system with feature extraction is a big challenge in biomedical signal processing. The electrocardiogram is a widely used testing system to measure and analyse coronary heart diseases, i.e., cardiovascular diseases (CVDs). Heart rate remote monitoring under the service provided by hospital equipment is the technology that currently needs to improve. IoT enabled medical device helps to achieve this efficiently. To design such systems energy-efficient communication protocol, data-transfer minimisation, assurance of delivery (security), heterogeneous natures of the environment are necessary considerations. This paper outlines a literature survey of three main important areas; ‘real-time ECG monitoring using wearable sensors’, ‘feature extraction and classification method for real-time ECG monitoring’, and ‘secured IoT protocol for real-time ECG monitoring’. Copyright © 2022 Inderscience Enterprises Ltd.
+KW  - cardiovascular disease
+KW  - CVD
+KW  - ECG
+KW  - internet-of-things
+KW  - real-time
+KW  - security
+KW  - tele-health
+KW  - tele-monitoring
+KW  - Article
+KW  - artificial intelligence
+KW  - atrial fibrillation
+KW  - cardiovascular disease
+KW  - communication protocol
+KW  - deep learning
+KW  - electrocardiogram
+KW  - electrocardiography
+KW  - electrocardiography monitoring
+KW  - feature extraction
+KW  - heart arrhythmia
+KW  - heart disease
+KW  - heart rate
+KW  - heart rate variability
+KW  - human
+KW  - image quality
+KW  - internet of things
+KW  - ischemic heart disease
+KW  - nerve cell network
+KW  - QRS complex
+KW  - QRS interval
+KW  - RR interval
+KW  - sensitivity and specificity
+KW  - signal detection
+KW  - signal processing
+KW  - support vector machine
+KW  - telemedicine
+KW  - telemonitoring
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Moghaddam, M.
+TI  - Design and Implementation of Wearable Artificial Kidney Telemonitoring System
+PY  - 2022
+T2  - 8th International Conference on Engineering and Emerging Technologies, ICEET 2022
+DO  - 10.1109/ICEET56468.2022.10007387
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85146857948&doi=10.1109%2fICEET56468.2022.10007387&partnerID=40&md5=d32f6c63b538366b3752eafce1ed6535
+AB  - Designing, producing, and implementing biosensors and monitoring vital signals is one of the necessities of today's technologies. In this article, a special monitoring module with a rechargeable battery power source and a software-based expandable platform on the web server for displaying and monitoring the Wearable Artificial Kidney (WAK) signals graphically, is presented. The proposed system, monitors and controls the performance of the device remotely, and it provides a reduction in costs and time savings. By implementing a hardware module, the vital and control signals are received from WAK sensors and using the Hypertext Transfer Protocol (HTTP) and Message Queuing Telemetry Transport (MQTT) protocol are sent. The proposed module can send the data by WIFI and GSM/GPRS. The desired module, while controlling WAK remotely, is equipped with a GPS that controls the geographic location of patients. To reduce the power consumption of this battery-powered module, it sends the location in a part-Time performance cycle. The proposed method, utilized artificial intelligence (AI) algorithm, to monitor the performance of the WAK and provide suitable control according to each patient's condition. Also, the AI algorithm utilizes the significant measured parameters of the sensors such as blood leakage and air bubble detectors, access, return, pre-filter and ultra-filter pressures, temperature, pump status, and battery level, leading to early detection and interventions to avoid hospitalizations that facilitate the management and increase the quality of the dialysis patients.  © 2022 IEEE.
+KW  - Artificial intelligence Expandable platform
+KW  - GSM/GPRS Module
+KW  - Hemodialysis
+KW  - Monitoring
+KW  - Portable
+KW  - Wearable Artificial Kidney
+KW  - Artificial intelligence
+KW  - Artificial organs
+KW  - Bluetooth
+KW  - Electric batteries
+KW  - HTTP
+KW  - Muscle
+KW  - Patient treatment
+KW  - Quality control
+KW  - Wearable technology
+KW  - Artificial intelligence expandable platform
+KW  - Artificial kidney
+KW  - GPRS module
+KW  - GSM/GPRS
+KW  - GSM/GPRS module
+KW  - Haemodialysis
+KW  - Performance
+KW  - Portable
+KW  - Vital signals
+KW  - Wearable artificial kidney
+KW  - Hypertext systems
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Coulby, G.
+AU  - Clear, A.
+AU  - Jones, O.
+AU  - Young, F.
+AU  - Stuart, S.
+AU  - Godfrey, A.
+TI  - Towards remote healthcare monitoring using accessible IoT technology: state-of-the-art, insights and experimental design
+PY  - 2020
+T2  - BioMedical Engineering Online
+VL  - 19
+IS  - 1
+C7  - 80
+DO  - 10.1186/s12938-020-00825-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85094655227&doi=10.1186%2fs12938-020-00825-9&partnerID=40&md5=09ab06474f155725992e5d8d40dd3720
+AB  - Healthcare studies are moving toward individualised measurement. There is need to move beyond supervised assessments in the laboratory/clinic. Longitudinal free-living assessment can provide a wealth of information on patient pathology and habitual behaviour, but cost and complexity of equipment have typically been a barrier. Lack of supervised conditions within free-living assessment means there is need to augment these studies with environmental analysis to provide context to individual measurements. This paper reviews low-cost and accessible Internet of Things (IoT) technologies with the aim of informing biomedical engineers of possibilities, workflows and limitations they present. In doing so, we evidence their use within healthcare research through literature and experimentation. As hardware becomes more affordable and feature rich, the cost of data magnifies. This can be limiting for biomedical engineers exploring low-cost solutions as data costs can make IoT approaches unscalable. IoT technologies can be exploited by biomedical engineers, but more research is needed before these technologies can become commonplace for clinicians and healthcare practitioners. It is hoped that the insights provided by this paper will better equip biomedical engineers to lead and monitor multi-disciplinary research investigations. © 2020, The Author(s).
+KW  - Cloud connectivity
+KW  - Gait
+KW  - Remote monitoring
+KW  - Sensors
+KW  - Wearables
+KW  - Costs and Cost Analysis
+KW  - Delivery of Health Care
+KW  - Humans
+KW  - Internet of Things
+KW  - Monitoring, Physiologic
+KW  - Wearable Electronic Devices
+KW  - Costs
+KW  - Engineers
+KW  - Health care
+KW  - Environmental analysis
+KW  - Healthcare monitoring
+KW  - Internet of Things (IOT)
+KW  - Low-cost solution
+KW  - Multi-disciplinary research
+KW  - State of the art
+KW  - Supervised assessments
+KW  - Wealth of information
+KW  - biomedical engineering
+KW  - cloud computing
+KW  - communication protocol
+KW  - information processing
+KW  - internet of things
+KW  - priority journal
+KW  - remote healthcare monitoring
+KW  - remote sensing
+KW  - Review
+KW  - software
+KW  - technology
+KW  - cost
+KW  - devices
+KW  - economics
+KW  - electronic device
+KW  - health care delivery
+KW  - human
+KW  - physiologic monitoring
+KW  - procedures
+KW  - Internet of things
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 28
+ER  -
+
+TY  - CONF
+AU  - Molaei, N.H.
+AU  - Seyedalian, S.A.
+AU  - Oskouie, A.S.
+AU  - Zarepour, E.
+TI  - Characterizing the Energy Consumption and Maximum Coverage of 802.15.1 V4.2 for Wearable Home-care Monitoring Systems
+PY  - 2020
+T2  - 2020 25th International Computer Conference, Computer Society of Iran, CSICC 2020
+C7  - 9050085
+DO  - 10.1109/CSICC49403.2020.9050085
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083360567&doi=10.1109%2fCSICC49403.2020.9050085&partnerID=40&md5=e971c54d2ed0e4559d8890f935e0442b
+AB  - Energy consumption of the wearable home-care monitoring systems is a major challenge due to the need for continuous remote monitoring of the patients. Choosing the appropriate communication protocol to reduce energy consumption of these systems is, therefore, a key parameter. Since the recent versions of the IEEE 802.15.1 (Bluetooth) protocol can potentially reduce energy consumption and provide a better coverage range, they are promising for wearable homecare monitoring systems (WHMS). On the other hand, a deep energy consumption analysis of these protocols for WHMS has not been thoroughly yet conducted. In this paper, using software and hardware-based energy monitoring platform, the energy consumption and maximum coverage of the Bluetooth Low Energy (BLE) V4.2 is experimentally evaluated in different homecare scenarios in which the wireless signal may travel through the wood, metal, brick wall, body, and similar obstacles. Our results show that the highest energy consumption of the BLE 4.2 occurs when there is a human body or brick wall obstacle between the transmitter and receiver. Our extensive experiments also reveal that the maximum effective coverage range of a BLE 4.2 enabled WHMS is 36m in line of sight scenarios which decline to around 25m and 18.5m when the signal travels through brick walls and the human body, respectively, which all these numbers are suitable for WHMS. © 2020 IEEE.
+KW  - Bluetooth Low Energy
+KW  - energy consumption analysis
+KW  - Internet of Things
+KW  - Remote health monitoring
+KW  - wearable sensors
+KW  - Bluetooth
+KW  - Brick
+KW  - IEEE Standards
+KW  - Remote patient monitoring
+KW  - Social computing
+KW  - Wearable technology
+KW  - Bluetooth low energies (BLE)
+KW  - Energy consumption analysis
+KW  - Energy monitoring
+KW  - Line-of-sight scenarios
+KW  - Reduce energy consumption
+KW  - Remote monitoring
+KW  - Software and hardwares
+KW  - Transmitter and receiver
+KW  - Energy utilization
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Qiu, C.
+AU  - Wu, F.
+AU  - Han, W.
+AU  - Yuce, M.R.
+TI  - A Wearable Bioimpedance Chest Patch for Real-Time Ambulatory Respiratory Monitoring
+PY  - 2022
+T2  - IEEE Transactions on Biomedical Engineering
+VL  - 69
+IS  - 9
+SP  - 2970
+EP  - 2981
+DO  - 10.1109/TBME.2022.3158544
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85126303544&doi=10.1109%2fTBME.2022.3158544&partnerID=40&md5=8d13d3c90f5adc4cf54762faded67b1b
+AB  - Objective: This paper aims to introduce a wearable solution and a low-complexity algorithm for real-time continuous ambulatory respiratory monitoring. Methods: A wearable chest patch is designed using a bioimpedance (BioZ) sensor to measure the changes in chest impedance caused by breathing. Besides, a medical-grade infrared temperature sensor is utilized to monitor body temperature. The computing algorithm implemented on the patch enables computation of breath-by-breath respiratory rate and chest temperature in real-time. Two wireless communication protocols are included in the system, namely Bluetooth and Long Range (LoRa), which enable both short-range and long-range data transmission. Results: The breathing rate measured in static (i.e., standing, sitting, supine, and lateral lying) and dynamic (i.e., walking, running, and cycling) positions by our device yielded an accuracy of more than 97.8% and 98.5% relative to the ground truth, respectively. Additionally, the device's performance is evaluated in real-world scenarios both indoors and outdoors. Conclusion: The proposed system is capable of measuring breathing rate throughout a variety of daily activities. To the best of our knowledge, this is the first BioZ-based wearable patch capable of detecting breath-by-breath respiratory rate in real-time remotely under unrestricted ambulatory conditions. Significance: This study establishes a strategy for continuous respiratory monitoring that could aid in the early detection of cardiopulmonary disorders in everyday life.  © 1964-2012 IEEE.
+KW  - Bioimpedance
+KW  - IoT-connected
+KW  - long-range
+KW  - real-time
+KW  - respiration
+KW  - wearable device
+KW  - Monitoring, Ambulatory
+KW  - Respiration
+KW  - Respiratory Rate
+KW  - Walking
+KW  - Wearable Electronic Devices
+KW  - Computational complexity
+KW  - Electric impedance
+KW  - Interactive computer systems
+KW  - Internet of things
+KW  - Temperature measurement
+KW  - Temperature sensors
+KW  - Bio-impedance
+KW  - Biomedical monitoring
+KW  - Impedance
+KW  - IoT-connected
+KW  - Long-range
+KW  - Real - Time system
+KW  - Real- time
+KW  - Respiration
+KW  - Respiratory Monitoring
+KW  - Wearable devices
+KW  - adult
+KW  - algorithm
+KW  - ambulatory monitoring
+KW  - Article
+KW  - body temperature measurement
+KW  - body temperature monitoring
+KW  - breathing
+KW  - breathing pattern
+KW  - breathing rate
+KW  - cycling
+KW  - daily life activity
+KW  - female
+KW  - human
+KW  - human experiment
+KW  - impedance
+KW  - infrared radiation
+KW  - internet of things
+KW  - male
+KW  - normal human
+KW  - respiratory care
+KW  - running
+KW  - sitting
+KW  - standing
+KW  - supine position
+KW  - telemonitoring
+KW  - thorax
+KW  - walking
+KW  - waveform
+KW  - wireless communication
+KW  - ambulatory monitoring
+KW  - breathing rate
+KW  - electronic device
+KW  - Real time systems
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 20
+ER  -
+
+TY  - JOUR
+AU  - Bathalapalli, V.K.V.V.
+AU  - Mohanty, S.P.
+AU  - Kougianos, E.
+AU  - Iyer, V.
+AU  - Rout, B.
+TI  - PUFchain 3.0: Hardware-Assisted Distributed Ledger for Robust Authentication in Healthcare Cyber–Physical Systems
+PY  - 2024
+T2  - Sensors
+VL  - 24
+IS  - 3
+C7  - 938
+DO  - 10.3390/s24030938
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184500724&doi=10.3390%2fs24030938&partnerID=40&md5=2388038b5582e155b38e7b111958b6ab
+AB  - This article presents a novel hardware-assisted distributed ledger-based solution for simultaneous device and data security in smart healthcare. This article presents a novel architecture that integrates PUF, blockchain, and Tangle for Security-by-Design (SbD) of healthcare cyber–physical systems (H-CPSs). Healthcare systems around the world have undergone massive technological transformation and have seen growing adoption with the advancement of Internet-of-Medical Things (IoMT). The technological transformation of healthcare systems to telemedicine, e-health, connected health, and remote health is being made possible with the sophisticated integration of IoMT with machine learning, big data, artificial intelligence (AI), and other technologies. As healthcare systems are becoming more accessible and advanced, security and privacy have become pivotal for the smooth integration and functioning of various systems in H-CPSs. In this work, we present a novel approach that integrates PUF with IOTA Tangle and blockchain and works by storing the PUF keys of a patient’s Body Area Network (BAN) inside blockchain to access, store, and share globally. Each patient has a network of smart wearables and a gateway to obtain the physiological sensor data securely. To facilitate communication among various stakeholders in healthcare systems, IOTA Tangle’s Masked Authentication Messaging (MAM) communication protocol has been used, which securely enables patients to communicate, share, and store data on Tangle. The MAM channel works in the restricted mode in the proposed architecture, which can be accessed using the patient’s gateway PUF key. Furthermore, the successful verification of PUF enables patients to securely send and share physiological sensor data from various wearable and implantable medical devices embedded with PUF. Finally, healthcare system entities like physicians, hospital admin networks, and remote monitoring systems can securely establish communication with patients using MAM and retrieve the patient’s BAN PUF keys from the blockchain securely. Our experimental analysis shows that the proposed approach successfully integrates three security primitives, PUF, blockchain, and Tangle, providing decentralized access control and security in H-CPS with minimal energy requirements, data storage, and response time. © 2024 by the authors.
+KW  - blockchain
+KW  - hardware-assisted security (HAS)
+KW  - healthcare cyber–physical systems (H-CPS)
+KW  - masked authentication messaging (MAM)
+KW  - physical unclonable function (PUF)
+KW  - security-by-design (SbD)
+KW  - smart healthcare
+KW  - Tangle
+KW  - Artificial intelligence
+KW  - Authentication
+KW  - Cryptography
+KW  - Cybersecurity
+KW  - Digital storage
+KW  - Distributed ledger
+KW  - Engineering education
+KW  - Gateways (computer networks)
+KW  - Health care
+KW  - Internet of things
+KW  - Metadata
+KW  - Network architecture
+KW  - Network security
+KW  - Physiology
+KW  - Wearable sensors
+KW  - Block-chain
+KW  - Cybe-physical systems
+KW  - Cyber-physical systems
+KW  - Hardware-assisted
+KW  - Hardware-assisted security
+KW  - Healthcare cybe–physical system
+KW  - Masked authentication messaging
+KW  - Physical unclonable function
+KW  - Security-by-design
+KW  - Smart healthcare
+KW  - Tangle
+KW  - Blockchain
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Koutras, D.
+AU  - Stergiopoulos, G.
+AU  - Dasaklis, T.
+AU  - Kotzanikolaou, P.
+AU  - Glynos, D.
+AU  - Douligeris, C.
+TI  - Security in iomt communications: A survey
+PY  - 2020
+T2  - Sensors (Switzerland)
+VL  - 20
+IS  - 17
+C7  - 4828
+SP  - 1
+EP  - 49
+DO  - 10.3390/s20174828
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85090170143&doi=10.3390%2fs20174828&partnerID=40&md5=f154e97f50672cb995fa9ebe78a07cbf
+AB  - The Internet of Medical Things (IoMT) couples IoT technologies with healthcare services in order to support real-time, remote patient monitoring and treatment. However, the interconnectivity of critical medical devices with other systems in various network layers creates new opportunities for remote adversaries. Since most of the communication protocols have not been specifically designed for the needs of connected medical devices, there is a need to classify the available IoT communication technologies in terms of security. In this paper we classify IoT communication protocols, with respect to their application in IoMT. Then we describe the main characteristics of IoT communication protocols used at the perception, network and application layer of medical devices. We examine the inherent security characteristics and limitations of IoMT-specific communication protocols. Based on realistic attacks we identify available mitigation controls that may be applied to secure IoMT communications, as well as existing research and implementation gaps. © 2020 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - Internet of medical things
+KW  - IoT communication protocols
+KW  - Perception-network-application layer
+KW  - Security
+KW  - Network layers
+KW  - Patient treatment
+KW  - Remote patient monitoring
+KW  - Communication technologies
+KW  - Healthcare services
+KW  - Interconnectivity
+KW  - Medical Devices
+KW  - Real time
+KW  - Internet of things
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 104
+ER  -
+
+TY  - JOUR
+AU  - Muzny, M.
+AU  - Henriksen, A.
+AU  - Giordanengo, A.
+AU  - Muzik, J.
+AU  - Grøttland, A.
+AU  - Blixgård, H.
+AU  - Hartvigsen, G.
+AU  - Årsand, E.
+TI  - Wearable sensors with possibilities for data exchange: Analyzing status and needs of different actors in mobile health monitoring systems
+PY  - 2020
+T2  - International Journal of Medical Informatics
+VL  - 133
+C7  - 104017
+DO  - 10.1016/j.ijmedinf.2019.104017
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075521535&doi=10.1016%2fj.ijmedinf.2019.104017&partnerID=40&md5=a528b5592755f37c1623d5256aafc336
+AB  - Background: Wearable devices with an ability to collect various type of physiological data are increasingly becoming seamlessly integrated into everyday life of people. In the area of electronic health (eHealth), many of these devices provide remote transfer of health data, as a result of the increasing need for ambulatory monitoring of patients. This has a potential to reduce the cost of care due to prevention and early detection. Objective: The objective of this study was to provide an overview of available wearable sensor systems with data exchange possibilities. Due to the heterogeneous capabilities these systems possess today, we aimed to systematize this in terms of usage, where there is a need of, or users benefit from, transferring self-collected data to health care actors. Methods: We searched for and reviewed relevant sensor systems (i.e., devices) and mapped these into 13 selected attributes related to data-exchange capabilities. We collected data from the Vandrico database of wearable devices, and complemented the information with an additional internet search. We classified the following attributes of devices: type, communication interfaces, data protocols, smartphone/PC integration, connection to smartphone health platforms, 3rd party integration with health platforms, connection to health care system/middleware, type of gathered health data, integrated sensors, medical device certification, access to user data, developer-access to device, and market status. Devices from the same manufacturer with similar functionalities/characteristics were identified under the same device family. Furthermore, we classified the systems in three subgroups of relevance for different actors in mobile health monitoring systems: EHR providers, software developers, and patient users. Results: We identified 362 different mobile health monitoring devices belonging to 193 device families. Based on an analysis of these systems, we identified the following general challenges: • Few systems have a Conformité Européene (CE) marking class II or above, or approval from the US Food and Drug Administration (FDA) • Few systems use the standardized Bluetooth Low Energy GATT profile for wireless transfer of health data • Few systems support health middleware • Approximately 30% of the device families provide the user access to the source data. However, only 16% allow the transfer of data through direct communication with the device (i.e., without using a proprietary cloud-based service) Conclusions: Few of the identified mobile health monitoring systems use standardized, open communication protocols, which would allow the user to directly acquire sensor data. Use of open protocols can provide mobile health (mHealth) application developers an alternative to proprietary cloud services and communication tools, which are often closely integrated with the devices. Emerging new types of sensors, often intended for everyday use, have a potential to supplement health records systems with data that can enrich patient care. © 2019 Elsevier B.V.
+KW  - Data exchange
+KW  - EHR
+KW  - Health data aggregators
+KW  - Health monitoring
+KW  - mHealth
+KW  - pHR
+KW  - Sensors
+KW  - Wearable device
+KW  - Arrhythmias, Cardiac
+KW  - Delivery of Health Care
+KW  - Humans
+KW  - Mobile Applications
+KW  - Telemedicine
+KW  - Wearable Electronic Devices
+KW  - Data communication systems
+KW  - Data transfer
+KW  - Electronic data interchange
+KW  - mHealth
+KW  - Middleware
+KW  - Remote patient monitoring
+KW  - Search engines
+KW  - Sensors
+KW  - Smartphones
+KW  - Bluetooth low energies (BTLE)
+KW  - Health data
+KW  - Health monitoring
+KW  - Mobile Health (M-Health)
+KW  - Mobile health monitoring
+KW  - Mobile health monitoring systems
+KW  - US Food and Drug Administration
+KW  - Wearable devices
+KW  - ambulatory monitoring
+KW  - cloud computing
+KW  - health care system
+KW  - human
+KW  - information storage
+KW  - Internet
+KW  - interpersonal communication
+KW  - medical record
+KW  - monitoring
+KW  - priority journal
+KW  - Review
+KW  - wireless communication
+KW  - electronic device
+KW  - health care delivery
+KW  - heart arrhythmia
+KW  - mobile application
+KW  - telemedicine
+KW  - Wearable sensors
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 46
+ER  -
+
+TY  - JOUR
+AU  - Khalifeh, A.
+AU  - Abou-Tair, D.E.D.I.
+AU  - Obermaisser, R.
+AU  - Abuteir, M.
+AU  - Darabkh, K.A.
+TI  - A Reliable System-of-Systems Healthcare Monitoring Framework
+PY  - 2023
+T2  - IEEE Access
+VL  - 11
+SP  - 145679
+EP  - 145691
+DO  - 10.1109/ACCESS.2023.3343414
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180316614&doi=10.1109%2fACCESS.2023.3343414&partnerID=40&md5=35ca69ad4a65750d7e96307cb075bae8
+AB  - System-of-systems (SoS) have recently been used in several applications and scenarios in the field of safety, defense, and healthcare. In an SoS environment, the entire system is divided into sub-systems, which provides more flexibility and reduces the management cost of the entire system. SoS have been widely used in healthcare monitoring services, where patients are provided with medical sensors that send their medical measurements to a remote unit for further processing and decision-making. These sensors communicate with an access point using the wireless channel, which gives patients flexibility in mobility and makes the monitoring system more convenient and comfortable. However, sending data over the wireless channel presents several challenges, such as contention between the different sensors in accessing the channel and the bit errors associated with the noisy wireless channel. In this paper, an SoS healthcare monitoring framework is proposed, where a wireless communication protocol is proposed that addresses the sensors' node network access contention and mitigates the bit errors of the communication channel by providing forward error correction bits to the transmitted packets. In addition, the protocol takes into consideration the sensors' importance and criticality, such that more important sensors are given more network access time and more error correction bits, which in turn results in a robust transmission process with low transmission delay. The simulation results show the proposed wireless communication protocol's effectiveness in lowering the packet loss, giving higher priority and having higher throughput for the more critical sensors. © 2013 IEEE.
+KW  - e-health
+KW  - healthcare monitoring
+KW  - real-time communication
+KW  - reliability
+KW  - scheduling
+KW  - System-of-systems
+KW  - time-triggered Ethernet
+KW  - wireless communication
+KW  - Decision making
+KW  - eHealth
+KW  - Error correction
+KW  - Ethernet
+KW  - Internet protocols
+KW  - Packet networks
+KW  - Real time systems
+KW  - System of systems
+KW  - Telemedicine
+KW  - E health
+KW  - Ehealth
+KW  - Healthcare monitoring
+KW  - Medical services
+KW  - Real-time communication
+KW  - System-of-systems
+KW  - Time triggered Ethernet
+KW  - Wireless channel
+KW  - Wireless communications
+KW  - Wireless sensor networks
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Kumar, A.
+AU  - Pathak, P.
+AU  - Dwivedi, V.K.
+AU  - Sharma, D.K.
+TI  - Designing IoT-Enabled Circuits for Non-Contact Liquid Infusion in Infectious Patient Care
+PY  - 2023
+T2  - 2023 International Conference on Advances in Computation, Communication and Information Technology, ICAICCIT 2023
+SP  - 701
+EP  - 706
+DO  - 10.1109/ICAICCIT60255.2023.10465726
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189891775&doi=10.1109%2fICAICCIT60255.2023.10465726&partnerID=40&md5=7e9feecd45257c399ee3ede87df114e6
+AB  - The integration of Internet of Things (IoT) technology into the field of healthcare has revolutionized patient care and monitoring system. To improve the functionality and connectivity of non-contact liquid infusion essential medical devices. The purpose of this work is to create a system that provides real-time data on a patient's Liquid Infusion level, to enable healthcare professionals for remotely monitor and ready to respond in any life-threatening condition of admitted patient in health care unit. The main focus of this work is to make smart circuit for the non-contact IOT enabled infusion system having very less response time. The circuitry will incorporate sensors and wireless communication protocols to ensure accurate and timely data transmission. This smart circuit will allow for precise control of medication or liquid delivery, with added capability of remote adjustments and monitoring. By implementing secure IoT connectivity, patient safety and reduces the human errors in medication administration. The circuitry will include sensors to measure liquid volume level, the conclusion of this work represents a significant step towards the field of IoT-enabled medical devices to improve remote monitoring capabilities, and streamline healthcare facility. © 2023 IEEE.
+KW  - Circuits
+KW  - Healthcare system
+KW  - IoT
+KW  - Liquid Infusion
+KW  - Medical devices
+KW  - Health care
+KW  - Timing circuits
+KW  - Health care professionals
+KW  - Healthcare systems
+KW  - Internet of things technologies
+KW  - Life threatening conditions
+KW  - Liquid infusion
+KW  - Medical Devices
+KW  - Monitoring system
+KW  - Non-contact
+KW  - Patient care
+KW  - Real-time data
+KW  - Internet of things
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - CHAP
+AU  - Rotariu, C.
+AU  - Bozomitu, R.G.
+AU  - Costin, H.
+TI  - Assistive Technologies to Support Communication with Neuro-motor Disabled Patients
+PY  - 2020
+T2  - Intelligent Systems Reference Library
+VL  - 170
+SP  - 29
+EP  - 60
+DO  - 10.1007/978-3-030-30817-9_2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075033666&doi=10.1007%2f978-3-030-30817-9_2&partnerID=40&md5=0c9c4b7bc23f7fdda89fd73836f49750
+AB  - The paper describes the evolution in design and implementation of a new complex electro-informatics assistive medical system used for the communication with neuromotor disabled patients. These patients are severe handicapped persons who cannot interfere with real world by normal ways like speech, writing or language signs. Fortunately, these persons can see or can hear and they understand the meaning of different messages. The developed medical system is made by the following main functional components: the patient equipment, server, and caretaker device, connected together by using Internet available infrastructure. The bidirectional communication is performed by using keywords technology or ideograms presented on the patient’s screen provided by an application running at the server and accessed by the patient through a web browser. Patient needs are performed by using for interfacing with a software application by using different types of sensors including switch-type sensors (tactile, pressure, strain gauge) or eye tracking devices, all of these adapted to the patient’s physical condition. The medical system has also a secondary function, the remote monitoring of few vital physiological parameters needed for patient treatment and rehabilitation, based on wireless and wearable sensor network, that share the same hardware platform. The application running on caretaker device displays the patient’s needs together with the values of the selected physiological parameters in real time. The medical devices are responsible for physiological parameters acquiring, preprocessing and forwarding into the server. The server performs the parameters processing and computing the medical condition of the patient and also has the ability of sending alerts to the caretaker when one or more parameters are outside the normal limits. The application running on server manages the system databases, the communication protocols between patient and caretaker devices, records and processes the remote monitored data values and alarms the caretaker devices in emergency situations. The prototype of the developed medical system has been successfully within Clinic of “Geriatrics and Gerontology” at “Dr. C. I. Parhon” Hospital of Iaşi, Romania. The assistive solution proposed can be used in hospitals, care and treatment centers, nursing homes and also for patients treated in outpatient settings. The system contributes to increasing the level of care and treatment for neuromotor disabled patients, lowering costs in health care system. © 2020, Springer Nature Switzerland AG.
+KW  - Assistive devices
+KW  - Human-computer interfaces
+KW  - Medical rehabilitation
+KW  - Neuro-motor disabled patients
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Ozkan, J.
+TI  - Staying on the same wavelength
+PY  - 2020
+T2  - European Heart Journal
+VL  - 41
+IS  - 24
+SP  - 2231
+EP  - 2232
+DO  - 10.1093/eurheartj/ehaa463
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85086932701&doi=10.1093%2feurheartj%2fehaa463&partnerID=40&md5=308ad70928d7dfdee3f4b75fafac0f56
+KW  - clinical practice
+KW  - computer security
+KW  - electrophysiologist
+KW  - Europe
+KW  - feedback system
+KW  - follow up
+KW  - general practitioner
+KW  - health care access
+KW  - health care system
+KW  - human
+KW  - informed consent
+KW  - lawyer
+KW  - legal aspect
+KW  - medical research
+KW  - medical society
+KW  - Note
+KW  - patient safety
+KW  - priority journal
+KW  - questionnaire
+KW  - telehealth
+KW  - telemonitoring
+KW  - United States
+KW  - clinical protocol
+KW  - communication protocol
+KW  - data processing
+KW  - Food and Drug Administration
+KW  - medical device regulation
+KW  - privacy
+KW  - remote sensing
+KW  - workshop
+KW  - interview
+M3  - Note
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - CHAP
+AU  - de Zambotti, M.
+AU  - Menghini, L.
+AU  - Cellini, N.
+AU  - Goldstein, C.
+AU  - Baker, F.C.
+TI  - Performance of consumer wearable sleep technology
+PY  - 2023
+T2  - Encyclopedia of Sleep and Circadian Rhythms: Volume 1-6, Second Edition
+SP  - 6
+EP  - 15
+DO  - 10.1016/B978-0-12-822963-7.00199-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85152846866&doi=10.1016%2fB978-0-12-822963-7.00199-7&partnerID=40&md5=53d29cc818cc4762feae83f8beb94d9c
+AB  - Consumer sleep technology (CST) is at the core of the ongoing Internet of Things digital health revolution, with about one-third of the US population reporting regular use of CST wearables to track sleep, physical activity, and other health-related indicators. Wearables provides a low-cost and technologically advanced approach to measure sleep over time in free-living conditions, with miniaturized sensors, wireless data transfer protocols, mobile- and cloud-based platform for data management and visualization, and easy integration with other services. The unprecedented amount of data generated by CST has the potential to improve our understanding of sleep and its disorders in natural settings, providing insight into the relationship between sleep, behavior, and health. In parallel with the growing utilization of telemedicine, remote patient monitoring is becoming increasingly relevant in medicine and therefore, the use of CST will likely augment the diagnosis and management of sleep disorders. The ownership of CST by the patient, as opposed to the health system, allows for sleep tracking to take place prior to and between patient-provider interactions, which could transform the current framework of sleep medicine care delivery. Additionally, the use of CST alongside the recording of other health-metrics with digital tools (e.g., blood pressure cuffs, scales, glucometers, mobile apps for symptoms tracking) may ultimately reveal the interactions between sleep and patient comorbidities (e.g., hypertension, diabetes) in ambulatory settings. Despite this potential, CST is largely unregulated and has yet-unsolved intrinsic limitations inherent to a consumer-oriented product. For example, CST lacks major requirements of traditional clinical/research tools, including transparency in the algorithms used, control of, and access to raw data. The scientific community has been actively examining the performance of CST, considering these limitations, and continues to provide guidance on how to move forward with CST in basic and clinical sleep research. Here, we discuss performance, rationale, theoretical and practical guidelines for testing and using wearable CST. © 2023 Elsevier Inc. All rights reserved
+KW  - Accelerometry
+KW  - Actigraphy
+KW  - Algorithm
+KW  - Consumer sleep technology
+KW  - Heart rate
+KW  - Heart rate variability
+KW  - Motion
+KW  - Open access
+KW  - Photoplethysmography
+KW  - Polysomnography
+KW  - Remote patient monitoring
+KW  - Sensors
+KW  - Sleep-trackers
+KW  - Validation
+KW  - Wearable
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Šolić, P.
+AU  - Colella, R.
+AU  - Perković, T.
+AU  - Leo, C.G.
+AU  - Sabina, S.
+AU  - Catarinucci, L.
+TI  - Exploring the Potential of Bluetooth Low Energy for Wireless Sensing and On-Board Computation in Remote Health Monitoring
+PY  - 2023
+T2  - 2023 8th International Conference on Smart and Sustainable Technologies, SpliTech 2023
+DO  - 10.23919/SpliTech58164.2023.10193108
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85168122919&doi=10.23919%2fSpliTech58164.2023.10193108&partnerID=40&md5=a88c33411df349b4b35797f43b5dd453
+AB  - In recent years, wearable technology has seen a significant increase in popularity, particularly for its ability to track vital health parameters, which has proven invaluable in remote patient monitoring applications. In this paper, an electronic device has been developed with a Bluetooth 5.1 Low Energy (BLE) radio that is capable of detecting, collecting, aggregating and transmitting the Root Sum of Squares Method (RSS) of the acceleration data at regular intervals of 60 seconds to any standard BLE device. This wireless multiprotocol and multiband microcontroller operates on sub-1 GHz and 2.4 GHz frequencies, supporting Bluetooth® 5.1 low energy protocol and other wireless communication protocols through a Dynamic MultiProtocol Manager (DMM) driver. The BMI160 has been designed and specifically programmed to perform acceleration processing on the three measured axes onboard, thereby reducing the amount of data to be transmitted, as well as the communication time. This device can be integrated with other physiological parameter monitoring systems of an individual/patient, making it possible to use these systems for a variety of applications, including healthcare and wellness.  © 2023 University of Split, FESB.
+KW  - Bluetooth Low Energy (BLE)
+KW  - On-Board Computation
+KW  - Remote Health Monitoring
+KW  - Root Sum of Squares Method (RSS)
+KW  - Wireless Sensing
+KW  - Physiological models
+KW  - Remote patient monitoring
+KW  - Transmission control protocol
+KW  - Wearable technology
+KW  - Bluetooth low energy
+KW  - Lower energies
+KW  - Monitoring applications
+KW  - Multiprotocols
+KW  - On-board computation
+KW  - Remote health monitoring
+KW  - Root sum of square method
+KW  - Sums of squares
+KW  - Vital health parameters
+KW  - Wireless sensing
+KW  - Bluetooth
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Krishnamoorthy, P.
+AU  - Vasanthi, R.
+AU  - Pavithra, K.N.
+AU  - Jagadeesh, K.
+AU  - Vijayaraj, T.
+AU  - Arumugam, D.
+TI  - Internet of Things Oriented Human Body Enabled Communication Protocol Design for Health Monitoring Services
+PY  - 2024
+T2  - 2024 International Conference on Intelligent Systems for Cybersecurity, ISCS 2024
+DO  - 10.1109/ISCS61804.2024.10581342
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199312161&doi=10.1109%2fISCS61804.2024.10581342&partnerID=40&md5=698372b7158a4466eee973c355715ed7
+AB  - The rapid advancement of Internet of Things (IoT) technology has transformed healthcare by enabling remote patient monitoring, chronic disease management, and preventive care solutions. Human Body Communication (HBC) stands out as a promising integration within this evolution, utilizing the body's electrical conductivity for seamless data transmission between wearable health devices and healthcare systems. This direct connection ensures secure, real-time monitoring without traditional connectivity constraints. Proposing a protocol design framework, this abstract aims to optimize communication between IoT and HBC technologies to enhance health monitoring services and the framework accommodates a variety of sensors crucial for comprehensive health assessment, including temperature, EEG, ECG, heart rate, pressure, blood glucose, oxygen saturation, respiratory rate, and blood pressure sensors. By integrating IoT and HBC, healthcare enters a new era characterized by improved accessibility, efficiency, and personalized care delivery. This convergence fosters proactive healthcare, empowering individuals to manage their well-being while enabling healthcare providers to deliver timely interventions for better patient outcomes. © 2024 IEEE.
+KW  - centralized healthcare systems
+KW  - data transmission
+KW  - health monitoring solutions
+KW  - healthcare
+KW  - Human Body Communication (HBC)
+KW  - implantable
+KW  - integration
+KW  - Internet of Things (IoT)
+KW  - wearable
+KW  - Blood
+KW  - Blood pressure
+KW  - Data communication systems
+KW  - Data transfer
+KW  - Diseases
+KW  - Patient monitoring
+KW  - Patient treatment
+KW  - Wearable technology
+KW  - Centralised
+KW  - Centralized healthcare system
+KW  - Data-transmission
+KW  - Health monitoring
+KW  - Health monitoring solution
+KW  - Healthcare
+KW  - Healthcare systems
+KW  - Human body communication
+KW  - Human body communications
+KW  - Implantable
+KW  - Internet of thing
+KW  - Wearable
+KW  - Internet of things
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Vyas, A.
+AU  - Pal, S.
+AU  - Kaur, K.
+TI  - Remote patient monitoring service for sleeping human postures in a WBAN
+PY  - 2022
+T2  - Smart Health
+VL  - 26
+C7  - 100305
+DO  - 10.1016/j.smhl.2022.100305
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85138570693&doi=10.1016%2fj.smhl.2022.100305&partnerID=40&md5=cd65da33e1045d2c67bb9a4c7d2821b6
+AB  - Wireless Body Area Networks (WBANs) provide wireless remote patient monitoring services where doctors get patients' health records without physically visiting them. In WBANs, biosensors are placed on the patient's body that sense and transmit physiological data to the paired medical personnel. Such medical setups are appropriate for COVID-19 patient monitoring, where the patient remains isolated for an extended period. Sometimes, human body parts impede the signals transmitted by biosensors to the coordinator and this type of occlusion lasts for a longer duration during sleeping human postures. In such circumstances, an intermediate biosensor forwards the signals of the occluded biosensor node. The forwarding of messages results in quick depletion of energy resources at the intermediate biosensor, affecting the overall WBAN services. To resolve this, first, we propose an adaptive Relay-Node Centric (RNC) relay-based communication protocol for WBANs, which reduces energy used in relaying and improves the stability period of the network. Second, we design a novel simulation model using an existing real-life experimental dataset to simulate a WBAN placed on the sleeping patient's body. We derive a Discrete Markov Chain (DTMC) model from real-life data and use human biomechanisms to simulate biosensors' connectivity status in four human sleeping positions. Lastly, we evaluate the performance of RNC against the existing cost-function-based and Analytical Hierarchical Process (AHP) based relay selection protocols. Results obtained on the real-life dataset and designed simulation model show that RNC outperforms the existing methods in terms of network stability period and packet success ratio. © 2022
+KW  - And relay-based communication
+KW  - Human sleeping positions
+KW  - Remote healthcare services
+KW  - Simulation
+KW  - arm
+KW  - Article
+KW  - biomechanics
+KW  - body position
+KW  - communication protocol
+KW  - coronavirus disease 2019
+KW  - data aggregation
+KW  - discrete markov chain
+KW  - energy consumption
+KW  - human
+KW  - leg
+KW  - Markov chain
+KW  - medical decision making
+KW  - patient monitoring
+KW  - prone position
+KW  - relay node centric
+KW  - simulation
+KW  - sleep
+KW  - supine position
+KW  - telemonitoring
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Angelucci, A.
+AU  - Aliverti, A.
+TI  - Telemonitoring systems for respiratory patients: technological aspects
+PY  - 2020
+T2  - Pulmonology
+VL  - 26
+IS  - 4
+SP  - 221
+EP  - 232
+DO  - 10.1016/j.pulmoe.2019.11.006
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077723989&doi=10.1016%2fj.pulmoe.2019.11.006&partnerID=40&md5=6dd841788cb11b30fe04c102ff486f70
+AB  - This review introduces the reader to the available technologies in the field of telemonitoring, with focus on respiratory patients. In the materials and methods section, a general structure of telemonitoring systems for respiratory patients is presented and the sensors of interest are illustrated, i.e., respiratory monitors (wearable and non-wearable), activity trackers, pulse oximeters, environmental monitors and other sensors of physiological variables. Afterwards, the most common communication protocols are briefly introduced. In the results section, selected clinical studies that prove the significance of the presented parameters in chronic respiratory diseases are presented. This is followed by a discussion on the main current issues in telemedicine, in particular legal aspects, data privacy and benefits both in economic and health terms. © 2019 Sociedade Portuguesa de Pneumologia
+KW  - eHealth
+KW  - Telemedicine
+KW  - Telemonitoring
+KW  - Aged
+KW  - Aged, 80 and over
+KW  - Chronic Disease
+KW  - Communication
+KW  - Confidentiality
+KW  - Environmental Monitoring
+KW  - Fitness Trackers
+KW  - Humans
+KW  - Monitoring, Physiologic
+KW  - Oximetry
+KW  - Respiratory Tract Diseases
+KW  - Technology
+KW  - Telemedicine
+KW  - Wearable Electronic Devices
+KW  - carboxyhemoglobin
+KW  - deoxyhemoglobin
+KW  - nitrogen dioxide
+KW  - oxyhemoglobin
+KW  - Article
+KW  - artificial ventilation
+KW  - breathing rate
+KW  - capnometry
+KW  - chronic obstructive lung disease
+KW  - chronic respiratory tract disease
+KW  - electrocardiography
+KW  - electrodermal response
+KW  - electroencephalography
+KW  - electromyography
+KW  - electrooculography
+KW  - end tidal carbon dioxide tension
+KW  - environmental monitoring
+KW  - forced expiratory volume
+KW  - forced oscillation technique
+KW  - forced vital capacity
+KW  - functional residual capacity
+KW  - heart disease
+KW  - human
+KW  - impedance
+KW  - lung artery pressure
+KW  - lung function test
+KW  - noninvasive ventilation
+KW  - oxygen saturation
+KW  - oxygen therapy
+KW  - plethysmography
+KW  - polysomnography
+KW  - pulse oximetry
+KW  - sleep disorder
+KW  - spirometry
+KW  - systematic review
+KW  - technology
+KW  - telecommunication
+KW  - telemedicine
+KW  - telemonitoring
+KW  - tidal volume
+KW  - activity tracker
+KW  - aged
+KW  - chronic disease
+KW  - confidentiality
+KW  - devices
+KW  - economics
+KW  - electronic device
+KW  - interpersonal communication
+KW  - legislation and jurisprudence
+KW  - oximetry
+KW  - pathophysiology
+KW  - physiologic monitoring
+KW  - procedures
+KW  - respiratory tract disease
+KW  - technology
+KW  - very elderly
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 64
+ER  -
+
+TY  - CONF
+AU  - Ciocca, G.
+AU  - Napoletano, P.
+AU  - Romanato, M.
+AU  - Schettini, R.
+TI  - A health telemonitoring platform based on data integration from different sources
+PY  - 2022
+T2  - IEEE International Conference on Consumer Electronics - Berlin, ICCE-Berlin
+VL  - 2022-September
+DO  - 10.1109/ICCE-Berlin56473.2022.9937137
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142385224&doi=10.1109%2fICCE-Berlin56473.2022.9937137&partnerID=40&md5=44005eae00f08f91143bd731bdf6b46e
+AB  - The management of people with long-term or chronic illness is one of the biggest challenges for national health systems. In fact, these diseases are among the leading causes of hospitalization, especially for the elderly, and huge amount of resources required to monitor them leads to problems with sustainability of the healthcare systems. The increasing diffusion of portable devices and new connectivity technologies allows the implementation of telemonitoring system capable of providing support to health care providers and lighten the burden on hospitals and clinics. In this paper, we present the implementation of a telemonitoring platform for healthcare, designed to capture several types of physiological health parameters from different consumer mobile and custom devices. Consumer medical devices can be integrated into the platform via the Google Fit ecosystem that supports hundreds of devices, while custom devices can directly interact with the platform with standard communication protocols. The platform is designed to process the acquired data using machine learning algorithms, and to provide patients and physicians the physiological health parameters with a user-friendly, comprehensive, and easy to understand dashboard which monitors the parameters through time. Preliminary usabil-ity tests show a good user satisfaction in terms of functionality and usefulness.  © 2022 IEEE.
+KW  - As-sistive technology
+KW  - Health care
+KW  - Medical information systems
+KW  - Mobile and personal devices
+KW  - Health care
+KW  - Hospitals
+KW  - Learning algorithms
+KW  - Machine learning
+KW  - Medical computing
+KW  - Medical information systems
+KW  - Physiological models
+KW  - Physiology
+KW  - As-sistive technology
+KW  - Chronic illness
+KW  - Health parameters
+KW  - Healthcare systems
+KW  - Mobile and personal device
+KW  - National health system
+KW  - Personal devices
+KW  - Portable device
+KW  - Tele-monitoring
+KW  - Telemonitoring systems
+KW  - Data integration
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Hossain, N.I.
+AU  - Tabassum, S.
+TI  - An IoT-enabled Electronic Textile-based Flexible Body Sensor Network for Real-time Health Monitoring in Assisted Living during Pandemic
+PY  - 2022
+T2  - Proceedings - International Symposium on Quality Electronic Design, ISQED
+VL  - 2022-April
+DO  - 10.1109/ISQED54688.2022.9806281
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85133786357&doi=10.1109%2fISQED54688.2022.9806281&partnerID=40&md5=3a7b29889e38593af4ac09113d0f3f82
+AB  - This paper presents a cost-effective and flexible electronic textile sensor with high sensitivity and fast response and demonstrates its versatile applications, including real-time measurements of finger kinematics, phonation, cough patterns, as well as subtle muscle movements (i.e., eye reflex). The sensor can discriminate between speech and cough patterns, thereby expanding its applications to COVID-19 detection, speech rehabilitation training, and human/machine interactions. A combination of different sensor data is essential to acquire clinically significant information. Therefore, a sensor array is interfaced with the LoRa communication protocol to establish an Internet of Things (IoT)-based electronic textile framework. The IoT integration allows remote monitoring of body kinematics and physiological parameters. Therefore, the proposed IoT-based framework holds the potential to provide real-time and continuous health monitoring to allow immediate intervention during this pandemic. © 2022 IEEE.
+KW  - Assisted living
+KW  - COVID-19
+KW  - Electronic textile
+KW  - Flexible body sensor network
+KW  - Internet of Things (IoT)
+KW  - LoRa
+KW  - Smart home
+KW  - Strain sensor
+KW  - Wearable sensor
+KW  - Assisted living
+KW  - Automation
+KW  - Body sensor networks
+KW  - Cost effectiveness
+KW  - Eye movements
+KW  - Internet of things
+KW  - Kinematics
+KW  - Physiological models
+KW  - Smart textiles
+KW  - Wearable sensors
+KW  - Cost effective
+KW  - Flexible bodies
+KW  - Flexible body sensor network
+KW  - High sensitivity
+KW  - Internet of thing
+KW  - Lora
+KW  - Real-time health monitoring
+KW  - Smart homes
+KW  - Strain sensors
+KW  - Textile sensors
+KW  - COVID-19
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Chaari Fourati, L.
+AU  - Said, S.
+TI  - Remote Health Monitoring Systems Based on Bluetooth Low Energy (BLE) Communication Systems
+PY  - 2020
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 12157 LNCS
+SP  - 41
+EP  - 54
+DO  - 10.1007/978-3-030-51517-1_4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85087774871&doi=10.1007%2f978-3-030-51517-1_4&partnerID=40&md5=c41ab54243a9be9c92e95d138ea3336d
+AB  - Nowadays, remote healthcare monitoring systems (RHMS) are attracting patients, doctors and caregivers. RHMS reduces the number of unessential hospitalizations by providing the required healthcare services for patients at home. Furthermore, continuous health monitoring using RHMS is a hopeful solution for elderly people suffering from chronic diseases. RHMS is in general three tiers architecture where the first tier uses intelligent wearable sensors to gather physiological signs. The majority of wearable sensors constructors commercialized sensing devices with Bluetooth Low Energy (BLE) communication interfaces, which lead to the development of diverse RHMS deploying BLE communication interfaces for physiological patient data gathering. In this paper, we introduce the basic concepts related to RHMS design and development. Besides that, we focus our investigation on the BLE communication protocol used in the healthcare context and its configuration to sense several physiological data. Also, we highlight the different steps enabling reading sensed data on mobile application. © 2020, The Author(s).
+KW  - Bluetooth Low Energy
+KW  - Healthcare services
+KW  - Remote health monitoring system
+KW  - Automation
+KW  - Bluetooth
+KW  - Developing countries
+KW  - Health care
+KW  - Hospital data processing
+KW  - Intelligent buildings
+KW  - Physiology
+KW  - Wearable sensors
+KW  - Bluetooth low energies (BLE)
+KW  - Communication interface
+KW  - Design and Development
+KW  - Healthcare monitoring
+KW  - Healthcare services
+KW  - Mobile applications
+KW  - Physiological data
+KW  - Remote health monitoring
+KW  - Remote patient monitoring
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Gupta, V.
+AU  - Ingle, A.
+AU  - Gaikwad, D.
+AU  - Vibhute, M.
+TI  - Patient health monitoring and diagnosis using iot and machine learning
+PY  - 2021
+T2  - Lecture Notes in Networks and Systems
+VL  - 145
+SP  - 295
+EP  - 307
+DO  - 10.1007/978-981-15-7345-3_24
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092102980&doi=10.1007%2f978-981-15-7345-3_24&partnerID=40&md5=ceba976fd8aac44c40aaeffc51e6ed8b
+AB  - Including rapid and accurate up-gradation in medical technology, disclosure (detection), and monitoring of patients is not an obvious issue. Nowadays sustained and trend healthcare monitoring devices are available in the market. This paper elaborates on the concept of monitoring and diagnosis of patient health conditions. The main objective of this proposed system is to target heart patients and provide them an integrated portable health monitoring device. The proposed idea helps patients as well as cardiologists. In this system, Raspberry-pi has been used along with communication protocols i.e. MQTT and Machine learning algorithms which make it efficient, affordable, and a reliable prototype. © The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd 2021.
+KW  - ECG sensor
+KW  - Hemoglobin sensor
+KW  - Internet of things (IoT)
+KW  - K-means clustering
+KW  - Logistic regression
+KW  - Machine learning
+KW  - Raspberry-pi pulse rate sensor
+KW  - Thingspeak
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Rajini, M.
+AU  - Voola, P.
+TI  - IoT and Co-Operative Communication Enabled Healthcare Devices - A Review
+PY  - 2022
+T2  - 3rd International Conference on Electronics and Sustainable Communication Systems, ICESC 2022 - Proceedings
+SP  - 475
+EP  - 480
+DO  - 10.1109/ICESC54411.2022.9885288
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139564642&doi=10.1109%2fICESC54411.2022.9885288&partnerID=40&md5=b3e1ae6f3a9142b9af3c29c74dc7f0f7
+AB  - IoT devices are increased as there is constant growth in internet dependable devices. These devices can be able to make contact with the outer world and with the people using a wide range of sensors that, by digitizing certain qualities of interest and experiencing reality as a consequence. It can provide a tremendous amount of data. All of this data is then shared with other devices, as well as other programmes and infrastructures across the network. IoT is built up on the idea of a continually changing the dynamic world integrating the WSNs. IoT applications are in healthcare monitoring, which are combined sensor technology with proprietary communication protocols, they have improved communication between doctors and patients, resulting in high-quality medical treatment. This is accomplished by using a sensor network with no wires system to monitor patients in real time. For predictive analytics on sensor data is obtained via different channels of communication, several machine learning approaches are addressed. The reliability of the Internet of Things in Healthcare architecture development is examined in this study by using a cooperative communication system with a relay mechanism. In healthcare outcomes, the machine learning analytical approach allows sickness diagnosis. This article about the IoT in healthcare and the several data science algorithms utilized makes use of a variety of literature evaluations. This article also discussed the hardware difficulties of integrating cooperative communication. In the framework of cooperative communication, the current technologies and data sources are employed in healthcare analytics are further outlined. Integration of cloud and fog technologies with IoT data modelling has also been suggested.  © 2022 IEEE.
+KW  - Co- operative communication
+KW  - Deep Learning Framework
+KW  - Healthcare
+KW  - Internet of Things (IoT)
+KW  - IoT wearable Devices
+KW  - Cooperative communication
+KW  - Data Analytics
+KW  - Deep learning
+KW  - Diagnosis
+KW  - Patient monitoring
+KW  - Patient treatment
+KW  - Predictive analytics
+KW  - Sensor networks
+KW  - Co-operative communications
+KW  - Combined sensors
+KW  - Deep learning framework
+KW  - Dynamic world
+KW  - Healthcare
+KW  - Healthcare monitoring
+KW  - Internet of thing
+KW  - Internet of thing wearable device
+KW  - Learning frameworks
+KW  - Wearable devices
+KW  - Internet of things
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Javid, S.
+AU  - Mirzaei, A.
+TI  - Presenting a Reliable Routing Approach in IoT Healthcare Using the Multiobjective-Based Multiagent Approach
+PY  - 2021
+T2  - Wireless Communications and Mobile Computing
+VL  - 2021
+C7  - 5572084
+DO  - 10.1155/2021/5572084
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85117311478&doi=10.1155%2f2021%2f5572084&partnerID=40&md5=dba223485176d717cd94a16dc530724c
+AB  - Developments in information and related technologies have led to a wider use of the Internet of things (IoT). By integrating both virtual and physical worlds, IoT creates an integrated communication framework of interrelated things and operating systems. With the advent of IoT systems based on digital remote care, transferring medical data is becoming a daily routine. Healthcare is one of the most popular IoT applications and tries to monitor patients' vital signs during the day for weeks and to eliminate the need for hospitalization. In a healthcare system, many sensors are installed to collect the patient's information, including environmental monitoring sensors and vital and unstructured message sensors in order to reduce the patients' expenses. The IoT network contains flexible sensors in dynamically changing environments where sensors collect environmental information and send it to nursing stations for healthcare applications. Due to the wireless nature of IoT networks, secure data transmission in the healthcare context is very important. Data collected from sensors embedded in healthcare devices may be lost for various reasons along the transmission path. Therefore, establishing a secure communication path in IoT networks in the context of healthcare is of great importance. In this paper, in order to provide a reliable data transfer protocol in the context of healthcare, a reliable routing using multiobjective genetic algorithm (RRMOGA) method is presented. The contribution of this paper can be summarized in two steps: (i) using a multiobjective optimization approach to find near-optimal paths and (ii) using reliable agents in the network to find backup paths. The simulation outcomes reveal that the proposed approach, based on the use of the multiobjective optimization approach, tries to find optimal paths for information transfer that improve the main parameters of the network. Also, the use of secure agents leads to a secure information transfer in the network in the context of healthcare. Experimental results show that the proposed method has achieved reliability and data delivery rates, 99% and 99.9%, respectively. The proposed method has improved network lifetime, delivery rate, and delay by 14%, 2%, and 5.6%, respectively.  © 2021 Saeed Javid and Abbas Mirzaei.
+KW  - Data communication systems
+KW  - Data transfer
+KW  - Genetic algorithms
+KW  - Health care
+KW  - Multi agent systems
+KW  - Multiobjective optimization
+KW  - Network security
+KW  - Remote patient monitoring
+KW  - Information transfers
+KW  - Multi objective
+KW  - Multi-agent approach
+KW  - Multi-objectives optimization
+KW  - Optimal paths
+KW  - Optimization approach
+KW  - Physical world
+KW  - Reliable routing
+KW  - Routing approach
+KW  - Virtual worlds
+KW  - Internet of things
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 10
+ER  -
+
+TY  - JOUR
+AU  - Ahmadzadeh, S.
+TI  - Study of Energy-Efficient Biomedical Data Compression Methods in the Wireless Body Area Networks (WBANs) and Remote Healthcare Networks
+PY  - 2023
+T2  - International Journal of Wireless Information Networks
+VL  - 30
+IS  - 3
+SP  - 252
+EP  - 269
+DO  - 10.1007/s10776-023-00599-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85164527730&doi=10.1007%2fs10776-023-00599-6&partnerID=40&md5=7f407593b3c4012cd9c952fef513075b
+AB  - Wireless Body Area Network (WBAN) is a wireless network of short-range communication protocols for remote healthcare monitoring with the possibility of giving freedom of human body movements. Sensor nodes (motes) are usually located under the skin, implanted deep in the body, or ingested, as in the rare case of smart pills for medical and non-medical usage. Since the necessary connections of wearable and implantable devices are wireless, and the components use low batteries, processing and transferring the critical data can deplete the nodes’ power. In most cases, it is impossible to exchange or re-power batteries. Holter monitoring, loop recorders, and wireless capsule endoscopy are some of the WBAN’s applications for saving and transferring medical data. Wireless capsule endoscopy is the application for image transmission in WBANs, and the image compression in common is a specific segment of capsule endoscopy. Since the better compression of images increases the frame rate and typically improves the diagnosis process, selecting the compression algorithm should be relevant. The considerable scope of this comprehensive study pays attention to the various biomedical data compression approaches in WBANs. This paper focuses on power-efficient schemes of remote healthcare networks. In this survey article, the energy-based biomedical data compression approaches of WBANs and remote healthcare networks are accurately classified based on lossy, lossless, and hybrid techniques; later, a comprehensive comparison of each specific method’s power consumption is presented. © 2023, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.
+KW  - Biomedical image
+KW  - Biomedical signal
+KW  - Compression
+KW  - Energy-efficient
+KW  - Lossless
+KW  - Lossy
+KW  - Low-power
+KW  - Electric batteries
+KW  - Endoscopy
+KW  - Energy efficiency
+KW  - Flexible electronics
+KW  - Image enhancement
+KW  - Image segmentation
+KW  - Low power electronics
+KW  - Pelletizing
+KW  - Wireless local area networks (WLAN)
+KW  - Biomedical data
+KW  - Biomedical images
+KW  - Biomedical signal
+KW  - Compression
+KW  - Energy efficient
+KW  - Lossless
+KW  - Lossy
+KW  - Low Power
+KW  - Wireless body area network
+KW  - Wireless capsule endoscopy
+KW  - Sensor nodes
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 07 September 2024; Cited By: 2
+ER  -
+
