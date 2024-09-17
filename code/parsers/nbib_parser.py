@@ -32,12 +32,12 @@ class NBIBParser(BaseParser):
                     break  # No need to check further keywords for this line
 
             # Handle multi-line abstract or other fields with indented continuation lines
-            if current_field == 'abstract' and line.startswith('  '):  # Indented lines continue the abstract
+            if current_field in ['abstract', 'title', 'venue'] and line.startswith('  '):  # Indented lines continue
                 current_record[current_field] += line.strip() + ' '
 
-            # Stop appending to the abstract when we encounter a non-indented line or a new keyword
-            if current_field == 'abstract' and not line.startswith('  ') and not any(line.startswith(k) for k in self.keywords.values()):
-                current_field = None  # Stop appending to the abstract
+            # Stop appending when we encounter a non-indented line or a new keyword
+            if current_field in ['abstract', 'title', 'venue'] and not line.startswith('  ') and not any(line.startswith(k) for k in self.keywords.values()):
+                current_field = None  # Stop appending
 
         # Add the last record to the list if it exists and is valid
         if current_record:
