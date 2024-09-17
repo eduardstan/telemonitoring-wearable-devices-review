@@ -21,7 +21,8 @@ class RISParser(BaseParser):
             for line in lines:
                 if line.startswith("ER"):  # End of record
                     current_record = self.handle_missing_fields(current_record)
-                    records.append(dict(current_record))
+                    if current_record:  # Only append valid records
+                        records.append(dict(current_record))
                     current_record = defaultdict(str)  # Reset for the next record
                     break
 
@@ -31,10 +32,11 @@ class RISParser(BaseParser):
                         # Append the value and separate multiple values with a semicolon
                         current_record[field] += line.strip()[len(keyword):].strip() + '; '
 
-        # Add the last record to the list if it's not empty
+        # Add the last record to the list if it's valid
         if current_record:
             current_record = self.handle_missing_fields(current_record)
-            records.append(dict(current_record))
+            if current_record:  # Only append valid records
+                records.append(dict(current_record))
 
         # Remove trailing semicolon and space from each record field
         for record in records:

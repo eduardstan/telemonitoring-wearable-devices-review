@@ -15,7 +15,8 @@ class NBIBParser(BaseParser):
             if line.startswith("PMID-"):  # Start of a new record
                 if current_record:  # Save the previous record if it exists
                     current_record = self.handle_missing_fields(current_record)
-                    records.append(dict(current_record))
+                    if current_record:  # Only append valid records
+                        records.append(dict(current_record))
                     current_record = defaultdict(str)
                 current_field = None  # Reset the current field for a new record
 
@@ -38,10 +39,11 @@ class NBIBParser(BaseParser):
             if current_field == 'abstract' and not line.startswith('  ') and not any(line.startswith(k) for k in self.keywords.values()):
                 current_field = None  # Stop appending to the abstract
 
-        # Add the last record to the list if it exists
+        # Add the last record to the list if it exists and is valid
         if current_record:
             current_record = self.handle_missing_fields(current_record)
-            records.append(dict(current_record))
+            if current_record:  # Only append valid records
+                records.append(dict(current_record))
 
         # Clean up by removing trailing semicolons from the authors field and spaces from each record field
         for record in records:
