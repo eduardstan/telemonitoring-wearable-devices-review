@@ -1,5 +1,5 @@
 from collections import defaultdict
-from .base_parser import BaseParser
+from base_parser import BaseParser
 
 class RISParser(BaseParser):
     def parse(self):

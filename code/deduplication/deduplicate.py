@@ -6,7 +6,7 @@ import logging
 import random
 import numpy as np
 from unidecode import unidecode
-import dedupe_config as config
+import config
 
 
 def set_random_seed(seed):
@@ -49,7 +49,7 @@ def deduplicate_data(data_d):
             deduper = dedupe.StaticDedupe(sf)
     else:
         # Initialize deduper with the defined fields
-        deduper = dedupe.Dedupe(config.FIELDS) 
+        deduper = dedupe.Dedupe(config.FIELDS, num_cores=1) 
         deduper.prepare_training(data_d)
 
         if os.path.exists(config.TRAINING_FILE):

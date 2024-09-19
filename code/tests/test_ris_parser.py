@@ -6,7 +6,7 @@ import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from parsers.ris_parser import RISParser
-from parsers.keywords_mapping import RIS_KEYWORDS
+from parsers.config import RIS_KEYWORDS
 
 class TestRISParser(unittest.TestCase):
     def test_parse(self):

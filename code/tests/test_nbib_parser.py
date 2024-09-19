@@ -6,7 +6,7 @@ import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from parsers.nbib_parser import NBIBParser
-from parsers.keywords_mapping import NBIB_KEYWORDS
+from parsers.config import NBIB_KEYWORDS
 
 class TestRISParser(unittest.TestCase):
     def test_parse(self):
