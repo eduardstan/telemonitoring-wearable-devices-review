@@ -1,10 +1,9 @@
 import os
 import re
+import random
 import dedupe
 import csv
 import logging
-import random
-import numpy as np
 from unidecode import unidecode
 from code.config import DEDUP_FIELDS, RANDOM_SEED
 from code.utils.file_utils import ensure_directory_exists, find_files_with_prefix, get_output_filename
@@ -12,7 +11,6 @@ from code.utils.file_utils import ensure_directory_exists, find_files_with_prefi
 def set_random_seed(seed):
     """Set the random seed for reproducibility."""
     random.seed(seed)
-    np.random.seed(seed)
 
 def pre_process(column):
     """Clean and normalize text data."""
@@ -100,7 +98,7 @@ def write_results(input_file, clustered_dupes, topic):
         selected_record_id = records[0]
         cluster_membership[selected_record_id] = {"Cluster ID": cluster_id, "confidence_score": scores[0]}
     
-    # Read the input file and write deduplicated records
+    # Write results to output file
     with open(input_file, newline='', encoding='utf-8') as f_input, open(output_file, 'w', newline='', encoding='utf-8') as f_output:
         reader = csv.DictReader(f_input)
         fieldnames = ["Cluster ID", "confidence_score"] + reader.fieldnames
@@ -125,29 +123,3 @@ def deduplicate_file(topic):
         write_results(input_file, clustered_dupes, topic)
     except Exception as e:
         logging.error(f"Error deduplicating topic '{topic}': {e}")
-
-def main():
-    """Main function to handle deduplication via CLI."""
-    from ..utils.logging_utils import setup_logging
-    import argparse
-
-    setup_logging()
-    set_random_seed(RANDOM_SEED)
-    
-    parser = argparse.ArgumentParser(description="Deduplicate parsed records.")
-    parser.add_argument(
-        "--topics",
-        nargs="+",
-        required=True,
-        help="List of topic names to deduplicate (e.g., ai_methods, accessibility)."
-    )
-    
-    args = parser.parse_args()
-    
-    for topic in args.topics:
-        logging.info(f"Starting deduplication for topic: {topic}")
-        deduplicate_file(topic)
-        logging.info(f"Completed deduplication for topic: {topic}")
-
-if __name__ == "__main__":
-    main()
