@@ -1,5 +1,4 @@
 import argparse
-import logging
 from parsers.parse import parse_sources
 from deduplication.deduplicate import deduplicate_file
 from utils.logging_utils import setup_logging

@@ -1,21 +1,5 @@
 import dedupe
 
-# Parsing fields configuration
-SELECTED_FIELDS = ['title', 'authors', 'doi', 'venue', 'year', 'abstract', 'publication_language']
-REQUIRED_FIELDS = ['title', 'authors', 'venue', 'doi', 'year', 'abstract']
-OPTIONAL_FIELDS = ['publication_language']
-
-# Dedupe fields configuration
-DEDUP_FIELDS = [
-    dedupe.variables.String('title'),
-    dedupe.variables.String('authors'),
-    dedupe.variables.String('doi'),
-    dedupe.variables.Text('abstract'),
-]
-
-# Random seed for reproducibility in active learning and deduplication
-RANDOM_SEED = 42
-
 # Keywords mappings for different formats
 EMBASE_RIS_KEYWORDS = {
     'title': 'T1  -',
@@ -49,3 +33,19 @@ NBIB_KEYWORDS = {
     'abstract': 'AB  -',
     'venue': 'JT  -',
 }
+
+# Parsing fields configuration
+SELECTED_FIELDS = ['title', 'authors', 'doi', 'venue', 'year', 'abstract', 'publication_language']
+REQUIRED_FIELDS = ['title', 'authors', 'venue', 'doi', 'year', 'abstract']
+OPTIONAL_FIELDS = ['publication_language']
+
+# Dedupe fields configuration
+DEDUP_FIELDS = [
+    dedupe.variables.String('title'),
+    dedupe.variables.String('authors'),
+    dedupe.variables.String('doi'),
+    dedupe.variables.Text('abstract'),
+]
+
+# Random seed for reproducibility in active learning and deduplication
+RANDOM_SEED = 42
