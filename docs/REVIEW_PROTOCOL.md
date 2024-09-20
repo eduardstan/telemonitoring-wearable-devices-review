@@ -113,10 +113,10 @@ The search query used for this review was divided into two main parts: **telemon
 - **Scopus**: Searches were performed using **"Search within Article title, Abstract, Keywords"** for both the telemonitoring and wearable devices parts and the refined subtopic searches.
 
 This broad query yielded substantial results:
-- **Embase**: 2267 records
-- **IEEE Xplore**: 1213 records
-- **PubMed**: 2035 records
-- **Scopus**: 3393 records
+- **Embase**: 2288 records
+- **IEEE Xplore**: 1221 records
+- **PubMed**: 2057 records
+- **Scopus**: 3419 records
 
 Given the large number of results, the query was further refined by focusing on specific subtopics relevant to the field.
 
@@ -131,10 +131,10 @@ This search aimed to capture studies focusing on artificial intelligence and mac
 ```
 
 Results:
-- **Embase**: 365 records
-- **PubMed**: 283 records
-- **Scopus**: 775 records
-- **IEEE Xplore**: 471 records
+- **Embase**: 371 records
+- **PubMed**: 290 records
+- **Scopus**: 787 records
+- **IEEE Xplore**: 475 records
 
 ###### Laws and Regulations
 This search focused on identifying legal and regulatory frameworks relevant to telemonitoring and wearable devices.
@@ -145,9 +145,9 @@ This search focused on identifying legal and regulatory frameworks relevant to t
 
 Results:
 - **Embase**: 64 records
-- **PubMed**: 54 records
+- **PubMed**: 55 records
 - **Scopus**: 61 records
-- **IEEE Xplore**: 40 records
+- **IEEE Xplore**: 41 records
 
 ###### Interoperability
 This search explored how telemonitoring devices and systems can interoperate within broader healthcare infrastructures.
@@ -157,9 +157,9 @@ This search explored how telemonitoring devices and systems can interoperate wit
 ```
 
 Results:
-- **Embase**: 27 records
-- **PubMed**: 19 records
-- **Scopus**: 70 records
+- **Embase**: 28 records
+- **PubMed**: 20 records
+- **Scopus**: 72 records
 - **IEEE Xplore**: 67 records
 
 ###### Data Privacy and Security
@@ -170,10 +170,10 @@ This search focused on data protection mechanisms and privacy challenges in tele
 ```
 
 Results:
-- **Embase**: 81 records
+- **Embase**: 82 records
 - **PubMed**: 50 records
-- **Scopus**: 183 records
-- **IEEE Xplore**: 187 records
+- **Scopus**: 188 records
+- **IEEE Xplore**: 190 records
 
 ###### Communication Protocols
 This search examined the underlying communication protocols used for data transmission in telemonitoring systems.
@@ -196,10 +196,10 @@ This search focused on the human-computer interaction aspects of telemonitoring 
 ```
 
 Results:
-- **Embase**: 84 records
-- **PubMed**: 92 records
-- **Scopus**: 116 records
-- **IEEE Xplore**: 44 records
+- **Embase**: 100 records
+- **PubMed**: 113 records
+- **Scopus**: 180 records
+- **IEEE Xplore**: 47 records
 
 ###### Accessibility
 This search addressed accessibility in telemonitoring systems, with a focus on ensuring usability for diverse populations.
@@ -209,10 +209,10 @@ This search addressed accessibility in telemonitoring systems, with a focus on e
 ```
 
 Results:
-- **Embase**: 72 records
-- **PubMed**: 66 records
+- **Embase**: 74 records
+- **PubMed**: 70 records
 - **Scopus**: 131 records
-- **IEEE Xplore**: 60 records
+- **IEEE Xplore**: 63 records
 
 ##### Data Download Specifications
 Once the queries were refined for each topic, the data was downloaded according to the following specifications:
@@ -229,18 +229,21 @@ Once the queries were refined for each topic, the data was downloaded according 
 - **IEEE Xplore**: Data was downloaded in **RIS format**, including "Citation and Abstract" details. Since IEEE Xplore limits downloads to 100 records per page, the data was split into multiple files (e.g., `topic_1_100_records.ris`, `topic_101_201_records.ris`).
   - Search was conducted via: [IEEE Xplore Advanced Search](https://ieeexplore.ieee.org/search/advanced).
 
-All data was downloaded by topic on **Sept 6th, 2024**, and stored in the `/data/raw/` directory. The raw data is organized according to PRISMA’s principles of systematic, transparent, and reproducible research.
+All data was downloaded by topic on **Sept 20th, 2024**, and stored in the `/data/raw/` directory. The raw data is organized according to PRISMA’s principles of systematic, transparent, and reproducible research.
 
 #### 3. **Screening Process**
-- The initial screening was conducted based on each retrieved paper's **title** and **abstract**.
-- Studies unrelated to healthcare or that did not focus on telemonitoring and wearable devices were excluded.
-- Inclusion criteria were developed based on the study objectives and topics of interest (e.g., AI, interoperability).
-- The full text of each paper that passed the initial screening was then assessed for eligibility.
+The screening process was conducted according to PRISMA principles and included the following steps:
+- **Title and Abstract Screening**: Initial screening based on the **title** and **abstract** fields. Studies that were irrelevant to healthcare or that did not address telemonitoring and wearable devices were excluded.
+- **Full-Text Review**: Eligible studies that passed the initial screening were further evaluated by their full-text for inclusion based on predefined criteria.
+- **Inclusion/Exclusion Criteria**: 
+  - Inclusion of studies that focused on telemonitoring, wearable devices, and at least one of the refined subtopics.
+  - Exclusion of studies outside healthcare or that did not discuss relevant technological, legal, or usability aspects.
 
 #### 4. **Data Management**
-- Raw records from each database were stored in the `/data/raw/` folder, organized by database and topic.
-- RIS and NBIB formats were used to store bibliographic data, ensuring compatibility with reference management tools like Zotero.
-- The data was then parsed and deduplicated using custom Python scripts to clean the dataset before analysis.
+- Data was stored in the `/data/raw/` folder, with subfolders for each database and subtopic.
+- **Fields Used for Parsing**: The **selected**, **required**, and **optional** fields for parsing data were explicitly defined in `/code/config.py`, and all parsers adhered to these field mappings.
+- Parsed data was stored in the `/data/parsed/` folder in CSV format.
+- Deduplication was performed using the fields defined in `/code/config.py`, and the cleaned, deduplicated data was stored in `/data/deduplicated/`.
 
 #### 5. **PRISMA Compliance**
 This systematic review follows the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines to ensure transparency and rigor in the review process. A PRISMA flow diagram documents the study selection process, including records retrieved, screened, and excluded.
@@ -252,7 +255,7 @@ This systematic review follows the PRISMA (Preferred Reporting Items for Systema
 | **Study Citation**             |                                                                                                       |                                                                 |
 | - Author(s)                    | Name(s) of the author(s)                                                                              | Smith et al.                                                    |
 | - Year                         | Year of publication                                                                                   | 2023                                                            |
-| - Title                        | Title of the study                                                                                    | "The Impact of AI in Telemonitoring and Wearable Devices"        |
+| - Title                        | Title of the study  | "The Impact of AI in Telemonitoring and Wearable Devices"        |
 | - Venue (Conference/Journal)   | The journal or conference where the study was published                                               | IEEE Transactions on Biomedical Engineering                     |
 | **Study Objectives/Research Questions** | Description of the study’s aims and key research questions                                        | What is the effect of AI on remote patient monitoring?           |
 | **Methodology**                |                                                                                                       |                                                                 |
@@ -261,7 +264,7 @@ This systematic review follows the PRISMA (Preferred Reporting Items for Systema
 | - Analysis Methods             | Statistical methods or analysis approaches used                                                       | Regression Analysis, AI-based models                            |
 | **Key Findings**               | Summary of the study’s primary results                                                                | AI improved monitoring accuracy by 15%                          |
 | **Implications**               | Implications of the study findings for telemonitoring and wearable devices in healthcare              | AI-based solutions could enhance the efficiency of RPM systems  |
-| **Relevance to Review**        | Assessment of how relevant the study is to the current review’s research questions                    | High relevance: Directly focuses on AI and telemonitoring        |
+| **Relevance to Review**        | Assessment of how relevant the study is to the current review’s research questions (0-3 scale)        | 3 (Highly relevant: directly focuses on AI and telemonitoring)   |
 | **Quality Assessment**         |                                                                                                       |                                                                 |
 | - Risk of Bias                 | Assessment of potential bias (e.g., selection bias, performance bias)                                 | Low, medium, high                                               |
 | - Internal Validity            | Consistency of study methodology and results                                                          | Strong internal validity                                        |
@@ -269,11 +272,17 @@ This systematic review follows the PRISMA (Preferred Reporting Items for Systema
 | - Study Limitations            | Limitations noted by the authors or identified during the review                                      | Small sample size; short follow-up period                       |
 | **Additional Notes**           | Any other important information or contextual notes                                                   |                                                                 |
 
+**Relevance to Review Rating (0-3):**
+- **0**: Not relevant to the review
+- **1**: Slightly relevant (mentions telemonitoring or wearable devices but not central)
+- **2**: Moderately relevant (addresses topics of interest but not fully aligned with objectives)
+- **3**: Highly relevant (direct focus on telemonitoring and wearable devices in healthcare with subtopics of interest)
+
 #### 7. **Inclusion/Exclusion Criteria**
 - **Inclusion Criteria**: 
   - Studies focused on telemonitoring and wearable devices in healthcare.
   - Papers published from 2020 onwards.
-  - Studies that include discussions on AI, interoperability, laws and regulations, or other refined topics.
+  - Studies that include discussions on AI, interoperability, laws and regulations, or other refined subtopics.
 - **Exclusion Criteria**:
   - Studies not related to healthcare or outside the defined scope.
   - Papers in languages other than English (unless translations were available).
