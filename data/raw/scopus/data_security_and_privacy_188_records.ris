@@ -43,7 +43,7 @@ KW  - Web-sites
 KW  - Social networking (online)
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CHAP
@@ -59,7 +59,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193414987&doi=10.120
 AB  - The chapter offers a comprehensive exploration of the dynamic intersection between bioengineering and cutting-edge data analysis techniques within the healthcare landscape. The chapter begins with an insightful introduction to the critical role of bioengineering in shaping modern healthcare, setting the stage for an in-depth analysis of the advances and challenges that characterize this evolving field. The book chapter systematically delves into various applications of bioengineering data analysis, encompassing crucial domains such as disease diagnosis and prognosis, drug discovery and development, personalized medicine, telemedicine, and remote monitoring. It critically examines recent developments in the field of bioengineering data analysis, with a particular focus on the incorporation of advanced techniques such as big data analytics, artificial intelligence, and machine learning models. Additionally, the chapter examines the transformative impact of blockchain technology on healthcare data management, emphasizing its potential to enhance security, transparency, and interoperability. Addressing the paradigm shift toward wearable technology and the Internet of Things (IoT) in bioengineering, the chapter explores how these innovations are revolutionizing healthcare data collection and patient monitoring. Challenges and ethical considerations related to data privacy, security, interpretability, and transparency are thoroughly discussed, providing a balanced view of the ethical landscape in healthcare data analysis. Throughout the chapter, real-world case studies offer valuable insights into the practical applications of machine learning in disease diagnosis, the implementation of blockchain in healthcare, and the ethical dilemmas inherent in healthcare data analysis. The narrative concludes by outlining future directions and emerging trends in predictive analytics, precision medicine, and integrative bioengineering and data analysis. It also underscores the importance of collaborative research and interdisciplinary approaches to propel the field forward. This book chapter serves as a comprehensive guide, offering a holistic view of bioengineering and healthcare data analysis, encompassing advancements, challenges, ethical considerations, and promising future directions. © 2024 selection and editorial matter, Pankaj Bhambri, Sita Rani, and Muhammad Fahim; individual chapters, the contributors.
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -101,7 +101,7 @@ KW  - User friendly
 KW  - Volatile organic compounds
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -150,7 +150,7 @@ KW  - Prediction modelling
 KW  - Decision making
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -198,7 +198,7 @@ KW  - reproduction
 KW  - telemedicine
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 2
+N1  - Export Date: 20 September 2024; Cited By: 2
 ER  -
 
 TY  - CONF
@@ -242,7 +242,7 @@ KW  - Sensors data
 KW  - Wearable sensors
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -282,7 +282,7 @@ KW  - virus transmission
 KW  - wearable technology
 M3  - Editorial
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 2
 ER  -
 
 TY  - CONF
@@ -321,7 +321,7 @@ KW  - Technical advancement
 KW  - Sensor nodes
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 2
+N1  - Export Date: 20 September 2024; Cited By: 2
 ER  -
 
 TY  - JOUR
@@ -347,7 +347,7 @@ KW  - tele-dermatology
 KW  - telemedicine
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 7
+N1  - Export Date: 20 September 2024; Cited By: 7
 ER  -
 
 TY  - JOUR
@@ -388,7 +388,7 @@ KW  - Physiological parameters
 KW  - Sensor nodes
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 4
+N1  - Export Date: 20 September 2024; Cited By: 4
 ER  -
 
 TY  - CHAP
@@ -412,7 +412,7 @@ KW  - Patient monitoring
 KW  - Sensors
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -487,7 +487,7 @@ KW  - procedures
 KW  - telemedicine
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 8
+N1  - Export Date: 20 September 2024; Cited By: 8
 ER  -
 
 TY  - JOUR
@@ -571,63 +571,35 @@ KW  - young adult
 KW  - Data privacy
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 10
+N1  - Export Date: 20 September 2024; Cited By: 10
 ER  -
 
 TY  - JOUR
-AU  - Miao, H.
-AU  - Li, C.
-AU  - Wang, J.
-TI  - A Future of Smarter Digital Health Empowered by Generative Pretrained Transformer
-PY  - 2023
-T2  - Journal of Medical Internet Research
-VL  - 25
-IS  - 1
-C7  - e49963
-DO  - 10.2196/49963
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172204717&doi=10.2196%2f49963&partnerID=40&md5=ed0550ce64050ecdd722ef7cd0c4d01e
-AB  - Generative pretrained transformer (GPT) tools have been thriving, as ignited by the remarkable success of OpenAI’s recent chatbot product. GPT technology offers countless opportunities to significantly improve or renovate current health care research and practice paradigms, especially digital health interventions and digital health–enabled clinical care, and a future of smarter digital health can thus be expected. In particular, GPT technology can be incorporated through various digital health platforms in homes and hospitals embedded with numerous sensors, wearables, and remote monitoring devices. In this viewpoint paper, we highlight recent research progress that depicts the future picture of a smarter digital health ecosystem through GPT-facilitated centralized communications, automated analytics, personalized health care, and instant decision-making. © 2023 Journal of Medical Internet Research. All rights reserved.
-KW  - AI
-KW  - artificial intelligence
-KW  - ChatGPT
-KW  - digital health
-KW  - ethics
-KW  - generative pretrained model
-KW  - generative pretrained transformer
-KW  - precision medicine
-KW  - privacy
-KW  - Ecosystem
-KW  - Health Services Research
-KW  - Hospitals
-KW  - Humans
-KW  - Software
-KW  - Technology
-KW  - Article
-KW  - artificial intelligence
-KW  - ChatGPT
-KW  - clinical decision making
-KW  - clinician
-KW  - data privacy
-KW  - digital technology
-KW  - ecosystem monitoring
-KW  - ethics
-KW  - generative pretrained transformer
-KW  - health care
-KW  - health education
-KW  - health service
-KW  - human
-KW  - interpersonal communication
-KW  - medical research
-KW  - personalized medicine
-KW  - remote sensing
-KW  - ecosystem
-KW  - health services research
-KW  - hospital
-KW  - software
-KW  - technology
+AU  - Anand, D.
+AU  - Kaur, A.
+AU  - Singh, P.
+TI  - Enhancing Healthcare Monitoring with Efficient Computation Offloading in Fog Computing
+PY  - 2024
+T2  - International Journal of Computer Networks and Applications
+VL  - 11
+IS  - 4
+SP  - 506
+EP  - 518
+DO  - 10.22247/ijcna/2024/32
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85203294268&doi=10.22247%2fijcna%2f2024%2f32&partnerID=40&md5=a359c2bc3e9a6d8765d9be45fc74eca5
+AB  - The exponential growth of produced data by healthcare monitoring devices poses a substantial challenge for conventional fog-based computing frameworks. Fog computing, a dispersed computing prototype that expands fog computing capabilities to the network's edge, emerges as a promising solution to address this challenge. This paper, proposes a technique for offloading computations for healthcare monitoring in fog computing, aiming to minimize task completion time, consumption of energy, execution time ratio and response time analysis. Enhancing Healthcare Monitoring with Optimal Computation Offloading in Fog Environment specifies that the research is focused on improving healthcare monitoring systems through the use of fog computing. In this approach, data processing is carried out closer to the source, such as medical devices or sensors, instead of depending only on centralized cloud servers. The "computation offloading" technique is moving computational workloads from less powerful devices to edge or fog nodes with more processing power. By using this method, the research seeks to improve real-time data processing, minimize latency, maximize resource use, and improve security in healthcare monitoring by retaining confidential data closer to its source. The goal of the study is to show how this strategy might result in healthcare monitoring systems that are more effective and efficient, especially when quick decisions and great data security are required. The proposed technique dynamically offloads computation tasks to fog nodes based on real-time network conditions, resource availability, and task characteristics. It emphasizes the achievement of superior performance metrics including the shortest job completion time, lowest energy consumption, and minimal cost compared to existing task offloading methods within healthcare contexts. The technique notably achieves a reduction of up to 31.1% in task completion time, 66.67% in energy consumption, and 20% in execution time ratio compared to existing task offloading methods in healthcare contexts. Additionally, it improves response time by 40%, demonstrating superior performance metrics. It conducts a thorough assessment of the proposed technique’s effectiveness through key performance indicators such as Task Completion Time, Energy Consumption, Execution Time Ratio, and Response Time Analysis. Finally, a detailed comparative analysis against established techniques enriches the discussion, providing valuable insights into the superiority of the proposed technique. ©EverScience Publications.
+KW  - Computation Offloading
+KW  - Dynamic Task
+KW  - Energy Consumption
+KW  - Execution Time Ratio
+KW  - Fog Computing
+KW  - Healthcare Monitoring
+KW  - Resource Optimization
+KW  - Response Time Analysis
+KW  - Task Completion Time
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 3
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -691,7 +663,7 @@ KW  - reproducibility
 KW  - Electrocardiograms
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -748,7 +720,7 @@ KW  - teleconsultation
 KW  - Telemedicine
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 14
+N1  - Export Date: 20 September 2024; Cited By: 14
 ER  -
 
 TY  - JOUR
@@ -787,7 +759,7 @@ KW  - Secure
 KW  - Embedded systems
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -820,7 +792,7 @@ KW  - telemonitoring
 KW  - telerehabilitation
 M3  - Editorial
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 3
+N1  - Export Date: 20 September 2024; Cited By: 4
 ER  -
 
 TY  - CONF
@@ -858,7 +830,7 @@ KW  - Remote monitoring
 KW  - Network security
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -904,7 +876,7 @@ KW  - Smart medical devices
 KW  - Internet of things
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -950,7 +922,7 @@ KW  - Shortblock
 KW  - Smart contract
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -972,7 +944,7 @@ KW  - Remote patient monitoring
 KW  - Wearable devices
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -998,7 +970,7 @@ KW  - remote monitoring
 KW  - wearable devices
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -1055,7 +1027,7 @@ KW  - procedures
 KW  - telemedicine
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 40
+N1  - Export Date: 20 September 2024; Cited By: 42
 ER  -
 
 TY  - CHAP
@@ -1071,7 +1043,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85183288186&doi=10.120
 AB  - This chapter explores the impact of disruptive technologies on the healthcare sector, specifically in the context of smart healthcare in Society 5.0. Disruptive technologies are transforming the way healthcare services are provided and the smart healthcare sector integrates innovative technologies such as the Internet of Things (IoT), Artificial Intelligence (AI), Blockchain, and 5G networks to provide advanced healthcare services. The chapter begins by examining the concept of disruptive technologies and their impact on the healthcare sector. It then discusses the benefits of smart healthcare, such as improved patient outcomes, cost savings, and increased efficiency. The role of IoT in smart healthcare is explored, including the use of wearable devices, remote patient monitoring, and smart sensors. The potential of AI in smart healthcare is also discussed, including predicting disease outbreaks, assisting in diagnoses, and personalizing treatment plans. Furthermore, the use of Blockchain in smart healthcare is examined, including secure sharing of medical data and managing clinical trials. The chapter concludes by discussing the challenges associated with the adoption of disruptive technologies in the smart healthcare sector. These challenges include data privacy and security concerns, regulatory compliance, and lack of interoperability between different systems. The integration of disruptive technologies in the smart healthcare sector of Society 5.0 has the potential to transform the healthcare landscape, providing advanced and personalized healthcare services to individuals. Addressing the challenges associated with the adoption of these technologies is crucial to ensure the safe and effective implementation of smart healthcare. © 2024 selection and editorial matter, Vikas Khullar, Vrajesh Sharma, Mohit Angurala, and Nipun Chhabra; individual chapters, the contributors.
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CHAP
@@ -1088,7 +1060,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85190910648&doi=10.120
 AB  - AI wearables have witnessed significant advancements in recent years, with emerging technologies that involve implanting devices in the human body and tattooing AI onto the skin. This chapter explores the concept of AI wearables implanted in the body and tattooed on the skin, delving into various aspects such as challenges, opportunities, design considerations, ethical implications, sensing technologies, future trends, comprehensive surveys, healthcare monitoring, materials and manufacturing techniques, applications, and privacy concerns. The chapter begins by defining and highlighting the significance of AI wearables implanted in the body and tattooed on the skin. It provides an overview of the chapter’s structure and objectives. The subsequent sections discuss the challenges and opportunities associated with implantable AI devices, including technological limitations, surgical procedures, health risks, and ethical considerations. The design considerations and ethical implications of tattooed AI are also analyzed, addressing aspects such as materials, safety, durability, consent, privacy, and societal acceptance. Sensing technologies used in skin-based wearable AI devices are reviewed, emphasizing their applications and limitations. The future of AI wearables is explored, covering emerging trends, challenges, and research directions for advancing the field. A comprehensive survey of tattooed AI technologies and applications is presented, discussing their advantages and limitations in terms of human augmentation, self-expression, and integration into daily life. The chapter further investigates implantable AI devices for healthcare monitoring, highlighting their role in improving healthcare outcomes, such as remote patient monitoring, early disease detection, and personalized treatment. The materials, manufacturing techniques, and diverse applications of skin-integrated electronics in AI wearables are also examined. Additionally, the applications of tattooed AI across various domains, such as biometric authentication, health monitoring, augmented reality enhancements, and personalized recommendations are analyzed. Privacy concerns associated with tattooed AI are discussed, emphasizing data security, informed consent, data ownership, and anonymization. Potential mitigation strategies to address these privacy concerns are suggested. In conclusion, the chapter recapitulates the key points discussed, reflects on the transformative potential of AI wearables implanted in the body and tattooed on the skin, and provides suggestions for future research and development in the field. By understanding the challenges, ethical considerations, sensing technologies, future trends, comprehensive surveys, healthcare monitoring, materials and manufacturing techniques, applications, and privacy concerns associated with AI wearables, we can pave the way for their responsible development and deployment. © 2024 selection and editorial matter, Hemachandran K, Manjeet Rege, Zita Zoltay Paprika, K. V. Rajesh Kumar, Shahid Mohammad Ganie; individual chapters, the contributors.
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -1146,7 +1118,7 @@ KW  - questionnaire
 KW  - telemedicine
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -1167,7 +1139,7 @@ KW  - Machine learning
 KW  - Portable and wearable biosensors
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 14
+N1  - Export Date: 20 September 2024; Cited By: 16
 ER  -
 
 TY  - CHAP
@@ -1184,7 +1156,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196597940&doi=10.120
 AB  - As healthcare embraces the benefits of IoT devices, wearable health trackers, remote patient monitoring systems, and telemedicine platforms, the potential hazards to patient data and confidentiality expand rapidly. The integration of these technologies into healthcare services necessitates careful thought and aggressive actions to safeguard sensitive medical information against breaches and illegal access. With medical equipment and data-sharing platforms becoming more interconnected, the necessity for strong security measures cannot be stressed. This chapter highlights the significance of robust encryption mechanisms, access restrictions, and compliance with key legislative frameworks such as the General Data Protection Regulation (GDPR) and the Health Insurance Portability and Accountability Act (HIPAA). It investigates ways for securing telemedicine and remote healthcare services, protecting patient data during transmission, and maintaining ethical data practices in order to assure patient confidence and compliance. Understanding the problems offered by IoT and ubiquitous computing is critical as healthcare develops toward a linked and data-driven world. This chapter investigates the intricacies of privacy and security in healthcare, emphasizing the vital role of healthcare stakeholders in protecting patient information. Reading this chapter will provide healthcare professionals and organizations with valuable insights into dealing with the evolving privacy and security landscape, ensuring patient confidentiality, and providing a secure environment for leveraging the transformative potential of IoT and ubiquitous computing in healthcare. © 2024 selection and editorial matter Nidhi Sindhwani, Sarvesh Tanwar, Ajay Rana, and Ramani Kannan individual chapters, the contributors.
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -1231,47 +1203,7 @@ KW  - Machine-learning
 KW  - Internet of things
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
-ER  -
-
-TY  - CHAP
-AU  - Lu, W.
-AU  - Burnett, B.
-AU  - Phipps, R.
-TI  - Feature Selections for Detecting Intrusions on the Internet of Medical Things
-PY  - 2023
-T2  - Lecture Notes on Data Engineering and Communications Technologies
-VL  - 174
-SP  - 89
-EP  - 105
-DO  - 10.1007/978-3-031-33242-5_7
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85167874455&doi=10.1007%2f978-3-031-33242-5_7&partnerID=40&md5=dfa914f9ba4e1bd068dd7da59f8ef5d8
-AB  - The widespread use of the Internet of Medical Things (IoMT) leaves a path for numerous cybercriminal activities to target patients and hospitals using these networked medical devices and also raises numerous security and privacy concerns for healthcare professionals dealing with sensitive and life-saving medical information. In this paper, we propose a logistic regression model-based feature selection approach to form a minimum set of significant features where intrusion detection is then conducted based on the selected features. The approach is evaluated with a public dataset collected in real-time from a medical network, and the experimental evaluation results show that the proposed feature selection approach achieves an accuracy of 81.96% on the testing dataset, where 1168 attacks are detected out of 1931 attack instances, that outperforms the traditional PCA-based approach, where only 354 attacks are detected when evaluated with the same benchmark dataset. © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.
-KW  - Anomaly detection
-KW  - Datasets
-KW  - Descriptive statistics
-KW  - Enhanced Healthcare Monitoring System (EHMS)
-KW  - Internet of Medical Things (IoMT)
-KW  - Cybersecurity
-KW  - Feature Selection
-KW  - Health care
-KW  - Intrusion detection
-KW  - Regression analysis
-KW  - Statistical tests
-KW  - Anomaly detection
-KW  - Cybercriminals
-KW  - Dataset
-KW  - Descriptive statistics
-KW  - Enhanced healthcare monitoring system
-KW  - Features selection
-KW  - Healthcare monitoring
-KW  - Internet of medical thing
-KW  - Medical Devices
-KW  - Monitoring system
-KW  - Anomaly detection
-M3  - Book chapter
-DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -1315,7 +1247,7 @@ KW  - Security management
 KW  - Data Analytics
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 4
+N1  - Export Date: 20 September 2024; Cited By: 4
 ER  -
 
 TY  - JOUR
@@ -1354,7 +1286,7 @@ KW  - Resource-constrained
 KW  - Internet of things
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 14
+N1  - Export Date: 20 September 2024; Cited By: 15
 ER  -
 
 TY  - JOUR
@@ -1397,7 +1329,7 @@ KW  - Signal transmission
 KW  - Electrocardiograms
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -1433,7 +1365,7 @@ KW  - telemonitoring
 KW  - wearable
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -1479,7 +1411,7 @@ KW  - Teleconsulting
 KW  - Telemedicine
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -1531,7 +1463,7 @@ KW  - Security
 KW  - Smart contract
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 27
+N1  - Export Date: 20 September 2024; Cited By: 28
 ER  -
 
 TY  - JOUR
@@ -1573,7 +1505,7 @@ KW  - Wireless body area network
 KW  - Blockchain
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -1616,7 +1548,7 @@ KW  - Smart electronics
 KW  - Internet of things
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 2
+N1  - Export Date: 20 September 2024; Cited By: 2
 ER  -
 
 TY  - CONF
@@ -1655,7 +1587,7 @@ KW  - Support systems
 KW  - Internet of things
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -1697,40 +1629,7 @@ KW  - SHAP
 KW  - Medical robotics
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
-ER  -
-
-TY  - JOUR
-AU  - Graeber, J.
-AU  - Warmerdam, E.
-AU  - Aufenberg, S.
-AU  - Bull, C.
-AU  - Davies, K.
-AU  - Dixon, J.
-AU  - Emmert, K.
-AU  - Judd, C.
-AU  - Maetzler, C.
-AU  - Reilmann, R.
-AU  - Ng, W.-F.
-AU  - Macrae, V.
-AU  - Maetzler, W.
-AU  - Kaduszkiewicz, H.
-TI  - Technology acceptance of digital devices for home use: Qualitative results of a mixed methods study
-PY  - 2023
-T2  - Digital Health
-VL  - 9
-DO  - 10.1177/20552076231181239
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163033728&doi=10.1177%2f20552076231181239&partnerID=40&md5=361bd58111652d91f9c6b2d5146b3b87
-AB  - Objective: Digital devices have demonstrated benefits to patients with chronic and neurodegenerative diseases. But when patients use medical devices in their homes, the technologies have to fit into their lives. We investigated the technology acceptance of seven digital devices for home use. Methods: We conducted 60 semi-structured interviews with participants of a larger device study on their views on the acceptability of seven devices. Transcriptions were analysed using qualitative content analysis. Results: Based on the unified theory of acceptance and use of technology, we evaluated effort, facilitating conditions, performance expectancy and social influence of each device. In the effort category, five themes emerged: (a) the hassle to use the device; (b) its usability; (c) comfort; (d) disturbance to daily life; and (e) problems during usage. Facilitating conditions consisted of five themes: (a) expectations regarding a device; (b) quality of the instructions; (c) insecurities with usage; (d) possibilities of optimization; and (e) possibilities to use the device longer. Regarding performance expectancy, we identified three themes: (a) insecurities with the performance of a device; (b) feedback; and (c) motivation for using a device. In the social influence category, three themes emerged: (a) reactions of peers; (b) concerns with the visibility of a device; and (c) concerns regarding data privacy. Conclusions: We identify key factors that determine the acceptability of medical devices for home use from the participants’ perspective. These include low effort of use, minor disruptions to their daily lives and good support from the study team. © The Author(s) 2023.
-KW  - Chronic disease
-KW  - connected devices, personalised medicine
-KW  - digital health, general
-KW  - qualitative studies
-KW  - remote patient monitoring, personalised medicine
-KW  - wearables, personalised medicine
-M3  - Article
-DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 3
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -1791,7 +1690,7 @@ KW  - telemedicine
 KW  - Ontology
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -1817,7 +1716,7 @@ KW  - Machine learning
 KW  - Secure healthcare system
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -1855,7 +1754,7 @@ KW  - telecare
 KW  - telemonitoring
 M3  - Note
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CHAP
@@ -1875,7 +1774,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192585671&doi=10.120
 AB  - This chapter explores the transformative potential of integrating computer vision, artificial intelligence (AI), and the Internet of Things (IoT) in healthcare. We examine the opportunities and challenges of implementing these technologies in healthcare settings, including their potential to improve patient outcomes, enhance healthcare delivery, and reduce costs. We also consider the ethical and regulatory considerations that must be addressed when deploying these technologies, including privacy concerns and issues related to data ownership and control. Finally, we outline future directions for research and development in this area, including the need for interdisciplinary collaboration between computer science, healthcare, and regulatory experts to realize the full potential of these transformative technologies. Computer vision, AI, and IoT are rapidly evolving fields that have the potential to revolutionize healthcare. By leveraging these technologies, healthcare providers can collect and analyze vast amounts of data, enabling them to identify patterns and make more informed decisions about patient care. This can lead to earlier and more accurate diagnoses, more personalized treatment plans, and better patient outcomes. However, there are also significant challenges associated with the integration of these technologies in healthcare. For example, there are concerns about the accuracy and reliability of AI algorithms, as well as the potential for bias in their decision-making processes. Additionally, there are regulatory and ethical considerations related to data privacy, ownership, and control that must be addressed to ensure that these technologies are deployed in a responsible and ethical manner. Despite these challenges, the potential benefits of integrating computer vision, AI, and IoT in healthcare are too great to ignore. In the future, we can expect to see continued advances in these technologies, along with increased interdisciplinary collaboration between computer scientists, healthcare providers, and regulatory experts. By working together, we can unlock the full transformative potential of these technologies and improve healthcare outcomes for patients around the world. One promising area of application for computer vision, AI, and IoT in healthcare is remote patient monitoring. By using wearable devices and sensors, healthcare providers can collect real-time data on patient health and behavior, allowing them to detect and respond to potential issues before they become serious. This can lead to improved patient outcomes and reduced healthcare costs by avoiding unnecessary hospitalizations and emergency room visits. Another area of potential application is drug discovery and development. By using AI to analyze large datasets, researchers can identify promising drug candidates more quickly and accurately than traditional methods. This can lead to faster development of new drugs and therapies and ultimately improve patient outcomes. Overall, the integration of computer vision, AI, and IoT in healthcare holds great promise for improving patient outcomes, enhancing healthcare delivery, and reducing costs. However, realizing this potential will require continued investment in research and development, as well as careful attention to ethical and regulatory considerations. By working together, researchers, healthcare providers, and policymakers can ensure that these transformative technologies are deployed in a responsible and effective manner. © 2024 selection and editorial matter, Alex Khang.
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -1919,7 +1818,7 @@ KW  - Security
 KW  - Embeddings
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -1965,7 +1864,7 @@ KW  - postmarketing surveillance
 KW  - United States
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 2
+N1  - Export Date: 20 September 2024; Cited By: 2
 ER  -
 
 TY  - JOUR
@@ -2001,7 +1900,7 @@ KW  - procedures
 KW  - telemedicine
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -2050,7 +1949,7 @@ KW  - Privacy preservation
 KW  - Sensor nodes
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 9
+N1  - Export Date: 20 September 2024; Cited By: 10
 ER  -
 
 TY  - JOUR
@@ -2107,7 +2006,7 @@ KW  - thrombosis
 KW  - algorithm
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -2151,7 +2050,7 @@ KW  - vulnerability
 KW  - wireless communication
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -2186,7 +2085,7 @@ KW  - human
 KW  - internet of things
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -2238,7 +2137,7 @@ KW  - vulnerability
 KW  - wireless communication
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -2284,7 +2183,7 @@ KW  - Quality-of-service
 KW  - Temperature measurement
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 3
+N1  - Export Date: 20 September 2024; Cited By: 3
 ER  -
 
 TY  - CONF
@@ -2303,7 +2202,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199188948&doi=10.106
 AB  - In today's rapidly advancing world, as healthcare systems get smarter with technology, edge computing plays a pivotal role in the healthcare system's operations. Instead of sending all medical data to far away to a central data center for analysis and processing, edge computing processes it where data is generated - be it a hospital, clinic, or wearable device. Edge computing guarantees faster healthcare data processing and stronger privacy. This paper explores how edge computing is reshaping healthcare from remote patient monitoring to telemedicine, making healthcare more efficient and responsive. It also enhances the confidentiality of sensitive patient information and keeps patient data safer. This paper also explores its benefits and challenges. It highlights the transformative potential of edge computing in offering better patient care, ensuring data security, and paving the way for the future of smarter, more personal, and more secure healthcare services for advanced medical applications in the future. © 2024 Author(s).
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -2348,7 +2247,7 @@ KW  - Smart healthcare
 KW  - Internet of things
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 33
+N1  - Export Date: 20 September 2024; Cited By: 38
 ER  -
 
 TY  - CONF
@@ -2385,7 +2284,7 @@ KW  - Security
 KW  - Internet of things
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CHAP
@@ -2405,7 +2304,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197719947&partnerID=
 AB  - The Internet of Medical Things (IoMT) can be used to support the remote monitoring of patients using communication and sensing technologies. Security and privacy concerns in IoMT related to patient data are important issues for regulatory bodies, requiring the formulating and implementing laws that protect patients. The European General Data Protection Regulation (GDPR) provides a number of data protection rules that make it easier for citizens to know how their information is being used by external data processors. Citizens can raise complaints to the relevant legal authorities in case of a violation. GDPR Art. 5 imposes lawfulness, fairness, and transparency of data access as requirements that need to be met by a data processor. Medical data is sensitive and the existing healthcare ecosystem often lacks a secure architecture, that can lead to potential data breaches with consequences for both patients and healthcare providers. In this chapter, a multi-layered blockchain-based GDPR compliance verification technique is outlined as a solution for carrying out a privacy audit on how a patient's data has been handled. The multi-layer architecture includes medical sensors, gateways, edge devices, and cloud systems that need to work collectively to offer efficient and secure services to patients. To verify GDPR compliance, a blockchain-based provenance log is integrated with edge devices and cloud systems. A blockchain can be used to record various data activities at the different layers specified above and can be used to verify GDPR compliance. © The Institution of Engineering and Technology 2024.
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -2449,7 +2348,7 @@ KW  - Wearable devices
 KW  - Sensor networks
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - CONF
@@ -2497,7 +2396,7 @@ KW  - Smart healthcare
 KW  - Authentication
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 9
+N1  - Export Date: 20 September 2024; Cited By: 10
 ER  -
 
 TY  - CONF
@@ -2537,7 +2436,7 @@ KW  - Tamperproof
 KW  - Blockchain
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - CONF
@@ -2575,7 +2474,7 @@ KW  - Technical analysis
 KW  - Wearable sensors
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -2616,7 +2515,7 @@ KW  - Real time data analysis
 KW  - Telemedicine
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - CONF
@@ -2666,7 +2565,7 @@ KW  - Technology privacy
 KW  - Decision making
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -2706,7 +2605,7 @@ KW  - telecare
 KW  - treatment outcome
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -2746,7 +2645,50 @@ KW  - technology
 KW  - telemonitoring
 M3  - Note
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Allimuthu, U.
+AU  - Singh, E.C.
+AU  - Sivaraman, V.
+AU  - Ratnavathi, K.
+AU  - Kumar Reddy, Y.P.
+AU  - Krishna, O.V.
+AU  - Surekha, A.V.
+TI  - Locating Patient Health Data Theft Using Gradient Boosting with Hybrid Microwave Transmission-Based Wearable Device
+PY  - 2024
+T2  - 2024 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication, IConSCEPT 2024 - Proceedings
+DO  - 10.1109/IConSCEPT61884.2024.10627827
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85203506653&doi=10.1109%2fIConSCEPT61884.2024.10627827&partnerID=40&md5=dcbb275cdc346465ac1d397d4476117e
+AB  - The research article addresses the intersection of healthcare monitoring and crime prevention via wearable devices in hospital settings. It proposes a system leveraging blockchain, decision-making algorithms, and wireless communication, particularly IoT and gradient-boosting approaches. Existing health care monitoring lacks real-time intervention capabilities, and conventional crime prevention methods are often reactive rather than proactive. The revolutionary combination of gradient boosting and hybrid microwave transmission-based wearable devices is the ultimate solution to combat patient health data theft. With this cutting-edge technology, this research can confidently detect and prevent unauthorised access to sensitive healthcare information, ensuring the safety and privacy of patients. The proposed system ensures continuous health monitoring and prompt interventions while enhancing crime prevention through mobile data analysis. Blockchain and decision-making algorithms are integrated to securely store patient data and enable authorised personnel access for review. IoT and gradient-boosting algorithms facilitate real-time health monitoring and accurate prediction of crime-related patterns through mobile data analysis. The proposed gradient boosting algorithm has an RMSE of 0.105 and an MAE of 0.010, suggesting great prediction accuracy. With a V AF score of 96% and an R-squared score of 0.94, it captures data variability while demonstrating predictive solid power. This comprehensive strategy utilises cutting-edge technology to enhance healthcare monitoring via wearable devices, contribute to crime prevention, and address crucial concerns in healthcare and public safety. © 2024 IEEE.
+KW  - Blockchain
+KW  - decision making
+KW  - Decision trees
+KW  - Gradient boosting
+KW  - Wearable devices
+KW  - Wireless communication
+KW  - Adaptive boosting
+KW  - Electronic health record
+KW  - Hospital data processing
+KW  - Masers
+KW  - mHealth
+KW  - Network security
+KW  - Steganography
+KW  - Block-chain
+KW  - Crime Prevention
+KW  - Data thefts
+KW  - Decisions makings
+KW  - Gradient boosting
+KW  - Health data
+KW  - Microwave transmission
+KW  - Patient health
+KW  - Wearable devices
+KW  - Wireless communications
+KW  - Data privacy
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -2793,7 +2735,7 @@ KW  - Threat prediction
 KW  - Efficiency
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CHAP
@@ -2808,65 +2750,91 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85177637133&doi=10.401
 AB  - The objective of this research is a maintained system against cyber-attacks. The methodology used is augmented and alternative communication. There are no particular requirements that must be met. Consumers, their families, and a group of trained specialists should all be involved in the decision-making process about the installation of AAC. This chapter will discuss assessing cyber security risks, plans for responding, employee training programs, security audits, software development, secure coding, and industry regulations. It will be able to help create cybersecurity measures that will make healthcare systems more resilient, safeguard patient data, and reduce cyber-attacks. The tool will use AI algorithms to analyze data, and find patterns and unusual behavior. The AI algorithm will determine customized plans for treatment and identifying health risks, wearables, and remote monitoring systems by gathering data and monitor patients with taking medical results. The author will investigate the dangers, limitations, and ethical considerations of employing AI in cybersecurity. © 2023, IGI Global. All rights reserved.
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Afolalu, O.O.
+AU  - Afolalu, S.A.
+AU  - Afolalu, O.F.
+AU  - Akpor, O.A.
+TI  - Internet of Things and Software Applications in Patient Safety Adverse Event Detection and Reporting: A Comprehensive Literature Review
+PY  - 2024
+T2  - International Conference on Science, Engineering and Business for Driving Sustainable Development Goals, SEB4SDG 2024
+DO  - 10.1109/SEB4SDG60871.2024.10629786
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85202947735&doi=10.1109%2fSEB4SDG60871.2024.10629786&partnerID=40&md5=ce98bda169e3aa8951541ffbc8cc1d77
+AB  - The Internet of Things (IoT) and software applications have radically improved healthcare, especially in terms of detecting and reporting adverse events that compromise patient safety. With the prompt detection and reporting of adverse occurrences, this literature review seeks to give a thorough understanding of the origin, applications, benefits, and challenges of IoT and software solutions in improving patient safety. A thorough literature search was undertaken in six scholarly databases including, PubMed, IEEE Xplore, ScienceDirect, Scopus, and Google Scholar, to identify articles related to IoT and software applications for detecting and reporting patient safety adverse events (AEs). Seventy-four pertinent publications were found and included after a thorough search of the peer-reviewed literature. To gain an understanding of the design components, the history of IoT applications, and the wide range of application domains in patient safety adverse event detection and reporting, these publications underwent critical analysis. The review identified a promising path for timely and precise adverse event identification through the combined efforts of IoT technology, including wearables, sensors, and real-time monitoring systems, with sophisticated software applications for the administration of medications, detection, and prevention of falls, and remote patient monitoring, all of which improved patient safety. Despite the promising prospects of IoT technologies, problems with data privacy, security, and scalability were identified as challenges to their successful integration into health systems' safety. The critical importance of IoT and software technologies in modernizing patient safety adverse event detection and reporting is highlighted by this study. This calls for improved knowledge in integrating IoT technological solutions into safe healthcare practices through collaborative research, and interventional studies to assess the impact it has on health outcomes of hospitalized patients. © 2024 IEEE.
+KW  - Adverse events
+KW  - Challenges
+KW  - Detection
+KW  - Healthcare
+KW  - Internet of Things
+KW  - Patient Safety
+KW  - Reporting
+KW  - Software
+KW  - Remote patient monitoring
+KW  - Reviews
+KW  - Adverse events
+KW  - Challenge
+KW  - Detection
+KW  - Event reporting
+KW  - Events detection
+KW  - Healthcare
+KW  - Patient safety
+KW  - Reporting
+KW  - Software
+KW  - Software applications
+KW  - Electronic health record
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
-AU  - Kalabakov, S.
-AU  - Jovanovski, B.
-AU  - Denkovski, D.
-AU  - Rakovic, V.
-AU  - Pfitzner, B.
-AU  - Konak, O.
-AU  - Arnrich, B.
-AU  - Gjoreski, H.
-TI  - Federated Learning for Activity Recognition: A System Level Perspective
-PY  - 2023
-T2  - IEEE Access
-VL  - 11
-SP  - 64442
-EP  - 64457
-DO  - 10.1109/ACCESS.2023.3289220
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163510877&doi=10.1109%2fACCESS.2023.3289220&partnerID=40&md5=756d63804636532b500a27df73522acb
-AB  - The past decade has seen substantial growth in the prevalence and capabilities of wearable devices. For instance, recent human activity recognition (HAR) research has explored using wearable devices in applications such as remote monitoring of patients, detection of gait abnormalities, and cognitive disease identification. However, data collection poses a major challenge in developing HAR systems, especially because of the need to store data at a central location. This raises privacy concerns and makes continuous data collection difficult and expensive due to the high cost of transferring data from a user's wearable device to a central repository. Considering this, we explore the adoption of federated learning (FL) as a potential solution to address the privacy and cost issues associated with data collection in HAR. More specifically, we investigate the performance and behavioral differences between FL and deep learning (DL) HAR models, under various conditions relevant to real-world deployments. Namely, we explore the differences between the two types of models when (i) using data from different sensor placements, (ii) having access to users with data from heterogeneous sensor placements, (iii) considering bandwidth efficiency, and (iv) dealing with data with incorrect labels. Our results show that FL models suffer from a consistent performance deficit in comparison to their DL counterparts, but achieve these results with much better bandwidth efficiency. Furthermore, we observe that FL models exhibit very similar responses to those of DL models when exposed to data from heterogeneous sensor placements. Finally, we show that the FL models are more robust to data with incorrect labels than their centralized DL counterparts.  © 2013 IEEE.
-KW  - bandwidth efficiency
-KW  - data errors
-KW  - deep learning
-KW  - different and heterogeneous sensor placements
-KW  - feature selection
-KW  - federated learning
-KW  - FL optimizers
-KW  - fraction fit
-KW  - Human activity recognition
-KW  - model complexity
-KW  - system-level aspects
-KW  - Bandwidth
-KW  - Data acquisition
-KW  - Data privacy
-KW  - Deep learning
-KW  - Feature extraction
-KW  - Bandwidth efficiency
-KW  - Data collection
-KW  - Data errors
-KW  - Deep learning
-KW  - Different and heterogeneous sensor placement
-KW  - Features extraction
-KW  - Features selection
-KW  - Federated learning
-KW  - Federated learning optimizer
-KW  - Fraction fit
-KW  - Heterogeneous sensors
-KW  - Human activity recognition
-KW  - Modeling complexity
-KW  - Optimizers
-KW  - Sensor placement
-KW  - Spectral efficiencies
-KW  - System levels
-KW  - System-level aspect
-KW  - Efficiency
-M3  - Article
+AU  - Bartos, O.
+AU  - Trenner, M.
+TI  - Wearable technology in vascular surgery: Current applications and future perspectives
+PY  - 2024
+T2  - Seminars in Vascular Surgery
+VL  - 37
+IS  - 3
+SP  - 281
+EP  - 289
+DO  - 10.1053/j.semvascsurg.2024.08.004
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85203086410&doi=10.1053%2fj.semvascsurg.2024.08.004&partnerID=40&md5=e63b06551947701b2db216c92e7645f9
+AB  - The COVID-19 pandemic exposed the vulnerabilities of global health care systems, underscoring the need for innovative solutions to meet the demands of an aging population, workforce shortages, and rising physician burnout. In recent years, wearable technology has helped segue various medical specialties into the digital era, yet its adoption in vascular surgery remains limited. This article explores the applications of wearable devices in vascular surgery and explores their potential outlets, such as enhancing primary and secondary prevention, optimizing perioperative care, and supporting surgical training. The integration of artificial intelligence and machine learning with wearable technology further expands its applications, enabling predictive analytics, personalized care, and remote monitoring. Despite the promising prospects, challenges such as regulatory complexities, data security, and interoperability must be addressed. As the digital health movement unfolds, wearable technology could play a pivotal role in reshaping vascular surgery while offering cost-effective, accessible, and patient-centered care. © 2024 Elsevier Inc.
+KW  - Digital medicine
+KW  - Smartphone
+KW  - Smartwatch
+KW  - Vascular disease
+KW  - aging
+KW  - artificial intelligence
+KW  - burnout
+KW  - coronavirus disease 2019
+KW  - digital health
+KW  - health care system
+KW  - human
+KW  - information security
+KW  - machine learning
+KW  - perioperative care
+KW  - person centered care
+KW  - personnel shortage
+KW  - physician
+KW  - remote sensing
+KW  - review
+KW  - secondary prevention
+KW  - smartphone
+KW  - surgery
+KW  - surgical training
+KW  - therapy
+KW  - vascular disease
+KW  - vascular surgery
+KW  - vulnerability
+KW  - wearable device
+KW  - wearable technology
+M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -2890,7 +2858,7 @@ KW  - multi-layer perceptron
 KW  - principal component analysis
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 3
+N1  - Export Date: 20 September 2024; Cited By: 3
 ER  -
 
 TY  - JOUR
@@ -2912,7 +2880,7 @@ KW  - Internet of Things
 KW  - Security
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -2957,7 +2925,7 @@ KW  - Unforgeability
 KW  - Diagnosis
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 15
+N1  - Export Date: 20 September 2024; Cited By: 16
 ER  -
 
 TY  - JOUR
@@ -3020,7 +2988,7 @@ KW  - wearable device
 KW  - Internet of things
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CHAP
@@ -3040,7 +3008,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191865472&doi=10.401
 AB  - The integration of internet of things (IoT) technology in healthcare has revolutionized chronic disease management and healthcare cost reduction. IoT-enabled remote patient monitoring systems provide real-time insights into patients' health parameters, enabling informed decisions and patient participation. The central hub of these systems provides accurate, up-to-date patient data, enabling timely alerts for chronic diseases. Electronic health records (EHR) offer comprehensive historical health data while ensuring privacy and security. However, challenges like data security, scalability, and interoperability remain. The healthcare industry must improve security measures, standardize interoperability, and adopt advanced analytics, artificial intelligence, and wearable technology for personalized, data-driven, and cost-effective care. © 2024, IGI Global. All rights reserved.
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 27
+N1  - Export Date: 20 September 2024; Cited By: 29
 ER  -
 
 TY  - CONF
@@ -3082,7 +3050,7 @@ KW  - Vulnerability-risk assessments
 KW  - Risk assessment
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -3127,7 +3095,7 @@ KW  - Real - Time system
 KW  - Real time systems
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 4
+N1  - Export Date: 20 September 2024; Cited By: 5
 ER  -
 
 TY  - CONF
@@ -3164,7 +3132,7 @@ KW  - Workplace safety
 KW  - Internet of things
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -3208,7 +3176,7 @@ KW  - early diagnosis
 KW  - heart failure
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - CONF
@@ -3257,7 +3225,7 @@ KW  - Wearable devices
 KW  - Data privacy
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -3305,7 +3273,7 @@ KW  - Wearables
 KW  - Telemedicine
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -3352,7 +3320,7 @@ KW  - Security risks
 KW  - Internet of things
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CHAP
@@ -3371,7 +3339,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192602783&doi=10.120
 AB  - The uses of cutting-edge technologies, such as machine learning (ML), artificial intelligence (AI), Internet of Things (IoT), computer vision, robotics, and blockchain in the healthcare system is fully explored in this study. The study looks at how these technologies are changing several facets of healthcare, such as patient monitoring, diagnosis, and treatment, as well as data management and administrative procedures. This survey paper’s goals are to assess the present status of the field and compile complete information about the uses of these cutting-edge technologies in healthcare. The survey report examines a wide range of subjects, such as the use of machine learning and artificial intelligence in the interpretation of medical images, predictive analytics, individualized treatment plans, and virtual assistants for healthcare professionals that are AI-powered. Applications of IoT in healthcare are also investigated, including remote patient monitoring, real-time data collecting from wearables and medical equipment, and smart hospital infrastructure. The study also explores computer vision and robotics, emphasizing their influence on medical image processing, surgery, recovery, and assistive robots. The study report also looks at how blockchain technology is used in patient identification management, medicine supply chain monitoring, secure and interoperable electronic health records, and data exchange for medical research. It also discusses the use of robotic process automation (RPA) in speeding administrative procedures, such as claims processing, scheduling of appointments, and patient communication. The survey study highlights trends, patterns, and themes seen in the uses of these cutting-edge technologies in the medical health system, summarizing significant results and insights from the literature review. By combining and synthesizing the status of the area today, it adds to the corpus of existing knowledge. This survey report offers a thorough and current review of the uses of cutting-edge technology in the medical and healthcare systems. The survey’s results highlight the significance of ongoing study, invention, and use of these technologies to shape healthcare delivery in the future, eventually resulting in better patient outcomes and strengthened healthcare systems. © 2024 selection and editorial matter, Alex Khang.
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CHAP
@@ -3389,7 +3357,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196606908&doi=10.401
 AB  - The recent advancements of the emerging technologies (i.e., internet of things [IoT] and machine learning [ML]) has rapidly transformed the healthcare industry in a better way. IoT-enabled wearable and monitoring devices are making new methods to manage patient's health. Sensor-enabled devices are useful for incessant data collection and remote patient monitoring. This enables the healthcare providers to impart more significant healthcare settings. Machine learning classifiers are useful in classifying different diseases and also rank the state of the disease. These two technologies potentially reduce the healthcare costs and accredit the patients to take control of their health condition and improvement. However, different challenges are associated with the implementation of these technologies in healthcare including security, data privacy and availability, proper system integration, and data transfer. This chapter aims to provide an overview of different approaches and security aspects of these emerging technologies in the advancement of remote healthcare monitoring. © 2024, IGI Global. All rights reserved.
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CHAP
@@ -3406,7 +3374,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189783556&doi=10.401
 AB  - Internet of things (IoT) has emerged as a transformative technology in the healthcare sector, providing innovative solutions to enhance patient care, improve healthcare delivery, and optimize resource utilization. This chapter provides a comprehensive overview of the current state of IoT applications in smart healthcare. It provides the various aspects of IoT implementation, including device integration, data management, security, and privacy issues. This work begins by defining the key concepts of IoT and its relevance to healthcare, highlighting the potential benefits and challenges. It discusses several components of IoT-enabled smart healthcare systems, such as wearable devices, remote monitoring, and healthcare infrastructure integration. This work discusses the role of IoT in chronic disease management, telemedicine, and preventive healthcare, showcasing real-world examples and success stories. Moreover, this work outlines the critical role of data analytics and artificial intelligence in processing the vast amount of healthcare data generated by IoT devices. © 2024, IGI Global. All rights reserved.
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -3467,7 +3435,7 @@ KW  - Xgboost
 KW  - Internet of things
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - CONF
@@ -3509,7 +3477,7 @@ KW  - Zero-knowledge proofs
 KW  - Smart contract
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -3551,7 +3519,7 @@ KW  - Virtual healthcare
 KW  - Developing countries
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -3593,7 +3561,7 @@ KW  - Privacy
 KW  - Internet of things
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -3676,7 +3644,7 @@ KW  - quality of life
 KW  - Wearable technology
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -3722,7 +3690,7 @@ KW  - Sub-architectures
 KW  - Sensitive data
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -3756,7 +3724,7 @@ KW  - Routings
 KW  - Internet of things
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -3811,7 +3779,37 @@ KW  - Tangle
 KW  - Blockchain
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 1
+ER  -
+
+TY  - CHAP
+AU  - Titus, A.
+AU  - Denny, A.
+AU  - Sivarajkumar, S.
+AU  - Koyilot, M.C.
+AU  - Prakash, G.
+AU  - Nandakumar, V.
+AU  - Shameer, Z.
+AU  - Khader, S.
+AU  - Yadav, K.K.
+TI  - E-Healthcare Data Management Using Machine Learning and IoT
+PY  - 2024
+T2  - Studies in Computational Intelligence
+VL  - 1169
+SP  - 167
+EP  - 199
+DO  - 10.1007/978-981-97-5624-7_5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85203045485&doi=10.1007%2f978-981-97-5624-7_5&partnerID=40&md5=b612be79394e7971d76be9f47290bae0
+AB  - This chapter investigates the transformative potential of amalgamating Electronic Health Records (EHRs) with Internet of Things (IoT) sensors and machine learning (ML) in remote healthcare environments. It scrutinizes how interconnected devices enable real-time data acquisition thereby, fostering continuous monitoring and tailored patient care delivery. Through a detailed exploration of innovative EHR-IoT-ML integration, encompassing biometrics and remote diagnostics, it delineates the capabilities for early disease detection, predictive analytics, and refined clinical decision-making. Additionally, it addresses critical aspects of data management strategies and security protocols, imperative for preserving patient confidentiality and ensuring system robustness. By providing elucidative examples and meticulous analysis of challenges and opportunities, this chapter propels forward a trajectory toward a future where technology optimizes remote healthcare delivery, augments patient outcomes, and widens accessibility to vital medical services. © The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd. 2024.
+KW  - Clinical decision support systems
+KW  - Fast healthcare interoperability resources
+KW  - Health level 7
+KW  - Internet of medical things
+KW  - Remote patient monitoring
+KW  - Wearable devices
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -3841,7 +3839,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201859460&doi=10.137
 AB  - Introduction Common, consumer-grade biosensors mounted on fitness trackers and smartwatches can measure an array of biometrics that have potential utility in post-discharge medical monitoring, especially in remote/rural communities. The feasibility characteristics for wrist-worn biosensors are poorly described for post-COVID conditions and rural populations. Methods We prospectively recruited patients in rural communities who were enrolled in an at-home rehabilitation program for post-COVID conditions. They were asked to wear a FitBit Charge 2 device and biosensor parameters were analyzed [e.g. heart rate, sleep, and activity]. Electronic patient reported outcome measures [E-PROMS] for mental [bi-weekly] and physical [daily] symptoms were collected using SMS text or email [per patient preference]. Exit surveys and interviews evaluated the patient experience. Results Ten patients were observed for an average of 58 days and half [N = 5] were monitored for 8 weeks or more. Five patients [50%] had been hospitalized with COVID [mean stay = 41 days] and 4 [36%] had required mechanical ventilation. As baseline, patients had moderate to severe levels of anxiety, depression, and stress; fatigue and shortness of breath were the most prevalent physical symptoms. Four patients [40%] already owned a smartwatch. In total, 575 patient days of patient monitoring occurred across 10 patients. Biosensor data was usable for 91.3% of study hours and surveys were completed 82.1% and 78.7% of the time for physical and mental symptoms, respectively. Positive correlations were observed between stress and resting heart rate [r = 0.360, p<0.01], stress and daily steps [r = 0.335, p<0.01], and anxiety and daily steps [r = 0.289, p<0.01]. There was a trend toward negative correlation between sleep time and physical symptom burden [r = -0.211, p = 0.05]. Patients reported an overall positive experience and identified the potential for wearable devices to improve medical safety and access to care. Concerns around data privacy/security were infrequent. Conclusions We report excellent feasibility characteristics for wrist-worn biosensors and e-PROMS as a possible substrate for multi-modal disease tracking in post-COVID conditions. Adapting consumer-grade wearables for medical use and scalable remote patient monitoring holds great potential. © 2024 Wiebe et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -3904,50 +3902,7 @@ KW  - workflow
 KW  - Information management
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
-ER  -
-
-TY  - CONF
-AU  - Bansal, S.
-AU  - Diwaker, C.
-TI  - Development of a New Technique to Improve Security of Data in Remote Patient Monitoring System in Health Care
-PY  - 2023
-T2  - Lecture Notes in Networks and Systems
-VL  - 588
-SP  - 657
-EP  - 669
-DO  - 10.1007/978-981-19-7982-8_55
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85152860744&doi=10.1007%2f978-981-19-7982-8_55&partnerID=40&md5=abd6d9d18d33e60584a1c3f6af4f781b
-AB  - New emerging technologies in today’s world play a vital role in each and every sector. In health sector, also a lot of research work is going on to transform the traditional health sector into a digital health sector with the help of these new technologies. And the biggest step toward this transformation in health care is remote patient monitoring (RPM). Remote patient monitoring (RPM) is the most powerful tool to observe the patients effectively at any time. RPM allows the healthcare providers to get the real-time monitoring of the patients with the help of sensors, wearable devices, smart phones, etc. Data is a new fuel of twenty-first century, with the implementation of different new technologies in various fields the legitimate concern of data security and privacy of the users is also arise which has to be resolved for maintain the trust of the users. And this research acknowledges this concern seriously and efficiently. The objective of this research is to enhance the security of the data of patients with the help of RSA by preventing the malicious data infusion in wireless sensor networks (WSNs) used in remote patient monitoring architecture, to maintain the integrity and authenticity of data by en-route filtering using RSA and to enhance the efficiency of overall system by minimum use of energy with the help of AODV protocol. The proposed enhance security mechanism is simulated using NS2 simulator. This research work provides a path to move a step further in transforming the health sector when dealing with the legitimate concern of data protection simultaneously. © The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd. 2023.
-KW  - AODV en-route filtering
-KW  - Cryptography
-KW  - Malicious data infusion
-KW  - NS2 simulator
-KW  - Remote patient monitoring
-KW  - RSA
-KW  - Wireless sensor networks
-KW  - Metadata
-KW  - mHealth
-KW  - Network architecture
-KW  - Network protocols
-KW  - Network security
-KW  - Remote patient monitoring
-KW  - Wearable sensors
-KW  - Wireless sensor networks
-KW  - AODV en-route filtering
-KW  - Emerging technologies
-KW  - En-route filtering
-KW  - Health care providers
-KW  - Malicious data infusion
-KW  - NS2 simulator
-KW  - Real time monitoring
-KW  - Remote patient monitoring systems
-KW  - RSA
-KW  - Wearable devices
-KW  - Smartphones
-M3  - Conference paper
-DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - CHAP
@@ -3970,7 +3925,7 @@ KW  - QoS
 KW  - Technological development
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -4017,7 +3972,7 @@ KW  - Software-defined networks
 KW  - Fog computing
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -4058,7 +4013,7 @@ KW  - Wearable devices
 KW  - Wearable technology
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CONF
@@ -4099,7 +4054,7 @@ KW  - Vulnerability
 KW  - Internet of things
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -4166,7 +4121,7 @@ KW  - remote sensing
 KW  - United States
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 4
+N1  - Export Date: 20 September 2024; Cited By: 4
 ER  -
 
 TY  - JOUR
@@ -4232,7 +4187,7 @@ KW  - procedures
 KW  - total quality management
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 25
+N1  - Export Date: 20 September 2024; Cited By: 26
 ER  -
 
 TY  - CONF
@@ -4272,7 +4227,7 @@ KW  - Telesurgery
 KW  - Hospitals
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - CONF
@@ -4315,7 +4270,7 @@ KW  - Social distancing
 KW  - Telemedicine
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -4352,7 +4307,7 @@ KW  - vital sign
 KW  - wireless communication
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -4375,7 +4330,7 @@ KW  - IoT based health care
 KW  - Security
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 7
+N1  - Export Date: 20 September 2024; Cited By: 7
 ER  -
 
 TY  - JOUR
@@ -4398,7 +4353,7 @@ KW  - user interaction
 KW  - wearable
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 6
+N1  - Export Date: 20 September 2024; Cited By: 6
 ER  -
 
 TY  - BOOK
@@ -4416,7 +4371,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141138821&doi=10.432
 AB  - Patient-focused healthcare, driven by COVID-19 experiences, has become a hallmark for providing healthcare services to patients across all modalities of care and in the home. The ability to capture real-time patient data, no matter the location, via remote patient monitoring, and to transmit that data to providers and organizations approved by the consumer/patient, will become a critical capability for all healthcare providers. Of all the remote patient monitoring product designs, wearable medical devices are emerging as the best positioned to support the evolving patient-focused healthcare environment. This book is for those who are evaluating, selecting, implementing, managing, or designing wearable devices to monitor the health of patients and consumers. This book will provide the knowledge to understand the issues that mitigate the risk of wearable technologies so people can deliver successful projects using these technologies. It will discuss their use in remote patient monitoring, the advantages and disadvantages of different types of physiological sensors, different wireless communication protocols, and different power sources. It will describe issues and solutions in cybersecurity and HIPAA compliance, as well as setting them up to be used in healthcare systems and by patients. © 2023 Michael W. Davis, Michael J. Kirwan, Walter N. Maclay and Harry P. Pappas. All rights reserved.
 M3  - Book
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 6
+N1  - Export Date: 20 September 2024; Cited By: 6
 ER  -
 
 TY  - JOUR
@@ -4457,7 +4412,7 @@ KW  - System scalability
 KW  - Network security
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 14
+N1  - Export Date: 20 September 2024; Cited By: 14
 ER  -
 
 TY  - CHAP
@@ -4475,7 +4430,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141356940&doi=10.120
 AB  - IoT-enabled devices have made remote monitoring possible in the healthcare sector by unleashing the potential to safely and healthily monitor patients and enable medical professionals to provide superlative care. They have also increased patient engagement and satisfaction, with easier and more efficient interactions with doctors. In addition, remote patient health monitoring helps to reduce the duration of hospital stays and prevents re-admission. The IoT also has a significant impact on lowering healthcare costs and improving treatment outcomes. With the help of a redefinition of the interactions of devices and people to deliver health solutions, the IoT is undoubtedly changing the health industry. The IoT offers healthcare applications that benefit patients, families, doctors, hospitals, and insurance companies. This chapter discusses the use of the IoT in different healthcare systems. The authors discuss the use of big data and how to handle IoT data generated from different sensors in healthcare devices. © 2022 Taylor & Francis Group, LLC. All rights reserved.
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 4
+N1  - Export Date: 20 September 2024; Cited By: 4
 ER  -
 
 TY  - JOUR
@@ -4515,7 +4470,7 @@ KW  - Security
 KW  - Authentication
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 31
+N1  - Export Date: 20 September 2024; Cited By: 31
 ER  -
 
 TY  - JOUR
@@ -4591,7 +4546,7 @@ KW  - pandemic
 KW  - technology
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 3
+N1  - Export Date: 20 September 2024; Cited By: 4
 ER  -
 
 TY  - CONF
@@ -4616,7 +4571,7 @@ KW  - Security in MCPS
 KW  - Wireless sensor networks
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 4
+N1  - Export Date: 20 September 2024; Cited By: 4
 ER  -
 
 TY  - JOUR
@@ -4672,7 +4627,7 @@ KW  - telemetry
 KW  - telemonitoring
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 51
+N1  - Export Date: 20 September 2024; Cited By: 54
 ER  -
 
 TY  - CONF
@@ -4714,7 +4669,7 @@ KW  - Smart phones
 KW  - Cybersecurity
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -4809,7 +4764,7 @@ KW  - questionnaire
 KW  - technology
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 9
+N1  - Export Date: 20 September 2024; Cited By: 9
 ER  -
 
 TY  - JOUR
@@ -4833,7 +4788,7 @@ KW  - Wearable Sensors
 KW  - Wireless Sensor Network (WSN)
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 16
+N1  - Export Date: 20 September 2024; Cited By: 16
 ER  -
 
 TY  - JOUR
@@ -4886,7 +4841,7 @@ KW  - reproducibility
 KW  - Wearable technology
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 28
+N1  - Export Date: 20 September 2024; Cited By: 30
 ER  -
 
 TY  - JOUR
@@ -4934,7 +4889,7 @@ KW  - pandemic
 KW  - privacy
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 277
+N1  - Export Date: 20 September 2024; Cited By: 289
 ER  -
 
 TY  - CONF
@@ -4977,7 +4932,7 @@ KW  - Telehealth
 KW  - Decision trees
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 3
+N1  - Export Date: 20 September 2024; Cited By: 3
 ER  -
 
 TY  - JOUR
@@ -5023,7 +4978,7 @@ KW  - Wearable devices
 KW  - Blockchain
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 105
+N1  - Export Date: 20 September 2024; Cited By: 108
 ER  -
 
 TY  - CONF
@@ -5066,7 +5021,7 @@ KW  - Wearable devices
 KW  - Blockchain
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -5117,7 +5072,7 @@ KW  - Peer-to-peer computing
 KW  - Cyber Physical System
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 46
+N1  - Export Date: 20 September 2024; Cited By: 46
 ER  -
 
 TY  - CONF
@@ -5157,7 +5112,7 @@ KW  - Remote health monitoring
 KW  - Internet of things
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 10
+N1  - Export Date: 20 September 2024; Cited By: 10
 ER  -
 
 TY  - JOUR
@@ -5241,7 +5196,65 @@ KW  - telemedicine
 KW  - virus pneumonia
 M3  - Letter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 5
+N1  - Export Date: 20 September 2024; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Kalabakov, S.
+AU  - Jovanovski, B.
+AU  - Denkovski, D.
+AU  - Rakovic, V.
+AU  - Pfitzner, B.
+AU  - Konak, O.
+AU  - Arnrich, B.
+AU  - Gjoreski, H.
+TI  - Federated Learning for Activity Recognition: A System Level Perspective
+PY  - 2023
+T2  - IEEE Access
+VL  - 11
+SP  - 64442
+EP  - 64457
+DO  - 10.1109/ACCESS.2023.3289220
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163510877&doi=10.1109%2fACCESS.2023.3289220&partnerID=40&md5=756d63804636532b500a27df73522acb
+AB  - The past decade has seen substantial growth in the prevalence and capabilities of wearable devices. For instance, recent human activity recognition (HAR) research has explored using wearable devices in applications such as remote monitoring of patients, detection of gait abnormalities, and cognitive disease identification. However, data collection poses a major challenge in developing HAR systems, especially because of the need to store data at a central location. This raises privacy concerns and makes continuous data collection difficult and expensive due to the high cost of transferring data from a user's wearable device to a central repository. Considering this, we explore the adoption of federated learning (FL) as a potential solution to address the privacy and cost issues associated with data collection in HAR. More specifically, we investigate the performance and behavioral differences between FL and deep learning (DL) HAR models, under various conditions relevant to real-world deployments. Namely, we explore the differences between the two types of models when (i) using data from different sensor placements, (ii) having access to users with data from heterogeneous sensor placements, (iii) considering bandwidth efficiency, and (iv) dealing with data with incorrect labels. Our results show that FL models suffer from a consistent performance deficit in comparison to their DL counterparts, but achieve these results with much better bandwidth efficiency. Furthermore, we observe that FL models exhibit very similar responses to those of DL models when exposed to data from heterogeneous sensor placements. Finally, we show that the FL models are more robust to data with incorrect labels than their centralized DL counterparts.  © 2013 IEEE.
+KW  - bandwidth efficiency
+KW  - data errors
+KW  - deep learning
+KW  - different and heterogeneous sensor placements
+KW  - feature selection
+KW  - federated learning
+KW  - FL optimizers
+KW  - fraction fit
+KW  - Human activity recognition
+KW  - model complexity
+KW  - system-level aspects
+KW  - Bandwidth
+KW  - Data acquisition
+KW  - Data privacy
+KW  - Deep learning
+KW  - Feature extraction
+KW  - Bandwidth efficiency
+KW  - Data collection
+KW  - Data errors
+KW  - Deep learning
+KW  - Different and heterogeneous sensor placement
+KW  - Features extraction
+KW  - Features selection
+KW  - Federated learning
+KW  - Federated learning optimizer
+KW  - Fraction fit
+KW  - Heterogeneous sensors
+KW  - Human activity recognition
+KW  - Modeling complexity
+KW  - Optimizers
+KW  - Sensor placement
+KW  - Spectral efficiencies
+KW  - System levels
+KW  - System-level aspect
+KW  - Efficiency
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -5293,7 +5306,7 @@ KW  - signal processing
 KW  - Frequency domain analysis
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 6
+N1  - Export Date: 20 September 2024; Cited By: 6
 ER  -
 
 TY  - JOUR
@@ -5328,7 +5341,7 @@ KW  - Security and privacy
 KW  - Data Sharing
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 16
+N1  - Export Date: 20 September 2024; Cited By: 17
 ER  -
 
 TY  - CHAP
@@ -5349,7 +5362,7 @@ KW  - Machine learning
 KW  - Narrowband IoT
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - CONF
@@ -5388,7 +5401,7 @@ KW  - Speed up
 KW  - Internet of things
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 2
+N1  - Export Date: 20 September 2024; Cited By: 2
 ER  -
 
 TY  - JOUR
@@ -5456,7 +5469,7 @@ KW  - reproducibility
 KW  - telemedicine
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 22
+N1  - Export Date: 20 September 2024; Cited By: 22
 ER  -
 
 TY  - CONF
@@ -5500,7 +5513,7 @@ KW  - Threats
 KW  - Internet of things
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 10
+N1  - Export Date: 20 September 2024; Cited By: 10
 ER  -
 
 TY  - JOUR
@@ -5529,7 +5542,7 @@ KW  - Reinforcement Learning (RL)
 KW  - security
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 7
+N1  - Export Date: 20 September 2024; Cited By: 7
 ER  -
 
 TY  - CONF
@@ -5567,7 +5580,7 @@ KW  - Secure interactions
 KW  - Network security
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -5694,7 +5707,63 @@ KW  - Europe
 KW  - technology
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 29
+N1  - Export Date: 20 September 2024; Cited By: 30
+ER  -
+
+TY  - JOUR
+AU  - Miao, H.
+AU  - Li, C.
+AU  - Wang, J.
+TI  - A Future of Smarter Digital Health Empowered by Generative Pretrained Transformer
+PY  - 2023
+T2  - Journal of Medical Internet Research
+VL  - 25
+IS  - 1
+C7  - e49963
+DO  - 10.2196/49963
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172204717&doi=10.2196%2f49963&partnerID=40&md5=ed0550ce64050ecdd722ef7cd0c4d01e
+AB  - Generative pretrained transformer (GPT) tools have been thriving, as ignited by the remarkable success of OpenAI’s recent chatbot product. GPT technology offers countless opportunities to significantly improve or renovate current health care research and practice paradigms, especially digital health interventions and digital health–enabled clinical care, and a future of smarter digital health can thus be expected. In particular, GPT technology can be incorporated through various digital health platforms in homes and hospitals embedded with numerous sensors, wearables, and remote monitoring devices. In this viewpoint paper, we highlight recent research progress that depicts the future picture of a smarter digital health ecosystem through GPT-facilitated centralized communications, automated analytics, personalized health care, and instant decision-making. © 2023 Journal of Medical Internet Research. All rights reserved.
+KW  - AI
+KW  - artificial intelligence
+KW  - ChatGPT
+KW  - digital health
+KW  - ethics
+KW  - generative pretrained model
+KW  - generative pretrained transformer
+KW  - precision medicine
+KW  - privacy
+KW  - Ecosystem
+KW  - Health Services Research
+KW  - Hospitals
+KW  - Humans
+KW  - Software
+KW  - Technology
+KW  - Article
+KW  - artificial intelligence
+KW  - ChatGPT
+KW  - clinical decision making
+KW  - clinician
+KW  - data privacy
+KW  - digital technology
+KW  - ecosystem monitoring
+KW  - ethics
+KW  - generative pretrained transformer
+KW  - health care
+KW  - health education
+KW  - health service
+KW  - human
+KW  - interpersonal communication
+KW  - medical research
+KW  - personalized medicine
+KW  - remote sensing
+KW  - ecosystem
+KW  - health services research
+KW  - hospital
+KW  - software
+KW  - technology
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 20 September 2024; Cited By: 3
 ER  -
 
 TY  - JOUR
@@ -5746,7 +5815,7 @@ KW  - structured questionnaire
 KW  - vascular disease
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 2
+N1  - Export Date: 20 September 2024; Cited By: 2
 ER  -
 
 TY  - JOUR
@@ -5769,7 +5838,7 @@ KW  - key challenges
 KW  - medical devices
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -5843,7 +5912,7 @@ KW  - physiologic monitoring
 KW  - physiology
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 43
+N1  - Export Date: 20 September 2024; Cited By: 45
 ER  -
 
 TY  - CONF
@@ -5886,7 +5955,7 @@ KW  - Vital parameters
 KW  - Machine learning
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 4
+N1  - Export Date: 20 September 2024; Cited By: 4
 ER  -
 
 TY  - CONF
@@ -5923,7 +5992,7 @@ KW  - Systematic framework
 KW  - Remote patient monitoring
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 0
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - JOUR
@@ -5950,7 +6019,7 @@ KW  - monitoring
 KW  - remote
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 89
+N1  - Export Date: 20 September 2024; Cited By: 97
 ER  -
 
 TY  - JOUR
@@ -6007,7 +6076,7 @@ KW  - telephone interview
 KW  - videoconferencing
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 40
+N1  - Export Date: 20 September 2024; Cited By: 40
 ER  -
 
 TY  - JOUR
@@ -6069,7 +6138,7 @@ KW  - nebulizer
 KW  - patient
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 9
+N1  - Export Date: 20 September 2024; Cited By: 9
 ER  -
 
 TY  - JOUR
@@ -6125,7 +6194,7 @@ KW  - medical ethics
 KW  - patient right
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 22
+N1  - Export Date: 20 September 2024; Cited By: 23
 ER  -
 
 TY  - CHAP
@@ -6165,7 +6234,7 @@ KW  - STATISTICA
 KW  - Internet of things
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 2
+N1  - Export Date: 20 September 2024; Cited By: 2
 ER  -
 
 TY  - CHAP
@@ -6208,7 +6277,7 @@ KW  - Security solutions
 KW  - Internet of things
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 4
+N1  - Export Date: 20 September 2024; Cited By: 4
 ER  -
 
 TY  - JOUR
@@ -6240,7 +6309,7 @@ KW  - requirement elicitation
 KW  - smart health
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 10
+N1  - Export Date: 20 September 2024; Cited By: 10
 ER  -
 
 TY  - JOUR
@@ -6292,7 +6361,7 @@ KW  - methodology
 KW  - Internet of things
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 13
+N1  - Export Date: 20 September 2024; Cited By: 13
 ER  -
 
 TY  - JOUR
@@ -6335,7 +6404,7 @@ KW  - health care delivery
 KW  - medical technology
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 45
+N1  - Export Date: 20 September 2024; Cited By: 45
 ER  -
 
 TY  - CHAP
@@ -6363,7 +6432,7 @@ KW  - Smart contract
 KW  - Transparency
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - CONF
@@ -6406,7 +6475,7 @@ KW  - performance indicator
 KW  - prescription
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 2
+N1  - Export Date: 20 September 2024; Cited By: 2
 ER  -
 
 TY  - JOUR
@@ -6444,7 +6513,7 @@ KW  - randomized controlled trial (topic)
 KW  - telehealth
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 5
+N1  - Export Date: 20 September 2024; Cited By: 5
 ER  -
 
 TY  - JOUR
@@ -6479,7 +6548,7 @@ KW  - Wireless communications
 KW  - Wireless local area networks (WLAN)
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 18
+N1  - Export Date: 20 September 2024; Cited By: 18
 ER  -
 
 TY  - JOUR
@@ -6552,7 +6621,47 @@ KW  - machine learning
 KW  - Wearable technology
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 114
+N1  - Export Date: 20 September 2024; Cited By: 116
+ER  -
+
+TY  - CHAP
+AU  - Lu, W.
+AU  - Burnett, B.
+AU  - Phipps, R.
+TI  - Feature Selections for Detecting Intrusions on the Internet of Medical Things
+PY  - 2023
+T2  - Lecture Notes on Data Engineering and Communications Technologies
+VL  - 174
+SP  - 89
+EP  - 105
+DO  - 10.1007/978-3-031-33242-5_7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85167874455&doi=10.1007%2f978-3-031-33242-5_7&partnerID=40&md5=dfa914f9ba4e1bd068dd7da59f8ef5d8
+AB  - The widespread use of the Internet of Medical Things (IoMT) leaves a path for numerous cybercriminal activities to target patients and hospitals using these networked medical devices and also raises numerous security and privacy concerns for healthcare professionals dealing with sensitive and life-saving medical information. In this paper, we propose a logistic regression model-based feature selection approach to form a minimum set of significant features where intrusion detection is then conducted based on the selected features. The approach is evaluated with a public dataset collected in real-time from a medical network, and the experimental evaluation results show that the proposed feature selection approach achieves an accuracy of 81.96% on the testing dataset, where 1168 attacks are detected out of 1931 attack instances, that outperforms the traditional PCA-based approach, where only 354 attacks are detected when evaluated with the same benchmark dataset. © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Anomaly detection
+KW  - Datasets
+KW  - Descriptive statistics
+KW  - Enhanced Healthcare Monitoring System (EHMS)
+KW  - Internet of Medical Things (IoMT)
+KW  - Cybersecurity
+KW  - Feature Selection
+KW  - Health care
+KW  - Intrusion detection
+KW  - Regression analysis
+KW  - Statistical tests
+KW  - Anomaly detection
+KW  - Cybercriminals
+KW  - Dataset
+KW  - Descriptive statistics
+KW  - Enhanced healthcare monitoring system
+KW  - Features selection
+KW  - Healthcare monitoring
+KW  - Internet of medical thing
+KW  - Medical Devices
+KW  - Monitoring system
+KW  - Anomaly detection
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - CHAP
@@ -6592,7 +6701,7 @@ KW  - Smart healthcare systems
 KW  - Internet of things
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 11
+N1  - Export Date: 20 September 2024; Cited By: 11
 ER  -
 
 TY  - JOUR
@@ -6619,7 +6728,7 @@ KW  - Pregnancy care
 KW  - Wearable sensors
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 10
+N1  - Export Date: 20 September 2024; Cited By: 10
 ER  -
 
 TY  - JOUR
@@ -6655,7 +6764,7 @@ KW  - Wearable devices
 KW  - Data privacy
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 11
+N1  - Export Date: 20 September 2024; Cited By: 11
 ER  -
 
 TY  - CONF
@@ -6697,7 +6806,7 @@ KW  - Signcryption
 KW  - Authentication
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -6741,7 +6850,7 @@ KW  - Wireless ad hoc communication
 KW  - Internet of things
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 17
+N1  - Export Date: 20 September 2024; Cited By: 17
 ER  -
 
 TY  - CHAP
@@ -6757,7 +6866,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85161802591&doi=10.100
 AB  - Machine Learning (ML) and especially Deep Learning (DL) models have been already proven successful in automated or assisted decision-making support in multiple domains. This is particularly evident in the data-intensive domains, such as the clinical practice. In this paper, we provide a systematic view of using ML/DL approaches in orthopedic rehabilitation (predicting success, wearable sensors), remote monitoring and rehabilitation follow-up (including the assessment). Furthermore, in the effort to provide sensible and complete guidelines for using the ML/DL in the field in the future, we identify the characteristic features of data (used for training and testing algorithms) and algorithms themselves. Finally, we identify data privacy, data integration and liability as the current challenges for increasing the pace of implementing the use of ML/DL methods in remote monitoring and assistance in orthopedic rehabilitation. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2022.
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -6810,7 +6919,7 @@ KW  - health care personnel
 KW  - physiologic monitoring
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 15
+N1  - Export Date: 20 September 2024; Cited By: 15
 ER  -
 
 TY  - JOUR
@@ -6860,7 +6969,7 @@ KW  - computer security
 KW  - Europe
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 10
+N1  - Export Date: 20 September 2024; Cited By: 11
 ER  -
 
 TY  - JOUR
@@ -6904,7 +7013,7 @@ KW  - responsibility
 KW  - telediagnosis
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 6
+N1  - Export Date: 20 September 2024; Cited By: 6
 ER  -
 
 TY  - JOUR
@@ -6947,7 +7056,7 @@ KW  - electronic device
 KW  - inflammatory bowel disease
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 11
+N1  - Export Date: 20 September 2024; Cited By: 11
 ER  -
 
 TY  - JOUR
@@ -7034,7 +7143,83 @@ KW  - technology
 KW  - telemedicine
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 43
+N1  - Export Date: 20 September 2024; Cited By: 43
+ER  -
+
+TY  - JOUR
+AU  - Graeber, J.
+AU  - Warmerdam, E.
+AU  - Aufenberg, S.
+AU  - Bull, C.
+AU  - Davies, K.
+AU  - Dixon, J.
+AU  - Emmert, K.
+AU  - Judd, C.
+AU  - Maetzler, C.
+AU  - Reilmann, R.
+AU  - Ng, W.-F.
+AU  - Macrae, V.
+AU  - Maetzler, W.
+AU  - Kaduszkiewicz, H.
+TI  - Technology acceptance of digital devices for home use: Qualitative results of a mixed methods study
+PY  - 2023
+T2  - Digital Health
+VL  - 9
+DO  - 10.1177/20552076231181239
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163033728&doi=10.1177%2f20552076231181239&partnerID=40&md5=361bd58111652d91f9c6b2d5146b3b87
+AB  - Objective: Digital devices have demonstrated benefits to patients with chronic and neurodegenerative diseases. But when patients use medical devices in their homes, the technologies have to fit into their lives. We investigated the technology acceptance of seven digital devices for home use. Methods: We conducted 60 semi-structured interviews with participants of a larger device study on their views on the acceptability of seven devices. Transcriptions were analysed using qualitative content analysis. Results: Based on the unified theory of acceptance and use of technology, we evaluated effort, facilitating conditions, performance expectancy and social influence of each device. In the effort category, five themes emerged: (a) the hassle to use the device; (b) its usability; (c) comfort; (d) disturbance to daily life; and (e) problems during usage. Facilitating conditions consisted of five themes: (a) expectations regarding a device; (b) quality of the instructions; (c) insecurities with usage; (d) possibilities of optimization; and (e) possibilities to use the device longer. Regarding performance expectancy, we identified three themes: (a) insecurities with the performance of a device; (b) feedback; and (c) motivation for using a device. In the social influence category, three themes emerged: (a) reactions of peers; (b) concerns with the visibility of a device; and (c) concerns regarding data privacy. Conclusions: We identify key factors that determine the acceptability of medical devices for home use from the participants’ perspective. These include low effort of use, minor disruptions to their daily lives and good support from the study team. © The Author(s) 2023.
+KW  - Chronic disease
+KW  - connected devices, personalised medicine
+KW  - digital health, general
+KW  - qualitative studies
+KW  - remote patient monitoring, personalised medicine
+KW  - wearables, personalised medicine
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 20 September 2024; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Bansal, S.
+AU  - Diwaker, C.
+TI  - Development of a New Technique to Improve Security of Data in Remote Patient Monitoring System in Health Care
+PY  - 2023
+T2  - Lecture Notes in Networks and Systems
+VL  - 588
+SP  - 657
+EP  - 669
+DO  - 10.1007/978-981-19-7982-8_55
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85152860744&doi=10.1007%2f978-981-19-7982-8_55&partnerID=40&md5=abd6d9d18d33e60584a1c3f6af4f781b
+AB  - New emerging technologies in today’s world play a vital role in each and every sector. In health sector, also a lot of research work is going on to transform the traditional health sector into a digital health sector with the help of these new technologies. And the biggest step toward this transformation in health care is remote patient monitoring (RPM). Remote patient monitoring (RPM) is the most powerful tool to observe the patients effectively at any time. RPM allows the healthcare providers to get the real-time monitoring of the patients with the help of sensors, wearable devices, smart phones, etc. Data is a new fuel of twenty-first century, with the implementation of different new technologies in various fields the legitimate concern of data security and privacy of the users is also arise which has to be resolved for maintain the trust of the users. And this research acknowledges this concern seriously and efficiently. The objective of this research is to enhance the security of the data of patients with the help of RSA by preventing the malicious data infusion in wireless sensor networks (WSNs) used in remote patient monitoring architecture, to maintain the integrity and authenticity of data by en-route filtering using RSA and to enhance the efficiency of overall system by minimum use of energy with the help of AODV protocol. The proposed enhance security mechanism is simulated using NS2 simulator. This research work provides a path to move a step further in transforming the health sector when dealing with the legitimate concern of data protection simultaneously. © The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd. 2023.
+KW  - AODV en-route filtering
+KW  - Cryptography
+KW  - Malicious data infusion
+KW  - NS2 simulator
+KW  - Remote patient monitoring
+KW  - RSA
+KW  - Wireless sensor networks
+KW  - Metadata
+KW  - mHealth
+KW  - Network architecture
+KW  - Network protocols
+KW  - Network security
+KW  - Remote patient monitoring
+KW  - Wearable sensors
+KW  - Wireless sensor networks
+KW  - AODV en-route filtering
+KW  - Emerging technologies
+KW  - En-route filtering
+KW  - Health care providers
+KW  - Malicious data infusion
+KW  - NS2 simulator
+KW  - Real time monitoring
+KW  - Remote patient monitoring systems
+KW  - RSA
+KW  - Wearable devices
+KW  - Smartphones
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 20 September 2024; Cited By: 0
 ER  -
 
 TY  - CHAP
@@ -7068,7 +7253,7 @@ KW  - Validation
 KW  - Wearable
 M3  - Book chapter
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - BOOK
@@ -7087,7 +7272,7 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144813359&doi=10.120
 AB  - Internet of Healthcare Things (IoHT) is an Internet of Things (IoT)-based solution that includes a network architecture which allows the connection between a patient and healthcare facilities. This book covers various research issues of smart and secure IoHT, aimed at providing solutions for remote healthcare monitoring using pertinent techniques. Applications of machine learning techniques and data analytics in IoHT, along with the latest communication and networking technologies and cloud computing, are also discussed. Features: Provides a detailed introduction to IoHT and its applications; Reviews underlying sensor and hardware technologies; Includes recent advances in the IoHT, such as remote healthcare montoring and wearable devices; Explores applications of data analytics/data mining in IoHT, including data management and data governance; Focuses on regulatory and compliance issues in IoHT. This book is intended for graduate students and researchers in Bioinformatics, Biomedical Engineering, Big Data and Analytics, Data Mining, and Information Management, IoT and Computer and Electrical Engineering. © 2023 selection and editorial matter, Nitin Gupta, Jagdeep Singh, Chinmay Chakraborty, Mamoun Alazab and Dinh-Thuan Do; individual chapters, the contributors. All rights reserved.
 M3  - Book
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -7123,7 +7308,7 @@ KW  - Reliable communication
 KW  - Internet of things
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 11
+N1  - Export Date: 20 September 2024; Cited By: 11
 ER  -
 
 TY  - JOUR
@@ -7204,7 +7389,7 @@ KW  - qualitative research
 KW  - very elderly
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 14
+N1  - Export Date: 20 September 2024; Cited By: 14
 ER  -
 
 TY  - CONF
@@ -7242,7 +7427,7 @@ KW  - Wearable devices
 KW  - Cryptography
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 10
+N1  - Export Date: 20 September 2024; Cited By: 10
 ER  -
 
 TY  - JOUR
@@ -7343,7 +7528,7 @@ KW  - pandemic
 KW  - SARS
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 201
+N1  - Export Date: 20 September 2024; Cited By: 207
 ER  -
 
 TY  - JOUR
@@ -7414,7 +7599,7 @@ KW  - pandemic
 KW  - telemedicine
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 7
+N1  - Export Date: 20 September 2024; Cited By: 7
 ER  -
 
 TY  - JOUR
@@ -7455,7 +7640,7 @@ KW  - State of the art
 KW  - Data streams
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 29
+N1  - Export Date: 20 September 2024; Cited By: 30
 ER  -
 
 TY  - CONF
@@ -7493,7 +7678,7 @@ KW  - Smart medical devices
 KW  - Cryptography
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 2
+N1  - Export Date: 20 September 2024; Cited By: 2
 ER  -
 
 TY  - JOUR
@@ -7584,7 +7769,7 @@ KW  - technology
 KW  - very elderly
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 64
+N1  - Export Date: 20 September 2024; Cited By: 65
 ER  -
 
 TY  - JOUR
@@ -7649,7 +7834,7 @@ KW  - vital sign
 KW  - Internet of things
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 227
+N1  - Export Date: 20 September 2024; Cited By: 229
 ER  -
 
 TY  - JOUR
@@ -7672,7 +7857,7 @@ KW  - personal data
 KW  - Telemedicine
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 1
+N1  - Export Date: 20 September 2024; Cited By: 1
 ER  -
 
 TY  - JOUR
@@ -7728,7 +7913,7 @@ KW  - workload
 KW  - child
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 33
+N1  - Export Date: 20 September 2024; Cited By: 33
 ER  -
 
 TY  - JOUR
@@ -7794,7 +7979,7 @@ KW  - telephone
 KW  - text messaging
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 33
+N1  - Export Date: 20 September 2024; Cited By: 35
 ER  -
 
 TY  - JOUR
@@ -7817,7 +8002,7 @@ KW  - Internet of medical things
 KW  - Remote monitoring
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 159
+N1  - Export Date: 20 September 2024; Cited By: 166
 ER  -
 
 TY  - CONF
@@ -7852,7 +8037,7 @@ KW  - Tablet pc
 KW  - Personal computers
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 3
+N1  - Export Date: 20 September 2024; Cited By: 3
 ER  -
 
 TY  - CONF
@@ -7902,7 +8087,7 @@ KW  - Smart medical devices
 KW  - Anomaly detection
 M3  - Conference paper
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 44
+N1  - Export Date: 20 September 2024; Cited By: 46
 ER  -
 
 TY  - JOUR
@@ -7935,7 +8120,7 @@ KW  - telemedicine
 KW  - telemonitoring
 M3  - Review
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 8
+N1  - Export Date: 20 September 2024; Cited By: 8
 ER  -
 
 TY  - JOUR
@@ -7963,6 +8148,6 @@ KW  - NEWS-2
 KW  - Remote monitoring
 M3  - Article
 DB  - Scopus
-N1  - Export Date: 07 September 2024; Cited By: 63
+N1  - Export Date: 20 September 2024; Cited By: 63
 ER  -
 

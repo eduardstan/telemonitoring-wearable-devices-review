@@ -1347,6 +1347,92 @@ AID - 10.1038/s41746-024-01147-z [doi]
 PST - epublish
 SO  - NPJ Digit Med. 2024 Jun 18;7(1):148. doi: 10.1038/s41746-024-01147-z.
 
+PMID- 35210715
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220226
+IS  - 0971-5894 (Print)
+IS  - 0974-0430 (Electronic)
+IS  - 0974-0430 (Linking)
+VI  - 28
+IP  - 1
+DP  - 2022 Jan
+TI  - Mechanical stress effects on transcriptional regulation of genes encoding 
+      microtubule- and actin-associated proteins.
+PG  - 17-30
+LID - 10.1007/s12298-021-01123-x [doi]
+AB  - Plant cytoskeleton regulation has been studied using a new approach based on both 
+      (1) pharmacological analysis of tubulin and actin inhibitors and (2) mechanical 
+      stimulation achieved by using a slow-rotating (2 rpm) clinostat in combination 
+      with transcriptional analysis of genes encoding TUA6, ACT2, MAP65-1, CLASP, PLDδ, 
+      FH4 and FH1 proteins in Arabidopsis thaliana seedling roots. The obtained data 
+      suggest feedback between the organization of microtubule (MT) and actin filament 
+      (AF) networks and the expression of the ACT2, TUA6, MAP65-1, CLASP and FH1/FH4 
+      genes. Different regulation of feedback between MT/AF organization and TUA6, 
+      ACT2, MAP65-1, CLASP, FH4 and FH1 gene expression was noted during slow 
+      clinorotation, possibly due to altered mechanical impact on the cortical 
+      cytoskeleton. For the first time, the expression of the tubulin-associated gene 
+      MAP65-1 was shown to be dependent upon the organization of AFs. TUA6, MAP65-1, 
+      CLASP, FH1 and FH4 likely participate in mechanical signal transduction. Our work 
+      demonstrated that slow clinorotation is able to cause mechanical stress.
+CI  - © The Author(s) 2022.
+FAU - Shevchenko, Galina V
+AU  - Shevchenko GV
+AUID- ORCID: 0000-0001-5826-025X
+AD  - Institute of Botany, National Academy of Sciences of Ukraine, Kiev, 01004 
+      Ukraine. GRID: grid.418751.e. ISNI: 0000 0004 0385 8977
+FAU - Krutovsky, Konstantin V
+AU  - Krutovsky KV
+AUID- ORCID: 0000-0002-8819-7084
+AD  - Department of Forest Genetics and Forest Tree Breeding, Georg-August University 
+      of Göttingen, Büsgenweg 2, 37077 Göttingen, Germany. GRID: grid.7450.6. ISNI: 
+      0000 0001 2364 4210
+AD  - Center for Integrated Breeding Research, Georg-August University of Göttingen, 
+      37075 Göttingen, Germany. GRID: grid.7450.6. ISNI: 0000 0001 2364 4210
+AD  - Laboratory of Population Genetics, N.I. Vavilov Institute of General Genetics, 
+      Russian Academy of Sciences, 119333 Moscow, Russian Federation. GRID: 
+      grid.4886.2. ISNI: 0000 0001 2192 9124
+AD  - Department of Genomics and Bioinformatics, Laboratory of Forest Genomics, Genome 
+      Research and Education Center, Institute of Fundamental Biology and 
+      Biotechnology, Siberian Federal University, 660036 Krasnoyarsk, Russian 
+      Federation. GRID: grid.412592.9. ISNI: 0000 0001 0940 9855
+AD  - Scientific and Methodological Center, G. F. Morozov Voronezh State University of 
+      Forestry and Technologies, 394087 Voronezh, Russian Federation. GRID: 
+      grid.494711.e. ISNI: 0000 0004 4914 4072
+LA  - eng
+PT  - Journal Article
+DEP - 20220121
+PL  - India
+TA  - Physiol Mol Biol Plants
+JT  - Physiology and molecular biology of plants : an international journal of 
+      functional plant biology
+JID - 101304333
+PMC - PMC8847523
+OTO - NOTNLM
+OT  - Actin filaments
+OT  - Arabidopsis
+OT  - Genes encoding tubulin- and actin-associated proteins
+OT  - Mechanical stress
+OT  - Microtubules
+OT  - Slow rotating clinostats
+COIS- Conflict of interestThe authors declare that they have no conflict of interest.
+EDAT- 2022/02/26 06:00
+MHDA- 2022/02/26 06:01
+PMCR- 2022/01/21
+CRDT- 2022/02/25 05:36
+PHST- 2021/09/29 00:00 [received]
+PHST- 2021/12/29 00:00 [revised]
+PHST- 2021/12/30 00:00 [accepted]
+PHST- 2022/02/25 05:36 [entrez]
+PHST- 2022/02/26 06:00 [pubmed]
+PHST- 2022/02/26 06:01 [medline]
+PHST- 2022/01/21 00:00 [pmc-release]
+AID - 1123 [pii]
+AID - 10.1007/s12298-021-01123-x [doi]
+PST - ppublish
+SO  - Physiol Mol Biol Plants. 2022 Jan;28(1):17-30. doi: 10.1007/s12298-021-01123-x. 
+      Epub 2022 Jan 21.
+
 PMID- 37239537
 OWN - NLM
 STAT- MEDLINE
@@ -3406,91 +3492,193 @@ PST - epublish
 SO  - Dis Markers. 2021 Jun 15;2021:5510780. doi: 10.1155/2021/5510780. eCollection 
       2021.
 
-PMID- 35210715
+PMID- 38713124
 OWN - NLM
-STAT- PubMed-not-MEDLINE
-LR  - 20220226
-IS  - 0971-5894 (Print)
-IS  - 0974-0430 (Electronic)
-IS  - 0974-0430 (Linking)
-VI  - 28
-IP  - 1
-DP  - 2022 Jan
-TI  - Mechanical stress effects on transcriptional regulation of genes encoding 
-      microtubule- and actin-associated proteins.
-PG  - 17-30
-LID - 10.1007/s12298-021-01123-x [doi]
-AB  - Plant cytoskeleton regulation has been studied using a new approach based on both 
-      (1) pharmacological analysis of tubulin and actin inhibitors and (2) mechanical 
-      stimulation achieved by using a slow-rotating (2 rpm) clinostat in combination 
-      with transcriptional analysis of genes encoding TUA6, ACT2, MAP65-1, CLASP, PLDδ, 
-      FH4 and FH1 proteins in Arabidopsis thaliana seedling roots. The obtained data 
-      suggest feedback between the organization of microtubule (MT) and actin filament 
-      (AF) networks and the expression of the ACT2, TUA6, MAP65-1, CLASP and FH1/FH4 
-      genes. Different regulation of feedback between MT/AF organization and TUA6, 
-      ACT2, MAP65-1, CLASP, FH4 and FH1 gene expression was noted during slow 
-      clinorotation, possibly due to altered mechanical impact on the cortical 
-      cytoskeleton. For the first time, the expression of the tubulin-associated gene 
-      MAP65-1 was shown to be dependent upon the organization of AFs. TUA6, MAP65-1, 
-      CLASP, FH1 and FH4 likely participate in mechanical signal transduction. Our work 
-      demonstrated that slow clinorotation is able to cause mechanical stress.
-CI  - © The Author(s) 2022.
-FAU - Shevchenko, Galina V
-AU  - Shevchenko GV
-AUID- ORCID: 0000-0001-5826-025X
-AD  - Institute of Botany, National Academy of Sciences of Ukraine, Kiev, 01004 
-      Ukraine. GRID: grid.418751.e. ISNI: 0000 0004 0385 8977
-FAU - Krutovsky, Konstantin V
-AU  - Krutovsky KV
-AUID- ORCID: 0000-0002-8819-7084
-AD  - Department of Forest Genetics and Forest Tree Breeding, Georg-August University 
-      of Göttingen, Büsgenweg 2, 37077 Göttingen, Germany. GRID: grid.7450.6. ISNI: 
-      0000 0001 2364 4210
-AD  - Center for Integrated Breeding Research, Georg-August University of Göttingen, 
-      37075 Göttingen, Germany. GRID: grid.7450.6. ISNI: 0000 0001 2364 4210
-AD  - Laboratory of Population Genetics, N.I. Vavilov Institute of General Genetics, 
-      Russian Academy of Sciences, 119333 Moscow, Russian Federation. GRID: 
-      grid.4886.2. ISNI: 0000 0001 2192 9124
-AD  - Department of Genomics and Bioinformatics, Laboratory of Forest Genomics, Genome 
-      Research and Education Center, Institute of Fundamental Biology and 
-      Biotechnology, Siberian Federal University, 660036 Krasnoyarsk, Russian 
-      Federation. GRID: grid.412592.9. ISNI: 0000 0001 0940 9855
-AD  - Scientific and Methodological Center, G. F. Morozov Voronezh State University of 
-      Forestry and Technologies, 394087 Voronezh, Russian Federation. GRID: 
-      grid.494711.e. ISNI: 0000 0004 4914 4072
+STAT- MEDLINE
+DCOM- 20240513
+LR  - 20240611
+IS  - 1557-3117 (Electronic)
+IS  - 1053-2498 (Linking)
+VI  - 43
+IP  - 6
+DP  - 2024 Jun
+TI  - A prospective multicenter feasibility study of a miniaturized implantable 
+      continuous flow ventricular assist device in smaller children with heart failure.
+PG  - 889-900
+LID - S1053-2498(24)00042-1 [pii]
+LID - 10.1016/j.healun.2024.02.003 [doi]
+AB  - BACKGROUND: There is no FDA-approved left ventricular assist device (LVAD) for 
+      smaller children permitting routine hospital discharge. Smaller children 
+      supported with LVADs typically remain hospitalized for months awaiting heart 
+      transplant-a major burden for families and a challenge for hospitals. We describe 
+      the initial outcomes of the Jarvik 2015, a miniaturized implantable continuous 
+      flow LVAD, in the NHLBI-funded Pumps for Kids, Infants, and Neonates (PumpKIN) 
+      study, for bridge-to-heart transplant. METHODS: Children weighing 8 to 30 kg with 
+      severe systolic heart failure and failing optimal medical therapy were recruited 
+      at 7 centers in the United States. Patients with severe right heart failure and 
+      single-ventricle congenital heart disease were excluded. The primary feasibility 
+      endpoint was survival to 30 days without severe stroke or non-operational device 
+      failure. RESULTS: Of 7 children implanted, the median age was 2.2 (range 0.7, 
+      7.1) years, median weight 10 (8.2 to 20.7) kilograms; 86% had dilated 
+      cardiomyopathy; 29% were INTERMACS profile 1. The median duration of Jarvik 2015 
+      support was 149 (range 5 to 188) days where all 7 children survived including 5 
+      to heart transplant, 1 to recovery, and 1 to conversion to a paracorporeal 
+      device. One patient experienced an ischemic stroke on day 53 of device support in 
+      the setting of myocardial recovery. One patient required ECMO support for 
+      intractable ventricular arrhythmias and was eventually transplanted from 
+      paracorporeal biventricular VAD support. The median pump speed was 1600 RPM with 
+      power ranging from 1-4 Watts. The median plasma free hemoglobin was 19, 30, 19 
+      and 30 mg/dL at 7, 30, 90 and 180 days or time of explant, respectively. All 
+      patients reached the primary feasibility endpoint. Patient-reported outcomes with 
+      the device were favorable with respect to participation in a full range of 
+      activities. Due to financial issues with the manufacturer, the study was 
+      suspended after consent of the eighth patient. CONCLUSION: The Jarvik 2015 LVAD 
+      appears to hold important promise as an implantable continuous flow device for 
+      smaller children that may support hospital discharge. The FDA has approved the 
+      device to proceed to a 22-subject pivotal trial. Whether this device will survive 
+      to commercialization remains unclear because of the financial challenges faced by 
+      industry seeking to develop pediatric medical devices. (Supported by NIH/NHLBI 
+      HHS Contract N268201200001I, clinicaltrials.gov 02954497).
+CI  - Copyright © 2024 International Society for the Heart and Lung Transplantation. 
+      All rights reserved.
+FAU - Almond, Christopher S
+AU  - Almond CS
+AD  - Stanford University School of Medicine, Palo Alto, California. Electronic 
+      address: calmond@stanford.edu.
+FAU - Davies, Ryan
+AU  - Davies R
+AD  - University of Texas Southwestern, Dallas, Texas.
+FAU - Adachi, Iki
+AU  - Adachi I
+AD  - Texas Children's Hospital, Houston, Texas.
+FAU - Richmond, Marc
+AU  - Richmond M
+AD  - Columbia University, New York, New York.
+FAU - Law, Sabrina
+AU  - Law S
+AD  - Columbia University, New York, New York.
+FAU - Tunuguntla, Hari
+AU  - Tunuguntla H
+AD  - Texas Children's Hospital, Houston, Texas.
+FAU - Mao, Chad
+AU  - Mao C
+AD  - Children's Healthcare of Atlanta, Atlanta, Georgia.
+FAU - Shaw, Fawwaz
+AU  - Shaw F
+AD  - Children's Healthcare of Atlanta, Atlanta, Georgia.
+FAU - Lantz, Jodie
+AU  - Lantz J
+AD  - University of Texas Southwestern, Dallas, Texas.
+FAU - Wearden, Peter D
+AU  - Wearden PD
+AD  - Nemours Children's Hospital, Orlando, Florida.
+FAU - Jordan, Lori C
+AU  - Jordan LC
+AD  - Vanderbilt University Medical Center, Nashville, Tennessee.
+FAU - Ichord, Rebecca N
+AU  - Ichord RN
+AD  - Children's Hospital of Philadelphia, Philadelphia, Pennsylvania.
+FAU - Burns, Kristin
+AU  - Burns K
+AD  - National Heart, Lung, and Blood Institute, Bethesda, Maryland.
+FAU - Zak, Victor
+AU  - Zak V
+AD  - Carelon Research, Newton, Massachusetts.
+FAU - Magnavita, Ashley
+AU  - Magnavita A
+AD  - Carelon Research, Newton, Massachusetts.
+FAU - Gonzales, Selena
+AU  - Gonzales S
+AD  - Stanford University School of Medicine, Palo Alto, California.
+FAU - Conway, Jennifer
+AU  - Conway J
+AD  - Stollery Children's Hospital, Edmonton, Alberta, Canada.
+FAU - Jeewa, Aamir
+AU  - Jeewa A
+AD  - Toronto Sick Kids Hospital, Toronto, Ontario, Canada.
+FAU - Freemon, D 'Andrea
+AU  - Freemon D'
+AD  - National Heart, Lung, and Blood Institute, Bethesda, Maryland.
+FAU - Stylianou, Mario
+AU  - Stylianou M
+AD  - National Heart, Lung, and Blood Institute, Bethesda, Maryland.
+FAU - Sleeper, Lynn
+AU  - Sleeper L
+AD  - Boston Children's Hospital, Boston, Massachusetts.
+FAU - Dykes, John C
+AU  - Dykes JC
+AD  - Stanford University School of Medicine, Palo Alto, California.
+FAU - Ma, Michael
+AU  - Ma M
+AD  - Stanford University School of Medicine, Palo Alto, California.
+FAU - Fynn-Thompson, Francis
+AU  - Fynn-Thompson F
+AD  - Boston Children's Hospital, Boston, Massachusetts.
+FAU - Lorts, Angela
+AU  - Lorts A
+AD  - Cinciannati Children's Hospital, Cincinnati, Ohio.
+FAU - Morales, David
+AU  - Morales D
+AD  - Cinciannati Children's Hospital, Cincinnati, Ohio.
+FAU - Vanderpluym, Christina
+AU  - Vanderpluym C
+AD  - Boston Children's Hospital, Boston, Massachusetts.
+FAU - Dasse, Kurt
+AU  - Dasse K
+AD  - University of Oklahoma, Tulsa, Oklahoma.
+FAU - Patricia Massicotte, M
+AU  - Patricia Massicotte M
+AD  - Stollery Children's Hospital, Edmonton, Alberta, Canada.
+FAU - Jaquiss, Robert
+AU  - Jaquiss R
+AD  - University of Texas Southwestern, Dallas, Texas.
+FAU - Mahle, William T
+AU  - Mahle WT
+AD  - Children's Healthcare of Atlanta, Atlanta, Georgia.
 LA  - eng
 PT  - Journal Article
-DEP - 20220121
-PL  - India
-TA  - Physiol Mol Biol Plants
-JT  - Physiology and molecular biology of plants : an international journal of 
-      functional plant biology
-JID - 101304333
-PMC - PMC8847523
+PT  - Multicenter Study
+DEP - 20240507
+PL  - United States
+TA  - J Heart Lung Transplant
+JT  - The Journal of heart and lung transplantation : the official publication of the 
+      International Society for Heart Transplantation
+JID - 9102703
+SB  - IM
+MH  - Humans
+MH  - *Heart-Assist Devices
+MH  - *Feasibility Studies
+MH  - Child, Preschool
+MH  - Child
+MH  - Male
+MH  - Infant
+MH  - Female
+MH  - Prospective Studies
+MH  - *Heart Failure/therapy/surgery/physiopathology
+MH  - Miniaturization
+MH  - Prosthesis Design
+MH  - Treatment Outcome
+MH  - United States
 OTO - NOTNLM
-OT  - Actin filaments
-OT  - Arabidopsis
-OT  - Genes encoding tubulin- and actin-associated proteins
-OT  - Mechanical stress
-OT  - Microtubules
-OT  - Slow rotating clinostats
-COIS- Conflict of interestThe authors declare that they have no conflict of interest.
-EDAT- 2022/02/26 06:00
-MHDA- 2022/02/26 06:01
-PMCR- 2022/01/21
-CRDT- 2022/02/25 05:36
-PHST- 2021/09/29 00:00 [received]
-PHST- 2021/12/29 00:00 [revised]
-PHST- 2021/12/30 00:00 [accepted]
-PHST- 2022/02/25 05:36 [entrez]
-PHST- 2022/02/26 06:00 [pubmed]
-PHST- 2022/02/26 06:01 [medline]
-PHST- 2022/01/21 00:00 [pmc-release]
-AID - 1123 [pii]
-AID - 10.1007/s12298-021-01123-x [doi]
+OT  - clinical trial
+OT  - left ventricular assist device
+OT  - mechanical circulatory support
+OT  - pediatric heart failure
+OT  - pediatrics
+EDAT- 2024/05/07 13:46
+MHDA- 2024/05/14 00:43
+CRDT- 2024/05/07 10:32
+PHST- 2023/08/15 00:00 [received]
+PHST- 2024/01/15 00:00 [revised]
+PHST- 2024/02/03 00:00 [accepted]
+PHST- 2024/05/14 00:43 [medline]
+PHST- 2024/05/07 13:46 [pubmed]
+PHST- 2024/05/07 10:32 [entrez]
+AID - S1053-2498(24)00042-1 [pii]
+AID - 10.1016/j.healun.2024.02.003 [doi]
 PST - ppublish
-SO  - Physiol Mol Biol Plants. 2022 Jan;28(1):17-30. doi: 10.1007/s12298-021-01123-x. 
-      Epub 2022 Jan 21.
+SO  - J Heart Lung Transplant. 2024 Jun;43(6):889-900. doi: 
+      10.1016/j.healun.2024.02.003. Epub 2024 May 7.
 
 PMID- 35921134
 OWN - NLM
@@ -4970,6 +5158,111 @@ PST - epublish
 SO  - Int J Med Sci. 2020 Oct 8;17(17):2819-2825. doi: 10.7150/ijms.48971. eCollection 
       2020.
 
+PMID- 33048293
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210205
+LR  - 20210205
+IS  - 1614-7499 (Electronic)
+IS  - 0944-1344 (Linking)
+VI  - 28
+IP  - 7
+DP  - 2021 Feb
+TI  - Biodesulfurization of refractory sulfur compounds in petro-diesel by a novel 
+      hydrocarbon tolerable strain Paenibacillus glucanolyticus HN4.
+PG  - 8102-8116
+LID - 10.1007/s11356-020-11090-7 [doi]
+AB  - One of the main precursors of air pollution and acid rains is the presence of the 
+      recalcitrant thiophenic compounds, for example dibenzothiophene (DBT) and its 
+      derivatives in transportation fuels. In an attempt to achieve the worldwide 
+      regulations of ultra-low sulfur transportation fuels without affecting its 
+      hydrocarbon skeleton, a biphasic medium containing 100 mg/L DBT dissolved in 
+      n-hexadecane (1/4 oil/water v/v) used for enrichment and isolation of selective 
+      biodesulfurizing bacterium from an oil-polluted sediment sample collected from 
+      Egyptian Red Sea shoreline. The isolated bacterium is facultative anaerobe, 
+      motile, spore-former, and mesophile. It is genetically identified as 
+      Paenibacillus glucanolyticus strain HN4 (NCBI Gene Bank Accession No. MT645230). 
+      HN4 desulfurized DBT as a model of the recalcitrant thiophenic compounds without 
+      affecting its hydrocarbon skeleton via the 4S-pathway producing 2-hydroxybiphenyl 
+      (2-HBP) as a dead end product. HN4 substantiated to be a hydrocarbon tolerant, 
+      biosurfactants(s) producer, and endorsed unique enzymatic system capable of 
+      desulfurizing broad range of thiophenic compounds and expressed an efficient 
+      desulfurization activity against the recalcitrant alkylated DBTs. As far our 
+      knowledge, it is the first reported BDS study using P. glucanolyticus. 
+      Statistical optimization based on One-Factor-At-A-Time (OFAT) technique and 
+      response surface methodology (RSM) applied for elucidation of mathematical model 
+      correlations describing and optimizing the effect of different physicochemical 
+      parameters on batch biphasic BDS process. That illustrated an approximate 
+      increase in BDS efficiency by 1.34 fold and recorded 94% sulfur removal in 
+      biphasic batch process at optimum operation conditions of 120 h, 0.14 wt% 
+      S-content model oil (DBT dissolved in n-hexadecane), 33.5 °C, pH7 and 1/1 
+      oil/water phase ratio, and 147 rpm. Resting cells of HN4 in a biphasic reactor 
+      (1/1 v/v) decreased the sulfur content of a refractory thiophenic model oil 
+      (thiophene, benzothiophene, DBT, and alkylated DBT dissolved in n-hexadecane) 
+      from 0.14 to 0.027 wt%, and petro-diesel from 0.2 to 0.04 wt%, within 120 h, 
+      keeping the calorific value of the treated fuel intact. Consequently, that novel 
+      strain could be recommended as a promising candidate for BDS as complementary to 
+      hydrodesulfurization process in oil refinery.
+FAU - Nassar, Hussein N
+AU  - Nassar HN
+AD  - Petroleum Biotechnology Lab., Department of Process Design and Development, 
+      Egyptian Petroleum Research Institute (EPRI), Nasr City, Cairo, 11727, Egypt.
+AD  - Department of Microbiology, Faculty of Pharmacy, October University for Modern 
+      Sciences and Arts (MSA), 6th of October City, Giza, 12566, Egypt.
+AD  - Nanobiotechnology Program, Faculty of Nanotechnology for Postgraduate Studies, 
+      Cairo University, Sheikh Zayed Branch Campus, Sheikh Zayed City, Giza, 12588, 
+      Egypt.
+FAU - Abu Amr, Salem S
+AU  - Abu Amr SS
+AD  - Faculty of Engineering, Karabuk University, Demir Campus, 78050 Karabuk, Turkey.
+FAU - El-Gendy, Nour Sh
+AU  - El-Gendy NS
+AUID- ORCID: 0000-0002-5154-7124
+AD  - Petroleum Biotechnology Lab., Department of Process Design and Development, 
+      Egyptian Petroleum Research Institute (EPRI), Nasr City, Cairo, 11727, Egypt. 
+      nourepri@yahoo.com.
+AD  - Nanobiotechnology Program, Faculty of Nanotechnology for Postgraduate Studies, 
+      Cairo University, Sheikh Zayed Branch Campus, Sheikh Zayed City, Giza, 12588, 
+      Egypt. nourepri@yahoo.com.
+AD  - Center of Excellence, October University for Modern Sciences and Arts (MSA), 6th 
+      of October City, Giza, 12566, Egypt. nourepri@yahoo.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20201013
+PL  - Germany
+TA  - Environ Sci Pollut Res Int
+JT  - Environmental science and pollution research international
+JID - 9441769
+RN  - 0 (Hydrocarbons)
+RN  - 0 (Sulfur Compounds)
+RN  - Paenibacillus glucanolyticus
+SB  - IM
+MH  - Biodegradation, Environmental
+MH  - Egypt
+MH  - Hydrocarbons
+MH  - *Paenibacillus
+MH  - *Sulfur Compounds
+OTO - NOTNLM
+OT  - Biosurfactants producer
+OT  - Dibenzothiophene
+OT  - Model and real feed oil
+OT  - Oil tolerance
+OT  - Selective biocatalytic desulfurization
+OT  - Two-phase system
+EDAT- 2020/10/14 06:00
+MHDA- 2021/02/07 06:00
+CRDT- 2020/10/13 12:13
+PHST- 2020/06/30 00:00 [received]
+PHST- 2020/10/01 00:00 [accepted]
+PHST- 2020/10/14 06:00 [pubmed]
+PHST- 2021/02/07 06:00 [medline]
+PHST- 2020/10/13 12:13 [entrez]
+AID - 10.1007/s11356-020-11090-7 [pii]
+AID - 10.1007/s11356-020-11090-7 [doi]
+PST - ppublish
+SO  - Environ Sci Pollut Res Int. 2021 Feb;28(7):8102-8116. doi: 
+      10.1007/s11356-020-11090-7. Epub 2020 Oct 13.
+
 PMID- 38043805
 OWN - NLM
 STAT- MEDLINE
@@ -5485,111 +5778,6 @@ PST - ppublish
 SO  - Oncogene. 2021 Jul;40(30):4847-4858. doi: 10.1038/s41388-021-01895-2. Epub 2021 
       Jun 21.
 
-PMID- 33048293
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20210205
-LR  - 20210205
-IS  - 1614-7499 (Electronic)
-IS  - 0944-1344 (Linking)
-VI  - 28
-IP  - 7
-DP  - 2021 Feb
-TI  - Biodesulfurization of refractory sulfur compounds in petro-diesel by a novel 
-      hydrocarbon tolerable strain Paenibacillus glucanolyticus HN4.
-PG  - 8102-8116
-LID - 10.1007/s11356-020-11090-7 [doi]
-AB  - One of the main precursors of air pollution and acid rains is the presence of the 
-      recalcitrant thiophenic compounds, for example dibenzothiophene (DBT) and its 
-      derivatives in transportation fuels. In an attempt to achieve the worldwide 
-      regulations of ultra-low sulfur transportation fuels without affecting its 
-      hydrocarbon skeleton, a biphasic medium containing 100 mg/L DBT dissolved in 
-      n-hexadecane (1/4 oil/water v/v) used for enrichment and isolation of selective 
-      biodesulfurizing bacterium from an oil-polluted sediment sample collected from 
-      Egyptian Red Sea shoreline. The isolated bacterium is facultative anaerobe, 
-      motile, spore-former, and mesophile. It is genetically identified as 
-      Paenibacillus glucanolyticus strain HN4 (NCBI Gene Bank Accession No. MT645230). 
-      HN4 desulfurized DBT as a model of the recalcitrant thiophenic compounds without 
-      affecting its hydrocarbon skeleton via the 4S-pathway producing 2-hydroxybiphenyl 
-      (2-HBP) as a dead end product. HN4 substantiated to be a hydrocarbon tolerant, 
-      biosurfactants(s) producer, and endorsed unique enzymatic system capable of 
-      desulfurizing broad range of thiophenic compounds and expressed an efficient 
-      desulfurization activity against the recalcitrant alkylated DBTs. As far our 
-      knowledge, it is the first reported BDS study using P. glucanolyticus. 
-      Statistical optimization based on One-Factor-At-A-Time (OFAT) technique and 
-      response surface methodology (RSM) applied for elucidation of mathematical model 
-      correlations describing and optimizing the effect of different physicochemical 
-      parameters on batch biphasic BDS process. That illustrated an approximate 
-      increase in BDS efficiency by 1.34 fold and recorded 94% sulfur removal in 
-      biphasic batch process at optimum operation conditions of 120 h, 0.14 wt% 
-      S-content model oil (DBT dissolved in n-hexadecane), 33.5 °C, pH7 and 1/1 
-      oil/water phase ratio, and 147 rpm. Resting cells of HN4 in a biphasic reactor 
-      (1/1 v/v) decreased the sulfur content of a refractory thiophenic model oil 
-      (thiophene, benzothiophene, DBT, and alkylated DBT dissolved in n-hexadecane) 
-      from 0.14 to 0.027 wt%, and petro-diesel from 0.2 to 0.04 wt%, within 120 h, 
-      keeping the calorific value of the treated fuel intact. Consequently, that novel 
-      strain could be recommended as a promising candidate for BDS as complementary to 
-      hydrodesulfurization process in oil refinery.
-FAU - Nassar, Hussein N
-AU  - Nassar HN
-AD  - Petroleum Biotechnology Lab., Department of Process Design and Development, 
-      Egyptian Petroleum Research Institute (EPRI), Nasr City, Cairo, 11727, Egypt.
-AD  - Department of Microbiology, Faculty of Pharmacy, October University for Modern 
-      Sciences and Arts (MSA), 6th of October City, Giza, 12566, Egypt.
-AD  - Nanobiotechnology Program, Faculty of Nanotechnology for Postgraduate Studies, 
-      Cairo University, Sheikh Zayed Branch Campus, Sheikh Zayed City, Giza, 12588, 
-      Egypt.
-FAU - Abu Amr, Salem S
-AU  - Abu Amr SS
-AD  - Faculty of Engineering, Karabuk University, Demir Campus, 78050 Karabuk, Turkey.
-FAU - El-Gendy, Nour Sh
-AU  - El-Gendy NS
-AUID- ORCID: 0000-0002-5154-7124
-AD  - Petroleum Biotechnology Lab., Department of Process Design and Development, 
-      Egyptian Petroleum Research Institute (EPRI), Nasr City, Cairo, 11727, Egypt. 
-      nourepri@yahoo.com.
-AD  - Nanobiotechnology Program, Faculty of Nanotechnology for Postgraduate Studies, 
-      Cairo University, Sheikh Zayed Branch Campus, Sheikh Zayed City, Giza, 12588, 
-      Egypt. nourepri@yahoo.com.
-AD  - Center of Excellence, October University for Modern Sciences and Arts (MSA), 6th 
-      of October City, Giza, 12566, Egypt. nourepri@yahoo.com.
-LA  - eng
-PT  - Journal Article
-DEP - 20201013
-PL  - Germany
-TA  - Environ Sci Pollut Res Int
-JT  - Environmental science and pollution research international
-JID - 9441769
-RN  - 0 (Hydrocarbons)
-RN  - 0 (Sulfur Compounds)
-RN  - Paenibacillus glucanolyticus
-SB  - IM
-MH  - Biodegradation, Environmental
-MH  - Egypt
-MH  - Hydrocarbons
-MH  - *Paenibacillus
-MH  - *Sulfur Compounds
-OTO - NOTNLM
-OT  - Biosurfactants producer
-OT  - Dibenzothiophene
-OT  - Model and real feed oil
-OT  - Oil tolerance
-OT  - Selective biocatalytic desulfurization
-OT  - Two-phase system
-EDAT- 2020/10/14 06:00
-MHDA- 2021/02/07 06:00
-CRDT- 2020/10/13 12:13
-PHST- 2020/06/30 00:00 [received]
-PHST- 2020/10/01 00:00 [accepted]
-PHST- 2020/10/14 06:00 [pubmed]
-PHST- 2021/02/07 06:00 [medline]
-PHST- 2020/10/13 12:13 [entrez]
-AID - 10.1007/s11356-020-11090-7 [pii]
-AID - 10.1007/s11356-020-11090-7 [doi]
-PST - ppublish
-SO  - Environ Sci Pollut Res Int. 2021 Feb;28(7):8102-8116. doi: 
-      10.1007/s11356-020-11090-7. Epub 2020 Oct 13.
-
 PMID- 38413318
 OWN - NLM
 STAT- MEDLINE
@@ -5707,194 +5895,6 @@ AID - 10.1016/j.jbiosc.2023.12.018 [doi]
 PST - ppublish
 SO  - J Biosci Bioeng. 2024 May;137(5):335-343. doi: 10.1016/j.jbiosc.2023.12.018. Epub 
       2024 Feb 26.
-
-PMID- 38713124
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20240513
-LR  - 20240611
-IS  - 1557-3117 (Electronic)
-IS  - 1053-2498 (Linking)
-VI  - 43
-IP  - 6
-DP  - 2024 Jun
-TI  - A prospective multicenter feasibility study of a miniaturized implantable 
-      continuous flow ventricular assist device in smaller children with heart failure.
-PG  - 889-900
-LID - S1053-2498(24)00042-1 [pii]
-LID - 10.1016/j.healun.2024.02.003 [doi]
-AB  - BACKGROUND: There is no FDA-approved left ventricular assist device (LVAD) for 
-      smaller children permitting routine hospital discharge. Smaller children 
-      supported with LVADs typically remain hospitalized for months awaiting heart 
-      transplant-a major burden for families and a challenge for hospitals. We describe 
-      the initial outcomes of the Jarvik 2015, a miniaturized implantable continuous 
-      flow LVAD, in the NHLBI-funded Pumps for Kids, Infants, and Neonates (PumpKIN) 
-      study, for bridge-to-heart transplant. METHODS: Children weighing 8 to 30 kg with 
-      severe systolic heart failure and failing optimal medical therapy were recruited 
-      at 7 centers in the United States. Patients with severe right heart failure and 
-      single-ventricle congenital heart disease were excluded. The primary feasibility 
-      endpoint was survival to 30 days without severe stroke or non-operational device 
-      failure. RESULTS: Of 7 children implanted, the median age was 2.2 (range 0.7, 
-      7.1) years, median weight 10 (8.2 to 20.7) kilograms; 86% had dilated 
-      cardiomyopathy; 29% were INTERMACS profile 1. The median duration of Jarvik 2015 
-      support was 149 (range 5 to 188) days where all 7 children survived including 5 
-      to heart transplant, 1 to recovery, and 1 to conversion to a paracorporeal 
-      device. One patient experienced an ischemic stroke on day 53 of device support in 
-      the setting of myocardial recovery. One patient required ECMO support for 
-      intractable ventricular arrhythmias and was eventually transplanted from 
-      paracorporeal biventricular VAD support. The median pump speed was 1600 RPM with 
-      power ranging from 1-4 Watts. The median plasma free hemoglobin was 19, 30, 19 
-      and 30 mg/dL at 7, 30, 90 and 180 days or time of explant, respectively. All 
-      patients reached the primary feasibility endpoint. Patient-reported outcomes with 
-      the device were favorable with respect to participation in a full range of 
-      activities. Due to financial issues with the manufacturer, the study was 
-      suspended after consent of the eighth patient. CONCLUSION: The Jarvik 2015 LVAD 
-      appears to hold important promise as an implantable continuous flow device for 
-      smaller children that may support hospital discharge. The FDA has approved the 
-      device to proceed to a 22-subject pivotal trial. Whether this device will survive 
-      to commercialization remains unclear because of the financial challenges faced by 
-      industry seeking to develop pediatric medical devices. (Supported by NIH/NHLBI 
-      HHS Contract N268201200001I, clinicaltrials.gov 02954497).
-CI  - Copyright © 2024 International Society for the Heart and Lung Transplantation. 
-      All rights reserved.
-FAU - Almond, Christopher S
-AU  - Almond CS
-AD  - Stanford University School of Medicine, Palo Alto, California. Electronic 
-      address: calmond@stanford.edu.
-FAU - Davies, Ryan
-AU  - Davies R
-AD  - University of Texas Southwestern, Dallas, Texas.
-FAU - Adachi, Iki
-AU  - Adachi I
-AD  - Texas Children's Hospital, Houston, Texas.
-FAU - Richmond, Marc
-AU  - Richmond M
-AD  - Columbia University, New York, New York.
-FAU - Law, Sabrina
-AU  - Law S
-AD  - Columbia University, New York, New York.
-FAU - Tunuguntla, Hari
-AU  - Tunuguntla H
-AD  - Texas Children's Hospital, Houston, Texas.
-FAU - Mao, Chad
-AU  - Mao C
-AD  - Children's Healthcare of Atlanta, Atlanta, Georgia.
-FAU - Shaw, Fawwaz
-AU  - Shaw F
-AD  - Children's Healthcare of Atlanta, Atlanta, Georgia.
-FAU - Lantz, Jodie
-AU  - Lantz J
-AD  - University of Texas Southwestern, Dallas, Texas.
-FAU - Wearden, Peter D
-AU  - Wearden PD
-AD  - Nemours Children's Hospital, Orlando, Florida.
-FAU - Jordan, Lori C
-AU  - Jordan LC
-AD  - Vanderbilt University Medical Center, Nashville, Tennessee.
-FAU - Ichord, Rebecca N
-AU  - Ichord RN
-AD  - Children's Hospital of Philadelphia, Philadelphia, Pennsylvania.
-FAU - Burns, Kristin
-AU  - Burns K
-AD  - National Heart, Lung, and Blood Institute, Bethesda, Maryland.
-FAU - Zak, Victor
-AU  - Zak V
-AD  - Carelon Research, Newton, Massachusetts.
-FAU - Magnavita, Ashley
-AU  - Magnavita A
-AD  - Carelon Research, Newton, Massachusetts.
-FAU - Gonzales, Selena
-AU  - Gonzales S
-AD  - Stanford University School of Medicine, Palo Alto, California.
-FAU - Conway, Jennifer
-AU  - Conway J
-AD  - Stollery Children's Hospital, Edmonton, Alberta, Canada.
-FAU - Jeewa, Aamir
-AU  - Jeewa A
-AD  - Toronto Sick Kids Hospital, Toronto, Ontario, Canada.
-FAU - Freemon, D 'Andrea
-AU  - Freemon D'
-AD  - National Heart, Lung, and Blood Institute, Bethesda, Maryland.
-FAU - Stylianou, Mario
-AU  - Stylianou M
-AD  - National Heart, Lung, and Blood Institute, Bethesda, Maryland.
-FAU - Sleeper, Lynn
-AU  - Sleeper L
-AD  - Boston Children's Hospital, Boston, Massachusetts.
-FAU - Dykes, John C
-AU  - Dykes JC
-AD  - Stanford University School of Medicine, Palo Alto, California.
-FAU - Ma, Michael
-AU  - Ma M
-AD  - Stanford University School of Medicine, Palo Alto, California.
-FAU - Fynn-Thompson, Francis
-AU  - Fynn-Thompson F
-AD  - Boston Children's Hospital, Boston, Massachusetts.
-FAU - Lorts, Angela
-AU  - Lorts A
-AD  - Cinciannati Children's Hospital, Cincinnati, Ohio.
-FAU - Morales, David
-AU  - Morales D
-AD  - Cinciannati Children's Hospital, Cincinnati, Ohio.
-FAU - Vanderpluym, Christina
-AU  - Vanderpluym C
-AD  - Boston Children's Hospital, Boston, Massachusetts.
-FAU - Dasse, Kurt
-AU  - Dasse K
-AD  - University of Oklahoma, Tulsa, Oklahoma.
-FAU - Patricia Massicotte, M
-AU  - Patricia Massicotte M
-AD  - Stollery Children's Hospital, Edmonton, Alberta, Canada.
-FAU - Jaquiss, Robert
-AU  - Jaquiss R
-AD  - University of Texas Southwestern, Dallas, Texas.
-FAU - Mahle, William T
-AU  - Mahle WT
-AD  - Children's Healthcare of Atlanta, Atlanta, Georgia.
-LA  - eng
-PT  - Journal Article
-PT  - Multicenter Study
-DEP - 20240507
-PL  - United States
-TA  - J Heart Lung Transplant
-JT  - The Journal of heart and lung transplantation : the official publication of the 
-      International Society for Heart Transplantation
-JID - 9102703
-SB  - IM
-MH  - Humans
-MH  - *Heart-Assist Devices
-MH  - *Feasibility Studies
-MH  - Child, Preschool
-MH  - Child
-MH  - Male
-MH  - Infant
-MH  - Female
-MH  - Prospective Studies
-MH  - *Heart Failure/therapy/surgery/physiopathology
-MH  - Miniaturization
-MH  - Prosthesis Design
-MH  - Treatment Outcome
-MH  - United States
-OTO - NOTNLM
-OT  - clinical trial
-OT  - left ventricular assist device
-OT  - mechanical circulatory support
-OT  - pediatric heart failure
-OT  - pediatrics
-EDAT- 2024/05/07 13:46
-MHDA- 2024/05/14 00:43
-CRDT- 2024/05/07 10:32
-PHST- 2023/08/15 00:00 [received]
-PHST- 2024/01/15 00:00 [revised]
-PHST- 2024/02/03 00:00 [accepted]
-PHST- 2024/05/14 00:43 [medline]
-PHST- 2024/05/07 13:46 [pubmed]
-PHST- 2024/05/07 10:32 [entrez]
-AID - S1053-2498(24)00042-1 [pii]
-AID - 10.1016/j.healun.2024.02.003 [doi]
-PST - ppublish
-SO  - J Heart Lung Transplant. 2024 Jun;43(6):889-900. doi: 
-      10.1016/j.healun.2024.02.003. Epub 2024 May 7.
 
 PMID- 33233274
 OWN - NLM
@@ -6226,3 +6226,127 @@ AID - 10.1021/acs.jafc.0c03873 [doi]
 PST - ppublish
 SO  - J Agric Food Chem. 2020 Nov 4;68(44):12393-12399. doi: 10.1021/acs.jafc.0c03873. 
       Epub 2020 Oct 23.
+
+PMID- 39126835
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240909
+LR  - 20240909
+IS  - 1618-0631 (Electronic)
+IS  - 0344-0338 (Linking)
+VI  - 262
+DP  - 2024 Oct
+TI  - miR-29a expression negatively correlates with Bcl-2 levels in colorectal cancer 
+      and is correlated with better prognosis.
+PG  - 155491
+LID - S0344-0338(24)00402-3 [pii]
+LID - 10.1016/j.prp.2024.155491 [doi]
+AB  - MicroRNAs (miRNAs) are a class of small non-coding RNAs that act as important 
+      regulators of gene expression, involved in various biological pathways. Aberrant 
+      miRNAs expression is associated with the onset and progression of colorectal 
+      cancer (CRC). The aim of this study was to investigate the correlation between 
+      five miRNAs (miR-29a, miR-101, miR-125b, miR-146a, and miR-155), found to be 
+      deregulated in tissue samples of CRC patients, and clinicopathological 
+      characteristics and histological markers. Analysis of histological markers was 
+      performed by immunohistochemical staining of tumour tissues with Ki-67, p53, 
+      CD34, and Bcl-2. Our findings revealed a significant negative correlation between 
+      miR-29a expression and Bcl-2 levels. Furthermore, high miR-29a expression was 
+      associated with a lower incidence of distant metastasis in CRC patients. We 
+      observed negative correlations between miR-101 expression and the number of lymph 
+      nodes with metastasis, as well as the size of the largest metastasis; miR-125b 
+      expression and lymphovascular invasion; and miR-155 expression and mucus 
+      presence. Our survival analysis demonstrated that high miR-29a expression 
+      correlated with better progression-free survival of CRC patients, underscoring 
+      its potential as a prognostic marker. Our study unveiled intricate relationships 
+      between specific miRNA expressions and clinicopathological features in CRC, 
+      highlighting the potential utility of miR-29a as a valuable prognostic biomarker.
+CI  - Copyright © 2024 Elsevier GmbH. All rights reserved.
+FAU - Raonić, Janja
+AU  - Raonić J
+AD  - University of Montenegro, Faculty of Medicine, Podgorica 81000, Montenegro; 
+      Clinical Centre of Montenegro, Podgorica 81000, Montenegro. Electronic address: 
+      janja.histology@gmail.com.
+FAU - Ždralević, Maša
+AU  - Ždralević M
+AD  - University of Montenegro, Faculty of Medicine, Podgorica 81000, Montenegro.
+FAU - Vučković, Ljiljana
+AU  - Vučković L
+AD  - University of Montenegro, Faculty of Medicine, Podgorica 81000, Montenegro; 
+      Clinical Centre of Montenegro, Podgorica 81000, Montenegro.
+FAU - Šunjević, Milena
+AU  - Šunjević M
+AD  - Clinical Centre of Vojvodina, Novi Sad 21000, Serbia; University of Novi Sad, 
+      Faculty of Medicine, Novi Sad 21000, Serbia.
+FAU - Todorović, Vladimir
+AU  - Todorović V
+AD  - University of Montenegro, Faculty of Medicine, Podgorica 81000, Montenegro; 
+      Clinical Centre of Montenegro, Podgorica 81000, Montenegro.
+FAU - Vukmirović, Filip
+AU  - Vukmirović F
+AD  - University of Montenegro, Faculty of Medicine, Podgorica 81000, Montenegro; 
+      Clinical Centre of Montenegro, Podgorica 81000, Montenegro.
+FAU - Marzano, Flaviana
+AU  - Marzano F
+AD  - Institute for Biomembranes, Bioenergetics and Molecular biotechnologies, 
+      CNR, Bari 70126, Italy.
+FAU - Tullo, Apollonia
+AU  - Tullo A
+AD  - Institute for Biomembranes, Bioenergetics and Molecular biotechnologies, 
+      CNR, Bari 70126, Italy.
+FAU - Giannattasio, Sergio
+AU  - Giannattasio S
+AD  - Institute for Biomembranes, Bioenergetics and Molecular biotechnologies, 
+      CNR, Bari 70126, Italy.
+FAU - Radunović, Miodrag
+AU  - Radunović M
+AD  - University of Montenegro, Faculty of Medicine, Podgorica 81000, Montenegro; 
+      Clinical Centre of Montenegro, Podgorica 81000, Montenegro.
+LA  - eng
+PT  - Journal Article
+DEP - 20240731
+PL  - Germany
+TA  - Pathol Res Pract
+JT  - Pathology, research and practice
+JID - 7806109
+RN  - 0 (MicroRNAs)
+RN  - 0 (Proto-Oncogene Proteins c-bcl-2)
+RN  - 0 (MIRN29a microRNA, human)
+RN  - 0 (Biomarkers, Tumor)
+RN  - 0 (BCL2 protein, human)
+SB  - IM
+MH  - Humans
+MH  - *MicroRNAs/genetics/metabolism
+MH  - *Colorectal Neoplasms/pathology/genetics/metabolism/mortality
+MH  - Female
+MH  - Male
+MH  - *Proto-Oncogene Proteins c-bcl-2/metabolism/genetics
+MH  - Middle Aged
+MH  - *Biomarkers, Tumor/analysis/metabolism/genetics
+MH  - Prognosis
+MH  - Aged
+MH  - Gene Expression Regulation, Neoplastic
+MH  - Adult
+MH  - Aged, 80 and over
+OTO - NOTNLM
+OT  - Bcl-2
+OT  - Colorectal cancer
+OT  - FFPE
+OT  - MiR-29a
+OT  - Prognosis
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2024/08/11 04:43
+MHDA- 2024/09/10 00:43
+CRDT- 2024/08/10 18:04
+PHST- 2024/04/08 00:00 [received]
+PHST- 2024/07/01 00:00 [revised]
+PHST- 2024/07/24 00:00 [accepted]
+PHST- 2024/09/10 00:43 [medline]
+PHST- 2024/08/11 04:43 [pubmed]
+PHST- 2024/08/10 18:04 [entrez]
+AID - S0344-0338(24)00402-3 [pii]
+AID - 10.1016/j.prp.2024.155491 [doi]
+PST - ppublish
+SO  - Pathol Res Pract. 2024 Oct;262:155491. doi: 10.1016/j.prp.2024.155491. Epub 2024 
+      Jul 31.

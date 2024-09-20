@@ -284,6 +284,382 @@ AID - 10.2196/15471 [doi]
 PST - epublish
 SO  - J Med Internet Res. 2020 Jun 10;22(6):e15471. doi: 10.2196/15471.
 
+PMID- 38470566
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240326
+LR  - 20240326
+IS  - 1464-522X (Electronic)
+IS  - 0309-1902 (Linking)
+VI  - 47
+IP  - 5
+DP  - 2023 Jul
+TI  - Applying user-centered design and the Pi-CON methodology for vital signs sensor 
+      development.
+PG  - 277-287
+LID - 10.1080/03091902.2024.2325964 [doi]
+AB  - Although telehealth, and in particular RPM, have demonstrated to drive many 
+      benefits, such as reduction in cost and hospital-acquired infections, previous 
+      research has shown many usability challenges when patients operate a medical 
+      device without supervision of a medical professional. To combat this issue, the 
+      Pi-CON methodology is applied to develop a novel sensor with the objective to 
+      continuously acquire a patient's vital signs from a distance, without the need to 
+      attach any markers or sensors to the patient, and with limited user interaction 
+      required. Pi-CON stands for passive, continuous and non-contact, and describes a 
+      way to improve the user experience for patients or caregivers that have a need to 
+      perform a vital signs measurement themselves, without the presence of a medical 
+      professional. The developed sensor utilises radar and optical sensing 
+      technologies and transmits acquired data to a cloud-based service where it can be 
+      viewed in near real-time by the patient or family members from anywhere via an 
+      intuitive user interface. This user interface, as well as the sensor itself were 
+      designed based on design needs and requirements to adhere to the user-centered 
+      design process. The development of the sensor, including utilised technologies, 
+      components, and the user interface are presented, including inspirations for 
+      future work.
+FAU - Baumann, Steffen
+AU  - Baumann S
+AD  - Iowa State University, Ames, Iowa, USA.
+FAU - Stone, Richard T
+AU  - Stone RT
+AD  - Iowa State University, Ames, Iowa, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20240312
+PL  - England
+TA  - J Med Eng Technol
+JT  - Journal of medical engineering & technology
+JID - 7702125
+SB  - IM
+MH  - Humans
+MH  - *User-Centered Design
+MH  - *Telemedicine
+MH  - Vital Signs
+OTO - NOTNLM
+OT  - Wearables
+OT  - hand-free vital signs
+OT  - remote patient monitoring
+OT  - telehealth
+OT  - user-centered design
+EDAT- 2024/03/12 18:42
+MHDA- 2024/03/26 06:45
+CRDT- 2024/03/12 12:23
+PHST- 2024/03/26 06:45 [medline]
+PHST- 2024/03/12 18:42 [pubmed]
+PHST- 2024/03/12 12:23 [entrez]
+AID - 10.1080/03091902.2024.2325964 [doi]
+PST - ppublish
+SO  - J Med Eng Technol. 2023 Jul;47(5):277-287. doi: 10.1080/03091902.2024.2325964. 
+      Epub 2024 Mar 12.
+
+PMID- 37366818
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230701
+IS  - 2313-7673 (Electronic)
+IS  - 2313-7673 (Linking)
+VI  - 8
+IP  - 2
+DP  - 2023 May 26
+TI  - Electrospun Nanofiber-Based Bioinspired Artificial Skins for Healthcare 
+      Monitoring and Human-Machine Interaction.
+LID - 10.3390/biomimetics8020223 [doi]
+LID - 223
+AB  - Artificial skin, also known as bioinspired electronic skin (e-skin), refers to 
+      intelligent wearable electronics that imitate the tactile sensory function of 
+      human skin and identify the detected changes in external information through 
+      different electrical signals. Flexible e-skin can achieve a wide range of 
+      functions such as accurate detection and identification of pressure, strain, and 
+      temperature, which has greatly extended their application potential in the field 
+      of healthcare monitoring and human-machine interaction (HMI). During recent 
+      years, the exploration and development of the design, construction, and 
+      performance of artificial skin has received extensive attention from researchers. 
+      With the advantages of high permeability, great ratio surface of area, and easy 
+      functional modification, electrospun nanofibers are suitable for the construction 
+      of electronic skin and further demonstrate broad application prospects in the 
+      fields of medical monitoring and HMI. Therefore, the critical review is provided 
+      to comprehensively summarize the recent advances in substrate materials, 
+      optimized fabrication techniques, response mechanisms, and related applications 
+      of the flexible electrospun nanofiber-based bio-inspired artificial skin. 
+      Finally, some current challenges and future prospects are outlined and discussed, 
+      and we hope that this review will help researchers to better understand the whole 
+      field and take it to the next level.
+FAU - Chen, Xingwei
+AU  - Chen X
+AD  - Key Laboratory of Materials Physics of Ministry of Education, School of Physics 
+      and Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Li, Han
+AU  - Li H
+AD  - Key Laboratory of Materials Physics of Ministry of Education, School of Physics 
+      and Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Xu, Ziteng
+AU  - Xu Z
+AD  - Key Laboratory of Materials Physics of Ministry of Education, School of Physics 
+      and Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Lu, Lijun
+AU  - Lu L
+AD  - Key Laboratory of Materials Physics of Ministry of Education, School of Physics 
+      and Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Pan, Zhifeng
+AU  - Pan Z
+AD  - Key Laboratory of Materials Physics of Ministry of Education, School of Physics 
+      and Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Mao, Yanchao
+AU  - Mao Y
+AUID- ORCID: 0000-0002-3436-633X
+AD  - Key Laboratory of Materials Physics of Ministry of Education, School of Physics 
+      and Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+LA  - eng
+GR  - 2022TQ0281/China Postdoctoral Science Foundation/
+GR  - 2021GGJS014/the Foundation for Outstanding Young Teachers in Universities of 
+      Henan Province/
+PT  - Journal Article
+PT  - Review
+DEP - 20230526
+PL  - Switzerland
+TA  - Biomimetics (Basel)
+JT  - Biomimetics (Basel, Switzerland)
+JID - 101719189
+PMC - PMC10296249
+OTO - NOTNLM
+OT  - artificial skin
+OT  - electrospun nanofiber
+OT  - healthcare monitoring
+OT  - human-machine interaction
+COIS- The authors declare that they have no known competing financial interests or 
+      personal relationships that could have appeared to influence the work reported in 
+      this paper.
+EDAT- 2023/06/27 13:11
+MHDA- 2023/06/27 13:12
+PMCR- 2023/05/26
+CRDT- 2023/06/27 09:34
+PHST- 2023/04/27 00:00 [received]
+PHST- 2023/05/22 00:00 [revised]
+PHST- 2023/05/23 00:00 [accepted]
+PHST- 2023/06/27 13:12 [medline]
+PHST- 2023/06/27 13:11 [pubmed]
+PHST- 2023/06/27 09:34 [entrez]
+PHST- 2023/05/26 00:00 [pmc-release]
+AID - biomimetics8020223 [pii]
+AID - biomimetics-08-00223 [pii]
+AID - 10.3390/biomimetics8020223 [doi]
+PST - epublish
+SO  - Biomimetics (Basel). 2023 May 26;8(2):223. doi: 10.3390/biomimetics8020223.
+
+PMID- 37535831
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230906
+LR  - 20230908
+IS  - 1438-8871 (Electronic)
+IS  - 1439-4456 (Print)
+IS  - 1438-8871 (Linking)
+VI  - 25
+DP  - 2023 Sep 5
+TI  - Patient and Clinician Perceptions of the Pulse Oximeter in a Remote Monitoring 
+      Setting for COVID-19: Qualitative Study.
+PG  - e44540
+LID - 10.2196/44540 [doi]
+LID - e44540
+AB  - BACKGROUND: As a response to the COVID-19 pandemic, the Sydney Local Health 
+      District in New South Wales, Australia, launched the rpavirtual program, the 
+      first full-scale virtual hospital in Australia, to remotely monitor and follow up 
+      stable patients with COVID-19. As part of the intervention, a pulse oximeter 
+      wearable device was delivered to patients to monitor their oxygen saturation 
+      levels, a critical indicator of COVID-19 patient deterioration. Understanding 
+      users' perceptions toward the device is fundamental to assessing its usability 
+      and acceptability and contributing to the effectiveness of the intervention, but 
+      no research to date has explored the user experience of the pulse oximeter for 
+      remote monitoring in this setting. OBJECTIVE: This study aimed to explore the 
+      use, performance, and acceptability of the pulse oximeter by clinicians and 
+      patients in rpavirtual during COVID-19. METHODS: Semistructured interviews and 
+      usability testing were conducted. Stable adult patients with COVID-19 (aged ≥18 
+      years) who used the pulse oximeter and were monitored by rpavirtual, and 
+      rpavirtual clinicians monitoring these patients were interviewed. Clinicians 
+      could be nurses, doctors, or staff who were part of the team that assisted 
+      patients with the use of the pulse oximeter. Usability testing was conducted with 
+      patients who had the pulse oximeter when they were contacted. Interviews were 
+      coded using the Theoretical Framework of Acceptability. Usability testing was 
+      conducted using a think-aloud protocol. Data were collected until saturation was 
+      reached. RESULTS: Twenty-one patients (average age 51, SD 13 years) and 15 
+      clinicians (average age 41, SD 11 years) completed the interview. Eight patients 
+      (average age 51, SD 13 years) completed the usability testing. All participants 
+      liked the device and thought it was easy to use. They also had a good 
+      understanding of how to use the device and the device's purpose. Patients' age 
+      and device use-related characteristics (eg, the warmth of hands and hand 
+      steadiness) were identified by users as factors negatively impacting the accurate 
+      use of the pulse oximeter. CONCLUSIONS: Patients and clinicians had very positive 
+      perceptions of the pulse oximeter for COVID-19 remote monitoring, indicating high 
+      acceptability and usability of the device. However, factors that may impact the 
+      accuracy of the device should be considered when delivering interventions using 
+      the pulse oximeter for remote monitoring. Targeted instructions about the use of 
+      the device may be necessary for specific populations (eg, older people and 
+      patients unfamiliar with technology). Further research should focus on the 
+      integration of the pulse oximeter data into electronic medical records for 
+      real-time and secure patient monitoring.
+CI  - ©Andrea Torres-Robles, Karen Allison, Simon K Poon, Miranda Shaw, Owen Hutchings, 
+      Warwick J Britton, Andrew Wilson, Melissa Baysari. Originally published in the 
+      Journal of Medical Internet Research (https://www.jmir.org), 05.09.2023.
+FAU - Torres-Robles, Andrea
+AU  - Torres-Robles A
+AUID- ORCID: 0000-0002-8751-5706
+AD  - Menzies Centre for Health Policy and Economics, The University of Sydney, Sydney, 
+      Australia.
+FAU - Allison, Karen
+AU  - Allison K
+AUID- ORCID: 0000-0002-5411-4252
+AD  - Sydney Local Health District, Camperdown, Sydney, Australia.
+FAU - Poon, Simon K
+AU  - Poon SK
+AUID- ORCID: 0000-0003-2726-9109
+AD  - School of Computer Science, The University of Sydney, Sydney, Australia.
+FAU - Shaw, Miranda
+AU  - Shaw M
+AUID- ORCID: 0000-0002-9358-8258
+AD  - Royal Prince Alfred Virtual Hospital, Sydney Local Health District, Camperdown, 
+      Sydney, Australia.
+FAU - Hutchings, Owen
+AU  - Hutchings O
+AUID- ORCID: 0000-0002-2793-0027
+AD  - Royal Prince Alfred Virtual Hospital, Sydney Local Health District, Camperdown, 
+      Sydney, Australia.
+FAU - Britton, Warwick J
+AU  - Britton WJ
+AUID- ORCID: 0000-0001-6721-9646
+AD  - Sydney Local Health District, Camperdown, Sydney, Australia.
+AD  - Centenary Institute, The University of Sydney, Sydney, Australia.
+FAU - Wilson, Andrew
+AU  - Wilson A
+AUID- ORCID: 0000-0002-1809-7846
+AD  - Menzies Centre for Health Policy and Economics, The University of Sydney, Sydney, 
+      Australia.
+FAU - Baysari, Melissa
+AU  - Baysari M
+AUID- ORCID: 0000-0003-1645-9126
+AD  - Faculty of Medicine and Health, The University of Sydney, Sydney, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230905
+PL  - Canada
+TA  - J Med Internet Res
+JT  - Journal of medical Internet research
+JID - 100959882
+RN  - S88TT14065 (Oxygen)
+SB  - IM
+MH  - Adult
+MH  - Humans
+MH  - Adolescent
+MH  - Aged
+MH  - Middle Aged
+MH  - *Pandemics
+MH  - *COVID-19
+MH  - Oximetry
+MH  - Oxygen
+MH  - Monitoring, Physiologic/methods
+PMC - PMC10482056
+OTO - NOTNLM
+OT  - COVID-19
+OT  - acceptability
+OT  - oximetry
+OT  - patient experience
+OT  - pulse oximetry
+OT  - remote monitoring
+OT  - usability
+OT  - user experience
+OT  - wearable device
+COIS- Conflicts of Interest: None declared.
+EDAT- 2023/08/03 19:14
+MHDA- 2023/09/06 06:42
+PMCR- 2023/09/05
+CRDT- 2023/08/03 14:53
+PHST- 2022/11/24 00:00 [received]
+PHST- 2023/07/31 00:00 [accepted]
+PHST- 2023/02/06 00:00 [revised]
+PHST- 2023/09/06 06:42 [medline]
+PHST- 2023/08/03 19:14 [pubmed]
+PHST- 2023/08/03 14:53 [entrez]
+PHST- 2023/09/05 00:00 [pmc-release]
+AID - v25i1e44540 [pii]
+AID - 10.2196/44540 [doi]
+PST - epublish
+SO  - J Med Internet Res. 2023 Sep 5;25:e44540. doi: 10.2196/44540.
+
+PMID- 33087611
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201023
+LR  - 20201023
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 273
+DP  - 2020 Sep 4
+TI  - Evolution of SmartBEAT for Heart Failure Telemonitoring.
+PG  - 189-194
+LID - 10.3233/SHTI200637 [doi]
+AB  - The prevalence of Heart Failure is growing exponentially in the last decades, 
+      particularly amongst older adults. Heart Failure is a chronic cardiovascular 
+      disease that demands self-care management and substantial healthcare resources. 
+      For that reason, it is highly associated with hospital readmissions and 
+      mortality. Due to increased hospitalization costs, excessive waiting times and 
+      lack of specialized healthcare professionals to follow-up this growing 
+      population, telemedicine and telemonitoring technologies have become the best 
+      solutions to support health providers in the disease management tasks. 
+      Telemonitoring technologies offer better and more comfortable care because the 
+      elderly do not have to leave the comfort of their home to interact with the 
+      doctors, giving and receiving daily feedbacks trough these new applications, 
+      wearables, and health care platforms. This paper provides a comprehensive review 
+      covering the current progress of research in telemedicine and telemonitoring and 
+      their applications to Heart Failure Management services. It presents SmartBEAT, 
+      which demonstrated during a pilot phase, a user adherence of 97% for three 
+      months. Furthermore, SmartBEAT plus, an improved solution, is described, and the 
+      system usability a technology acceptance will be evaluated through a pilot with 
+      40 Heart Failure Patients, involving nurses and cardiologists.
+FAU - Pereira, Jaime
+AU  - Pereira J
+AD  - Center for Computer Graphics, Guimarães, Portugal.
+FAU - Teixeir, Juliana
+AU  - Teixeir J
+AD  - Center for Computer Graphics, Guimarães, Portugal.
+FAU - Lopes, Inês
+AU  - Lopes I
+AD  - Fraunhofer Center for Assistive Information and Communication Solutions, Porto, 
+      Portugal.
+FAU - Sousa, Filipe
+AU  - Sousa F
+AD  - Fraunhofer Center for Assistive Information and Communication Solutions, Porto, 
+      Portugal.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - Aged
+MH  - Chronic Disease
+MH  - *Heart Failure/diagnosis/therapy
+MH  - Hospitalization
+MH  - Humans
+MH  - Patient Readmission
+MH  - *Telemedicine
+OTO - NOTNLM
+OT  - Telemedicine
+OT  - health information management
+OT  - heart failure
+OT  - heart failure management
+OT  - telemonitoring
+OT  - telemonitoring systems
+EDAT- 2020/10/23 06:00
+MHDA- 2020/10/24 06:00
+CRDT- 2020/10/22 05:29
+PHST- 2020/10/22 05:29 [entrez]
+PHST- 2020/10/23 06:00 [pubmed]
+PHST- 2020/10/24 06:00 [medline]
+AID - SHTI200637 [pii]
+AID - 10.3233/SHTI200637 [doi]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2020 Sep 4;273:189-194. doi: 10.3233/SHTI200637.
+
 PMID- 37588158
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -379,148 +755,198 @@ PST - epublish
 SO  - Digit Health. 2023 Aug 14;9:20552076231194547. doi: 10.1177/20552076231194547. 
       eCollection 2023 Jan-Dec.
 
-PMID- 38470566
+PMID- 36808950
 OWN - NLM
 STAT- MEDLINE
-DCOM- 20240326
-LR  - 20240326
-IS  - 1464-522X (Electronic)
-IS  - 0309-1902 (Linking)
-VI  - 47
-IP  - 5
-DP  - 2023 Jul
-TI  - Applying user-centered design and the Pi-CON methodology for vital signs sensor 
-      development.
-PG  - 277-287
-LID - 10.1080/03091902.2024.2325964 [doi]
-AB  - Although telehealth, and in particular RPM, have demonstrated to drive many 
-      benefits, such as reduction in cost and hospital-acquired infections, previous 
-      research has shown many usability challenges when patients operate a medical 
-      device without supervision of a medical professional. To combat this issue, the 
-      Pi-CON methodology is applied to develop a novel sensor with the objective to 
-      continuously acquire a patient's vital signs from a distance, without the need to 
-      attach any markers or sensors to the patient, and with limited user interaction 
-      required. Pi-CON stands for passive, continuous and non-contact, and describes a 
-      way to improve the user experience for patients or caregivers that have a need to 
-      perform a vital signs measurement themselves, without the presence of a medical 
-      professional. The developed sensor utilises radar and optical sensing 
-      technologies and transmits acquired data to a cloud-based service where it can be 
-      viewed in near real-time by the patient or family members from anywhere via an 
-      intuitive user interface. This user interface, as well as the sensor itself were 
-      designed based on design needs and requirements to adhere to the user-centered 
-      design process. The development of the sensor, including utilised technologies, 
-      components, and the user interface are presented, including inspirations for 
-      future work.
-FAU - Baumann, Steffen
-AU  - Baumann S
-AD  - Iowa State University, Ames, Iowa, USA.
-FAU - Stone, Richard T
-AU  - Stone RT
-AD  - Iowa State University, Ames, Iowa, USA.
+DCOM- 20230310
+LR  - 20230310
+IS  - 1944-8252 (Electronic)
+IS  - 1944-8244 (Linking)
+VI  - 15
+IP  - 9
+DP  - 2023 Mar 8
+TI  - A Machine Learning-Combined Flexible Sensor for Tactile Detection and Voice 
+      Recognition.
+PG  - 12551-12559
+LID - 10.1021/acsami.2c22287 [doi]
+AB  - Intelligent sensors have attracted substantial attention for various 
+      applications, including wearable electronics, artificial intelligence, healthcare 
+      monitoring, and human-machine interactions. However, there still remains a 
+      critical challenge in developing a multifunctional sensing system for complex 
+      signal detection and analysis in practical applications. Here, we develop a 
+      machine learning-combined flexible sensor for real-time tactile sensing and voice 
+      recognition through laser-induced graphitization. The intelligent sensor with a 
+      triboelectric layer can convert local pressure to an electrical signal through a 
+      contact electrification effect without external bias, which has a characteristic 
+      response behavior when exposed to various mechanical stimuli. With the special 
+      patterning design, a smart human-machine interaction controlling system composed 
+      of a digital arrayed touch panel is constructed to control electronic devices. 
+      Based on machine learning, the real-time monitoring and recognition of the 
+      changes of voice are achieved with high accuracy. The machine learning-empowered 
+      flexible sensor provides a promising platform for the development of flexible 
+      tactile sensing, real-time health detection, human-machine interaction, and 
+      intelligent wearable devices.
+FAU - Xie, Jiawang
+AU  - Xie J
+AUID- ORCID: 0000-0002-9187-9553
+AD  - State Key Laboratory of Tribology in Advanced Equipment, Department of Mechanical 
+      Engineering, Tsinghua University, Beijing 100084, China.
+FAU - Zhao, Yuzhi
+AU  - Zhao Y
+AD  - State Key Laboratory of Tribology in Advanced Equipment, Department of Mechanical 
+      Engineering, Tsinghua University, Beijing 100084, China.
+FAU - Zhu, Dezhi
+AU  - Zhu D
+AD  - State Key Laboratory of Tribology in Advanced Equipment, Department of Mechanical 
+      Engineering, Tsinghua University, Beijing 100084, China.
+FAU - Yan, Jianfeng
+AU  - Yan J
+AUID- ORCID: 0000-0001-8913-0247
+AD  - State Key Laboratory of Tribology in Advanced Equipment, Department of Mechanical 
+      Engineering, Tsinghua University, Beijing 100084, China.
+FAU - Li, Jiaqun
+AU  - Li J
+AD  - State Key Laboratory of Tribology in Advanced Equipment, Department of Mechanical 
+      Engineering, Tsinghua University, Beijing 100084, China.
+FAU - Qiao, Ming
+AU  - Qiao M
+AD  - State Key Laboratory of Tribology in Advanced Equipment, Department of Mechanical 
+      Engineering, Tsinghua University, Beijing 100084, China.
+FAU - He, Guangzhi
+AU  - He G
+AD  - State Key Laboratory of Tribology in Advanced Equipment, Department of Mechanical 
+      Engineering, Tsinghua University, Beijing 100084, China.
+FAU - Deng, Shengfa
+AU  - Deng S
+AD  - State Key Laboratory of Tribology in Advanced Equipment, Department of Mechanical 
+      Engineering, Tsinghua University, Beijing 100084, China.
 LA  - eng
 PT  - Journal Article
-DEP - 20240312
-PL  - England
-TA  - J Med Eng Technol
-JT  - Journal of medical engineering & technology
-JID - 7702125
+DEP - 20230221
+PL  - United States
+TA  - ACS Appl Mater Interfaces
+JT  - ACS applied materials & interfaces
+JID - 101504991
 SB  - IM
 MH  - Humans
-MH  - *User-Centered Design
-MH  - *Telemedicine
-MH  - Vital Signs
+MH  - *Artificial Intelligence
+MH  - Voice Recognition
+MH  - *Wearable Electronic Devices
+MH  - Electricity
+MH  - Machine Learning
 OTO - NOTNLM
-OT  - Wearables
-OT  - hand-free vital signs
-OT  - remote patient monitoring
-OT  - telehealth
-OT  - user-centered design
-EDAT- 2024/03/12 18:42
-MHDA- 2024/03/26 06:45
-CRDT- 2024/03/12 12:23
-PHST- 2024/03/26 06:45 [medline]
-PHST- 2024/03/12 18:42 [pubmed]
-PHST- 2024/03/12 12:23 [entrez]
-AID - 10.1080/03091902.2024.2325964 [doi]
+OT  - flexible sensor
+OT  - human−machine interaction
+OT  - laser processing
+OT  - machine learning
+OT  - tactile sensing
+EDAT- 2023/02/23 06:00
+MHDA- 2023/03/11 06:00
+CRDT- 2023/02/22 13:26
+PHST- 2023/02/23 06:00 [pubmed]
+PHST- 2023/03/11 06:00 [medline]
+PHST- 2023/02/22 13:26 [entrez]
+AID - 10.1021/acsami.2c22287 [doi]
 PST - ppublish
-SO  - J Med Eng Technol. 2023 Jul;47(5):277-287. doi: 10.1080/03091902.2024.2325964. 
-      Epub 2024 Mar 12.
+SO  - ACS Appl Mater Interfaces. 2023 Mar 8;15(9):12551-12559. doi: 
+      10.1021/acsami.2c22287. Epub 2023 Feb 21.
 
-PMID- 33087611
+PMID- 35402860
 OWN - NLM
-STAT- MEDLINE
-DCOM- 20201023
-LR  - 20201023
-IS  - 1879-8365 (Electronic)
-IS  - 0926-9630 (Linking)
-VI  - 273
-DP  - 2020 Sep 4
-TI  - Evolution of SmartBEAT for Heart Failure Telemonitoring.
-PG  - 189-194
-LID - 10.3233/SHTI200637 [doi]
-AB  - The prevalence of Heart Failure is growing exponentially in the last decades, 
-      particularly amongst older adults. Heart Failure is a chronic cardiovascular 
-      disease that demands self-care management and substantial healthcare resources. 
-      For that reason, it is highly associated with hospital readmissions and 
-      mortality. Due to increased hospitalization costs, excessive waiting times and 
-      lack of specialized healthcare professionals to follow-up this growing 
-      population, telemedicine and telemonitoring technologies have become the best 
-      solutions to support health providers in the disease management tasks. 
-      Telemonitoring technologies offer better and more comfortable care because the 
-      elderly do not have to leave the comfort of their home to interact with the 
-      doctors, giving and receiving daily feedbacks trough these new applications, 
-      wearables, and health care platforms. This paper provides a comprehensive review 
-      covering the current progress of research in telemedicine and telemonitoring and 
-      their applications to Heart Failure Management services. It presents SmartBEAT, 
-      which demonstrated during a pilot phase, a user adherence of 97% for three 
-      months. Furthermore, SmartBEAT plus, an improved solution, is described, and the 
-      system usability a technology acceptance will be evaluated through a pilot with 
-      40 Heart Failure Patients, involving nurses and cardiologists.
-FAU - Pereira, Jaime
-AU  - Pereira J
-AD  - Center for Computer Graphics, Guimarães, Portugal.
-FAU - Teixeir, Juliana
-AU  - Teixeir J
-AD  - Center for Computer Graphics, Guimarães, Portugal.
-FAU - Lopes, Inês
-AU  - Lopes I
-AD  - Fraunhofer Center for Assistive Information and Communication Solutions, Porto, 
-      Portugal.
-FAU - Sousa, Filipe
-AU  - Sousa F
-AD  - Fraunhofer Center for Assistive Information and Communication Solutions, Porto, 
-      Portugal.
+STAT- PubMed-not-MEDLINE
+LR  - 20240826
+IS  - 2589-0042 (Electronic)
+IS  - 2589-0042 (Linking)
+VI  - 25
+IP  - 4
+DP  - 2022 Apr 15
+TI  - Flexible pressure sensors via engineering microstructures for wearable 
+      human-machine interaction and health monitoring applications.
+PG  - 104148
+LID - 10.1016/j.isci.2022.104148 [doi]
+LID - 104148
+AB  - Flexible pressure sensors capable of transducing pressure stimuli into electrical 
+      signals have drawn extensive attention owing to their potential applications for 
+      human-machine interaction and healthcare monitoring. To meet these application 
+      demands, engineering microstructures in the pressure sensors are an efficient way 
+      to improve key sensing performances, such as sensitivity, linear sensing range, 
+      response time, hysteresis, and durability. In this review, we provide an overview 
+      of the recent advances in the fabrication and application of high-performance 
+      flexible pressure sensors via engineering microstructures. The implementation 
+      mechanisms and fabrication strategies of microstructures including 
+      micropatterned, porous, fiber-network, and multiple microstructures are 
+      systematically summarized. The applications of flexible pressure sensors with 
+      microstructures in the fields of wearable human-machine interaction, and ex vivo 
+      and in vivo healthcare monitoring are comprehensively discussed. Finally, the 
+      outlook and challenges in the future improvement of flexible pressure sensors 
+      toward practical applications are presented.
+CI  - © 2022 The Author(s).
+FAU - Cui, Xihua
+AU  - Cui X
+AD  - China-Australia Institute for Advanced Materials and Manufacturing, Jiaxing 
+      University, Jiaxing 314001, China.
+FAU - Huang, Fengli
+AU  - Huang F
+AD  - College of Information Science and Engineering, Key Laboratory of Medical 
+      Electronics and Digital Health of Zhejiang Province, Engineering Research Center 
+      of Intelligent Human Health Situation Awareness of Zhejiang Province, Jiaxing 
+      University, Jiaxing 314001, China.
+FAU - Zhang, Xianchao
+AU  - Zhang X
+AD  - College of Information Science and Engineering, Key Laboratory of Medical 
+      Electronics and Digital Health of Zhejiang Province, Engineering Research Center 
+      of Intelligent Human Health Situation Awareness of Zhejiang Province, Jiaxing 
+      University, Jiaxing 314001, China.
+FAU - Song, Pingan
+AU  - Song P
+AD  - Centre for Future Materials, University of Southern Queensland, Springfield 
+      Central 4300, Australia.
+AD  - School of Agriculture and Environmental Science, University of Southern 
+      Queensland, Springfield Central 4300, Australia.
+FAU - Zheng, Hua
+AU  - Zheng H
+AD  - School of Architecture and Energy Engineering, Wenzhou University of Technology, 
+      1 Jingguan Road, Wenzhou University Town, Wenzhou 325035, China.
+FAU - Chevali, Venkata
+AU  - Chevali V
+AD  - Centre for Future Materials, University of Southern Queensland, Springfield 
+      Central 4300, Australia.
+FAU - Wang, Hao
+AU  - Wang H
+AD  - Centre for Future Materials, University of Southern Queensland, Springfield 
+      Central 4300, Australia.
+FAU - Xu, Zhiguang
+AU  - Xu Z
+AD  - China-Australia Institute for Advanced Materials and Manufacturing, Jiaxing 
+      University, Jiaxing 314001, China.
 LA  - eng
 PT  - Journal Article
 PT  - Review
-PL  - Netherlands
-TA  - Stud Health Technol Inform
-JT  - Studies in health technology and informatics
-JID - 9214582
-MH  - Aged
-MH  - Chronic Disease
-MH  - *Heart Failure/diagnosis/therapy
-MH  - Hospitalization
-MH  - Humans
-MH  - Patient Readmission
-MH  - *Telemedicine
+DEP - 20220323
+PL  - United States
+TA  - iScience
+JT  - iScience
+JID - 101724038
+PMC - PMC8991382
 OTO - NOTNLM
-OT  - Telemedicine
-OT  - health information management
-OT  - heart failure
-OT  - heart failure management
-OT  - telemonitoring
-OT  - telemonitoring systems
-EDAT- 2020/10/23 06:00
-MHDA- 2020/10/24 06:00
-CRDT- 2020/10/22 05:29
-PHST- 2020/10/22 05:29 [entrez]
-PHST- 2020/10/23 06:00 [pubmed]
-PHST- 2020/10/24 06:00 [medline]
-AID - SHTI200637 [pii]
-AID - 10.3233/SHTI200637 [doi]
-PST - ppublish
-SO  - Stud Health Technol Inform. 2020 Sep 4;273:189-194. doi: 10.3233/SHTI200637.
+OT  - Engineering
+OT  - Health technology
+OT  - Sensor
+COIS- The authors declare no competing interests.
+EDAT- 2022/04/12 06:00
+MHDA- 2022/04/12 06:01
+PMCR- 2022/03/23
+CRDT- 2022/04/11 05:33
+PHST- 2022/04/11 05:33 [entrez]
+PHST- 2022/04/12 06:00 [pubmed]
+PHST- 2022/04/12 06:01 [medline]
+PHST- 2022/03/23 00:00 [pmc-release]
+AID - S2589-0042(22)00418-7 [pii]
+AID - 104148 [pii]
+AID - 10.1016/j.isci.2022.104148 [doi]
+PST - epublish
+SO  - iScience. 2022 Mar 23;25(4):104148. doi: 10.1016/j.isci.2022.104148. eCollection 
+      2022 Apr 15.
 
 PMID- 37387106
 OWN - NLM
@@ -674,6 +1100,108 @@ AID - 10.1109/EMBC40787.2023.10340323 [doi]
 PST - ppublish
 SO  - Annu Int Conf IEEE Eng Med Biol Soc. 2023 Jul;2023:1-4. doi: 
       10.1109/EMBC40787.2023.10340323.
+
+PMID- 36979605
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230330
+LR  - 20230331
+IS  - 2079-6374 (Electronic)
+IS  - 2079-6374 (Linking)
+VI  - 13
+IP  - 3
+DP  - 2023 Mar 17
+TI  - Recent Progress of Biomaterials-Based Epidermal Electronics for Healthcare 
+      Monitoring and Human-Machine Interaction.
+LID - 10.3390/bios13030393 [doi]
+LID - 393
+AB  - Epidermal electronics offer an important platform for various on-skin 
+      applications including electrophysiological signals monitoring and human-machine 
+      interactions (HMI), due to their unique advantages of intrinsic softness and 
+      conformal interfaces with skin. The widely used nondegradable synthetic materials 
+      may produce massive electronic waste to the ecosystem and bring safety issues to 
+      human skin. However, biomaterials extracted from nature are promising to act as a 
+      substitute material for the construction of epidermal electronics, owing to their 
+      diverse characteristics of biocompatibility, biodegradability, sustainability, 
+      low cost and natural abundance. Therefore, the development of natural 
+      biomaterials holds great prospects for advancement of high-performance 
+      sustainable epidermal electronics. Here, we review the recent development on 
+      different types of biomaterials including proteins and polysaccharides for 
+      multifunctional epidermal electronics. Subsequently, the applications of 
+      biomaterials-based epidermal electronics in electrophysiological monitoring and 
+      HMI are discussed, respectively. Finally, the development situation and future 
+      prospects of biomaterials-based epidermal electronics are summarized. We expect 
+      that this review can provide some inspirations for the development of future, 
+      sustainable, biomaterials-based epidermal electronics.
+FAU - Han, Ningning
+AU  - Han N
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Yao, Xin
+AU  - Yao X
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Wang, Yifan
+AU  - Wang Y
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Huang, Wenhao
+AU  - Huang W
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Niu, Mengjuan
+AU  - Niu M
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Zhu, Pengcheng
+AU  - Zhu P
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Mao, Yanchao
+AU  - Mao Y
+AUID- ORCID: 0000-0002-3436-633X
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+LA  - eng
+GR  - 2021GGJS014; 2021TQ0288, 2022M712852/Yanchao Mao; Pengcheng Zhu/
+PT  - Journal Article
+PT  - Review
+DEP - 20230317
+PL  - Switzerland
+TA  - Biosensors (Basel)
+JT  - Biosensors
+JID - 101609191
+RN  - 0 (Biocompatible Materials)
+SB  - IM
+MH  - Humans
+MH  - *Biocompatible Materials
+MH  - *Ecosystem
+MH  - Electronics
+MH  - Epidermis
+MH  - Skin
+PMC - PMC10046871
+OTO - NOTNLM
+OT  - biomaterials
+OT  - epidermal electronics
+OT  - healthcare monitoring
+OT  - human–machine interaction
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/03/30 06:00
+MHDA- 2023/03/30 06:11
+PMCR- 2023/03/17
+CRDT- 2023/03/29 01:20
+PHST- 2023/01/30 00:00 [received]
+PHST- 2023/03/08 00:00 [revised]
+PHST- 2023/03/14 00:00 [accepted]
+PHST- 2023/03/30 06:11 [medline]
+PHST- 2023/03/29 01:20 [entrez]
+PHST- 2023/03/30 06:00 [pubmed]
+PHST- 2023/03/17 00:00 [pmc-release]
+AID - bios13030393 [pii]
+AID - biosensors-13-00393 [pii]
+AID - 10.3390/bios13030393 [doi]
+PST - epublish
+SO  - Biosensors (Basel). 2023 Mar 17;13(3):393. doi: 10.3390/bios13030393.
 
 PMID- 30794191
 OWN - NLM
@@ -841,6 +1369,106 @@ AID - sensors-24-03977 [pii]
 AID - 10.3390/s24123977 [doi]
 PST - epublish
 SO  - Sensors (Basel). 2024 Jun 19;24(12):3977. doi: 10.3390/s24123977.
+
+PMID- 33511003
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230919
+IS  - 2198-3844 (Print)
+IS  - 2198-3844 (Electronic)
+IS  - 2198-3844 (Linking)
+VI  - 8
+IP  - 2
+DP  - 2021 Jan
+TI  - Materials, Devices, and Systems of On-Skin Electrodes for Electrophysiological 
+      Monitoring and Human-Machine Interfaces.
+PG  - 2001938
+LID - 10.1002/advs.202001938 [doi]
+LID - 2001938
+AB  - On-skin electrodes function as an ideal platform for collecting high-quality 
+      electrophysiological (EP) signals due to their unique characteristics, such as 
+      stretchability, conformal interfaces with skin, biocompatibility, and wearable 
+      comfort. The past decade has witnessed great advancements in performance 
+      optimization and function extension of on-skin electrodes. With continuous 
+      development and great promise for practical applications, on-skin electrodes are 
+      playing an increasingly important role in EP monitoring and human-machine 
+      interfaces (HMI). In this review, the latest progress in the development of 
+      on-skin electrodes and their integrated system is summarized. Desirable features 
+      of on-skin electrodes are briefly discussed from the perspective of performances. 
+      Then, recent advances in the development of electrode materials, followed by the 
+      analysis of strategies and methods to enhance adhesion and breathability of 
+      on-skin electrodes are examined. In addition, representative integrated electrode 
+      systems and practical applications of on-skin electrodes in healthcare monitoring 
+      and HMI are introduced in detail. It is concluded with the discussion of key 
+      challenges and opportunities for on-skin electrodes and their integrated systems.
+CI  - © 2020 The Authors. Advanced Science published by Wiley‐VCH GmbH.
+FAU - Wu, Hao
+AU  - Wu H
+AUID- ORCID: 0000-0003-1494-0848
+AD  - Flexible Electronics Research Center State Key Laboratory of Digital 
+      Manufacturing Equipment and Technology School of Mechanical Science and 
+      Engineering Huazhong University of Science and Technology Wuhan Hubei 430074 
+      China.
+FAU - Yang, Ganguang
+AU  - Yang G
+AD  - Flexible Electronics Research Center State Key Laboratory of Digital 
+      Manufacturing Equipment and Technology School of Mechanical Science and 
+      Engineering Huazhong University of Science and Technology Wuhan Hubei 430074 
+      China.
+FAU - Zhu, Kanhao
+AU  - Zhu K
+AD  - Flexible Electronics Research Center State Key Laboratory of Digital 
+      Manufacturing Equipment and Technology School of Mechanical Science and 
+      Engineering Huazhong University of Science and Technology Wuhan Hubei 430074 
+      China.
+FAU - Liu, Shaoyu
+AU  - Liu S
+AD  - Flexible Electronics Research Center State Key Laboratory of Digital 
+      Manufacturing Equipment and Technology School of Mechanical Science and 
+      Engineering Huazhong University of Science and Technology Wuhan Hubei 430074 
+      China.
+FAU - Guo, Wei
+AU  - Guo W
+AD  - Flexible Electronics Research Center State Key Laboratory of Digital 
+      Manufacturing Equipment and Technology School of Mechanical Science and 
+      Engineering Huazhong University of Science and Technology Wuhan Hubei 430074 
+      China.
+FAU - Jiang, Zhuo
+AU  - Jiang Z
+AD  - Department of Materials Science Fudan University Shanghai 200433 China.
+FAU - Li, Zhuo
+AU  - Li Z
+AD  - Department of Materials Science Fudan University Shanghai 200433 China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20201204
+PL  - Germany
+TA  - Adv Sci (Weinh)
+JT  - Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+JID - 101664569
+PMC - PMC7816724
+OTO - NOTNLM
+OT  - electrophysiological monitoring
+OT  - human–machine interfaces
+OT  - on‐skin electrodes
+OT  - stretchable electronics
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/01/30 06:00
+MHDA- 2021/01/30 06:01
+PMCR- 2020/12/04
+CRDT- 2021/01/29 05:56
+PHST- 2020/05/24 00:00 [received]
+PHST- 2020/09/19 00:00 [revised]
+PHST- 2021/01/29 05:56 [entrez]
+PHST- 2021/01/30 06:00 [pubmed]
+PHST- 2021/01/30 06:01 [medline]
+PHST- 2020/12/04 00:00 [pmc-release]
+AID - ADVS2163 [pii]
+AID - 10.1002/advs.202001938 [doi]
+PST - epublish
+SO  - Adv Sci (Weinh). 2020 Dec 4;8(2):2001938. doi: 10.1002/advs.202001938. 
+      eCollection 2021 Jan.
 
 PMID- 34770244
 OWN - NLM
@@ -1027,93 +1655,6 @@ AID - biomimetics-09-00237 [pii]
 AID - 10.3390/biomimetics9040237 [doi]
 PST - epublish
 SO  - Biomimetics (Basel). 2024 Apr 16;9(4):237. doi: 10.3390/biomimetics9040237.
-
-PMID- 38142364
-OWN - NLM
-STAT- Publisher
-LR  - 20231224
-IS  - 1932-2968 (Electronic)
-IS  - 1932-2968 (Linking)
-DP  - 2023 Dec 24
-TI  - Design and Usability Assessment of a User-Centered, Modular Platform for 
-      Real-World Data Acquisition in Clinical Trials involving Post-bariatric Surgery 
-      Patients.
-PG  - 19322968231220061
-LID - 10.1177/19322968231220061 [doi]
-AB  - BACKGROUND: Clinical trials often face challenges in efficient data collection 
-      and participant monitoring. To address these issues, we developed the IMPACT 
-      platform, comprising a real-time mobile application for data collection and a 
-      web-based dashboard for remote monitoring and management. METHODS: This article 
-      presents the design, development, and usability assessment of the IMPACT platform 
-      customized for patients with post-bariatric surgery hypoglycemia (PBH). We focus 
-      on adapting key IMPACT components, including continuous glucose monitoring (CGM), 
-      symptom tracking, and meal logging, as crucial elements for user-friendly and 
-      efficient PBH monitoring. RESULTS: The adapted IMPACT platform demonstrated 
-      effectiveness in data collection and remote participant monitoring. The mobile 
-      application allowed patients to easily track their data, while the clinician 
-      dashboard provided a comprehensive overview of enrolled patients, featuring 
-      filtering options and alert mechanisms for identifying data collection issues. 
-      The platform incorporated various visual representations, including time plots 
-      and category-based visualizations, which greatly facilitated data interpretation 
-      and analysis. The System Usability Scale questionnaire results indicated a high 
-      level of usability for the web dashboard, with an average score of 86.3 out of 
-      100. The active involvement of clinicians throughout the development process 
-      ensured that the platform allowed for the collection and visualization of 
-      clinically meaningful data. CONCLUSIONS: By leveraging IMPACT's existing features 
-      and infrastructure, the adapted version streamlined data collection, analysis, 
-      and trial customization for PBH research. The platform's high usability 
-      underscores its alignment with the requirements for conducting research using 
-      continuous real-world data in PBH patients and other populations of interest.
-FAU - Cossu, Luca
-AU  - Cossu L
-AUID- ORCID: 0000-0002-8804-0722
-AD  - Department of Information Engineering, University of Padova, Padova, Italy.
-FAU - Cappon, Giacomo
-AU  - Cappon G
-AUID- ORCID: 0000-0003-4358-9268
-AD  - Department of Information Engineering, University of Padova, Padova, Italy.
-FAU - Streicher, Olivia
-AU  - Streicher O
-AD  - Inselspital, Bern University Hospital and University of Bern, Bern, Switzerland.
-FAU - Herzig, David
-AU  - Herzig D
-AD  - Inselspital, Bern University Hospital and University of Bern, Bern, Switzerland.
-FAU - Bally, Lia
-AU  - Bally L
-AUID- ORCID: 0000-0003-1993-7672
-AD  - Inselspital, Bern University Hospital and University of Bern, Bern, Switzerland.
-FAU - Facchinetti, Andrea
-AU  - Facchinetti A
-AUID- ORCID: 0000-0001-8041-2280
-AD  - Department of Information Engineering, University of Padova, Padova, Italy.
-LA  - eng
-PT  - Journal Article
-DEP - 20231224
-PL  - United States
-TA  - J Diabetes Sci Technol
-JT  - Journal of diabetes science and technology
-JID - 101306166
-SB  - IM
-OTO - NOTNLM
-OT  - digital health
-OT  - health care technology
-OT  - health data visualization
-OT  - multidisciplinary collaboration
-OT  - user feedback
-OT  - user-centered design
-COIS- Declaration of Conflicting InterestsThe author(s) declared no potential conflicts 
-      of interest with respect to the research, authorship, and/or publication of this 
-      article.
-EDAT- 2023/12/24 12:41
-MHDA- 2023/12/24 12:41
-CRDT- 2023/12/24 07:48
-PHST- 2023/12/24 12:41 [medline]
-PHST- 2023/12/24 12:41 [pubmed]
-PHST- 2023/12/24 07:48 [entrez]
-AID - 10.1177/19322968231220061 [doi]
-PST - aheadofprint
-SO  - J Diabetes Sci Technol. 2023 Dec 24:19322968231220061. doi: 
-      10.1177/19322968231220061.
 
 PMID- 38601188
 OWN - NLM
@@ -1444,6 +1985,105 @@ AID - 10.3389/fneur.2023.1251395 [doi]
 PST - epublish
 SO  - Front Neurol. 2023 Oct 12;14:1251395. doi: 10.3389/fneur.2023.1251395. 
       eCollection 2023.
+
+PMID- 35290012
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220407
+LR  - 20220407
+IS  - 1944-8252 (Electronic)
+IS  - 1944-8244 (Linking)
+VI  - 14
+IP  - 12
+DP  - 2022 Mar 30
+TI  - Optical Microfibers for Sensing Proximity and Contact in Human-Machine 
+      Interfaces.
+PG  - 14447-14454
+LID - 10.1021/acsami.1c23716 [doi]
+AB  - The monitoring of proximity-contact events is essential for human-machine 
+      interactions, intelligent robots, and healthcare monitoring. We report a 
+      dual-modal sensor made with two functionalized optical microfibers (MFs), which 
+      is inspired by the somatosensory system of human skin. The integrated sensor with 
+      a hierarchical structure gradationally detects finger approaching and touching by 
+      measuring the relative humidity (RH) and force-triggered light intensity 
+      variations. Specifically, the RH sensory part shows enhanced evanescent 
+      absorption, achieving a sensitive RH measurement with a fast response (110 ms), a 
+      high resolution (0.11%RH), and a wide working range (10-100%RH). Enabled by the 
+      transition from guided modes into radiation modes of the waveguiding MF, the 
+      force sensory part exhibits a high sensitivity (6.2%/kPa) and a fast response (up 
+      to 1.5 kHz). By using a real-time data processing unit, the proximity-contact 
+      sensor (PCS) achieves continuous detection of the full-contact events, including 
+      finger approaching, contacting, pressing, releasing, and leaving. As a proof of 
+      concept, the electromagnetic-interference-free PCS enables a smart switch system 
+      to recognize the proximity and contact of bare/gloved fingers. Moreover, skin 
+      humidity detection and respiration monitoring are realized. These initial results 
+      pave the way toward a category of optical collaborative devices ranging from 
+      human-machine interfaces to multifunctional on-skin healthcare sensors.
+FAU - Liu, Haitao
+AU  - Liu H
+AD  - Research Center for Humanoid Sensing, Zhejiang Lab, Hangzhou 311121, China.
+FAU - Song, Xingda
+AU  - Song X
+AD  - State Key Laboratory of Modern Optical Instrumentation, College of Optical 
+      Science and Engineering, Zhejiang University, Hangzhou 310027, China.
+FAU - Wang, Xiaoyu
+AU  - Wang X
+AD  - Research Center for Humanoid Sensing, Zhejiang Lab, Hangzhou 311121, China.
+FAU - Wang, Shuhao
+AU  - Wang S
+AD  - State Key Laboratory of Modern Optical Instrumentation, College of Optical 
+      Science and Engineering, Zhejiang University, Hangzhou 310027, China.
+FAU - Yao, Ni
+AU  - Yao N
+AD  - Research Center for Humanoid Sensing, Zhejiang Lab, Hangzhou 311121, China.
+FAU - Li, Xiong
+AU  - Li X
+AD  - Tencent Robotics X Lab, Tencent Technology (Shenzhen) Co. Ltd, Shenzhen 518054, 
+      China.
+FAU - Fang, Wei
+AU  - Fang W
+AUID- ORCID: 0000-0002-6511-3570
+AD  - State Key Laboratory of Modern Optical Instrumentation, College of Optical 
+      Science and Engineering, Zhejiang University, Hangzhou 310027, China.
+FAU - Tong, Limin
+AU  - Tong L
+AD  - State Key Laboratory of Modern Optical Instrumentation, College of Optical 
+      Science and Engineering, Zhejiang University, Hangzhou 310027, China.
+FAU - Zhang, Lei
+AU  - Zhang L
+AUID- ORCID: 0000-0002-0826-169X
+AD  - Research Center for Humanoid Sensing, Zhejiang Lab, Hangzhou 311121, China.
+AD  - State Key Laboratory of Modern Optical Instrumentation, College of Optical 
+      Science and Engineering, Zhejiang University, Hangzhou 310027, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20220315
+PL  - United States
+TA  - ACS Appl Mater Interfaces
+JT  - ACS applied materials & interfaces
+JID - 101504991
+SB  - IM
+MH  - Humans
+MH  - Humidity
+MH  - Mechanical Phenomena
+MH  - Touch
+MH  - *Wearable Electronic Devices
+OTO - NOTNLM
+OT  - human−machine interaction
+OT  - humidity sensor
+OT  - optical microfiber
+OT  - proximity-contact sensing
+OT  - wearable tactile sensor
+EDAT- 2022/03/16 06:00
+MHDA- 2022/04/08 06:00
+CRDT- 2022/03/15 17:16
+PHST- 2022/03/16 06:00 [pubmed]
+PHST- 2022/04/08 06:00 [medline]
+PHST- 2022/03/15 17:16 [entrez]
+AID - 10.1021/acsami.1c23716 [doi]
+PST - ppublish
+SO  - ACS Appl Mater Interfaces. 2022 Mar 30;14(12):14447-14454. doi: 
+      10.1021/acsami.1c23716. Epub 2022 Mar 15.
 
 PMID- 36679676
 OWN - NLM
@@ -2066,145 +2706,6 @@ PST - ppublish
 SO  - Seizure. 2020 Oct;81:236-240. doi: 10.1016/j.seizure.2020.08.023. Epub 2020 Aug 
       23.
 
-PMID- 37535831
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20230906
-LR  - 20230908
-IS  - 1438-8871 (Electronic)
-IS  - 1439-4456 (Print)
-IS  - 1438-8871 (Linking)
-VI  - 25
-DP  - 2023 Sep 5
-TI  - Patient and Clinician Perceptions of the Pulse Oximeter in a Remote Monitoring 
-      Setting for COVID-19: Qualitative Study.
-PG  - e44540
-LID - 10.2196/44540 [doi]
-LID - e44540
-AB  - BACKGROUND: As a response to the COVID-19 pandemic, the Sydney Local Health 
-      District in New South Wales, Australia, launched the rpavirtual program, the 
-      first full-scale virtual hospital in Australia, to remotely monitor and follow up 
-      stable patients with COVID-19. As part of the intervention, a pulse oximeter 
-      wearable device was delivered to patients to monitor their oxygen saturation 
-      levels, a critical indicator of COVID-19 patient deterioration. Understanding 
-      users' perceptions toward the device is fundamental to assessing its usability 
-      and acceptability and contributing to the effectiveness of the intervention, but 
-      no research to date has explored the user experience of the pulse oximeter for 
-      remote monitoring in this setting. OBJECTIVE: This study aimed to explore the 
-      use, performance, and acceptability of the pulse oximeter by clinicians and 
-      patients in rpavirtual during COVID-19. METHODS: Semistructured interviews and 
-      usability testing were conducted. Stable adult patients with COVID-19 (aged ≥18 
-      years) who used the pulse oximeter and were monitored by rpavirtual, and 
-      rpavirtual clinicians monitoring these patients were interviewed. Clinicians 
-      could be nurses, doctors, or staff who were part of the team that assisted 
-      patients with the use of the pulse oximeter. Usability testing was conducted with 
-      patients who had the pulse oximeter when they were contacted. Interviews were 
-      coded using the Theoretical Framework of Acceptability. Usability testing was 
-      conducted using a think-aloud protocol. Data were collected until saturation was 
-      reached. RESULTS: Twenty-one patients (average age 51, SD 13 years) and 15 
-      clinicians (average age 41, SD 11 years) completed the interview. Eight patients 
-      (average age 51, SD 13 years) completed the usability testing. All participants 
-      liked the device and thought it was easy to use. They also had a good 
-      understanding of how to use the device and the device's purpose. Patients' age 
-      and device use-related characteristics (eg, the warmth of hands and hand 
-      steadiness) were identified by users as factors negatively impacting the accurate 
-      use of the pulse oximeter. CONCLUSIONS: Patients and clinicians had very positive 
-      perceptions of the pulse oximeter for COVID-19 remote monitoring, indicating high 
-      acceptability and usability of the device. However, factors that may impact the 
-      accuracy of the device should be considered when delivering interventions using 
-      the pulse oximeter for remote monitoring. Targeted instructions about the use of 
-      the device may be necessary for specific populations (eg, older people and 
-      patients unfamiliar with technology). Further research should focus on the 
-      integration of the pulse oximeter data into electronic medical records for 
-      real-time and secure patient monitoring.
-CI  - ©Andrea Torres-Robles, Karen Allison, Simon K Poon, Miranda Shaw, Owen Hutchings, 
-      Warwick J Britton, Andrew Wilson, Melissa Baysari. Originally published in the 
-      Journal of Medical Internet Research (https://www.jmir.org), 05.09.2023.
-FAU - Torres-Robles, Andrea
-AU  - Torres-Robles A
-AUID- ORCID: 0000-0002-8751-5706
-AD  - Menzies Centre for Health Policy and Economics, The University of Sydney, Sydney, 
-      Australia.
-FAU - Allison, Karen
-AU  - Allison K
-AUID- ORCID: 0000-0002-5411-4252
-AD  - Sydney Local Health District, Camperdown, Sydney, Australia.
-FAU - Poon, Simon K
-AU  - Poon SK
-AUID- ORCID: 0000-0003-2726-9109
-AD  - School of Computer Science, The University of Sydney, Sydney, Australia.
-FAU - Shaw, Miranda
-AU  - Shaw M
-AUID- ORCID: 0000-0002-9358-8258
-AD  - Royal Prince Alfred Virtual Hospital, Sydney Local Health District, Camperdown, 
-      Sydney, Australia.
-FAU - Hutchings, Owen
-AU  - Hutchings O
-AUID- ORCID: 0000-0002-2793-0027
-AD  - Royal Prince Alfred Virtual Hospital, Sydney Local Health District, Camperdown, 
-      Sydney, Australia.
-FAU - Britton, Warwick J
-AU  - Britton WJ
-AUID- ORCID: 0000-0001-6721-9646
-AD  - Sydney Local Health District, Camperdown, Sydney, Australia.
-AD  - Centenary Institute, The University of Sydney, Sydney, Australia.
-FAU - Wilson, Andrew
-AU  - Wilson A
-AUID- ORCID: 0000-0002-1809-7846
-AD  - Menzies Centre for Health Policy and Economics, The University of Sydney, Sydney, 
-      Australia.
-FAU - Baysari, Melissa
-AU  - Baysari M
-AUID- ORCID: 0000-0003-1645-9126
-AD  - Faculty of Medicine and Health, The University of Sydney, Sydney, Australia.
-LA  - eng
-PT  - Journal Article
-PT  - Research Support, Non-U.S. Gov't
-DEP - 20230905
-PL  - Canada
-TA  - J Med Internet Res
-JT  - Journal of medical Internet research
-JID - 100959882
-RN  - S88TT14065 (Oxygen)
-SB  - IM
-MH  - Adult
-MH  - Humans
-MH  - Adolescent
-MH  - Aged
-MH  - Middle Aged
-MH  - *Pandemics
-MH  - *COVID-19
-MH  - Oximetry
-MH  - Oxygen
-MH  - Monitoring, Physiologic/methods
-PMC - PMC10482056
-OTO - NOTNLM
-OT  - COVID-19
-OT  - acceptability
-OT  - oximetry
-OT  - patient experience
-OT  - pulse oximetry
-OT  - remote monitoring
-OT  - usability
-OT  - user experience
-OT  - wearable device
-COIS- Conflicts of Interest: None declared.
-EDAT- 2023/08/03 19:14
-MHDA- 2023/09/06 06:42
-PMCR- 2023/09/05
-CRDT- 2023/08/03 14:53
-PHST- 2022/11/24 00:00 [received]
-PHST- 2023/07/31 00:00 [accepted]
-PHST- 2023/02/06 00:00 [revised]
-PHST- 2023/09/06 06:42 [medline]
-PHST- 2023/08/03 19:14 [pubmed]
-PHST- 2023/08/03 14:53 [entrez]
-PHST- 2023/09/05 00:00 [pmc-release]
-AID - v25i1e44540 [pii]
-AID - 10.2196/44540 [doi]
-PST - epublish
-SO  - J Med Internet Res. 2023 Sep 5;25:e44540. doi: 10.2196/44540.
-
 PMID- 35259670
 OWN - NLM
 STAT- MEDLINE
@@ -2508,6 +3009,93 @@ AID - 10.3389/fnins.2023.1220581 [doi]
 PST - epublish
 SO  - Front Neurosci. 2023 Sep 13;17:1220581. doi: 10.3389/fnins.2023.1220581. 
       eCollection 2023.
+
+PMID- 38142364
+OWN - NLM
+STAT- Publisher
+LR  - 20231224
+IS  - 1932-2968 (Electronic)
+IS  - 1932-2968 (Linking)
+DP  - 2023 Dec 24
+TI  - Design and Usability Assessment of a User-Centered, Modular Platform for 
+      Real-World Data Acquisition in Clinical Trials involving Post-bariatric Surgery 
+      Patients.
+PG  - 19322968231220061
+LID - 10.1177/19322968231220061 [doi]
+AB  - BACKGROUND: Clinical trials often face challenges in efficient data collection 
+      and participant monitoring. To address these issues, we developed the IMPACT 
+      platform, comprising a real-time mobile application for data collection and a 
+      web-based dashboard for remote monitoring and management. METHODS: This article 
+      presents the design, development, and usability assessment of the IMPACT platform 
+      customized for patients with post-bariatric surgery hypoglycemia (PBH). We focus 
+      on adapting key IMPACT components, including continuous glucose monitoring (CGM), 
+      symptom tracking, and meal logging, as crucial elements for user-friendly and 
+      efficient PBH monitoring. RESULTS: The adapted IMPACT platform demonstrated 
+      effectiveness in data collection and remote participant monitoring. The mobile 
+      application allowed patients to easily track their data, while the clinician 
+      dashboard provided a comprehensive overview of enrolled patients, featuring 
+      filtering options and alert mechanisms for identifying data collection issues. 
+      The platform incorporated various visual representations, including time plots 
+      and category-based visualizations, which greatly facilitated data interpretation 
+      and analysis. The System Usability Scale questionnaire results indicated a high 
+      level of usability for the web dashboard, with an average score of 86.3 out of 
+      100. The active involvement of clinicians throughout the development process 
+      ensured that the platform allowed for the collection and visualization of 
+      clinically meaningful data. CONCLUSIONS: By leveraging IMPACT's existing features 
+      and infrastructure, the adapted version streamlined data collection, analysis, 
+      and trial customization for PBH research. The platform's high usability 
+      underscores its alignment with the requirements for conducting research using 
+      continuous real-world data in PBH patients and other populations of interest.
+FAU - Cossu, Luca
+AU  - Cossu L
+AUID- ORCID: 0000-0002-8804-0722
+AD  - Department of Information Engineering, University of Padova, Padova, Italy.
+FAU - Cappon, Giacomo
+AU  - Cappon G
+AUID- ORCID: 0000-0003-4358-9268
+AD  - Department of Information Engineering, University of Padova, Padova, Italy.
+FAU - Streicher, Olivia
+AU  - Streicher O
+AD  - Inselspital, Bern University Hospital and University of Bern, Bern, Switzerland.
+FAU - Herzig, David
+AU  - Herzig D
+AD  - Inselspital, Bern University Hospital and University of Bern, Bern, Switzerland.
+FAU - Bally, Lia
+AU  - Bally L
+AUID- ORCID: 0000-0003-1993-7672
+AD  - Inselspital, Bern University Hospital and University of Bern, Bern, Switzerland.
+FAU - Facchinetti, Andrea
+AU  - Facchinetti A
+AUID- ORCID: 0000-0001-8041-2280
+AD  - Department of Information Engineering, University of Padova, Padova, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20231224
+PL  - United States
+TA  - J Diabetes Sci Technol
+JT  - Journal of diabetes science and technology
+JID - 101306166
+SB  - IM
+OTO - NOTNLM
+OT  - digital health
+OT  - health care technology
+OT  - health data visualization
+OT  - multidisciplinary collaboration
+OT  - user feedback
+OT  - user-centered design
+COIS- Declaration of Conflicting InterestsThe author(s) declared no potential conflicts 
+      of interest with respect to the research, authorship, and/or publication of this 
+      article.
+EDAT- 2023/12/24 12:41
+MHDA- 2023/12/24 12:41
+CRDT- 2023/12/24 07:48
+PHST- 2023/12/24 12:41 [medline]
+PHST- 2023/12/24 12:41 [pubmed]
+PHST- 2023/12/24 07:48 [entrez]
+AID - 10.1177/19322968231220061 [doi]
+PST - aheadofprint
+SO  - J Diabetes Sci Technol. 2023 Dec 24:19322968231220061. doi: 
+      10.1177/19322968231220061.
 
 PMID- 33739290
 OWN - NLM
@@ -3127,6 +3715,220 @@ AID - 10.2196/44442 [doi]
 PST - epublish
 SO  - JMIR Mhealth Uhealth. 2023 Jul 4;11:e44442. doi: 10.2196/44442.
 
+PMID- 35452246
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220511
+LR  - 20220705
+IS  - 1520-5827 (Electronic)
+IS  - 0743-7463 (Linking)
+VI  - 38
+IP  - 18
+DP  - 2022 May 10
+TI  - Porous Pure MXene Fibrous Network for Highly Sensitive Pressure Sensors.
+PG  - 5494-5501
+LID - 10.1021/acs.langmuir.2c00054 [doi]
+AB  - Wearable and elastic pressure sensors have caused widespread concern due to the 
+      popularity of smart terminals and human health monitoring. To obtain a flexible 
+      pressure sensor with a wide detection region and outstanding sensitivity, 
+      exploring new materials and novel structures has become the first choice for the 
+      research. Here, a wearable and flexible MXene fibrous network pressure sensor 
+      (MFNS) with a high sensitivity and wide detection region is reported. The 
+      holistic fiber network is composed of pure MXene fibers; among them, MXene fibers 
+      were prepared by wet-spinning of MXene nanosheets. The MFNS exhibits a high 
+      sensitivity in a wide detection region (51 kPa(-1) for 14.7 kPa and 427 kPa(-1) 
+      within the 14.7-19.9 kPa range), a low detection limit (8 Pa), a robust 
+      durability (10,000 cycles), and a prompt response (95 ms). Due to the superior 
+      performance of MFNS, it also proves prospective applications for human motion 
+      signal detection (such as swallowing, pulse beat, and joint motion) and measuring 
+      pressure distribution. This work provides an effective way to fabricate a 
+      high-performance pressure sensor for human-machine interactions, personal 
+      healthcare monitoring, and multitouch devices.
+FAU - Yu, Qitao
+AU  - Yu Q
+AD  - Information Materials and Intelligent Sensing Laboratory of Anhui Province, 
+      School of Integrated Circuits, Anhui University, No. 111 Jiulong Road, Hefei 
+      230601, Anhui Province, People's Republic of China.
+AD  - Industry-Education-Research Institute of Advanced Materials and Technology for 
+      Integrated Circuits, School of Integrated Circuits, Anhui University, No. 111 
+      Jiulong Road, Hefei 230601, Anhui Province, People's Republic of China.
+FAU - Zhao, Bingtian
+AU  - Zhao B
+AD  - Information Materials and Intelligent Sensing Laboratory of Anhui Province, 
+      School of Integrated Circuits, Anhui University, No. 111 Jiulong Road, Hefei 
+      230601, Anhui Province, People's Republic of China.
+AD  - Industry-Education-Research Institute of Advanced Materials and Technology for 
+      Integrated Circuits, School of Integrated Circuits, Anhui University, No. 111 
+      Jiulong Road, Hefei 230601, Anhui Province, People's Republic of China.
+FAU - Ren, Xingang
+AU  - Ren X
+AUID- ORCID: 0000-0002-4383-182X
+AD  - Information Materials and Intelligent Sensing Laboratory of Anhui Province, 
+      School of Integrated Circuits, Anhui University, No. 111 Jiulong Road, Hefei 
+      230601, Anhui Province, People's Republic of China.
+AD  - Industry-Education-Research Institute of Advanced Materials and Technology for 
+      Integrated Circuits, School of Integrated Circuits, Anhui University, No. 111 
+      Jiulong Road, Hefei 230601, Anhui Province, People's Republic of China.
+FAU - Zhu, Cuijie
+AU  - Zhu C
+AD  - Information Materials and Intelligent Sensing Laboratory of Anhui Province, 
+      School of Integrated Circuits, Anhui University, No. 111 Jiulong Road, Hefei 
+      230601, Anhui Province, People's Republic of China.
+AD  - Industry-Education-Research Institute of Advanced Materials and Technology for 
+      Integrated Circuits, School of Integrated Circuits, Anhui University, No. 111 
+      Jiulong Road, Hefei 230601, Anhui Province, People's Republic of China.
+FAU - Wang, Qiang
+AU  - Wang Q
+AD  - Industry-Education-Research Institute of Advanced Materials and Technology for 
+      Integrated Circuits, School of Integrated Circuits, Anhui University, No. 111 
+      Jiulong Road, Hefei 230601, Anhui Province, People's Republic of China.
+FAU - Lin, Yang
+AU  - Lin Y
+AD  - Industry-Education-Research Institute of Advanced Materials and Technology for 
+      Integrated Circuits, School of Integrated Circuits, Anhui University, No. 111 
+      Jiulong Road, Hefei 230601, Anhui Province, People's Republic of China.
+FAU - Zeng, Wei
+AU  - Zeng W
+AUID- ORCID: 0000-0002-0140-0773
+AD  - Information Materials and Intelligent Sensing Laboratory of Anhui Province, 
+      School of Integrated Circuits, Anhui University, No. 111 Jiulong Road, Hefei 
+      230601, Anhui Province, People's Republic of China.
+AD  - Industry-Education-Research Institute of Advanced Materials and Technology for 
+      Integrated Circuits, School of Integrated Circuits, Anhui University, No. 111 
+      Jiulong Road, Hefei 230601, Anhui Province, People's Republic of China.
+FAU - Chen, Zhiliang
+AU  - Chen Z
+AD  - Information Materials and Intelligent Sensing Laboratory of Anhui Province, 
+      School of Integrated Circuits, Anhui University, No. 111 Jiulong Road, Hefei 
+      230601, Anhui Province, People's Republic of China.
+AD  - Industry-Education-Research Institute of Advanced Materials and Technology for 
+      Integrated Circuits, School of Integrated Circuits, Anhui University, No. 111 
+      Jiulong Road, Hefei 230601, Anhui Province, People's Republic of China.
+FAU - Wang, Siliang
+AU  - Wang S
+AUID- ORCID: 0000-0003-0738-9197
+AD  - Information Materials and Intelligent Sensing Laboratory of Anhui Province, 
+      School of Integrated Circuits, Anhui University, No. 111 Jiulong Road, Hefei 
+      230601, Anhui Province, People's Republic of China.
+AD  - Industry-Education-Research Institute of Advanced Materials and Technology for 
+      Integrated Circuits, School of Integrated Circuits, Anhui University, No. 111 
+      Jiulong Road, Hefei 230601, Anhui Province, People's Republic of China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220422
+PL  - United States
+TA  - Langmuir
+JT  - Langmuir : the ACS journal of surfaces and colloids
+JID - 9882736
+SB  - IM
+MH  - Humans
+MH  - Motion
+MH  - Porosity
+MH  - *Wearable Electronic Devices
+EDAT- 2022/04/23 06:00
+MHDA- 2022/05/12 06:00
+CRDT- 2022/04/22 17:11
+PHST- 2022/04/23 06:00 [pubmed]
+PHST- 2022/05/12 06:00 [medline]
+PHST- 2022/04/22 17:11 [entrez]
+AID - 10.1021/acs.langmuir.2c00054 [doi]
+PST - ppublish
+SO  - Langmuir. 2022 May 10;38(18):5494-5501. doi: 10.1021/acs.langmuir.2c00054. Epub 
+      2022 Apr 22.
+
+PMID- 38331574
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240223
+LR  - 20240223
+IS  - 1944-8252 (Electronic)
+IS  - 1944-8244 (Linking)
+VI  - 16
+IP  - 7
+DP  - 2024 Feb 21
+TI  - Machine Learning-Enabled Environmentally Adaptable Skin-Electronic Sensor for 
+      Human Gesture Recognition.
+PG  - 9551-9560
+LID - 10.1021/acsami.3c18588 [doi]
+AB  - Stretchable sensors have been widely investigated and developed for the purpose 
+      of human motion detection, touch sensors, and healthcare monitoring, typically 
+      converting mechanical/structural deformation into electrical signals. The 
+      viscoelastic strain of stretchable materials often results in nonlinear 
+      stress-strain characteristics over a broad range of strains, consequently making 
+      the stretchable sensors at the body joints less accurate in predicting and 
+      recognizing human gestures. Accurate recognition of human gestures can be further 
+      deteriorated by environmental changes such as temperature and humidity. Here, we 
+      demonstrated an environment-adaptable high stress-strain linearity (up to ε = 
+      150%) and high-durability (>100,000 cycles) stretchable sensor conformally 
+      laminated onto the body joints for human gesture recognition. The serpentine 
+      configuration of our ionic liquid-based stretchable film enabled us to construct 
+      broad data sets of mechanical strain and temperature changes for machine 
+      learning-based gesture recognition. Signal recognition and training of distinct 
+      strains and environmental stimuli using a machine learning-based algorithm 
+      analysis successfully measured and predicted the joint motion in a 
+      temperature-changing environment with an accuracy of 92.86% (R-squared). 
+      Therefore, we believe that our serpentine-shaped ion gel-based stretchable sensor 
+      harmonized with machine-learning analysis will be a significant achievement 
+      toward environmentally adaptive and multianalyte sensing applications. Our 
+      proposed machine learning-enabled multisensor system may enable the development 
+      of future electronic devices such as wearable electronics, soft robotics, 
+      electronic skin, and human-machine interaction systems.
+FAU - Song, Yongjun
+AU  - Song Y
+AUID- ORCID: 0000-0001-7259-2664
+AD  - Department of Photonics and Nanoelectronics, Hanyang University, Ansan 15588, 
+      Republic of Korea.
+AD  - BK21 FOUR ERICA-ACE Center, Hanyang University, Ansan 15588, Republic of Korea.
+FAU - Nguyen, Thi Huyen
+AU  - Nguyen TH
+AUID- ORCID: 0000-0002-0935-4601
+AD  - Department of Photonics and Nanoelectronics, Hanyang University, Ansan 15588, 
+      Republic of Korea.
+AD  - BK21 FOUR ERICA-ACE Center, Hanyang University, Ansan 15588, Republic of Korea.
+FAU - Lee, Dawoon
+AU  - Lee D
+AUID- ORCID: 0000-0003-4386-9278
+AD  - Department of Photonics and Nanoelectronics, Hanyang University, Ansan 15588, 
+      Republic of Korea.
+AD  - BK21 FOUR ERICA-ACE Center, Hanyang University, Ansan 15588, Republic of Korea.
+FAU - Kim, Jaekyun
+AU  - Kim J
+AUID- ORCID: 0000-0001-9726-8166
+AD  - Department of Photonics and Nanoelectronics, Hanyang University, Ansan 15588, 
+      Republic of Korea.
+AD  - BK21 FOUR ERICA-ACE Center, Hanyang University, Ansan 15588, Republic of Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20240208
+PL  - United States
+TA  - ACS Appl Mater Interfaces
+JT  - ACS applied materials & interfaces
+JID - 101504991
+SB  - IM
+MH  - Humans
+MH  - Gestures
+MH  - *Wearable Electronic Devices
+MH  - Motion
+MH  - Electronics
+MH  - *Robotics
+OTO - NOTNLM
+OT  - environmental sensing
+OT  - human gesture sensor
+OT  - ion gel-based elastomer
+OT  - machine learning
+OT  - stretchable electronic sensor
+EDAT- 2024/02/09 00:42
+MHDA- 2024/02/23 06:42
+CRDT- 2024/02/08 21:22
+PHST- 2024/02/23 06:42 [medline]
+PHST- 2024/02/09 00:42 [pubmed]
+PHST- 2024/02/08 21:22 [entrez]
+AID - 10.1021/acsami.3c18588 [doi]
+PST - ppublish
+SO  - ACS Appl Mater Interfaces. 2024 Feb 21;16(7):9551-9560. doi: 
+      10.1021/acsami.3c18588. Epub 2024 Feb 8.
+
 PMID- 37006505
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -3615,6 +4417,93 @@ AID - v5i12e28628 [pii]
 AID - 10.2196/28628 [doi]
 PST - epublish
 SO  - JMIR Form Res. 2021 Dec 2;5(12):e28628. doi: 10.2196/28628.
+
+PMID- 35161507
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220216
+LR  - 20220219
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 22
+IP  - 3
+DP  - 2022 Jan 19
+TI  - Neural Network-Enabled Flexible Pressure and Temperature Sensor with 
+      Honeycomb-like Architecture for Voice Recognition.
+LID - 10.3390/s22030759 [doi]
+LID - 759
+AB  - Flexible pressure sensors have been studied as wearable voice-recognition devices 
+      to be utilized in human-machine interaction. However, the development of highly 
+      sensitive, skin-attachable, and comfortable sensing devices to achieve clear 
+      voice detection remains a considerable challenge. Herein, we present a wearable 
+      and flexible pressure and temperature sensor with a sensitive response to 
+      vibration, which can accurately recognize the human voice by combing with the 
+      artificial neural network. The device consists of a polyethylene terephthalate 
+      (PET) printed with a silver electrode, a filament-microstructured 
+      polydimethylsiloxane (PDMS) film embedded with single-walled carbon nanotubes and 
+      a polyimide (PI) film sputtered with a patterned Ti/Pt thermistor strip. The 
+      developed pressure sensor exhibited a pressure sensitivity of 0.398 kPa-1 in the 
+      low-pressure regime, and the fabricated temperature sensor shows a desirable 
+      temperature coefficient of resistance of 0.13% ∘C in the range of 25 ∘C to 105 
+      ∘C. Through training and testing the neural network model with the waveform data 
+      of the sensor obtained from human pronunciation, the vocal fold vibrations of 
+      different words can be successfully recognized, and the total recognition 
+      accuracy rate can reach 93.4%. Our results suggest that the fabricated sensor has 
+      substantial potential for application in the human-computer interface fields, 
+      such as voice control, vocal healthcare monitoring, and voice authentication.
+FAU - Su, Yue
+AU  - Su Y
+AD  - Institute of Semiconductors, Chinese Academy of Sciences, Beijing 100083, China.
+FAU - Ma, Kainan
+AU  - Ma K
+AUID- ORCID: 0000-0002-1379-591X
+AD  - Institute of Semiconductors, Chinese Academy of Sciences, Beijing 100083, China.
+FAU - Zhang, Xu
+AU  - Zhang X
+AD  - Institute of Semiconductors, Chinese Academy of Sciences, Beijing 100083, China.
+FAU - Liu, Ming
+AU  - Liu M
+AD  - Institute of Semiconductors, Chinese Academy of Sciences, Beijing 100083, China.
+LA  - eng
+GR  - QYZDY-SSW-JSC004/Key Research Program of Frontier Science, Chinese Academy of 
+      Sciences/
+PT  - Journal Article
+DEP - 20220119
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+RN  - 0 (Nanotubes, Carbon)
+SB  - IM
+MH  - Humans
+MH  - *Nanotubes, Carbon
+MH  - Neural Networks, Computer
+MH  - Temperature
+MH  - Voice Recognition
+MH  - *Wearable Electronic Devices
+PMC - PMC8840666
+OTO - NOTNLM
+OT  - artificial neural network
+OT  - filament-microstructured
+OT  - flexible pressure and temperature sensor
+OT  - voice-recognition
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/02/16 06:00
+MHDA- 2022/02/17 06:00
+PMCR- 2022/01/19
+CRDT- 2022/02/15 01:11
+PHST- 2021/12/08 00:00 [received]
+PHST- 2022/01/11 00:00 [revised]
+PHST- 2022/01/17 00:00 [accepted]
+PHST- 2022/02/15 01:11 [entrez]
+PHST- 2022/02/16 06:00 [pubmed]
+PHST- 2022/02/17 06:00 [medline]
+PHST- 2022/01/19 00:00 [pmc-release]
+AID - s22030759 [pii]
+AID - sensors-22-00759 [pii]
+AID - 10.3390/s22030759 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2022 Jan 19;22(3):759. doi: 10.3390/s22030759.
 
 PMID- 32579124
 OWN - NLM
@@ -4180,93 +5069,6 @@ AID - v7i1e51507 [pii]
 AID - 10.2196/51507 [doi]
 PST - epublish
 SO  - JMIR Form Res. 2023 Nov 24;7:e51507. doi: 10.2196/51507.
-
-PMID- 35161507
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20220216
-LR  - 20220219
-IS  - 1424-8220 (Electronic)
-IS  - 1424-8220 (Linking)
-VI  - 22
-IP  - 3
-DP  - 2022 Jan 19
-TI  - Neural Network-Enabled Flexible Pressure and Temperature Sensor with 
-      Honeycomb-like Architecture for Voice Recognition.
-LID - 10.3390/s22030759 [doi]
-LID - 759
-AB  - Flexible pressure sensors have been studied as wearable voice-recognition devices 
-      to be utilized in human-machine interaction. However, the development of highly 
-      sensitive, skin-attachable, and comfortable sensing devices to achieve clear 
-      voice detection remains a considerable challenge. Herein, we present a wearable 
-      and flexible pressure and temperature sensor with a sensitive response to 
-      vibration, which can accurately recognize the human voice by combing with the 
-      artificial neural network. The device consists of a polyethylene terephthalate 
-      (PET) printed with a silver electrode, a filament-microstructured 
-      polydimethylsiloxane (PDMS) film embedded with single-walled carbon nanotubes and 
-      a polyimide (PI) film sputtered with a patterned Ti/Pt thermistor strip. The 
-      developed pressure sensor exhibited a pressure sensitivity of 0.398 kPa-1 in the 
-      low-pressure regime, and the fabricated temperature sensor shows a desirable 
-      temperature coefficient of resistance of 0.13% ∘C in the range of 25 ∘C to 105 
-      ∘C. Through training and testing the neural network model with the waveform data 
-      of the sensor obtained from human pronunciation, the vocal fold vibrations of 
-      different words can be successfully recognized, and the total recognition 
-      accuracy rate can reach 93.4%. Our results suggest that the fabricated sensor has 
-      substantial potential for application in the human-computer interface fields, 
-      such as voice control, vocal healthcare monitoring, and voice authentication.
-FAU - Su, Yue
-AU  - Su Y
-AD  - Institute of Semiconductors, Chinese Academy of Sciences, Beijing 100083, China.
-FAU - Ma, Kainan
-AU  - Ma K
-AUID- ORCID: 0000-0002-1379-591X
-AD  - Institute of Semiconductors, Chinese Academy of Sciences, Beijing 100083, China.
-FAU - Zhang, Xu
-AU  - Zhang X
-AD  - Institute of Semiconductors, Chinese Academy of Sciences, Beijing 100083, China.
-FAU - Liu, Ming
-AU  - Liu M
-AD  - Institute of Semiconductors, Chinese Academy of Sciences, Beijing 100083, China.
-LA  - eng
-GR  - QYZDY-SSW-JSC004/Key Research Program of Frontier Science, Chinese Academy of 
-      Sciences/
-PT  - Journal Article
-DEP - 20220119
-PL  - Switzerland
-TA  - Sensors (Basel)
-JT  - Sensors (Basel, Switzerland)
-JID - 101204366
-RN  - 0 (Nanotubes, Carbon)
-SB  - IM
-MH  - Humans
-MH  - *Nanotubes, Carbon
-MH  - Neural Networks, Computer
-MH  - Temperature
-MH  - Voice Recognition
-MH  - *Wearable Electronic Devices
-PMC - PMC8840666
-OTO - NOTNLM
-OT  - artificial neural network
-OT  - filament-microstructured
-OT  - flexible pressure and temperature sensor
-OT  - voice-recognition
-COIS- The authors declare no conflict of interest.
-EDAT- 2022/02/16 06:00
-MHDA- 2022/02/17 06:00
-PMCR- 2022/01/19
-CRDT- 2022/02/15 01:11
-PHST- 2021/12/08 00:00 [received]
-PHST- 2022/01/11 00:00 [revised]
-PHST- 2022/01/17 00:00 [accepted]
-PHST- 2022/02/15 01:11 [entrez]
-PHST- 2022/02/16 06:00 [pubmed]
-PHST- 2022/02/17 06:00 [medline]
-PHST- 2022/01/19 00:00 [pmc-release]
-AID - s22030759 [pii]
-AID - sensors-22-00759 [pii]
-AID - 10.3390/s22030759 [doi]
-PST - epublish
-SO  - Sensors (Basel). 2022 Jan 19;22(3):759. doi: 10.3390/s22030759.
 
 PMID- 35207351
 OWN - NLM
@@ -4949,6 +5751,129 @@ PST - epublish
 SO  - Front Endocrinol (Lausanne). 2023 Aug 24;14:1214975. doi: 
       10.3389/fendo.2023.1214975. eCollection 2023.
 
+PMID- 38140748
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240314
+LR  - 20240828
+IS  - 2198-3844 (Electronic)
+IS  - 2198-3844 (Linking)
+VI  - 11
+IP  - 10
+DP  - 2024 Mar
+TI  - Flexible Bioinspired Healable Antibacterial Electronics for Intelligent 
+      Human-Machine Interaction Sensing.
+PG  - e2305672
+LID - 10.1002/advs.202305672 [doi]
+LID - 2305672
+AB  - Flexible electronic sensors are receiving numerous research interests for their 
+      potential in electronic skins (e-skins), wearable human-machine interfacing, and 
+      smart diagnostic healthcare sensing. However, the preparation of multifunctional 
+      flexible electronics with high sensitivity, broad sensing range, fast response, 
+      efficient healability, and reliable antibacterial capability is still a 
+      substantial challenge. Herein, bioinspired by the highly sensitive human skin 
+      microstructure (protective epidermis/spinous sensing structure/nerve conduction 
+      network), a skin bionic multifunctional electronics is prepared by face-to-face 
+      assembly of a newly prepared healable, recyclable, and antibacterial polyurethane 
+      elastomer matrix with conductive MXene nanosheets-coated microdome array after 
+      ingenious templating method as protective epidermis layer/sensing layer, and an 
+      interdigitated electrode as signal transmission layer. The polyurethane elastomer 
+      matrix functionalized with triple dynamic bonds (reversible hydrogen bonds, oxime 
+      carbamate bonds, and copper (II) ion coordination bonds) is newly prepared, 
+      demonstrating excellent healability with highly healing efficiency, robust 
+      recyclability, and reliable antibacterial capability, as well as good 
+      biocompatibility. Benefiting from the superior mechanical performance of the 
+      polyurethane elastomer matrix and the unique skin bionic microstructure of the 
+      sensor, the as-assembled flexible electronics exhibit admirable sensing 
+      performances featuring ultrahigh sensitivity (up to 1573.05 kPa(-1) ), broad 
+      sensing range (up to 325 kPa), good reproducibility, the fast response time 
+      (≈4 ms), and low detection limit (≈0.98 Pa) in diagnostic human healthcare 
+      monitoring, excellent healability, and reliable antibacterial performance.
+CI  - © 2023 The Authors. Advanced Science published by Wiley-VCH GmbH.
+FAU - Liu, Kuo
+AU  - Liu K
+AD  - College of Materials Science and Engineering, State Key Laboratory of 
+      Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing, 
+      100029, China.
+FAU - Wang, Mingcheng
+AU  - Wang M
+AD  - College of Materials Science and Engineering, State Key Laboratory of 
+      Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing, 
+      100029, China.
+FAU - Huang, Chenlin
+AU  - Huang C
+AD  - College of Materials Science and Engineering, State Key Laboratory of 
+      Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing, 
+      100029, China.
+FAU - Yuan, Yue
+AU  - Yuan Y
+AD  - College of Materials Science and Engineering, State Key Laboratory of 
+      Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing, 
+      100029, China.
+FAU - Ning, Yao
+AU  - Ning Y
+AD  - College of Materials Science and Engineering, State Key Laboratory of 
+      Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing, 
+      100029, China.
+FAU - Zhang, Liqun
+AU  - Zhang L
+AD  - College of Materials Science and Engineering, State Key Laboratory of 
+      Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing, 
+      100029, China.
+FAU - Wan, Pengbo
+AU  - Wan P
+AUID- ORCID: 0000-0001-8178-4262
+AD  - College of Materials Science and Engineering, State Key Laboratory of 
+      Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing, 
+      100029, China.
+LA  - eng
+GR  - 51973008/National Natural Science Foundation of China/
+GR  - 52222303/National Natural Science Foundation of China/
+GR  - 2202042/Beijing Natural Science Foundation/
+GR  - XK2022-03/Joint Project of BRC-BC (Biomedical Translational Engineering Research 
+      Center of BUCT-CJFH)/
+GR  - Fundamental Research Funds for the Central Universities/
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20231222
+PL  - Germany
+TA  - Adv Sci (Weinh)
+JT  - Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+JID - 101664569
+RN  - 0 (Polyurethanes)
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Elastomers)
+SB  - IM
+MH  - Humans
+MH  - *Polyurethanes
+MH  - Reproducibility of Results
+MH  - *Electronics
+MH  - Anti-Bacterial Agents
+MH  - Elastomers
+PMC - PMC10933681
+OTO - NOTNLM
+OT  - MXene
+OT  - healable antibacterial elastomer
+OT  - intelligent human-machine interface
+OT  - skin bionic flexible electronics
+OT  - wearable ultrasensitive diagnostic healthcare sensing
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/12/23 12:42
+MHDA- 2024/03/14 06:47
+PMCR- 2023/12/22
+CRDT- 2023/12/23 02:54
+PHST- 2023/10/04 00:00 [revised]
+PHST- 2023/08/14 00:00 [received]
+PHST- 2024/03/14 06:47 [medline]
+PHST- 2023/12/23 12:42 [pubmed]
+PHST- 2023/12/23 02:54 [entrez]
+PHST- 2023/12/22 00:00 [pmc-release]
+AID - ADVS6856 [pii]
+AID - 10.1002/advs.202305672 [doi]
+PST - ppublish
+SO  - Adv Sci (Weinh). 2024 Mar;11(10):e2305672. doi: 10.1002/advs.202305672. Epub 2023 
+      Dec 22.
+
 PMID- 36282558
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -5312,6 +6237,92 @@ AID - v7i1e46866 [pii]
 AID - 10.2196/46866 [doi]
 PST - epublish
 SO  - JMIR Form Res. 2023 Dec 5;7:e46866. doi: 10.2196/46866.
+
+PMID- 35869398
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230103
+IS  - 2150-5551 (Electronic)
+IS  - 2311-6706 (Print)
+IS  - 2150-5551 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2022 Jul 22
+TI  - Multifunctional Flexible Humidity Sensor Systems Towards Noncontact Wearable 
+      Electronics.
+PG  - 150
+LID - 10.1007/s40820-022-00895-5 [doi]
+LID - 150
+AB  - In the past decade, the global industry and research attentions on intelligent 
+      skin-like electronics have boosted their applications in diverse fields including 
+      human healthcare, Internet of Things, human-machine interfaces, artificial 
+      intelligence and soft robotics. Among them, flexible humidity sensors play a 
+      vital role in noncontact measurements relying on the unique property of rapid 
+      response to humidity change. This work presents an overview of recent advances in 
+      flexible humidity sensors using various active functional materials for 
+      contactless monitoring. Four categories of humidity sensors are highlighted based 
+      on resistive, capacitive, impedance-type and voltage-type working mechanisms. 
+      Furthermore, typical strategies including chemical doping, structural design and 
+      Joule heating are introduced to enhance the performance of humidity sensors. 
+      Drawing on the noncontact perception capability, human/plant healthcare 
+      management, human-machine interactions as well as integrated humidity 
+      sensor-based feedback systems are presented. The burgeoning innovations in this 
+      research field will benefit human society, especially during the COVID-19 
+      epidemic, where cross-infection should be averted and contactless sensation is 
+      highly desired.
+CI  - © 2022. The Author(s).
+FAU - Lu, Yuyao
+AU  - Lu Y
+AD  - State Key Laboratory of Fluid Power and Mechatronic Systems, School of Mechanical 
+      Engineering, Zhejiang University, Hangzhou, 310027, People's Republic of China.
+FAU - Yang, Geng
+AU  - Yang G
+AD  - State Key Laboratory of Fluid Power and Mechatronic Systems, School of Mechanical 
+      Engineering, Zhejiang University, Hangzhou, 310027, People's Republic of China. 
+      yanggeng@zju.edu.cn.
+FAU - Shen, Yajing
+AU  - Shen Y
+AD  - Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, 
+      People's Republic of China.
+FAU - Yang, Huayong
+AU  - Yang H
+AD  - State Key Laboratory of Fluid Power and Mechatronic Systems, School of Mechanical 
+      Engineering, Zhejiang University, Hangzhou, 310027, People's Republic of China.
+FAU - Xu, Kaichen
+AU  - Xu K
+AD  - State Key Laboratory of Fluid Power and Mechatronic Systems, School of Mechanical 
+      Engineering, Zhejiang University, Hangzhou, 310027, People's Republic of China. 
+      xukc@zju.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20220722
+PL  - Germany
+TA  - Nanomicro Lett
+JT  - Nano-micro letters
+JID - 101727940
+PMC - PMC9307709
+OTO - NOTNLM
+OT  - COVID-19 epidemic
+OT  - Flexible electronics
+OT  - Flexible humidity sensors
+OT  - Healthcare monitoring
+OT  - Human–machine interactions
+OT  - Noncontact detection
+EDAT- 2022/07/23 06:00
+MHDA- 2022/07/23 06:01
+PMCR- 2022/07/22
+CRDT- 2022/07/22 23:38
+PHST- 2022/05/04 00:00 [received]
+PHST- 2022/06/02 00:00 [accepted]
+PHST- 2022/07/22 23:38 [entrez]
+PHST- 2022/07/23 06:00 [pubmed]
+PHST- 2022/07/23 06:01 [medline]
+PHST- 2022/07/22 00:00 [pmc-release]
+AID - 10.1007/s40820-022-00895-5 [pii]
+AID - 895 [pii]
+AID - 10.1007/s40820-022-00895-5 [doi]
+PST - epublish
+SO  - Nanomicro Lett. 2022 Jul 22;14(1):150. doi: 10.1007/s40820-022-00895-5.
 
 PMID- 34502645
 OWN - NLM
@@ -5684,6 +6695,123 @@ AID - 10.2196/27271 [doi]
 PST - epublish
 SO  - JMIR Res Protoc. 2021 May 26;10(5):e27271. doi: 10.2196/27271.
 
+PMID- 38566533
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240816
+LR  - 20240816
+IS  - 1613-6829 (Electronic)
+IS  - 1613-6810 (Linking)
+VI  - 20
+IP  - 33
+DP  - 2024 Aug
+TI  - Skin-Inspired Textile Electronics Enable Ultrasensitive Pressure Sensing.
+PG  - e2310032
+LID - 10.1002/smll.202310032 [doi]
+AB  - Wearable pressure sensors have attracted great interest due to their potential 
+      applications in healthcare monitoring and human-machine interaction. However, it 
+      is still a critical challenge to simultaneously achieve high sensitivity, low 
+      detection limit, fast response, and outstanding breathability for wearable 
+      electronics due to the difficulty in constructing microstructure on a porous 
+      substrate. Inspired by the spinosum microstructure of human skin for 
+      highly-sensitive tactile perception, a biomimetic flexible pressure sensor is 
+      designed and fabricated by assembling MXene-based sensing electrode and 
+      MXene-based interdigitated electrode. The product biomimetic sensor exhibits good 
+      flexibility and suitable air permeability (165.6 mm s(-1)), comparable to the 
+      typical air permeable garments. Benefiting from the two-stage amplification 
+      effect of the bionic intermittent structure, the product bionic sensor exhibits 
+      an ultrahigh sensitivity (1368.9 kPa(-1)), ultrafast response (20 ms), low 
+      detection limit (1 Pa), and high-linearity response (R(2) = 0.997) across the 
+      entire sensing range. Moreover, the pressure sensor can detect a wide range of 
+      human motion in real-time through intimate skin contact, providing essential data 
+      for biomedical monitoring and personal medical diagnosis. This principle lays a 
+      foundation for the development of human skin-like high-sensitivity, fast-response 
+      tactile sensors.
+CI  - © 2024 Wiley‐VCH GmbH.
+FAU - Zheng, Xianhong
+AU  - Zheng X
+AUID- ORCID: 0000-0002-4811-810X
+AD  - School of Textile and Garment, Anhui Polytechnic University, Wuhu, Anhui, 241000, 
+      China.
+FAU - Zhou, Dashuang
+AU  - Zhou D
+AD  - School of Mechanical Engineering and Rail Transit, Changzhou University, 
+      Changzhou, 213164, China.
+FAU - Liu, Zhi
+AU  - Liu Z
+AD  - School of Textile and Garment, Anhui Polytechnic University, Wuhu, Anhui, 241000, 
+      China.
+FAU - Hong, Xinghua
+AU  - Hong X
+AD  - Key Laboratory of Intelligent Textile and Flexible Interconnection of Zhejiang 
+      Province, Zhejiang Sci-Tech University, Hangzhou, Zhejiang Province, 310018, 
+      China.
+FAU - Li, Changlong
+AU  - Li C
+AD  - School of Textile and Garment, Anhui Polytechnic University, Wuhu, Anhui, 241000, 
+      China.
+FAU - Ge, Shanhai
+AU  - Ge S
+AUID- ORCID: 0000-0003-2882-1276
+AD  - Department of Mechanical Engineering, The Pennsylvania State University, 
+      University Park, PA, 16802, USA.
+FAU - Cao, Wentao
+AU  - Cao W
+AD  - Department of Prosthodontics, Shanghai Stomatological Hospital & School of 
+      Stomatology, Fudan University, Shanghai, 201102, China.
+LA  - eng
+GR  - 52303051/National Natural Science Foundation of China/
+GR  - 52202108/National Natural Science Foundation of China/
+GR  - 52003002/National Natural Science Foundation of China/
+GR  - 51803185/National Natural Science Foundation of China/
+GR  - 2308085ME146/Anhui Provincial Natural Science Foundation/
+GR  - 2008085QE213/Anhui Provincial Natural Science Foundation/
+GR  - 2208085QE141/Anhui Provincial Natural Science Foundation/
+GR  - 2022AH040137/Educational Commission of Anhui Province of China/
+GR  - 22120210582/Fundamental Research Funds for the Central Universities/
+GR  - ZD04/Key Laboratory of Intelligent Textile and Flexible Interconnection of 
+      Zhejiang Province/
+GR  - SDHY2227/Opening Fund of China National Textile and Apparel Council Key 
+      Laboratory of Flexible Devices for Intelligent Textile and Apparel, Soochow 
+      University/
+GR  - 2020YQQ002/Anhui Polytechnic University/
+GR  - Xjky2022070/Anhui Polytechnic University/
+GR  - FFBK202218/Anhui Polytechnic University/
+GR  - FFBK202363/Anhui Polytechnic University/
+GR  - FFBK202364/Anhui Polytechnic University/
+GR  - 2020ffky01/Anhui Polytechnic University/
+PT  - Journal Article
+DEP - 20240402
+PL  - Germany
+TA  - Small
+JT  - Small (Weinheim an der Bergstrasse, Germany)
+JID - 101235338
+SB  - IM
+MH  - *Textiles
+MH  - Humans
+MH  - *Wearable Electronic Devices
+MH  - *Pressure
+MH  - Skin
+MH  - Electronics
+MH  - Electrodes
+OTO - NOTNLM
+OT  - MXene
+OT  - flexible
+OT  - pressure sensor
+OT  - skin‐inspired
+OT  - textile
+EDAT- 2024/04/03 06:44
+MHDA- 2024/08/16 06:42
+CRDT- 2024/04/03 03:03
+PHST- 2024/03/16 00:00 [revised]
+PHST- 2023/11/03 00:00 [received]
+PHST- 2024/08/16 06:42 [medline]
+PHST- 2024/04/03 06:44 [pubmed]
+PHST- 2024/04/03 03:03 [entrez]
+AID - 10.1002/smll.202310032 [doi]
+PST - ppublish
+SO  - Small. 2024 Aug;20(33):e2310032. doi: 10.1002/smll.202310032. Epub 2024 Apr 2.
+
 PMID- 30794009
 OWN - NLM
 STAT- MEDLINE
@@ -5768,6 +6896,112 @@ AID - 10.1080/17483107.2019.1578998 [doi]
 PST - ppublish
 SO  - Disabil Rehabil Assist Technol. 2020 Apr;15(3):271-281. doi: 
       10.1080/17483107.2019.1578998. Epub 2019 Feb 22.
+
+PMID- 35312286
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221111
+LR  - 20221222
+IS  - 1936-086X (Electronic)
+IS  - 1936-0851 (Linking)
+VI  - 16
+IP  - 4
+DP  - 2022 Apr 26
+TI  - A Self-Supporting, Conductor-Exposing, Stretchable, Ultrathin, and Recyclable 
+      Kirigami-Structured Liquid Metal Paper for Multifunctional E-Skin.
+PG  - 5909-5919
+LID - 10.1021/acsnano.1c11096 [doi]
+AB  - Electronic skin (E-skin) is a crucial seamless human-machine interface (HMI), 
+      holding promise in healthcare monitoring and personal electronics. Liquid metal 
+      (LM) has been recognized as an ideal electrode material to fabricate E-skins. 
+      However, conventional sealed LM electrodes cannot expose the LM layer for direct 
+      contact with the skin resulting in the low performance of electrophysiological 
+      monitoring. Furthermore, traditional printed LM electrodes are difficult to 
+      transfer or recycle, and fractures easily occur under stretching of the 
+      substrate. Here, we report a kind of LM electrode that we call a 
+      kirigami-structured LM paper (KLP), which is self-supporting, conductor-exposing, 
+      stretchable, ultrathin, and recyclable for multifunctional E-skin. The KLP is 
+      fabricated by the kirigami paper cutting art with three types of structures 
+      including uniaxial, biaxial, and square spiral. The KLP can act as an E-skin to 
+      acquire high-quality electrophysiological signals, such as electroencephalogram 
+      (EEG), electrocardiogram (ECG), and electromyogram (EMG). Upon integration with a 
+      triboelectric nanogenerator (TENG), the KLP can also operate as a self-powered 
+      E-skin. On the basis of the self-powered E-skin, we further developed a smart 
+      dialing communication system, which is applied on human skin to call a cellphone. 
+      Compared with conventional sealed or printed LM electrodes, the KLP can 
+      simultaneously achieve self-supporting, conductor-exposing, stretchable, 
+      ultrathin, and recyclable features. Such KLP offers potential for E-skins in 
+      healthcare monitoring and intelligent control, as well as smart robots, virtual 
+      reality, on-skin personal electronics, etc.
+FAU - Li, Xing
+AU  - Li X
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Zhu, Pengcheng
+AU  - Zhu P
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Zhang, Shichuan
+AU  - Zhang S
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Wang, Xiangcheng
+AU  - Wang X
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Luo, Xuepeng
+AU  - Luo X
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Leng, Ziwei
+AU  - Leng Z
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Zhou, Hao
+AU  - Zhou H
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Pan, Zhifeng
+AU  - Pan Z
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+FAU - Mao, Yanchao
+AU  - Mao Y
+AUID- ORCID: 0000-0002-3436-633X
+AD  - Key Laboratory of Materials Physics, Ministry of Education, School of Physics and 
+      Microelectronics, Zhengzhou University, Zhengzhou 450001, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220321
+PL  - United States
+TA  - ACS Nano
+JT  - ACS nano
+JID - 101313589
+RN  - 0 (Metals)
+SB  - IM
+MH  - Humans
+MH  - *Wearable Electronic Devices
+MH  - Electronics
+MH  - Electrodes
+MH  - Metals
+MH  - Skin
+OTO - NOTNLM
+OT  - electronic skin
+OT  - electrophysiological monitoring
+OT  - kirigami
+OT  - liquid metal electrode
+OT  - self-powered
+EDAT- 2022/03/22 06:00
+MHDA- 2022/11/15 06:00
+CRDT- 2022/03/21 17:16
+PHST- 2022/03/22 06:00 [pubmed]
+PHST- 2022/11/15 06:00 [medline]
+PHST- 2022/03/21 17:16 [entrez]
+AID - 10.1021/acsnano.1c11096 [doi]
+PST - ppublish
+SO  - ACS Nano. 2022 Apr 26;16(4):5909-5919. doi: 10.1021/acsnano.1c11096. Epub 2022 
+      Mar 21.
 
 PMID- 35679119
 OWN - NLM
@@ -5908,6 +7142,119 @@ AID - v6i6e36066 [pii]
 AID - 10.2196/36066 [doi]
 PST - epublish
 SO  - JMIR Form Res. 2022 Jun 9;6(6):e36066. doi: 10.2196/36066.
+
+PMID- 36318185
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221129
+LR  - 20230125
+IS  - 1936-086X (Electronic)
+IS  - 1936-0851 (Linking)
+VI  - 16
+IP  - 11
+DP  - 2022 Nov 22
+TI  - An Elastic and Damage-Tolerant Dry Epidermal Patch with Robust Skin Adhesion for 
+      Bioelectronic Interfacing.
+PG  - 18608-18620
+LID - 10.1021/acsnano.2c07097 [doi]
+AB  - On-skin patches that record biopotential and biomechanical signals are essential 
+      for wearable healthcare monitoring, clinical treatment, and human-machine 
+      interaction. To acquire wearing comfort and high-quality signals, patches with 
+      tissue-like softness, elastic recovery, damage tolerance, and robust 
+      bioelectronic interface are highly desired yet challenging to achieve. Here, we 
+      report a dry epidermal patch made from a supramolecular polymer (SESA) and an in 
+      situ transferred carbon nanotubes' percolation network. The polymer possesses a 
+      hybrid structure of copolymerized permanent scaffold permeated by multiple 
+      dynamic interactions, which imparts a desired mechanical response transition from 
+      elastic recoil to energy dissipation with increased elongation. Such SESA-based 
+      patches are soft (Young's modulus ∼0.1 MPa) and elastic within physiologically 
+      relevant strain levels (97% elastic recovery at 50% tensile strain), 
+      intrinsically mechanical-electrical damage-resilient (∼90% restoration from 
+      damage after 5 min), and interference-immune in dynamic signal acquisition 
+      (stretch, underwater, sweat). We demonstrate its versatile physiological sensing 
+      applications, including electrocardiogram recording under various disturbances, 
+      machine-learning-enabled hand-gesture recognition through electromyogram 
+      measurement, subtle radial artery pulse, and drastic knee kinematics sensing. 
+      This epidermal patch offers a promising noninvasive, long-duration, and ambulant 
+      bioelectronic interfacing with anti-interference robustness.
+FAU - Cheng, Yin
+AU  - Cheng Y
+AD  - Department of Electrical and Computer Engineering, National University of 
+      Singapore, 4 Engineering Drive 3, Singapore 117583, Singapore.
+AD  - The State Key Laboratory of High Performance Ceramics and Superfine 
+      Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Science, 
+      Shanghai 200050, China.
+FAU - Zhou, Yi
+AU  - Zhou Y
+AUID- ORCID: 0000-0001-5369-5713
+AD  - Department of Electrical and Computer Engineering, National University of 
+      Singapore, 4 Engineering Drive 3, Singapore 117583, Singapore.
+FAU - Wang, Ranran
+AU  - Wang R
+AD  - The State Key Laboratory of High Performance Ceramics and Superfine 
+      Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Science, 
+      Shanghai 200050, China.
+FAU - Chan, Kwok Hoe
+AU  - Chan KH
+AD  - Department of Electrical and Computer Engineering, National University of 
+      Singapore, 4 Engineering Drive 3, Singapore 117583, Singapore.
+FAU - Liu, Yan
+AU  - Liu Y
+AD  - The State Key Laboratory of High Performance Ceramics and Superfine 
+      Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Science, 
+      Shanghai 200050, China.
+FAU - Ding, Tianpeng
+AU  - Ding T
+AD  - Department of Electrical and Computer Engineering, National University of 
+      Singapore, 4 Engineering Drive 3, Singapore 117583, Singapore.
+FAU - Wang, Xiao-Qiao
+AU  - Wang XQ
+AD  - Department of Electrical and Computer Engineering, National University of 
+      Singapore, 4 Engineering Drive 3, Singapore 117583, Singapore.
+FAU - Li, Tongtao
+AU  - Li T
+AUID- ORCID: 0000-0003-3576-9533
+AD  - Department of Electrical and Computer Engineering, National University of 
+      Singapore, 4 Engineering Drive 3, Singapore 117583, Singapore.
+FAU - Ho, Ghim Wei
+AU  - Ho GW
+AUID- ORCID: 0000-0003-1276-0165
+AD  - Department of Electrical and Computer Engineering, National University of 
+      Singapore, 4 Engineering Drive 3, Singapore 117583, Singapore.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20221101
+PL  - United States
+TA  - ACS Nano
+JT  - ACS nano
+JID - 101313589
+RN  - 0 (Nanotubes, Carbon)
+RN  - 0 (Polymers)
+SB  - IM
+MH  - Humans
+MH  - *Nanotubes, Carbon/chemistry
+MH  - Skin
+MH  - Sweat
+MH  - Elastic Modulus
+MH  - Polymers/chemistry
+OTO - NOTNLM
+OT  - bioelectronic sensing
+OT  - damage-tolerant
+OT  - epidermal patches
+OT  - interference-immune
+OT  - robust adhesion
+OT  - soft electronics
+EDAT- 2022/11/02 06:00
+MHDA- 2022/11/30 06:00
+CRDT- 2022/11/01 11:22
+PHST- 2022/11/02 06:00 [pubmed]
+PHST- 2022/11/30 06:00 [medline]
+PHST- 2022/11/01 11:22 [entrez]
+AID - 10.1021/acsnano.2c07097 [doi]
+PST - ppublish
+SO  - ACS Nano. 2022 Nov 22;16(11):18608-18620. doi: 10.1021/acsnano.2c07097. Epub 2022 
+      Nov 1.
 
 PMID- 37796560
 OWN - NLM
@@ -6181,6 +7528,96 @@ AID - 10.1111/1750-3841.16383 [doi]
 PST - ppublish
 SO  - J Food Sci. 2022 Dec;87(12):5317-5329. doi: 10.1111/1750-3841.16383. Epub 2022 
       Nov 15.
+
+PMID- 38052003
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240109
+LR  - 20240612
+IS  - 2373-9878 (Electronic)
+IS  - 2373-9878 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2024 Jan 8
+TI  - Conductive and Eco-friendly Biomaterials-based Hydrogels for Noninvasive 
+      Epidermal Sensors: A Review.
+PG  - 191-218
+LID - 10.1021/acsbiomaterials.3c01003 [doi]
+AB  - As noninvasive wearable electronic devices, epidermal sensors enable continuous, 
+      real-time, and remote monitoring of various human physiological parameters. 
+      Conductive biomaterials-based hydrogels as sensor matrix materials have good 
+      biocompatibility, biodegradability, and efficient stimulus response capabilities 
+      and are widely applied in motion monitoring, healthcare, and human-machine 
+      interaction. However, biomass hydrogel-based epidermal sensing devices still need 
+      excellent mechanical properties, prolonged stability, multifunctionality, and 
+      extensive practicality. Therefore, this paper reviews the common biomass hydrogel 
+      materials for epidermal sensing (proteins, polysaccharides, polyphenols, etc.) 
+      and the various types of noninvasive sensing devices (strain/pressure sensors, 
+      temperature sensors, glucose sensors, electrocardiograms, etc.). Moreover, this 
+      review focuses on the strategies of scholars to enhance sensor properties, such 
+      as strength, conductivity, stability, adhesion, and self-healing ability. This 
+      work will guide the preparation and optimization of high-performance 
+      biomaterials-based hydrogel epidermal sensors.
+FAU - Zhang, Yibo
+AU  - Zhang Y
+AD  - School of Information Science and Technology, Qingdao University of Science and 
+      Technology, Qingdao 266061, China.
+AD  - Department of Materials Science and Engineering, City University of Hong Kong, 83 
+      Tat Chee Avenue, Kowloon, Hong Kong 999077, P. R. China.
+FAU - Tang, Qianhui
+AU  - Tang Q
+AD  - School of Marine Technology and Environment, Dalian Ocean University, 52 
+      Heishijiao Street, Dalian, Liaoning 116023, P. R. China.
+FAU - Zhou, Junyang
+AU  - Zhou J
+AD  - School of Polymer Science and Engineering, Qingdao University of Science and 
+      Technology, Qingdao 266042, China.
+FAU - Zhao, Chenghao
+AU  - Zhao C
+AD  - Department of Materials Science and Engineering, City University of Hong Kong, 83 
+      Tat Chee Avenue, Kowloon, Hong Kong 999077, P. R. China.
+FAU - Li, Jingpeng
+AU  - Li J
+AD  - Department of Materials Science and Engineering, City University of Hong Kong, 83 
+      Tat Chee Avenue, Kowloon, Hong Kong 999077, P. R. China.
+FAU - Wang, Haiting
+AU  - Wang H
+AUID- ORCID: 0000-0003-4971-965X
+AD  - School of Information Science and Technology, Qingdao University of Science and 
+      Technology, Qingdao 266061, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20231205
+PL  - United States
+TA  - ACS Biomater Sci Eng
+JT  - ACS biomaterials science & engineering
+JID - 101654670
+RN  - 0 (Biocompatible Materials)
+RN  - 0 (Hydrogels)
+RN  - 0 (Polyphenols)
+SB  - IM
+MH  - Humans
+MH  - *Biocompatible Materials
+MH  - *Hydrogels
+MH  - Polyphenols
+OTO - NOTNLM
+OT  - biocompatibility
+OT  - biodegradability
+OT  - biomaterials-based hydrogels
+OT  - conductivity
+OT  - epidermal sensors
+EDAT- 2023/12/06 03:42
+MHDA- 2024/01/09 06:42
+CRDT- 2023/12/05 16:22
+PHST- 2024/01/09 06:42 [medline]
+PHST- 2023/12/06 03:42 [pubmed]
+PHST- 2023/12/05 16:22 [entrez]
+AID - 10.1021/acsbiomaterials.3c01003 [doi]
+PST - ppublish
+SO  - ACS Biomater Sci Eng. 2024 Jan 8;10(1):191-218. doi: 
+      10.1021/acsbiomaterials.3c01003. Epub 2023 Dec 5.
 
 PMID- 36790851
 OWN - NLM
@@ -7052,6 +8489,120 @@ AID - 10.2196/37567 [doi]
 PST - epublish
 SO  - JMIR Form Res. 2022 Jul 5;6(7):e37567. doi: 10.2196/37567.
 
+PMID- 35856940
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221111
+LR  - 20230120
+IS  - 1936-086X (Electronic)
+IS  - 1936-0851 (Linking)
+VI  - 16
+IP  - 8
+DP  - 2022 Aug 23
+TI  - Breathable and Waterproof Electronic Skin with Three-Dimensional Architecture for 
+      Pressure and Strain Sensing in Nonoverlapping Mode.
+PG  - 12620-12634
+LID - 10.1021/acsnano.2c04188 [doi]
+AB  - Wearable sensors have recently attracted extensive interest not only in the field 
+      of healthcare monitoring but also for convenient and intelligent human-machine 
+      interactions. However, challenges such as wearable comfort, multiple applicable 
+      conditions, and differentiation of mechanical stimuli are yet to be fully 
+      addressed. Herein, we developed a breathable and waterproof electronic skin 
+      (E-skin) that can perceive pressure/strain with nonoverlapping signals. The 
+      synergistic effect from magnetic attraction and nanoscaled aggregation renders 
+      the E-skin with microscaled pores for breathability and three-dimensional 
+      microcilia for superhydrophobicity. Upon applied pressure, the bending of 
+      conductive microcilia enables sufficient contacts for resistance decrease, while 
+      the stretching causes increased resistance due to the separation of conductive 
+      materials. The optimized E-skin exhibits a high gauge factor of 7.747 for small 
+      strain (0-80%) and a detection limit down to 0.04%. The three-dimensional 
+      microcilia also exhibit a sensitivity of -0.0198 kPa(-1) (0-3 kPa) and a broad 
+      detection range up to 200 kPa with robustness. The E-skin can reliably and 
+      precisely distinguish kinds of the human joint motions, covering a broad spectrum 
+      including bending, stretching, and pressure. With the nonoverlapping readouts, 
+      ternary inputs "1", "0", and "-1" could be produced with different stimuli, which 
+      expands the command capacity for logic outputs such as effective Morse code and 
+      intuitive robotic control. Owing to the rapid response, long-term stability 
+      (10 000 cycles), breathability, and superhydrophobicity, we believe that the 
+      E-skin can be widely applied as wearable devices from body motion monitoring to 
+      human-machine interactions toward a more convenient and intelligent future.
+FAU - Lei, Ming
+AU  - Lei M
+AD  - Joint Key Laboratory of the Ministry of Education, Institute of Applied Physics 
+      and Materials Engineering, University of Macau, Avenida da Universidade, Taipa, 
+      Macau 999078, China.
+FAU - Feng, Kai
+AU  - Feng K
+AD  - Department of Electromechanical Engineering, Faculty of Science and Technology, 
+      University of Macau, Avenida da Universidade, Taipa, Macau 999078, China.
+FAU - Ding, Sen
+AU  - Ding S
+AD  - Joint Key Laboratory of the Ministry of Education, Institute of Applied Physics 
+      and Materials Engineering, University of Macau, Avenida da Universidade, Taipa, 
+      Macau 999078, China.
+FAU - Wang, Mingrui
+AU  - Wang M
+AD  - Department of Electrical and Computer Engineering, Duke University, Durham, North 
+      Carolina 27708, United States.
+FAU - Dai, Ziyi
+AU  - Dai Z
+AD  - Joint Key Laboratory of the Ministry of Education, Institute of Applied Physics 
+      and Materials Engineering, University of Macau, Avenida da Universidade, Taipa, 
+      Macau 999078, China.
+FAU - Liu, Ruolin
+AU  - Liu R
+AD  - Joint Key Laboratory of the Ministry of Education, Institute of Applied Physics 
+      and Materials Engineering, University of Macau, Avenida da Universidade, Taipa, 
+      Macau 999078, China.
+FAU - Gao, Yibo
+AU  - Gao Y
+AD  - Shenzhen Shineway Technology Corporation, Shenzhen 518000, Guangdong, China.
+FAU - Zhou, Yinning
+AU  - Zhou Y
+AD  - Joint Key Laboratory of the Ministry of Education, Institute of Applied Physics 
+      and Materials Engineering, University of Macau, Avenida da Universidade, Taipa, 
+      Macau 999078, China.
+FAU - Xu, Qingsong
+AU  - Xu Q
+AUID- ORCID: 0000-0002-1700-322X
+AD  - Department of Electromechanical Engineering, Faculty of Science and Technology, 
+      University of Macau, Avenida da Universidade, Taipa, Macau 999078, China.
+FAU - Zhou, Bingpu
+AU  - Zhou B
+AUID- ORCID: 0000-0003-4866-3105
+AD  - Joint Key Laboratory of the Ministry of Education, Institute of Applied Physics 
+      and Materials Engineering, University of Macau, Avenida da Universidade, Taipa, 
+      Macau 999078, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220720
+PL  - United States
+TA  - ACS Nano
+JT  - ACS nano
+JID - 101313589
+SB  - IM
+MH  - Humans
+MH  - *Wearable Electronic Devices
+MH  - Electric Conductivity
+MH  - Motion
+OTO - NOTNLM
+OT  - breathable
+OT  - electronic skin
+OT  - human−machine interaction
+OT  - strain/pressure sensing
+OT  - waterproof
+EDAT- 2022/07/21 06:00
+MHDA- 2022/11/15 06:00
+CRDT- 2022/07/20 10:53
+PHST- 2022/07/21 06:00 [pubmed]
+PHST- 2022/11/15 06:00 [medline]
+PHST- 2022/07/20 10:53 [entrez]
+AID - 10.1021/acsnano.2c04188 [doi]
+PST - ppublish
+SO  - ACS Nano. 2022 Aug 23;16(8):12620-12634. doi: 10.1021/acsnano.2c04188. Epub 2022 
+      Jul 20.
+
 PMID- 35383081
 OWN - NLM
 STAT- MEDLINE
@@ -7439,6 +8990,190 @@ AID - medicina-59-00617 [pii]
 AID - 10.3390/medicina59030617 [doi]
 PST - epublish
 SO  - Medicina (Kaunas). 2023 Mar 20;59(3):617. doi: 10.3390/medicina59030617.
+
+PMID- 35972043
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220907
+LR  - 20220907
+IS  - 2040-3372 (Electronic)
+IS  - 2040-3364 (Linking)
+VI  - 14
+IP  - 34
+DP  - 2022 Sep 2
+TI  - A highly stretchable and ultra-sensitive strain sensing fiber based on a porous 
+      core-network sheath configuration for wearable human motion detection.
+PG  - 12418-12430
+LID - 10.1039/d2nr03277e [doi]
+AB  - Functional fibers have attracted much research attention due to their potential 
+      application in developing advanced electronic textiles for wearable devices. 
+      However, challenges still exist in preparing high-performance fiber-shaped 
+      sensors with superior flexibility and stretchability while achieving a high 
+      sensitivity and a wide detection range. Herein, we propose the design and 
+      fabrication of an ultra-flexible and super-elastic fiber-shaped strain sensor via 
+      a facile combining approach of wet-spinning and dip-coating. The sensor adopts a 
+      core-sheath configuration of liquid metal droplets dispersed in porous 
+      thermoplastic polyurethane as a substrate core and a carbon nanotube intertwined 
+      network embedding silver nanowires as a strain sensitive sheath. By taking 
+      advantage of both the composition of multiple functional materials and the design 
+      of a microstructured device configuration, the developed fiber-shaped sensor 
+      exhibits an ultrahigh sensitivity (maximum gauge factor of 7336.1), an extremely 
+      large workable strain range (500%), a low strain detection limit (0.5%), a fast 
+      response time (200 ms) and good stability (10 000 cycles). In addition, the 
+      sensor is temperature insensitive, inert under harsh solution conditions, 
+      degradable and recyclable. Intriguingly, the fiber-shaped sensor can be used to 
+      detect various human motions and gestures by directly attaching to skins or 
+      elaborately weaving into textiles, demonstrating its great potential in human 
+      healthcare monitoring and human-machine interactions.
+FAU - Liu, Jun
+AU  - Liu J
+AD  - State Key Laboratory for Reliability and Intelligence of Electrical Equipment, 
+      Hebei Key Laboratory of Smart Sensing and Human-Robot Interaction, School of 
+      Mechanical Engineering, Hebei University of Technology, Tianjin, 300401, China. 
+      2021085@hebut.edu.cn.
+FAU - Wang, Peng
+AU  - Wang P
+AUID- ORCID: 0000-0003-3340-6966
+AD  - State Key Laboratory for Reliability and Intelligence of Electrical Equipment, 
+      Hebei Key Laboratory of Smart Sensing and Human-Robot Interaction, School of 
+      Mechanical Engineering, Hebei University of Technology, Tianjin, 300401, China. 
+      2021085@hebut.edu.cn.
+FAU - Li, Guoxian
+AU  - Li G
+AD  - State Key Laboratory for Reliability and Intelligence of Electrical Equipment, 
+      Hebei Key Laboratory of Smart Sensing and Human-Robot Interaction, School of 
+      Mechanical Engineering, Hebei University of Technology, Tianjin, 300401, China. 
+      2021085@hebut.edu.cn.
+FAU - Yang, Li
+AU  - Yang L
+AUID- ORCID: 0000-0001-6798-3177
+AD  - State Key Laboratory of Reliability and Intelligence of Electrical Equipment, 
+      School of Health Sciences and Biomedical Engineering, Hebei University of 
+      Technology, Tianjin 300130, China.
+FAU - Yu, Wei
+AU  - Yu W
+AD  - State Key Laboratory for Reliability and Intelligence of Electrical Equipment, 
+      Hebei Key Laboratory of Smart Sensing and Human-Robot Interaction, School of 
+      Mechanical Engineering, Hebei University of Technology, Tianjin, 300401, China. 
+      2021085@hebut.edu.cn.
+FAU - Meng, Chuizhou
+AU  - Meng C
+AUID- ORCID: 0000-0003-4266-3745
+AD  - State Key Laboratory for Reliability and Intelligence of Electrical Equipment, 
+      Hebei Key Laboratory of Smart Sensing and Human-Robot Interaction, School of 
+      Mechanical Engineering, Hebei University of Technology, Tianjin, 300401, China. 
+      2021085@hebut.edu.cn.
+FAU - Guo, Shijie
+AU  - Guo S
+AD  - State Key Laboratory for Reliability and Intelligence of Electrical Equipment, 
+      Hebei Key Laboratory of Smart Sensing and Human-Robot Interaction, School of 
+      Mechanical Engineering, Hebei University of Technology, Tianjin, 300401, China. 
+      2021085@hebut.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20220902
+PL  - England
+TA  - Nanoscale
+JT  - Nanoscale
+JID - 101525249
+RN  - 3M4G523W1G (Silver)
+SB  - IM
+MH  - Humans
+MH  - Motion
+MH  - *Nanowires
+MH  - Porosity
+MH  - Silver/chemistry
+MH  - Textiles
+MH  - *Wearable Electronic Devices
+EDAT- 2022/08/17 06:00
+MHDA- 2022/09/08 06:00
+CRDT- 2022/08/16 07:32
+PHST- 2022/08/17 06:00 [pubmed]
+PHST- 2022/09/08 06:00 [medline]
+PHST- 2022/08/16 07:32 [entrez]
+AID - 10.1039/d2nr03277e [doi]
+PST - epublish
+SO  - Nanoscale. 2022 Sep 2;14(34):12418-12430. doi: 10.1039/d2nr03277e.
+
+PMID- 38151928
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231229
+LR  - 20231230
+IS  - 1001-5515 (Print)
+IS  - 1001-5515 (Linking)
+VI  - 40
+IP  - 6
+DP  - 2023 Dec 25
+TI  - [Application of electronic skin in healthcare and virtual reality].
+PG  - 1062-1070
+LID - 10.7507/1001-5515.202210035 [doi]
+AB  - Electronic skin has shown great application potential in many fields such as 
+      healthcare monitoring and human-machine interaction due to their excellent 
+      sensing performance, mechanical properties and biocompatibility. This paper 
+      starts from the materials selection and structures design of electronic skin, and 
+      summarizes their different applications in the field of healthcare equipment, 
+      especially current development status of wearable sensors with different 
+      functions, as well as the application of electronic skin in virtual reality. The 
+      challenges of electronic skin in the field of wearable devices and healthcare, as 
+      well as our corresponding strategies, are discussed to provide a reference for 
+      further advancing the research of electronic skin.
+FAU - Zhao, Guangyao
+AU  - Zhao G
+AD  - Department of Biomedical Engineering, City University of Hong Kong, Hong Kong 
+      999077, P. R. China.
+FAU - Yao, Kuanming
+AU  - Yao K
+AD  - Department of Biomedical Engineering, City University of Hong Kong, Hong Kong 
+      999077, P. R. China.
+FAU - Liu, Yiming
+AU  - Liu Y
+AD  - Department of Biomedical Engineering, City University of Hong Kong, Hong Kong 
+      999077, P. R. China.
+FAU - Huang, Xingcan
+AU  - Huang X
+AD  - Department of Biomedical Engineering, City University of Hong Kong, Hong Kong 
+      999077, P. R. China.
+FAU - Yu, Xinge
+AU  - Yu X
+AD  - Department of Biomedical Engineering, City University of Hong Kong, Hong Kong 
+      999077, P. R. China.
+AD  - Hong Kong Center for Cerebra-Cardiovascular Health Engineering, Hong Kong, 
+      999077, P. R. China.
+AD  - Shenzhen Research Institute, City University of Hong Kong, Shenzhen, Guangdong 
+      518057, P. R. China.
+LA  - chi
+PT  - English Abstract
+PT  - Journal Article
+PL  - China
+TA  - Sheng Wu Yi Xue Gong Cheng Xue Za Zhi
+JT  - Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = 
+      Shengwu yixue gongchengxue zazhi
+JID - 9426398
+SB  - IM
+MH  - Humans
+MH  - *Wearable Electronic Devices
+MH  - *Virtual Reality
+PMC - PMC10753319
+OTO - NOTNLM
+OT  - Electronic skin
+OT  - Healthcare monitoring
+OT  - Human-machine interaction
+OT  - Virtual reality
+COIS- 利益冲突声明：本文全体作者均声明不存在利益冲突。
+EDAT- 2023/12/28 06:42
+MHDA- 2023/12/29 06:43
+PMCR- 2023/12/25
+CRDT- 2023/12/28 02:23
+PHST- 2023/12/29 06:43 [medline]
+PHST- 2023/12/28 06:42 [pubmed]
+PHST- 2023/12/28 02:23 [entrez]
+PHST- 2023/12/25 00:00 [pmc-release]
+AID - swyxgcxzz-40-6-1062 [pii]
+AID - 10.7507/1001-5515.202210035 [doi]
+PST - ppublish
+SO  - Sheng Wu Yi Xue Gong Cheng Xue Za Zhi. 2023 Dec 25;40(6):1062-1070. doi: 
+      10.7507/1001-5515.202210035.
 
 PMID- 33973860
 OWN - NLM
@@ -8296,157 +10031,102 @@ PST - ppublish
 SO  - Epilepsy Behav. 2020 Nov;112:107478. doi: 10.1016/j.yebeh.2020.107478. Epub 2020 
       Sep 28.
 
-PMID- 38995798
+PMID- 32364375
 OWN - NLM
 STAT- MEDLINE
-DCOM- 20240906
-LR  - 20240906
-IS  - 2214-3602 (Electronic)
-IS  - 2214-3599 (Linking)
-VI  - 11
-IP  - 5
-DP  - 2024
-TI  - Smartphone-Based Assessment of Mobility and Manual Dexterity in Adult People with 
-      Spinal Muscular Atrophy.
-PG  - 1049-1065
-LID - 10.3233/JND-240004 [doi]
-AB  - BACKGROUND: More responsive, reliable, and clinically valid endpoints of 
-      disability are essential to reduce size, duration, and burden of clinical trials 
-      in adult persons with spinal muscular atrophy (aPwSMA). OBJECTIVE: The aim is to 
-      investigate the feasibility of smartphone-based assessments in aPwSMA and provide 
-      evidence on the reliability and construct validity of sensor-derived measures 
-      (SDMs) of mobility and manual dexterity collected remotely in aPwSMA. METHODS: 
-      Data were collected from 59 aPwSMA (23 walkers, 20 sitters and 16 non-sitters) 
-      and 30 age-matched healthy controls (HC). SDMs were extracted from five 
-      smartphone-based tests capturing mobility and manual dexterity, which were 
-      administered in-clinic and remotely in daily life for four weeks. Reliability 
-      (Intraclass Correlation Coefficients, ICC) and construct validity (ability to 
-      discriminate between HC and aPwSMA and correlations with Revised Upper Limb 
-      Module, RULM and Hammersmith Functional Scale - Expanded HFMSE) were quantified 
-      for all SDMs. RESULTS: The smartphone-based assessments proved feasible, with 
-      92.1% average adherence in aPwSMA. The SDMs allowed to reliably assess both 
-      mobility and dexterity (ICC > 0.75 for 14/22 SDMs). Twenty-one out of 22 SDMs 
-      significantly discriminated between HC and aPwSMA. The highest correlations with 
-      the RULM were observed for SDMs from the manual dexterity tests in both 
-      non-sitters (Typing, ρ= 0.78) and sitters (Pinching, ρ= 0.75). In walkers, the 
-      highest correlation was between mobility tests and HFMSE (5 U-Turns, ρ= 0.79). 
-      CONCLUSIONS: This exploratory study provides preliminary evidence for the 
-      usability of smartphone-based assessments of mobility and manual dexterity in 
-      aPwSMA when deployed remotely in participants' daily life. Reliability and 
-      construct validity of SDMs remotely collected in real-life was demonstrated, 
-      which is a pre-requisite for their use in longitudinal trials. Additionally, 
-      three novel smartphone-based performance outcome assessments were successfully 
-      established for aPwSMA. Upon further validation of responsiveness to 
-      interventions, this technology holds potential to increase the efficiency of 
-      clinical trials in aPwSMA.
-FAU - Arteaga-Bracho, Eduardo
-AU  - Arteaga-Bracho E
-AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
-FAU - Cosne, Gautier
-AU  - Cosne G
-AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
-FAU - Kanzler, Christoph
-AU  - Kanzler C
-AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
-FAU - Karatsidis, Angelos
-AU  - Karatsidis A
-AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
-FAU - Mazzà, Claudia
-AU  - Mazzà C
-AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
-FAU - Penalver-Andres, Joaquin
-AU  - Penalver-Andres J
-AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
-FAU - Zhu, Cong
-AU  - Zhu C
-AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
-FAU - Shen, Changyu
-AU  - Shen C
-AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
-FAU - Erb M, Kelley
-AU  - Erb M K
-AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
-FAU - Freigang, Maren
-AU  - Freigang M
-AD  - Department of Neurology, Dresden University Hospital, Dresden, Germany.
-FAU - Lapp, Hanna-Sophie
-AU  - Lapp HS
-AD  - Department of Neurology, Dresden University Hospital, Dresden, Germany.
-FAU - Thiele, Simone
-AU  - Thiele S
-AD  - Friedrich-Baur-Institute at the Department of Neurology, LMU University Hospital, 
-      LMU Munich, Munich, Germany.
-FAU - Wenninger, Stephan
-AU  - Wenninger S
-AD  - Friedrich-Baur-Institute at the Department of Neurology, LMU University Hospital, 
-      LMU Munich, Munich, Germany.
-FAU - Jung, Erik
-AU  - Jung E
-AD  - Department of Neurology, Heidelberg University Hospital, Heidelberg, Germany.
-FAU - Petri, Susanne
-AU  - Petri S
-AD  - Department of Neurology, Hannover Medical School, Hannover, Germany.
-FAU - Weiler, Markus
-AU  - Weiler M
-AD  - Department of Neurology, Heidelberg University Hospital, Heidelberg, Germany.
-FAU - Kleinschnitz, Christoph
-AU  - Kleinschnitz C
-AD  - Department of Neurology, Center for Translational Neuro- and Behavioral Sciences 
-      (C-TNBS), University Hospital Essen, Essen, Germany.
-FAU - Walter, Maggie C
-AU  - Walter MC
-AD  - Friedrich-Baur-Institute at the Department of Neurology, LMU University Hospital, 
-      LMU Munich, Munich, Germany.
-FAU - Günther, René
-AU  - Günther R
-AD  - Department of Neurology, Dresden University Hospital, Dresden, Germany.
-FAU - Campbell, Nolan
-AU  - Campbell N
-AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
-FAU - Belachew, Shibeshih
-AU  - Belachew S
-AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
-FAU - Hagenacker, Tim
-AU  - Hagenacker T
-AD  - Department of Neurology, Center for Translational Neuro- and Behavioral Sciences 
-      (C-TNBS), University Hospital Essen, Essen, Germany.
+DCOM- 20210304
+LR  - 20210304
+IS  - 1944-8252 (Electronic)
+IS  - 1944-8244 (Linking)
+VI  - 12
+IP  - 21
+DP  - 2020 May 27
+TI  - Solution-Processed Submicron Free-Standing, Conformal, Transparent, Breathable 
+      Epidermal Electrodes.
+PG  - 23689-23696
+LID - 10.1021/acsami.0c04134 [doi]
+AB  - Long-term, real-time, and comfortable epidermal electronics are of great 
+      practical importance for healthcare monitoring and human-machine interaction. 
+      However, traditional physiological signal monitoring confined by the specific 
+      clinical sites and unreliability of the epidermal electrodes leads to great 
+      restrictions on its application. Herein, we constructed a solution-processed 
+      submicron (down to 230 nm), free-standing, breathable sandwich-structured hybrid 
+      electrode composed of a silver nanowire network with a conductive polymer film, 
+      which is conformal, water-permeable, and noninvasive to the skin while achieving 
+      good signal acquisition ability. The free-standing hybrid electrode is prepared 
+      via an in situ capillary force lift-off process and can be transferred onto 
+      complex surfaces. The whole process is a complete solution process that 
+      facilitates large-area preparation and application. The light-weight hybrid 
+      electrodes exhibit high optical transmittance, high electrical conductivity, and 
+      high gas/ion permeability. When the hybrid electrodes are attached onto the skin, 
+      the imperceptible films show high conformality with low electrical impedance, 
+      thus exhibiting significantly improved electrocardiology and electromyogram 
+      signal monitoring performance compared to that of the commercial gel electrodes.
+FAU - Fang, Yunsheng
+AU  - Fang Y
+AD  - Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and 
+      Technology, Wuhan 430074, China.
+FAU - Li, Yanqiu
+AU  - Li Y
+AD  - Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and 
+      Technology, Wuhan 430074, China.
+FAU - Li, Yue
+AU  - Li Y
+AD  - Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and 
+      Technology, Wuhan 430074, China.
+FAU - Ding, Mengnan
+AU  - Ding M
+AD  - Department of Oncological Radiotherary, Central Theater Command General Hospital 
+      of the Chinese People's Liberation Army, Wuhan 430070, China.
+FAU - Xie, Junjie
+AU  - Xie J
+AD  - Department of Oncological Radiotherary, Central Theater Command General Hospital 
+      of the Chinese People's Liberation Army, Wuhan 430070, China.
+FAU - Hu, Bin
+AU  - Hu B
+AUID- ORCID: 0000-0003-3143-746X
+AD  - Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and 
+      Technology, Wuhan 430074, China.
+AD  - Shenzhen Huazhong University of Science and Technology Research Institute, 
+      Shenzhen 518057, China.
 LA  - eng
 PT  - Journal Article
-PL  - Netherlands
-TA  - J Neuromuscul Dis
-JT  - Journal of neuromuscular diseases
-JID - 101649948
+DEP - 20200514
+PL  - United States
+TA  - ACS Appl Mater Interfaces
+JT  - ACS applied materials & interfaces
+JID - 101504991
+RN  - 0 (Polystyrenes)
+RN  - 0 (Thiophenes)
+RN  - 0 (poly(3,4-ethylenedioxythiophene)-poly(styrenesulfonate))
+RN  - 3M4G523W1G (Silver)
 SB  - IM
+MH  - Electric Conductivity
+MH  - Electrodes
+MH  - Epidermis/*physiology
 MH  - Humans
-MH  - *Smartphone
-MH  - Male
-MH  - Female
-MH  - Adult
-MH  - *Muscular Atrophy, Spinal/physiopathology
-MH  - Reproducibility of Results
-MH  - Middle Aged
-MH  - Motor Skills/physiology
-MH  - Disability Evaluation
-MH  - Feasibility Studies
+MH  - Monitoring, Physiologic/*instrumentation
+MH  - Nanowires/chemistry
+MH  - Polystyrenes/chemistry
+MH  - Silver/chemistry
+MH  - Thiophenes/chemistry
+MH  - *Wearable Electronic Devices
 OTO - NOTNLM
-OT  - Remote monitoring
-OT  - accelerometers
-OT  - drawing
-OT  - pinching
-OT  - turning
-OT  - typing
-OT  - walking
-OT  - wearable sensors
-EDAT- 2024/07/12 18:42
-MHDA- 2024/09/06 12:44
-CRDT- 2024/07/12 12:43
-PHST- 2024/07/12 18:42 [pubmed]
-PHST- 2024/09/06 12:44 [medline]
-PHST- 2024/07/12 12:43 [entrez]
-AID - JND240004 [pii]
-AID - 10.3233/JND-240004 [doi]
+OT  - PEDOT:PSS
+OT  - epidermal electrodes
+OT  - free-standing
+OT  - pipette-transfer
+OT  - silver nanowires
+EDAT- 2020/05/05 06:00
+MHDA- 2021/03/05 06:00
+CRDT- 2020/05/05 06:00
+PHST- 2020/05/05 06:00 [pubmed]
+PHST- 2021/03/05 06:00 [medline]
+PHST- 2020/05/05 06:00 [entrez]
+AID - 10.1021/acsami.0c04134 [doi]
 PST - ppublish
-SO  - J Neuromuscul Dis. 2024;11(5):1049-1065. doi: 10.3233/JND-240004.
+SO  - ACS Appl Mater Interfaces. 2020 May 27;12(21):23689-23696. doi: 
+      10.1021/acsami.0c04134. Epub 2020 May 14.
 
 PMID- 34345782
 OWN - NLM
@@ -8697,6 +10377,128 @@ AID - v12i1e49508 [pii]
 AID - 10.2196/49508 [doi]
 PST - epublish
 SO  - JMIR Res Protoc. 2023 Nov 16;12:e49508. doi: 10.2196/49508.
+
+PMID- 34080827
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210714
+LR  - 20210714
+IS  - 1936-086X (Electronic)
+IS  - 1936-0851 (Linking)
+VI  - 15
+IP  - 6
+DP  - 2021 Jun 22
+TI  - Breathable Ti(3)C(2)T(x) MXene/Protein Nanocomposites for Ultrasensitive Medical 
+      Pressure Sensor with Degradability in Solvents.
+PG  - 9746-9758
+LID - 10.1021/acsnano.1c00472 [doi]
+AB  - Flexible, breathable, and degradable pressure sensors with excellent sensing 
+      performance are drawing tremendous attention for various practical applications 
+      in wearable artificial skins, healthcare monitoring, and artificial intelligence 
+      due to their flexibility, breathability, lightweight, decreased electronic 
+      rubbish, and environmentally friendly impact. However, traditional plastic or 
+      elastomer substrates with impermeability, uncomfortableness, mechanical 
+      mismatches, and nondegradability greatly restricted their practical applications. 
+      Therefore, the fabrication of such pressure sensors with high flexibility, facile 
+      degradability, and breathability is still a critical challenge and highly 
+      desired. Herein, we present a wearable, breathable, degradable, and highly 
+      sensitive MXene/protein nanocomposites-based pressure sensor. The fabricated 
+      MXene/protein-based pressure sensor is assembled from a breathable conductive 
+      MXene coated silk fibroin nanofiber (MXene-SF) membrane and a silk fibroin 
+      nanofiber membrane patterned with a MXene ink-printed (MXene ink-SF) 
+      interdigitated electrode, which can serve as the sensing layer and the electrode 
+      layer, respectively. The assembled pressure sensor exhibits a wide sensing range 
+      (up to 39.3 kPa), high sensitivity (298.4 kPa(-1) for 1.4-15.7 kPa; 171.9 kPa(-1) 
+      for 15.7-39.3 kPa), fast response/recovery time (7/16 ms), reliable 
+      breathability, excellent cycling stability over 10 000 cycles, good 
+      biocompatibility, and robust degradability. Furthermore, it shows great sensing 
+      performance in monitoring human psychological signals, acting as an artificial 
+      skin for the quantitative illustration of pressure distribution, and wireless 
+      biomonitoring in real time. Considering the biodegradable and breathable 
+      features, the sensor may become promising to find potential applications in smart 
+      electronic skins, human motion detection, disease diagnosis, and human-machine 
+      interaction.
+FAU - Chao, Mingyuan
+AU  - Chao M
+AD  - Interdisciplinary Research Center for Artificial Intelligence, College of 
+      Materials Science and Engineering, State Key Laboratory of Organic-Inorganic 
+      Composites, Beijing University of Chemical Technology, Beijing 100029, China.
+FAU - He, Lingzhang
+AU  - He L
+AD  - Interdisciplinary Research Center for Artificial Intelligence, College of 
+      Materials Science and Engineering, State Key Laboratory of Organic-Inorganic 
+      Composites, Beijing University of Chemical Technology, Beijing 100029, China.
+FAU - Gong, Min
+AU  - Gong M
+AD  - Interdisciplinary Research Center for Artificial Intelligence, College of 
+      Materials Science and Engineering, State Key Laboratory of Organic-Inorganic 
+      Composites, Beijing University of Chemical Technology, Beijing 100029, China.
+FAU - Li, Na
+AU  - Li N
+AD  - Interdisciplinary Research Center for Artificial Intelligence, College of 
+      Materials Science and Engineering, State Key Laboratory of Organic-Inorganic 
+      Composites, Beijing University of Chemical Technology, Beijing 100029, China.
+FAU - Li, Xiaobin
+AU  - Li X
+AD  - Interdisciplinary Research Center for Artificial Intelligence, College of 
+      Materials Science and Engineering, State Key Laboratory of Organic-Inorganic 
+      Composites, Beijing University of Chemical Technology, Beijing 100029, China.
+FAU - Peng, Longfei
+AU  - Peng L
+AD  - Interdisciplinary Research Center for Artificial Intelligence, College of 
+      Materials Science and Engineering, State Key Laboratory of Organic-Inorganic 
+      Composites, Beijing University of Chemical Technology, Beijing 100029, China.
+FAU - Shi, Feng
+AU  - Shi F
+AUID- ORCID: 0000-0001-5897-5116
+AD  - Interdisciplinary Research Center for Artificial Intelligence, College of 
+      Materials Science and Engineering, State Key Laboratory of Organic-Inorganic 
+      Composites, Beijing University of Chemical Technology, Beijing 100029, China.
+FAU - Zhang, Liqun
+AU  - Zhang L
+AUID- ORCID: 0000-0002-2103-6294
+AD  - Interdisciplinary Research Center for Artificial Intelligence, College of 
+      Materials Science and Engineering, State Key Laboratory of Organic-Inorganic 
+      Composites, Beijing University of Chemical Technology, Beijing 100029, China.
+FAU - Wan, Pengbo
+AU  - Wan P
+AUID- ORCID: 0000-0001-8178-4262
+AD  - Interdisciplinary Research Center for Artificial Intelligence, College of 
+      Materials Science and Engineering, State Key Laboratory of Organic-Inorganic 
+      Composites, Beijing University of Chemical Technology, Beijing 100029, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210603
+PL  - United States
+TA  - ACS Nano
+JT  - ACS nano
+JID - 101313589
+RN  - 0 (Solvents)
+RN  - D1JT611TNE (Titanium)
+SB  - IM
+MH  - Artificial Intelligence
+MH  - Humans
+MH  - *Nanocomposites
+MH  - Solvents
+MH  - Titanium
+MH  - *Wearable Electronic Devices
+OTO - NOTNLM
+OT  - MXene
+OT  - broad-range human motion detection
+OT  - degradable
+OT  - ultrasensitive
+OT  - wearable breathable pressure sensors
+EDAT- 2021/06/04 06:00
+MHDA- 2021/07/15 06:00
+CRDT- 2021/06/03 12:13
+PHST- 2021/06/04 06:00 [pubmed]
+PHST- 2021/07/15 06:00 [medline]
+PHST- 2021/06/03 12:13 [entrez]
+AID - 10.1021/acsnano.1c00472 [doi]
+PST - ppublish
+SO  - ACS Nano. 2021 Jun 22;15(6):9746-9758. doi: 10.1021/acsnano.1c00472. Epub 2021 
+      Jun 3.
 
 PMID- 31903859
 OWN - NLM
@@ -9244,6 +11046,93 @@ PST - epublish
 SO  - Digit Health. 2023 Jun 5;9:20552076231179014. doi: 10.1177/20552076231179014. 
       eCollection 2023 Jan-Dec.
 
+PMID- 33866074
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210512
+LR  - 20210512
+IS  - 1873-4235 (Electronic)
+IS  - 0956-5663 (Linking)
+VI  - 184
+DP  - 2021 Jul 15
+TI  - Self-reconfigurable high-weight-per-volume-gelatin films for 
+      all-solution-processed on-skin electronics with ultra-conformal contact.
+PG  - 113231
+LID - S0956-5663(21)00268-2 [pii]
+LID - 10.1016/j.bios.2021.113231 [doi]
+AB  - Although conventional skin-attachable electronics exhibit good functionalities, 
+      their direct attachment (without any adhesive) to human skin with sufficient 
+      conformal contact is challenging. Herein, all-solution-processed on-skin 
+      electronics based on self-reconfigurable high-weight-per- volume-gelatin (HWVG) 
+      film constructed using an effective, biocompatible water absorption-evaporation 
+      technique are demonstrated. Completely conformal contact of self-reconfigurable 
+      HWVG films is realized by rapidly inducing anisotropic swelling in the 
+      perpendicular direction and covering any curvature on the skin without spatial 
+      gap or void after shrinking. A sufficiently thin HWVG film (~2 um) exhibited 
+      higher adhesion owing to van der Waals force and the carboxylic acid and amine 
+      groups in HWVG film form cross-linkages through intermolecular bonds with human 
+      skin. Self-reconfigurable HWVG films with high biocompatibility are optimized to 
+      afford a superior efficiency of 87.83 % at a concentration of 20 % (w/v) and a 
+      storage modulus of 1822 MPa at 36.5 °C. Furthermore, functional nanoelectrodes 
+      consisting of self-reconfigurable silver nanowires/HWVG films for 
+      high-performance on-skin sensors allowing the detection of sensitive motion and 
+      electrophysiological signals, as well as an armband-type sensor system 
+      incorporated with a smartphone for health-care monitoring are demonstrated. 
+      Outstanding performances, including stability, reliability, flexibility, 
+      re-usability, biocompatibility, and permeability of on-skin electronics based on 
+      HWVG films can open-up a prospective route to realizing breathable human-machine 
+      interfaces based on biocompatible materials and processes.
+CI  - Copyright © 2021 Elsevier B.V. All rights reserved.
+FAU - Choi, Hyeong-Jun
+AU  - Choi HJ
+AD  - Department of Electronic Materials Engineering, Kwangwoon University, Seoul, 
+      01897, South Korea.
+FAU - Kang, Byeong-Cheol
+AU  - Kang BC
+AD  - Department of Electronic Materials Engineering, Kwangwoon University, Seoul, 
+      01897, South Korea.
+FAU - Ha, Tae-Jun
+AU  - Ha TJ
+AD  - Department of Electronic Materials Engineering, Kwangwoon University, Seoul, 
+      01897, South Korea. Electronic address: taejunha0604@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20210415
+PL  - England
+TA  - Biosens Bioelectron
+JT  - Biosensors & bioelectronics
+JID - 9001289
+RN  - 0 (gelatin film)
+RN  - 9000-70-8 (Gelatin)
+SB  - IM
+MH  - *Biosensing Techniques
+MH  - Electronics
+MH  - Gelatin
+MH  - Humans
+MH  - Prospective Studies
+MH  - Reproducibility of Results
+MH  - *Wearable Electronic Devices
+OTO - NOTNLM
+OT  - High-weight-per- volume-gelatin
+OT  - On-skin electronics
+OT  - Self-reconfiguration
+OT  - Silver nanowires
+OT  - Ultra-conformal contact
+EDAT- 2021/04/19 06:00
+MHDA- 2021/05/13 06:00
+CRDT- 2021/04/18 20:43
+PHST- 2021/01/22 00:00 [received]
+PHST- 2021/03/20 00:00 [revised]
+PHST- 2021/04/04 00:00 [accepted]
+PHST- 2021/04/19 06:00 [pubmed]
+PHST- 2021/05/13 06:00 [medline]
+PHST- 2021/04/18 20:43 [entrez]
+AID - S0956-5663(21)00268-2 [pii]
+AID - 10.1016/j.bios.2021.113231 [doi]
+PST - ppublish
+SO  - Biosens Bioelectron. 2021 Jul 15;184:113231. doi: 10.1016/j.bios.2021.113231. 
+      Epub 2021 Apr 15.
+
 PMID- 38440777
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -9537,6 +11426,110 @@ AID - v8i6e17347 [pii]
 AID - 10.2196/17347 [doi]
 PST - epublish
 SO  - JMIR Mhealth Uhealth. 2020 Jun 24;8(6):e17347. doi: 10.2196/17347.
+
+PMID- 38838205
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240621
+IS  - 1944-8252 (Electronic)
+IS  - 1944-8244 (Linking)
+VI  - 16
+IP  - 24
+DP  - 2024 Jun 19
+TI  - Low Driving Voltage Electroluminescence Device for Integrated Visual Strain 
+      Sensing.
+PG  - 31657-31665
+LID - 10.1021/acsami.4c06993 [doi]
+AB  - As a pivotal component in human-machine interactions, display devices have 
+      undergone rapid development in modern life. Displays such as alternative current 
+      electroluminescence|alternative current electroluminescent (ACEL) devices with 
+      high flexibility and long operational lifetimes are essential for wearable 
+      electronics. However, ACEL devices are constrained by their inherent high driving 
+      voltage and complex fabrication processes. Our work presents an easy 
+      blade-coating method for fabricating flexible ACEL display devices based on an 
+      all-solution process. By dispersing BaTiO(3) and ZnS/Cu powder into waterborne 
+      polyurethane, we successfully combined dielectric and fluorescence 
+      functionalities within a single layer, significantly reducing the device's 
+      driving voltage. Additionally, the ionic conducting hydrogel was chosen as a 
+      transparent electrode to achieve good electrical contact and strong interfacial 
+      adhesion through in situ polymerization. Owing to the unique method, our ACEL 
+      device exhibits high flexibility, low driving voltage (20-100 V), high brightness 
+      (300+ cd/m(2) at 60 V), and environmental friendliness. Furthermore, by 
+      repurposing the hydrogel electrode, we integrated strain visualization 
+      capabilities within a single device, highlighting its potential for applications 
+      such as wearable healthcare monitoring.
+FAU - Zhu, Simu
+AU  - Zhu S
+AUID- ORCID: 0009-0001-6366-968X
+AD  - State Key Laboratory of Optoelectronic Materials and Technologies, Guangdong 
+      Province Key Laboratory of Display Material and Technology, School of Electronics 
+      and Information Technology, Sun Yat-sen University, Guangzhou 510275, China.
+FAU - Xiong, Feng
+AU  - Xiong F
+AD  - State Key Laboratory of Optoelectronic Materials and Technologies, Guangdong 
+      Province Key Laboratory of Display Material and Technology, School of Electronics 
+      and Information Technology, Sun Yat-sen University, Guangzhou 510275, China.
+FAU - Gu, Yifan
+AU  - Gu Y
+AD  - State Key Laboratory of Optoelectronic Materials and Technologies, Guangdong 
+      Province Key Laboratory of Display Material and Technology, School of Electronics 
+      and Information Technology, Sun Yat-sen University, Guangzhou 510275, China.
+FAU - Chen, Weichun
+AU  - Chen W
+AD  - State Key Laboratory of Optoelectronic Materials and Technologies, Guangdong 
+      Province Key Laboratory of Display Material and Technology, School of Electronics 
+      and Information Technology, Sun Yat-sen University, Guangzhou 510275, China.
+FAU - Fan, Qitian
+AU  - Fan Q
+AD  - State Key Laboratory of Optoelectronic Materials and Technologies, Guangdong 
+      Province Key Laboratory of Display Material and Technology, School of Electronics 
+      and Information Technology, Sun Yat-sen University, Guangzhou 510275, China.
+FAU - Lu, Hao
+AU  - Lu H
+AD  - State Key Laboratory of Optoelectronic Materials and Technologies, Guangdong 
+      Province Key Laboratory of Display Material and Technology, School of Electronics 
+      and Information Technology, Sun Yat-sen University, Guangzhou 510275, China.
+FAU - Wang, Ting
+AU  - Wang T
+AD  - State Key Laboratory of Optoelectronic Materials and Technologies, Guangdong 
+      Province Key Laboratory of Display Material and Technology, School of Electronics 
+      and Information Technology, Sun Yat-sen University, Guangzhou 510275, China.
+FAU - Yang, Bo-Ru
+AU  - Yang BR
+AUID- ORCID: 0000-0003-4748-7795
+AD  - State Key Laboratory of Optoelectronic Materials and Technologies, Guangdong 
+      Province Key Laboratory of Display Material and Technology, School of Electronics 
+      and Information Technology, Sun Yat-sen University, Guangzhou 510275, China.
+FAU - Deng, Shaozhi
+AU  - Deng S
+AUID- ORCID: 0000-0003-1830-2026
+AD  - State Key Laboratory of Optoelectronic Materials and Technologies, Guangdong 
+      Province Key Laboratory of Display Material and Technology, School of Electronics 
+      and Information Technology, Sun Yat-sen University, Guangzhou 510275, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20240605
+PL  - United States
+TA  - ACS Appl Mater Interfaces
+JT  - ACS applied materials & interfaces
+JID - 101504991
+SB  - IM
+OTO - NOTNLM
+OT  - ACEL
+OT  - flexible display
+OT  - low driving voltage
+OT  - visual strain sensing
+OT  - wearable display
+EDAT- 2024/06/05 19:12
+MHDA- 2024/06/05 19:13
+CRDT- 2024/06/05 14:53
+PHST- 2024/06/05 19:13 [medline]
+PHST- 2024/06/05 19:12 [pubmed]
+PHST- 2024/06/05 14:53 [entrez]
+AID - 10.1021/acsami.4c06993 [doi]
+PST - ppublish
+SO  - ACS Appl Mater Interfaces. 2024 Jun 19;16(24):31657-31665. doi: 
+      10.1021/acsami.4c06993. Epub 2024 Jun 5.
 
 PMID- 35632243
 OWN - NLM
@@ -9846,92 +11839,146 @@ PST - epublish
 SO  - Heliyon. 2024 Apr 22;10(9):e30001. doi: 10.1016/j.heliyon.2024.e30001. 
       eCollection 2024 May 15.
 
-PMID- 33866074
+PMID- 39255487
 OWN - NLM
 STAT- MEDLINE
-DCOM- 20210512
-LR  - 20210512
-IS  - 1873-4235 (Electronic)
-IS  - 0956-5663 (Linking)
-VI  - 184
-DP  - 2021 Jul 15
-TI  - Self-reconfigurable high-weight-per-volume-gelatin films for 
-      all-solution-processed on-skin electronics with ultra-conformal contact.
-PG  - 113231
-LID - S0956-5663(21)00268-2 [pii]
-LID - 10.1016/j.bios.2021.113231 [doi]
-AB  - Although conventional skin-attachable electronics exhibit good functionalities, 
-      their direct attachment (without any adhesive) to human skin with sufficient 
-      conformal contact is challenging. Herein, all-solution-processed on-skin 
-      electronics based on self-reconfigurable high-weight-per- volume-gelatin (HWVG) 
-      film constructed using an effective, biocompatible water absorption-evaporation 
-      technique are demonstrated. Completely conformal contact of self-reconfigurable 
-      HWVG films is realized by rapidly inducing anisotropic swelling in the 
-      perpendicular direction and covering any curvature on the skin without spatial 
-      gap or void after shrinking. A sufficiently thin HWVG film (~2 um) exhibited 
-      higher adhesion owing to van der Waals force and the carboxylic acid and amine 
-      groups in HWVG film form cross-linkages through intermolecular bonds with human 
-      skin. Self-reconfigurable HWVG films with high biocompatibility are optimized to 
-      afford a superior efficiency of 87.83 % at a concentration of 20 % (w/v) and a 
-      storage modulus of 1822 MPa at 36.5 °C. Furthermore, functional nanoelectrodes 
-      consisting of self-reconfigurable silver nanowires/HWVG films for 
-      high-performance on-skin sensors allowing the detection of sensitive motion and 
-      electrophysiological signals, as well as an armband-type sensor system 
-      incorporated with a smartphone for health-care monitoring are demonstrated. 
-      Outstanding performances, including stability, reliability, flexibility, 
-      re-usability, biocompatibility, and permeability of on-skin electronics based on 
-      HWVG films can open-up a prospective route to realizing breathable human-machine 
-      interfaces based on biocompatible materials and processes.
-CI  - Copyright © 2021 Elsevier B.V. All rights reserved.
-FAU - Choi, Hyeong-Jun
-AU  - Choi HJ
-AD  - Department of Electronic Materials Engineering, Kwangwoon University, Seoul, 
-      01897, South Korea.
-FAU - Kang, Byeong-Cheol
-AU  - Kang BC
-AD  - Department of Electronic Materials Engineering, Kwangwoon University, Seoul, 
-      01897, South Korea.
-FAU - Ha, Tae-Jun
-AU  - Ha TJ
-AD  - Department of Electronic Materials Engineering, Kwangwoon University, Seoul, 
-      01897, South Korea. Electronic address: taejunha0604@gmail.com.
+DCOM- 20240910
+LR  - 20240910
+IS  - 2292-9495 (Electronic)
+IS  - 2292-9495 (Linking)
+VI  - 11
+DP  - 2024 Sep 10
+TI  - Usability, Ergonomics, and Educational Value of a Novel Telestration Tool for 
+      Surgical Coaching: Usability Study.
+PG  - e57243
+LID - 10.2196/57243 [doi]
+AB  - BACKGROUND: Telementoring studies found technical challenges in achieving 
+      accurate and stable annotations during live surgery using commercially available 
+      telestration software intraoperatively. To address the gap, a wireless handheld 
+      telestration device was developed to facilitate dynamic user interaction with 
+      live video streams. OBJECTIVE: This study aims to find the perceived usability, 
+      ergonomics, and educational value of a first-generation handheld wireless 
+      telestration platform. METHODS: A prototype was developed with four core 
+      hand-held functions: (1) free-hand annotation, (2) cursor navigation, (3) overlay 
+      and manipulation (rotation) of ghost (avatar) instrumentation, and (4) hand-held 
+      video feed navigation on a remote monitor. This device uses a proprietary 
+      augmented reality platform. Surgeons and trainees were invited to test the core 
+      functions of the platform by performing standardized tasks. Usability and 
+      ergonomics were evaluated with a validated system usability scale and a 5-point 
+      Likert scale survey, which also evaluated the perceived educational value of the 
+      device. RESULTS: In total, 10 people (9 surgeons and 1 senior resident; 5 male 
+      and 5 female) participated. Participants strongly agreed or agreed (SA/A) that it 
+      was easy to perform annotations (SA/A 9, 90% and neutral 0, 0%), video feed 
+      navigation (SA/A 8, 80% and neutral 1, 10%), and manipulation of ghost (avatar) 
+      instruments on the monitor (SA/A 6, 60% and neutral 3, 30%). Regarding 
+      ergonomics, 40% (4) of participants agreed or strongly agreed (neutral 4, 40%) 
+      that the device was physically comfortable to use and hold. These results are 
+      consistent with open-ended comments on the device's size and weight. The average 
+      system usability scale was 70 (SD 12.5; median 75, IQR 63-84) indicating an above 
+      average usability score. Participants responded favorably to the device's 
+      perceived educational value, particularly for postoperative coaching (agree 6, 
+      60%, strongly agree 4, 40%). CONCLUSIONS: This study presents the preliminary 
+      usability results of a novel first-generation telestration tool customized for 
+      use in surgical coaching. Favorable usability and perceived educational value 
+      were reported. Future iterations of the device should focus on incorporating user 
+      feedback and additional studies should be conducted to evaluate its effectiveness 
+      for improving surgical education. Ultimately, such tools can be incorporated into 
+      pedagogical models of surgical coaching to optimize feedback and training.
+CI  - ©Parmiss Kiani, Roberta Dolling-Boreham, Mohamed Saif Hameed, Caterina Masino, 
+      Andras Fecso, Allan Okrainec, Amin Madani. Originally published in JMIR Human 
+      Factors (https://humanfactors.jmir.org), 10.09.2024.
+FAU - Kiani, Parmiss
+AU  - Kiani P
+AUID- ORCID: 0009-0004-4467-4143
+AD  - Surgical Artificial Intelligence Research Academy, University Health Network, 
+      Toronto, ON, Canada.
+FAU - Dolling-Boreham, Roberta
+AU  - Dolling-Boreham R
+AUID- ORCID: 0000-0002-0310-0846
+AD  - Surgical Artificial Intelligence Research Academy, University Health Network, 
+      Toronto, ON, Canada.
+AD  - Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada.
+FAU - Hameed, Mohamed Saif
+AU  - Hameed MS
+AUID- ORCID: 0000-0001-8476-8540
+AD  - Surgical Artificial Intelligence Research Academy, University Health Network, 
+      Toronto, ON, Canada.
+FAU - Masino, Caterina
+AU  - Masino C
+AUID- ORCID: 0009-0001-7256-1750
+AD  - Surgical Artificial Intelligence Research Academy, University Health Network, 
+      Toronto, ON, Canada.
+FAU - Fecso, Andras
+AU  - Fecso A
+AUID- ORCID: 0000-0002-2289-2471
+AD  - Department of Surgery, University of Toronto, Toronto, ON, Canada.
+FAU - Okrainec, Allan
+AU  - Okrainec A
+AUID- ORCID: 0000-0003-1117-958X
+AD  - Department of Surgery, University of Toronto, Toronto, ON, Canada.
+FAU - Madani, Amin
+AU  - Madani A
+AUID- ORCID: 0000-0003-0901-9851
+AD  - Surgical Artificial Intelligence Research Academy, University Health Network, 
+      Toronto, ON, Canada.
+AD  - Department of Surgery, University of Toronto, Toronto, ON, Canada.
 LA  - eng
 PT  - Journal Article
-DEP - 20210415
-PL  - England
-TA  - Biosens Bioelectron
-JT  - Biosensors & bioelectronics
-JID - 9001289
-RN  - 0 (gelatin film)
-RN  - 9000-70-8 (Gelatin)
+DEP - 20240910
+PL  - Canada
+TA  - JMIR Hum Factors
+JT  - JMIR human factors
+JID - 101666561
 SB  - IM
-MH  - *Biosensing Techniques
-MH  - Electronics
-MH  - Gelatin
 MH  - Humans
-MH  - Prospective Studies
-MH  - Reproducibility of Results
-MH  - *Wearable Electronic Devices
+MH  - *Ergonomics/methods
+MH  - Female
+MH  - Male
+MH  - *Mentoring/methods
+MH  - Adult
+MH  - User-Computer Interface
+MH  - Telemedicine/instrumentation
+MH  - Surveys and Questionnaires
 OTO - NOTNLM
-OT  - High-weight-per- volume-gelatin
-OT  - On-skin electronics
-OT  - Self-reconfiguration
-OT  - Silver nanowires
-OT  - Ultra-conformal contact
-EDAT- 2021/04/19 06:00
-MHDA- 2021/05/13 06:00
-CRDT- 2021/04/18 20:43
-PHST- 2021/01/22 00:00 [received]
-PHST- 2021/03/20 00:00 [revised]
-PHST- 2021/04/04 00:00 [accepted]
-PHST- 2021/04/19 06:00 [pubmed]
-PHST- 2021/05/13 06:00 [medline]
-PHST- 2021/04/18 20:43 [entrez]
-AID - S0956-5663(21)00268-2 [pii]
-AID - 10.1016/j.bios.2021.113231 [doi]
-PST - ppublish
-SO  - Biosens Bioelectron. 2021 Jul 15;184:113231. doi: 10.1016/j.bios.2021.113231. 
-      Epub 2021 Apr 15.
+OT  - AR
+OT  - augmented reality
+OT  - digital health
+OT  - digital intervention
+OT  - digital interventions
+OT  - digital technology
+OT  - minimally invasive surgery
+OT  - surgeon
+OT  - surgeons
+OT  - surgery
+OT  - surgical
+OT  - surgical coaching
+OT  - surgical teaching
+OT  - surgical training
+OT  - surgical training technology
+OT  - tele-monitor
+OT  - tele-monitoring
+OT  - tele-stration
+OT  - telemonitor
+OT  - telemonitoring
+OT  - telestration
+OT  - usability
+OT  - usable
+OT  - usableness
+OT  - usefulness
+OT  - utility
+EDAT- 2024/09/10 18:41
+MHDA- 2024/09/10 18:42
+CRDT- 2024/09/10 16:54
+PHST- 2024/02/20 00:00 [received]
+PHST- 2024/07/17 00:00 [accepted]
+PHST- 2024/06/26 00:00 [revised]
+PHST- 2024/09/10 18:42 [medline]
+PHST- 2024/09/10 18:41 [pubmed]
+PHST- 2024/09/10 16:54 [entrez]
+AID - v11i1e57243 [pii]
+AID - 10.2196/57243 [doi]
+PST - epublish
+SO  - JMIR Hum Factors. 2024 Sep 10;11:e57243. doi: 10.2196/57243.
 
 PMID- 37698905
 OWN - NLM
@@ -10060,6 +12107,183 @@ AID - v12i1e45170 [pii]
 AID - 10.2196/45170 [doi]
 PST - epublish
 SO  - JMIR Res Protoc. 2023 Sep 12;12:e45170. doi: 10.2196/45170.
+
+PMID- 38551123
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240909
+LR  - 20240909
+IS  - 1550-9109 (Electronic)
+IS  - 0161-8105 (Linking)
+VI  - 47
+IP  - 9
+DP  - 2024 Sep 9
+TI  - The Swiss Primary Hypersomnolence and Narcolepsy Cohort Study: feasibility of 
+      long-term monitoring with Fitbit smartwatches in central disorders of 
+      hypersomnolence and extraction of digital biomarkers in narcolepsy.
+LID - zsae083 [pii]
+LID - 10.1093/sleep/zsae083 [doi]
+AB  - The Swiss Primary Hypersomnolence and Narcolepsy Cohort Study (SPHYNCS) is a 
+      multicenter research initiative to identify new biomarkers in central disorders 
+      of hypersomnolence (CDH). Whereas narcolepsy type 1 (NT1) is well characterized, 
+      other CDH disorders lack precise biomarkers. In SPHYNCS, we utilized Fitbit 
+      smartwatches to monitor physical activity, heart rate, and sleep parameters over 
+      1 year. We examined the feasibility of long-term ambulatory monitoring using the 
+      wearable device. We then explored digital biomarkers differentiating patients 
+      with NT1 from healthy controls (HC). A total of 115 participants received a 
+      Fitbit smartwatch. Using a adherence metric to evaluate the usability of the 
+      wearable device, we found an overall adherence rate of 80% over 1 year. We 
+      calculated daily physical activity, heart rate, and sleep parameters from 2 weeks 
+      of greatest adherence to compare NT1 (n = 20) and HC (n = 9) participants. 
+      Compared to controls, NT1 patients demonstrated findings consistent with 
+      increased sleep fragmentation, including significantly greater wake-after-sleep 
+      onset (p = .007) and awakening index (p = .025), as well as standard deviation of 
+      time in bed (p = .044). Moreover, NT1 patients exhibited a significantly shorter 
+      REM latency (p = .019), and sleep latency (p = .001), as well as a lower peak 
+      heart rate (p = .008), heart rate standard deviation (p = .039) and 
+      high-intensity activity (p = .009) compared to HC. This ongoing study 
+      demonstrates the feasibility of long-term monitoring with wearable technology in 
+      patients with CDH and potentially identifies a digital biomarker profile for NT1. 
+      While further validation is needed in larger datasets, these data suggest that 
+      long-term wearable technology may play a future role in diagnosing and managing 
+      narcolepsy.
+CI  - © The Author(s) 2024. Published by Oxford University Press on behalf of Sleep 
+      Research Society. All rights reserved. For commercial re-use, please contact 
+      reprints@oup.com for reprints and translation rights for reprints. All other 
+      permissions can be obtained through our RightsLink service via the Permissions 
+      link on the article page on our site—for further information please contact 
+      journals.permissions@oup.com.
+FAU - Gnarra, Oriella
+AU  - Gnarra O
+AUID- ORCID: 0000-0002-6008-2437
+AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
+      University Hospital, University of Bern, Bern, Switzerland.
+AD  - Sensory-Motor Systems Lab, Department of Health Sciences and Technology, 
+      Institute of Robotics and Intelligent Systems, ETH Zurich, Switzerland.
+FAU - van der Meer, Julia
+AU  - van der Meer J
+AUID- ORCID: 0000-0002-1913-5146
+AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
+      University Hospital, University of Bern, Bern, Switzerland.
+FAU - Warncke, Jan D
+AU  - Warncke JD
+AUID- ORCID: 0000-0001-6852-4191
+AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
+      University Hospital, University of Bern, Bern, Switzerland.
+FAU - Fregolente, Livia G
+AU  - Fregolente LG
+AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
+      University Hospital, University of Bern, Bern, Switzerland.
+AD  - Graduate School of Health Sciences, University of Bern, Bern, Switzerland.
+FAU - Wenz, Elena
+AU  - Wenz E
+AUID- ORCID: 0000-0002-6231-3358
+AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
+      University Hospital, University of Bern, Bern, Switzerland.
+AD  - Graduate School of Health Sciences, University of Bern, Bern, Switzerland.
+FAU - Zub, Kseniia
+AU  - Zub K
+AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
+      University Hospital, University of Bern, Bern, Switzerland.
+FAU - Nwachukwu, Uchendu
+AU  - Nwachukwu U
+AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
+      University Hospital, University of Bern, Bern, Switzerland.
+FAU - Zhang, Zhongxing
+AU  - Zhang Z
+AUID- ORCID: 0000-0003-0184-8882
+AD  - Graduate School of Health Sciences, University of Bern, Bern, Switzerland.
+AD  - Clinic Barmelweid, Center for Sleep Medicine and Sleep Research, Barmelweid, 
+      Switzerland.
+FAU - Khatami, Ramin
+AU  - Khatami R
+AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
+      University Hospital, University of Bern, Bern, Switzerland.
+AD  - Graduate School of Health Sciences, University of Bern, Bern, Switzerland.
+AD  - Clinic Barmelweid, Center for Sleep Medicine and Sleep Research, Barmelweid, 
+      Switzerland.
+FAU - von Manitius, Sigrid
+AU  - von Manitius S
+AD  - Clinic Barmelweid, Center for Sleep Medicine and Sleep Research, Barmelweid, 
+      Switzerland.
+AD  - Department of Neurology, Kantonsspital St. Gallen, St. Gallen, Switzerland.
+FAU - Miano, Silvia
+AU  - Miano S
+AD  - Department of Neurology, Kantonsspital St. Gallen, St. Gallen, Switzerland.
+AD  - Neurocenter of Southern Switzerland, Faculty of Biomedical Sciences, Università 
+      della Svizzera Italiana, Sleep Medicine Unit, Ospedale Civico, Lugano, 
+      Switzerland.
+FAU - Acker, Jens
+AU  - Acker J
+AD  - Neurocenter of Southern Switzerland, Faculty of Biomedical Sciences, Università 
+      della Svizzera Italiana, Sleep Medicine Unit, Ospedale Civico, Lugano, 
+      Switzerland.
+AD  - Clinic for Sleep Medicine, Bad Zurzach, Switzerland.
+FAU - Strub, Mathias
+AU  - Strub M
+AD  - Clinic for Sleep Medicine, Bad Zurzach, Switzerland.
+AD  - Zentrum für Schlafmedizin Basel, Basel, Switzerland.
+FAU - Riener, Robert
+AU  - Riener R
+AD  - Sensory-Motor Systems Lab, Department of Health Sciences and Technology, 
+      Institute of Robotics and Intelligent Systems, ETH Zurich, Switzerland.
+AD  - Zentrum für Schlafmedizin Basel, Basel, Switzerland.
+AD  - Spinal Cord Injury Center, University Hospital Balgrist, Zurich, Switzerland.
+FAU - Bassetti, Claudio L A
+AU  - Bassetti CLA
+AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
+      University Hospital, University of Bern, Bern, Switzerland.
+FAU - Schmidt, Markus H
+AU  - Schmidt MH
+AUID- ORCID: 0000-0002-3299-1318
+AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
+      University Hospital, University of Bern, Bern, Switzerland.
+AD  - Spinal Cord Injury Center, University Hospital Balgrist, Zurich, Switzerland.
+AD  - Ohio Sleep Medicine Institute, Dublin, USA.
+LA  - eng
+GR  - 320030_185362/SNSF_/Swiss National Science Foundation/Switzerland
+GR  - IIS-2017-120409/UCB Biopharma SRL/
+GR  - IST-18-10975/Jazz Pharmaceuticals/
+PT  - Journal Article
+PT  - Multicenter Study
+PL  - United States
+TA  - Sleep
+JT  - Sleep
+JID - 7809084
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Humans
+MH  - *Narcolepsy/physiopathology/diagnosis
+MH  - Male
+MH  - Female
+MH  - *Feasibility Studies
+MH  - Adult
+MH  - *Biomarkers/blood
+MH  - *Wearable Electronic Devices
+MH  - Switzerland
+MH  - Cohort Studies
+MH  - Heart Rate/physiology
+MH  - Middle Aged
+MH  - Disorders of Excessive Somnolence/diagnosis/physiopathology
+MH  - Exercise/physiology
+OTO - NOTNLM
+OT  - digital biomarkers
+OT  - hypersomnolence
+OT  - narcolepsy
+OT  - telemonitoring
+OT  - wearables
+EDAT- 2024/03/29 12:46
+MHDA- 2024/09/09 06:42
+CRDT- 2024/03/29 06:03
+PHST- 2023/10/04 00:00 [received]
+PHST- 2024/03/11 00:00 [revised]
+PHST- 2024/09/09 06:42 [medline]
+PHST- 2024/03/29 12:46 [pubmed]
+PHST- 2024/03/29 06:03 [entrez]
+AID - 7637336 [pii]
+AID - 10.1093/sleep/zsae083 [doi]
+PST - ppublish
+SO  - Sleep. 2024 Sep 9;47(9):zsae083. doi: 10.1093/sleep/zsae083.
 
 PMID- 38959294
 OWN - NLM
@@ -10190,6 +12414,191 @@ AID - v8i1e59948 [pii]
 AID - 10.2196/59948 [doi]
 PST - epublish
 SO  - JMIR Cardio. 2024 Aug 8;8:e59948. doi: 10.2196/59948.
+
+PMID- 38995798
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240906
+LR  - 20240910
+IS  - 2214-3602 (Electronic)
+IS  - 2214-3599 (Print)
+IS  - 2214-3599 (Linking)
+VI  - 11
+IP  - 5
+DP  - 2024
+TI  - Smartphone-Based Assessment of Mobility and Manual Dexterity in Adult People with 
+      Spinal Muscular Atrophy.
+PG  - 1049-1065
+LID - 10.3233/JND-240004 [doi]
+AB  - BACKGROUND: More responsive, reliable, and clinically valid endpoints of 
+      disability are essential to reduce size, duration, and burden of clinical trials 
+      in adult persons with spinal muscular atrophy (aPwSMA). OBJECTIVE: The aim is to 
+      investigate the feasibility of smartphone-based assessments in aPwSMA and provide 
+      evidence on the reliability and construct validity of sensor-derived measures 
+      (SDMs) of mobility and manual dexterity collected remotely in aPwSMA. METHODS: 
+      Data were collected from 59 aPwSMA (23 walkers, 20 sitters and 16 non-sitters) 
+      and 30 age-matched healthy controls (HC). SDMs were extracted from five 
+      smartphone-based tests capturing mobility and manual dexterity, which were 
+      administered in-clinic and remotely in daily life for four weeks. Reliability 
+      (Intraclass Correlation Coefficients, ICC) and construct validity (ability to 
+      discriminate between HC and aPwSMA and correlations with Revised Upper Limb 
+      Module, RULM and Hammersmith Functional Scale - Expanded HFMSE) were quantified 
+      for all SDMs. RESULTS: The smartphone-based assessments proved feasible, with 
+      92.1% average adherence in aPwSMA. The SDMs allowed to reliably assess both 
+      mobility and dexterity (ICC > 0.75 for 14/22 SDMs). Twenty-one out of 22 SDMs 
+      significantly discriminated between HC and aPwSMA. The highest correlations with 
+      the RULM were observed for SDMs from the manual dexterity tests in both 
+      non-sitters (Typing, ρ= 0.78) and sitters (Pinching, ρ= 0.75). In walkers, the 
+      highest correlation was between mobility tests and HFMSE (5 U-Turns, ρ= 0.79). 
+      CONCLUSIONS: This exploratory study provides preliminary evidence for the 
+      usability of smartphone-based assessments of mobility and manual dexterity in 
+      aPwSMA when deployed remotely in participants' daily life. Reliability and 
+      construct validity of SDMs remotely collected in real-life was demonstrated, 
+      which is a pre-requisite for their use in longitudinal trials. Additionally, 
+      three novel smartphone-based performance outcome assessments were successfully 
+      established for aPwSMA. Upon further validation of responsiveness to 
+      interventions, this technology holds potential to increase the efficiency of 
+      clinical trials in aPwSMA.
+FAU - Arteaga-Bracho, Eduardo
+AU  - Arteaga-Bracho E
+AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
+FAU - Cosne, Gautier
+AU  - Cosne G
+AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
+FAU - Kanzler, Christoph
+AU  - Kanzler C
+AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
+FAU - Karatsidis, Angelos
+AU  - Karatsidis A
+AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
+FAU - Mazzà, Claudia
+AU  - Mazzà C
+AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
+FAU - Penalver-Andres, Joaquin
+AU  - Penalver-Andres J
+AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
+FAU - Zhu, Cong
+AU  - Zhu C
+AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
+FAU - Shen, Changyu
+AU  - Shen C
+AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
+FAU - Erb M, Kelley
+AU  - Erb M K
+AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
+FAU - Freigang, Maren
+AU  - Freigang M
+AD  - Department of Neurology, Dresden University Hospital, Dresden, Germany.
+FAU - Lapp, Hanna-Sophie
+AU  - Lapp HS
+AD  - Department of Neurology, Dresden University Hospital, Dresden, Germany.
+FAU - Thiele, Simone
+AU  - Thiele S
+AD  - Friedrich-Baur-Institute at the Department of Neurology, LMU University Hospital, 
+      LMU Munich, Munich, Germany.
+FAU - Wenninger, Stephan
+AU  - Wenninger S
+AD  - Friedrich-Baur-Institute at the Department of Neurology, LMU University Hospital, 
+      LMU Munich, Munich, Germany.
+FAU - Jung, Erik
+AU  - Jung E
+AD  - Department of Neurology, Heidelberg University Hospital, Heidelberg, Germany.
+FAU - Petri, Susanne
+AU  - Petri S
+AD  - Department of Neurology, Hannover Medical School, Hannover, Germany.
+FAU - Weiler, Markus
+AU  - Weiler M
+AD  - Department of Neurology, Heidelberg University Hospital, Heidelberg, Germany.
+FAU - Kleinschnitz, Christoph
+AU  - Kleinschnitz C
+AD  - Department of Neurology, Center for Translational Neuro- and Behavioral Sciences 
+      (C-TNBS), University Hospital Essen, Essen, Germany.
+FAU - Walter, Maggie C
+AU  - Walter MC
+AD  - Friedrich-Baur-Institute at the Department of Neurology, LMU University Hospital, 
+      LMU Munich, Munich, Germany.
+FAU - Günther, René
+AU  - Günther R
+AD  - Department of Neurology, Dresden University Hospital, Dresden, Germany.
+FAU - Campbell, Nolan
+AU  - Campbell N
+AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
+FAU - Belachew, Shibeshih
+AU  - Belachew S
+AD  - Biogen Digital Health, Biogen, Cambridge, MA, USA.
+FAU - Hagenacker, Tim
+AU  - Hagenacker T
+AD  - Department of Neurology, Center for Translational Neuro- and Behavioral Sciences 
+      (C-TNBS), University Hospital Essen, Essen, Germany.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - J Neuromuscul Dis
+JT  - Journal of neuromuscular diseases
+JID - 101649948
+SB  - IM
+MH  - Humans
+MH  - *Smartphone
+MH  - Male
+MH  - Female
+MH  - Adult
+MH  - *Muscular Atrophy, Spinal/physiopathology
+MH  - Reproducibility of Results
+MH  - Middle Aged
+MH  - Motor Skills/physiology
+MH  - Disability Evaluation
+MH  - Feasibility Studies
+PMC - PMC11380318
+OTO - NOTNLM
+OT  - Remote monitoring
+OT  - accelerometers
+OT  - drawing
+OT  - pinching
+OT  - turning
+OT  - typing
+OT  - walking
+OT  - wearable sensors
+COIS- EAB, GC, CK, AK, CM, JPA, CZ, CS, KME, and SB were Biogen employees at the time 
+      of writing and might hold stock of the Company. HSL has received advisory fees 
+      from Biogen outside of the submitted work. SW has received research grant by the 
+      DGM— Deutsche Gesellschaft für Muskelkranke e.V. He has served on advisory boards 
+      for Alexion Pharma, UCB Pharma GmbH, AMICUS Therapeutics GmbH, and Sanofi Genzyme 
+      GmbH. He received funding for travel or speaker Honoraria from Sanofi-Aventis 
+      Germany GmbH; SH Glykogenose Gesellschaft; AbbVie Germany GmbH; Recordati Pharma 
+      GmbH; CSLBehring GmbH; Alexion Pharma GmbH; Desitin Germany; Akcea GmbH. SP 
+      received honoraria as speaker/consultant from Biogen GmbH, Roche, Novartis, Teva, 
+      Cytokinetics Inc., Desitin, Italfarmaco, Amylyx, and Zambon; and grants from DGM 
+      e.V, Federal Ministry of Education and Research, German Israeli Foundation for 
+      Scientific Research and Development, EU Joint Program for Neurodegenerative 
+      Disease Research and Neurodegenerative Research, Inc., outside of the submitted 
+      work. MW has received advisory board and consultant honoraria from Biogen and 
+      Hoffmann-La Roche, speaker honoraria and travel support for conference attendance 
+      from Biogen, outside of the submitted work, and is a member of the European 
+      Reference Network for Neuromuscular Diseases (ERN EURO-NMD). WMC attended 
+      advisory boards of AveXis Pharma, Biogen Pharma GmbH, Novartis Pharma GmbH, 
+      Pfizer Inc., PharNEXT, PTC Therapeutics, Roche Pharma AG, RTI HS, Santhera 
+      Pharmaceuticals, Sarepta Therapeutics Inc, received funding for travel and 
+      speaker honoraria from Biogen Pharma GmbH, Colloquium Neurologicum, Novartis 
+      Pharma GmbH, PTC Therapeutics, Santhera Pharmaceuticals, and consulted for 
+      Affinia, Audentes Therapeutics, Avexis, Biogen Pharma GmbH, BridgeBio, Edgewise, 
+      Fulcrum Therapeutics, Grünenthal PharmaML Bio, Novartis Pharma GmbH, Pfizer Inc., 
+      PharNEXT, PTC therapeutics, Roche Pharma AG. RG has received personal fees from 
+      Biogen, Hofmann-La Roche, Zambon and ITF Pharma and research support from Biogen, 
+      all support was received outside the scope of the submitted work. TH received 
+      compensation for adboard consultancy, speaker fees and research support from 
+      Biogen and Roche and research support from Novartis.
+EDAT- 2024/07/12 18:42
+MHDA- 2024/09/06 12:44
+PMCR- 2024/09/07
+CRDT- 2024/07/12 12:43
+PHST- 2024/09/06 12:44 [medline]
+PHST- 2024/07/12 18:42 [pubmed]
+PHST- 2024/07/12 12:43 [entrez]
+PHST- 2024/09/07 00:00 [pmc-release]
+AID - JND240004 [pii]
+AID - 10.3233/JND-240004 [doi]
+PST - ppublish
+SO  - J Neuromuscul Dis. 2024;11(5):1049-1065. doi: 10.3233/JND-240004.
 
 PMID- 36260404
 OWN - NLM
@@ -10851,146 +13260,6 @@ AID - 10.1007/s40368-024-00878-7 [doi]
 PST - ppublish
 SO  - Eur Arch Paediatr Dent. 2024 Apr;25(2):237-246. doi: 10.1007/s40368-024-00878-7. 
       Epub 2024 Apr 21.
-
-PMID- 38551123
-OWN - NLM
-STAT- Publisher
-LR  - 20240329
-IS  - 1550-9109 (Electronic)
-IS  - 0161-8105 (Linking)
-DP  - 2024 Mar 29
-TI  - SPHYNCS: Feasibility of long-term monitoring with Fitbit smartwatches in central 
-      disorders of hypersomnolence and extraction of digital biomarkers in narcolepsy.
-LID - zsae083 [pii]
-LID - 10.1093/sleep/zsae083 [doi]
-AB  - The Swiss Primary Hypersomnolence and Narcolepsy Cohort Study (SPHYNCS) is a 
-      multicenter research initiative to identify new biomarkers in central disorders 
-      of hypersomnolence (CDH). Whereas narcolepsy type 1 (NT1) is well characterized, 
-      other CDH disorders lack precise biomarkers. In SPHYNCS, we utilized Fitbit 
-      smartwatches to monitor physical activity, heart rate, and sleep parameters over 
-      one year. We examined the feasibility of long-term ambulatory monitoring using 
-      the wearable device. We then explored digital biomarkers differentiating patients 
-      with NT1 from healthy controls (HC). A total of 115 participants received a 
-      Fitbit smartwatch. Using a compliance metric to evaluate the usability of the 
-      wearable device, we found an overall compliance rate of 80% over one year. We 
-      calculated daily physical activity, heart rate, and sleep parameters from two 
-      weeks of greatest compliance to compare NT1 (n=20) and HC (n=9) subjects. 
-      Compared to controls, NT1 patients demonstrated findings consistent with 
-      increased sleep fragmentation, including significantly greater wake-after-sleep 
-      onset (p=0.007) and awakening index (p=0.025), as well as standard deviation of 
-      time in bed (p=0.044). Moreover, NT1 patients exhibited a significantly shorter 
-      REM latency (p=0.019), and sleep latency (p=0.001), as well as a lower peak heart 
-      rate (p=0.008), heart rate standard deviation (p=0.039) and high-intensity 
-      activity (p=0.009) compared to HC. This ongoing study demonstrates the 
-      feasibility of long-term monitoring with wearable technology in patients with CDH 
-      and potentially identifies a digital biomarker profile for NT1. While further 
-      validation is needed in larger datasets, these data suggest that long-term 
-      wearable technology may play a future role in diagnosing and managing narcolepsy.
-CI  - © The Author(s) 2024. Published by Oxford University Press on behalf of Sleep 
-      Research Society. All rights reserved. For permissions, please e-mail: 
-      journals.permissions@oup.com.
-FAU - Gnarra, Oriella
-AU  - Gnarra O
-AUID- ORCID: 0000-0002-6008-2437
-AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
-      University Hospital, University of Bern, Bern, Switzerland.
-AD  - Sensory-Motor Systems Lab, Department of Health Sciences and Technology, 
-      Institute of Robotics and Intelligent Systems, ETH Zurich, Switzerland.
-FAU - van der Meer, Julia
-AU  - van der Meer J
-AUID- ORCID: 0000-0002-1913-5146
-AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
-      University Hospital, University of Bern, Bern, Switzerland.
-FAU - Warncke, Jan D
-AU  - Warncke JD
-AUID- ORCID: 0000-0001-6852-4191
-AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
-      University Hospital, University of Bern, Bern, Switzerland.
-FAU - Fregolente, Livia G
-AU  - Fregolente LG
-AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
-      University Hospital, University of Bern, Bern, Switzerland.
-AD  - Graduate School of Health Sciences, University of Bern, Switzerland.
-FAU - Wenz, Elena
-AU  - Wenz E
-AUID- ORCID: 0000-0002-6231-3358
-AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
-      University Hospital, University of Bern, Bern, Switzerland.
-AD  - Graduate School of Health Sciences, University of Bern, Switzerland.
-FAU - Zub, Kseniia
-AU  - Zub K
-AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
-      University Hospital, University of Bern, Bern, Switzerland.
-FAU - Nwachukwu, Uchendu
-AU  - Nwachukwu U
-AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
-      University Hospital, University of Bern, Bern, Switzerland.
-FAU - Zhang, Zhongxing
-AU  - Zhang Z
-AUID- ORCID: 0000-0003-0184-8882
-AD  - Clinic Barmelweid, Center for Sleep Medicine and Sleep Research, Barmelweid, 
-      Switzerland.
-FAU - Khatami, Ramin
-AU  - Khatami R
-AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
-      University Hospital, University of Bern, Bern, Switzerland.
-AD  - Clinic Barmelweid, Center for Sleep Medicine and Sleep Research, Barmelweid, 
-      Switzerland.
-FAU - von Manitius, Sigrid
-AU  - von Manitius S
-AD  - Department of Neurology, Kantonsspital St. Gallen St, Gallen, Switzerland.
-FAU - Miano, Silvia
-AU  - Miano S
-AD  - Neurocenter of Southern Switzerland, Faculty of Biomedical Sciences, Università 
-      della Svizzera Italiana, Sleep Medicine Unit, Ospedale Civico, Lugano, 
-      Switzerland.
-FAU - Acker, Jens
-AU  - Acker J
-AD  - Clinic for Sleep Medicine, Bad Zurzach, Switzerland.
-FAU - Strub, Mathias
-AU  - Strub M
-AD  - Zentrum für Schlafmedizin Basel, Basel, Switzerland.
-FAU - Riener, Robert
-AU  - Riener R
-AD  - Sensory-Motor Systems Lab, Department of Health Sciences and Technology, 
-      Institute of Robotics and Intelligent Systems, ETH Zurich, Switzerland.
-AD  - Spinal Cord Injury Center, University Hospital Balgrist, Zurich, Switzerland.
-CN  - SPHYNCS Investigators
-FAU - Bassetti, Claudio L A
-AU  - Bassetti CLA
-AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
-      University Hospital, University of Bern, Bern, Switzerland.
-FAU - Schmidt, Markus H
-AU  - Schmidt MH
-AUID- ORCID: 0000-0002-3299-1318
-AD  - Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern 
-      University Hospital, University of Bern, Bern, Switzerland.
-AD  - Ohio Sleep Medicine Institute, Dublin, United States.
-LA  - eng
-PT  - Journal Article
-DEP - 20240329
-PL  - United States
-TA  - Sleep
-JT  - Sleep
-JID - 7809084
-SB  - IM
-OTO - NOTNLM
-OT  - Digital Biomarkers
-OT  - Hypersomnolence
-OT  - Narcolepsy
-OT  - Telemonitoring
-OT  - Wearables
-EDAT- 2024/03/29 12:46
-MHDA- 2024/03/29 12:46
-CRDT- 2024/03/29 06:03
-PHST- 2023/10/04 00:00 [received]
-PHST- 2024/03/29 12:46 [medline]
-PHST- 2024/03/29 12:46 [pubmed]
-PHST- 2024/03/29 06:03 [entrez]
-AID - 7637336 [pii]
-AID - 10.1093/sleep/zsae083 [doi]
-PST - aheadofprint
-SO  - Sleep. 2024 Mar 29:zsae083. doi: 10.1093/sleep/zsae083.
 
 PMID- 39081617
 OWN - NLM

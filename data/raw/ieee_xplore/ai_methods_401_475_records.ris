@@ -1,4 +1,43 @@
 TY  - JOUR
+TI  - Digital Privacy in Healthcare: State-of-the-Art and Future Vision
+T2  - IEEE Access
+SP  - 84273
+EP  - 84291
+AU  - S. S. Mahadik
+AU  - P. M. Pawar
+AU  - R. Muthalagu
+AU  - N. R. Prasad
+AU  - S. -K. Hawkins
+AU  - D. Stripelis
+AU  - S. Rao
+AU  - P. Ejim
+AU  - B. Hecht
+PY  - 2024
+KW  - Privacy
+KW  - Medical services
+KW  - Data privacy
+KW  - Social networking (online)
+KW  - Law
+KW  - Regulation
+KW  - Web sites
+KW  - Artificial intelligence
+KW  - Digital privacy
+KW  - healthcare
+KW  - artificial intelligence
+KW  - challenges
+KW  - data privacy
+DO  - 10.1109/ACCESS.2024.3410035
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - The article draws inspiration from IEEE Digital Privacy, which explores attaining privacy goals for individuals in the digital realm. Privacy is an umbrella term that equates to respect for an individual’s dignity. When it integrates with digital technology, it alludes to individuals’ right and authority to control the flow of their personally identifiable information (PII) on the digital platform. Adopting digital technology in healthcare is not novel, but the COVID-19 outbreak has accelerated its incorporation into healthcare. Digital technology perks a wide range of healthcare professions, including biomedicine, diagnostic imaging, and remote patient monitoring, to mention a few, through facilitating accurate and effective health-related decisions. Thanks to technological advancements, healthcare professionals and other medical personnel are now quickly accessing and retaining patient information, which aids in scouring for optimal and swiftly acted-upon medications. While the technology’s inception is positive, it raised privacy issues for patients’ PII and other sensitive health data that remain intact. The review article addresses the key challenges in digital privacy for healthcare while also reviewing the state-of-the-art work by investigating data encryption techniques, access control mechanisms, and risk assessment techniques with digital privacy as a primary concern. Every country has enacted resilient laws and regulations to protect digital privacy in healthcare, which are briefed in the article. Artificial intelligence (AI) has proven valuable in cybersecurity and healthcare technology growth. As a result, the article delves into the hurdles of employing AI for healthcare digital privacy and cutting-edge work in healthcare digital privacy using AI. Finally, the article concludes with a future vision of data privacy in healthcare.
+ER  - 
+
+TY  - JOUR
 TI  - FedRadar: Federated Multi-Task Transfer Learning for Radar-Based Internet of Medical Things
 T2  - IEEE Transactions on Network and Service Management
 SP  - 1459
@@ -27,6 +66,113 @@ VL  - 20
 JA  - IEEE Transactions on Network and Service Management
 Y1  - June 2023
 AB  - Owing to increasing connected medical devices and rapid development of deep learning technologies, the Internet of Medical Things (IoMT) has attracted great attention for healthcare monitoring with intelligent sensors. Radar serves as a non-contact healthcare device, continuously measuring human’s vital signs and behavior to provide daily and comprehensive long-term record on health status. However, radar sensor data collected from various users and families usually involve sensitive personal information, while traditional deep learning technologies using IoMT radar data may present high privacy leakage risks. This paper proposes FedRadar, a novel federated multi-task transfer learning framework for radar-based heartbeat rate and activity monitoring in IoMT to solve these challenges. It deals with the decentralized structure, training personalized multi-task models collaboratively, combining the shared relevance knowledge of human’s physiological information while keeping personal radar data locally for privacy protection. First, the multi-task neural network is built on the spatial-temporal radar data to capture the potential relationship and shared representations between human’s vital sign and activity. Furthermore, the federated learning with knowledge transfer scheme is designed to achieve personalized local models by transferring coarse relevant features and keeping fine-grained individual information. Extensive experiments demonstrate the effectiveness and robustness of FedRadar with 2.8% and 2.5% superior than local training model respectively on the accuracy of heartbeat rate estimation and activity classification in realistic constructed radar datasets. In addition, FedRadar is extensible and suitable to continuously monitor multiple health indicators with privacy protection in IoMT. The FedRadar codes and constructed radar datasets are available on https://github.com/bupt-uwb/FedRadar.
+ER  - 
+
+TY  - JOUR
+TI  - FedCare: Federated Learning for Resource-Constrained Healthcare Devices in IoMT System
+T2  - IEEE Transactions on Computational Social Systems
+SP  - 1587
+EP  - 1596
+AU  - A. Gupta
+AU  - S. Misra
+AU  - N. Pathak
+AU  - D. Das
+PY  - 2023
+KW  - Training
+KW  - Monitoring
+KW  - Videos
+KW  - Servers
+KW  - Medical services
+KW  - Data models
+KW  - Privacy
+KW  - Camera-based monitoring
+KW  - federated learning (FL)
+KW  - internet of medical things
+KW  - IoMT
+KW  - remote monitoring
+KW  - social healthcare system
+KW  - split learning stragglers
+DO  - 10.1109/TCSS.2022.3232192
+JO  - IEEE Transactions on Computational Social Systems
+IS  - 4
+SN  - 2329-924X
+VO  - 10
+VL  - 10
+JA  - IEEE Transactions on Computational Social Systems
+Y1  - Aug. 2023
+AB  - In social IoMT systems, resource-constrained devices face the challenges of limited computation, bandwidth, and privacy in the deployment of deep learning models. Federated learning (FL) is one of the solutions to user privacy and provides distributed training among several local devices. In addition, it reduces the computation and bandwidth of transferring videos to the central server in camera-based IoMT devices. In this work, we design an edge-based federated framework for such devices. In contrast to traditional methods that drop the resource-constrained stragglers in a federated round, our system provides a methodology to incorporate them. We propose a new phase in the FL algorithm, known as split learning. The stragglers train collaboratively with the nearest edge node using split learning. We test the implementation using heterogeneous computing devices that extract vital signs from videos. The results show a reduction of 3.6 h in the training time of videos using the split learning phase with respect to the traditional approach. We also evaluate the performance of the devices and system with key parameters, CPU utilization, memory consumption, and data rate. Furthermore, we achieve 87.29% and 60.26% test accuracy at the nonstragglers and stragglers, respectively, with a global accuracy of 90.32% at the server. Therefore, FedCare provides a straggler-resistant federated method for a heterogeneous system for social IoMT devices.
+ER  - 
+
+TY  - CONF
+TI  - Industry 5.0 for Healthcare 5.0: Opportunities, Challenges and Future Research Possibilities
+T2  - 2023 7th International Conference on Trends in Electronics and Informatics (ICOEI)
+SP  - 204
+EP  - 213
+AU  - L. Gomathi
+AU  - A. K. Mishra
+AU  - A. K. Tyagi
+PY  - 2023
+KW  - Industries
+KW  - Training
+KW  - Ethics
+KW  - Service robots
+KW  - Law
+KW  - Telemedicine
+KW  - Data security
+KW  - Industry 5.0
+KW  - Healthcare
+KW  - Artificial Intelligence
+KW  - Blockchain
+KW  - Cognitive Systems
+KW  - Big Data Analytics
+KW  - HumanCentric
+KW  - Sustainability
+DO  - 10.1109/ICOEI56765.2023.10125660
+JO  - 2023 7th International Conference on Trends in Electronics and Informatics (ICOEI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 7th International Conference on Trends in Electronics and Informatics (ICOEI)
+Y1  - 11-13 April 2023
+AB  - Industry 5.0 is the subsequent stage in the development of manufacturing and production systems that combines cutting-edge technology with human intelligence and skills. The healthcare sector has been developing over time, going through significant changes at every stage. The emerging idea of Industry 5.0 in the healthcare sector, also known as Healthcare 5.0-and its potential applications in the healthcare sector are examined in this study. Healthcare 5.0 makes use of cutting-edge technologies to revolutionise healthcare delivery, improve patient outcomes, and improve the healthcare experience as a whole. Industry 5.0 places a strong emphasis on the integration of humans, machines, and technology in the manufacturing industry. The study discusses Healthcare 5.0's potentials and opportunities, including personalised medicine, sophisticated diagnostics, telemedicine, and more patient-centric care, all of which are made possible by the application of cutting-edge technologies like Artificial Intelligence (AI), blockchain, big data analytics, and robotics. The study also discusses the difficulties and problems that must be solved for Healthcare 5.0 to be implemented successfully, including data security and privacy, ethical and legal issues, the need for appropriate skills and training for healthcare professionals, and cost-effectiveness.
+ER  - 
+
+TY  - JOUR
+TI  - Recent Applications of Different Microstructure Designs in High Performance Tactile Sensors: A Review
+T2  - IEEE Sensors Journal
+SP  - 10291
+EP  - 10303
+AU  - X. Sun
+AU  - T. Liu
+AU  - J. Zhou
+AU  - L. Yao
+AU  - S. Liang
+AU  - M. Zhao
+AU  - C. Liu
+AU  - N. Xue
+PY  - 2021
+KW  - Microstructure
+KW  - Sensors
+KW  - Tactile sensors
+KW  - Skin
+KW  - Sensitivity
+KW  - Piezoresistance
+KW  - Chemicals
+KW  - Electronic skin
+KW  - flexible devices
+KW  - microstructures
+KW  - tactile sensors
+KW  - technologies progress
+DO  - 10.1109/JSEN.2021.3061677
+JO  - IEEE Sensors Journal
+IS  - 9
+SN  - 1558-1748
+VO  - 21
+VL  - 21
+JA  - IEEE Sensors Journal
+Y1  - 1 May1, 2021
+AB  - Flexible tactile sensors have become one of the most attractive research areas because of its great application prospect in electronic skin, healthcare monitoring and artificial intelligence. However, there are still great challenges in mimicking the human skin’s strong ability of tactile perception to the changes of external physical information. Nowadays, in addition to flexible polymers and conductive materials, the microstructure of sensing units is a key factor to improve the performance of tactile sensors such as sensitivity, fast response and robustness. In recent years, a variety of novel microstructure designs have been applied to applications of tactile information perception and numerous corresponding processing methods have also been developed, which provides a wealth of enlightening solutions for the production of electronic skins. Herein, a large number of research results of tactile sensor devices are systematically reviewed according to different three-dimensional geometric shapes of the microstructures which are grouped into several categories. At the same time, relevant processing technologies employed, working principles and chief performance characteristics are also briefly described. Relative merits of different types of microstructure applications are clearly elaborated through the classification and comparison of multiple microstructure geometries in this paper to provide valuable reference for sensing microstructure design and fabrication of tactile sensors in corresponding engineering applications. Moreover, current difficulties and challenges in fabrication of flexible microstructures and future investigative directions pertaining to this field have been discussed.
 ER  - 
 
 TY  - CONF
@@ -59,6 +205,43 @@ VL  -
 JA  - 2021 IEEE International Symposium on Systems Engineering (ISSE)
 Y1  - 13 Sept.-13 Oct. 2021
 AB  - The Internet of Things (IoT) has great potential to transform the healthcare industry. While there are data security and privacy challenges, the adoption of IoT advances healthcare with the integration of instantaneous and continuous data analytics. IoT enables connected monitoring systems, sensor instruments, and miniature detectors that can capture real-time health data to provide more reliable healthcare service. This paper describes a systems approach to model and analyze the adoption of IoT in the healthcare industry, seeking to provide a better understanding of shaping forces, major stakeholders, subsystems, and their interactions. We analyze how healthcare system dynamics change with IoT and how those changes impact the overall adoption rate of smart devices in healthcare. Finally, we provide an overview of the security and privacy issues that may arise with the integration of IoT in healthcare.
+ER  - 
+
+TY  - JOUR
+TI  - From Scalp to Ear-EEG: A Generalizable Transfer Learning Model for Automatic Sleep Scoring in Older People
+T2  - IEEE Journal of Translational Engineering in Health and Medicine
+SP  - 448
+EP  - 456
+AU  - G. Hammour
+AU  - H. Davies
+AU  - G. Atzori
+AU  - C. Della Monica
+AU  - K. K. G. Ravindran
+AU  - V. Revell
+AU  - D. -J. Dijk
+AU  - D. P. Mandic
+PY  - 2024
+KW  - Sleep
+KW  - Electroencephalography
+KW  - Brain modeling
+KW  - Data models
+KW  - Scalp
+KW  - Recording
+KW  - Sensors
+KW  - Automatic sleep scoring
+KW  - hearables
+KW  - ear-EEG
+KW  - machine learning
+KW  - wearable EEG
+DO  - 10.1109/JTEHM.2024.3388852
+JO  - IEEE Journal of Translational Engineering in Health and Medicine
+IS  - 
+SN  - 2168-2372
+VO  - 12
+VL  - 12
+JA  - IEEE Journal of Translational Engineering in Health and Medicine
+Y1  - 2024
+AB  - Objective: Sleep monitoring has extensively utilized electroencephalogram (EEG) data collected from the scalp, yielding very large data repositories and well-trained analysis models. Yet, this wealth of data is lacking for emerging, less intrusive modalities, such as ear-EEG.Methods and procedures: The current study seeks to harness the abundance of open-source scalp EEG datasets by applying models pre-trained on data, either directly or with minimal fine-tuning; this is achieved in the context of effective sleep analysis from ear-EEG data that was recorded using a single in-ear electrode, referenced to the ipsilateral mastoid, and developed in-house as described in our previous work. Unlike previous studies, our research uniquely focuses on an older cohort (17 subjects aged 65-83, mean age 71.8 years, some with health conditions), and employs LightGBM for transfer learning, diverging from previous deep learning approaches. Results: Results show that the initial accuracy of the pre-trained model on ear-EEG was 70.1%, but fine-tuning the model with ear-EEG data improved its classification accuracy to 73.7%. The fine-tuned model exhibited a statistically significant improvement (p < 0.05, dependent t-test) for 10 out of the 13 participants, as reflected by an enhanced average Cohen’s kappa score (a statistical measure of inter-rater agreement for categorical items) of 0.639, indicating a stronger agreement between automated and expert classifications of sleep stages. Comparative SHAP value analysis revealed a shift in feature importance for the N3 sleep stage, underscoring the effectiveness of the fine-tuning process.Conclusion: Our findings underscore the potential of fine-tuning pre-trained scalp EEG models on ear-EEG data to enhance classification accuracy, particularly within an older population and using feature-based methods for transfer learning. This approach presents a promising avenue for ear-EEG analysis in sleep studies, offering new insights into the applicability of transfer learning across different populations and computational techniques.Clinical impact: An enhanced ear-EEG method could be pivotal in remote monitoring settings, allowing for continuous, non-invasive sleep quality assessment in elderly patients with conditions like dementia or sleep apnea.
 ER  - 
 
 TY  - CONF
@@ -127,152 +310,6 @@ VL  -
 JA  - 2024 4th International Conference on Advance Computing and Innovative Technologies in Engineering (ICACITE)
 Y1  - 14-15 May 2024
 AB  - Of crops is a system designed to provide a broad variety of crops services by integrating cutting-edge information technologies including big data analytics, blockchain, cloud computing, Internet of Things (IoT), artificial intelligence (AI), and more. Patients may now get improved health services and support without having to adopt a disease-centric approach thanks to this innovative breakthrough. Sensitive medical data may be compromised as a result of the security flaws brought about by the implementation of Of crops. Of crops must create a strong architecture that analyzes inputs, access points, key controls, and integrity to guarantee data security in order to solve these problems. This study suggests a safe, all-inclusive Of crops framework Done It examines how security frameworks are presently implemented in Of crops, offers performance comparisons, and ends with suggestions for future study directions for specialists in the subject.
-ER  - 
-
-TY  - JOUR
-TI  - From Scalp to Ear-EEG: A Generalizable Transfer Learning Model for Automatic Sleep Scoring in Older People
-T2  - IEEE Journal of Translational Engineering in Health and Medicine
-SP  - 448
-EP  - 456
-AU  - G. Hammour
-AU  - H. Davies
-AU  - G. Atzori
-AU  - C. Della Monica
-AU  - K. K. G. Ravindran
-AU  - V. Revell
-AU  - D. -J. Dijk
-AU  - D. P. Mandic
-PY  - 2024
-KW  - Sleep
-KW  - Electroencephalography
-KW  - Brain modeling
-KW  - Data models
-KW  - Scalp
-KW  - Recording
-KW  - Sensors
-KW  - Automatic sleep scoring
-KW  - hearables
-KW  - ear-EEG
-KW  - machine learning
-KW  - wearable EEG
-DO  - 10.1109/JTEHM.2024.3388852
-JO  - IEEE Journal of Translational Engineering in Health and Medicine
-IS  - 
-SN  - 2168-2372
-VO  - 12
-VL  - 12
-JA  - IEEE Journal of Translational Engineering in Health and Medicine
-Y1  - 2024
-AB  - Objective: Sleep monitoring has extensively utilized electroencephalogram (EEG) data collected from the scalp, yielding very large data repositories and well-trained analysis models. Yet, this wealth of data is lacking for emerging, less intrusive modalities, such as ear-EEG.Methods and procedures: The current study seeks to harness the abundance of open-source scalp EEG datasets by applying models pre-trained on data, either directly or with minimal fine-tuning; this is achieved in the context of effective sleep analysis from ear-EEG data that was recorded using a single in-ear electrode, referenced to the ipsilateral mastoid, and developed in-house as described in our previous work. Unlike previous studies, our research uniquely focuses on an older cohort (17 subjects aged 65-83, mean age 71.8 years, some with health conditions), and employs LightGBM for transfer learning, diverging from previous deep learning approaches. Results: Results show that the initial accuracy of the pre-trained model on ear-EEG was 70.1%, but fine-tuning the model with ear-EEG data improved its classification accuracy to 73.7%. The fine-tuned model exhibited a statistically significant improvement (p < 0.05, dependent t-test) for 10 out of the 13 participants, as reflected by an enhanced average Cohen’s kappa score (a statistical measure of inter-rater agreement for categorical items) of 0.639, indicating a stronger agreement between automated and expert classifications of sleep stages. Comparative SHAP value analysis revealed a shift in feature importance for the N3 sleep stage, underscoring the effectiveness of the fine-tuning process.Conclusion: Our findings underscore the potential of fine-tuning pre-trained scalp EEG models on ear-EEG data to enhance classification accuracy, particularly within an older population and using feature-based methods for transfer learning. This approach presents a promising avenue for ear-EEG analysis in sleep studies, offering new insights into the applicability of transfer learning across different populations and computational techniques.Clinical impact: An enhanced ear-EEG method could be pivotal in remote monitoring settings, allowing for continuous, non-invasive sleep quality assessment in elderly patients with conditions like dementia or sleep apnea.
-ER  - 
-
-TY  - CONF
-TI  - Development of a Real Time Weight Monitoring System for Premature Infants
-T2  - 2024 4th International Conference on Pervasive Computing and Social Networking (ICPCSN)
-SP  - 539
-EP  - 547
-AU  - M. Isshaad
-AU  - R. V. H. Prasad
-AU  - M. Manashshe
-AU  - T. V. V. Reddy
-PY  - 2024
-KW  - Weight measurement
-KW  - Pediatrics
-KW  - Accuracy
-KW  - Medical services
-KW  - Real-time systems
-KW  - Software
-KW  - Electron tubes
-KW  - Healthcare technology
-KW  - Internet of Things (IoT)
-KW  - Load cell
-KW  - medical devices
-KW  - Neonatal care
-KW  - Neonatal Intensive Care Unit (NICU)
-KW  - Non-invasive techniques
-KW  - NodeMCU ESP8266
-KW  - Prema ture infants
-KW  - Real-time monitoring
-KW  - Weight measurement
-DO  - 10.1109/ICPCSN62568.2024.00091
-JO  - 2024 4th International Conference on Pervasive Computing and Social Networking (ICPCSN)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2024 4th International Conference on Pervasive Computing and Social Networking (ICPCSN)
-Y1  - 3-4 May 2024
-AB  - The management and care of premature infants in neonatal intensive care units (NICUs) demand precise and frequent monitoring of various health parameters, including body weight. Traditional methods of weighing premature infants often involve the removal and reinsertion of medical tubes, a process that can cause discomfort and potential health risks to these vulnerable patients. This abstract introduces an innovative weight monitoring system designed to provide real-time, accurate measurements of a premature infant’s weight in milligrams without the need to disturb the infant or remove medical tubing. Utilizing the NodeMCU ESP8266 microcontroller and a sensitive load cell, the system offers a non-intrusive, continuous weight monitoring solution. The design addresses the critical need for minimizing physical handling of premature infants while ensuring accurate weight tracking, a key indicator of health and development. The system’s capability to transmit real-time data to medical professionals’ aid in timely decision-making and enhances the overall care process. The design and implementation of the system, including the integration of the NodeMCU ESP8266 platform with the load cell for high-precision measurements, are detailed. Furthermore, the calibration process, data accuracy, and the system’s potential to reduce the workload of medical staff and improve the standard of care in NICUs are discussed. Preliminary results and implications for future research and clinical application are also presented, highlighting the system’s role in advancing neonatal care technology.
-ER  - 
-
-TY  - JOUR
-TI  - Data-Driven Anomaly Recognition for Unsupervised Model-Free Fault Detection in Artificial Pancreas
-T2  - IEEE Transactions on Control Systems Technology
-SP  - 33
-EP  - 47
-AU  - L. Meneghetti
-AU  - M. Terzi
-AU  - S. Del Favero
-AU  - G. A. Susto
-AU  - C. Cobelli
-PY  - 2020
-KW  - Insulin
-KW  - Biomedical monitoring
-KW  - Sugar
-KW  - Data models
-KW  - Diabetes
-KW  - Monitoring
-KW  - Adaptation models
-KW  - Anomaly detection (AD)
-KW  - connectivity-based outlier factor (COF)
-KW  - data mining
-KW  - insulin pump faults
-KW  - isolation forest (iForest)
-KW  - local outlier factor (LOF)
-KW  - machine learning (ML)
-KW  - Type 1 Diabetes (T1D)
-DO  - 10.1109/TCST.2018.2885963
-JO  - IEEE Transactions on Control Systems Technology
-IS  - 1
-SN  - 1558-0865
-VO  - 28
-VL  - 28
-JA  - IEEE Transactions on Control Systems Technology
-Y1  - Jan. 2020
-AB  - The last decade has seen tremendous improvements in technologies for Type 1 Diabetes (T1D) management, in particular the so-called artificial pancreas (AP), a wearable closed-loop device modulating insulin injection based on glucose sensor readings. Unluckily, the AP actuator, an insulin pump, is subject to failures, with potentially serious consequences for subject safety. This calls for the development of advanced monitoring systems, leveraging the unprecedented data availability. This paper tackles for the first time the problem of automatically detecting pump faults with multidimensional data-driven anomaly detection (AD) methodologies. The approach allows to avoid the subtask of identifying a physiological model, typical of model-based approaches. Furthermore, we employ unsupervised methods, removing the need of labeled data for training, hardly available in practice. The adopted data-driven AD methods are local outlier factor, connectivity-based outlier factor, and isolation forest. Moreover, we propose a modification of these methods to cope with the dynamic nature of the underlying problem. The algorithms were tuned and tested on: 1) two-synthetic 100-patients' data set, of one-month data each, generated using the “UVA/Padova T1D Simulator,” a large-scale nonlinear computer simulator of T1D subject physiology, largely adopted in AP research and accepted by the American Food and Drug Administration as a replacement of preclinical animal trials for AP and 2) a real 7-patients' data set consisting of one month in free-living conditions. The satisfactory accuracy of the proposed approach paves the way to the embedding of these methodologies in AP systems or their deployment in remote monitoring systems.
-ER  - 
-
-TY  - JOUR
-TI  - An Edge-Fog Computing-Enabled Lossless EEG Data Compression With Epileptic Seizure Detection in IoMT Networks
-T2  - IEEE Internet of Things Journal
-SP  - 13327
-EP  - 13337
-AU  - A. K. Idrees
-AU  - S. K. Idrees
-AU  - R. Couturier
-AU  - T. Ali-Yahiya
-PY  - 2022
-KW  - Electroencephalography
-KW  - Logic gates
-KW  - Image edge detection
-KW  - Internet of Things
-KW  - Discrete wavelet transforms
-KW  - Cloud computing
-KW  - Convolutional neural networks
-KW  - Edge-fog computing
-KW  - epileptic seizure detection
-KW  - Internet of Medical Things (IoMT)
-KW  - lossless compression
-KW  - machine learning
-DO  - 10.1109/JIOT.2022.3143704
-JO  - IEEE Internet of Things Journal
-IS  - 15
-SN  - 2327-4662
-VO  - 9
-VL  - 9
-JA  - IEEE Internet of Things Journal
-Y1  - 1 Aug.1, 2022
-AB  - The need to improve smart health systems to monitor the health situation of patients has grown as a result of the spread of epidemic diseases, the ageing of the population, the increase in the number of patients, and the lack of facilities to treat them. This led to an increased demand for remote healthcare systems using biosensors. These biosensors produce a large volume of sensed data that will be received by the edge of the Internet of Medical Things (IoMT) to be forwarded to the data centers of the cloud for further treatment. An edge-fog computing-enabled lossless electroencephalogram (EEG) data compression with epileptic seizure detection in IoMT networks is proposed in this article. The proposed approach achieves three functionalities. First, it reduces the amount of sent data from the edge to the fog gateway using lossless EEG data compression based on a hybrid approach of  $k$ -means clustering and Huffman encoding (KCHE) at the edge gateway. Second, it decides the epileptic seizure situation of the patient at the fog gateway based on the epileptic seizure detector-based Naive Bayes (ESDNB) algorithm. Third, it reduces the size of IoMT EEG data delivered to the cloud using the same lossless compression algorithm in the first step. Various measures implemented to show the effectiveness of the suggested approach and the comparison results confirm that the KCHE reduces the amount of EEG data transmitted to the fog and cloud platform and produces a suitable detection of an epileptic seizure. The average of compression power of the proposed KCHE is four times the average of compression power of other methods for all EEG records ( $Z, F, N, O$ , and  $S$ ). Furthermore, the proposed ESDNB outperforms the other methods in terms of accuracy, where it provides accuracy from 99.53 % up to 99.99 % using the data set of Bonn University.
 ER  - 
 
 TY  - JOUR
@@ -375,37 +412,6 @@ Y1  -
 AB  - The demand for low-cost healthcare solutions has been increasing and the use of Internet of Things (IoT) devices is becoming more common. IoT devices have the potential to monitor vital health parameters of patients remotely, providing early detection of health problems and reducing medical costs. Chipless RFID sensors, combined with IoT technology, offer cost-effective solutions for healthcare applications. These sensors have significance for remote data collection, object tracking, authentication, and security. In recent years, there has been a growing attention on the design and development of chipless sensors for monitoring health. This paper provides an extensive review of chipless RFID sensors, including their functioning, fabrication techniques, and classifications. The paper further addresses the various smart sensing materials used in chipless RFID sensors, along with challenges and future trends. The IoT-based health monitoring system permits patients to be tracked 24/7 and provides rapid health consultations from doctors in distant places. The technology also allows guardians or family members to remotely monitor patients, which is regarded as one of the most significant benefits of saving human lives. Overall, this review article provides a comprehensive investigation of the potential advantages of chipless RFID sensors and IoT-based systems for healthcare monitoring, paving the way for cost-effective, easily accessible, and reliable healthcare solutions.
 ER  - 
 
-TY  - CONF
-TI  - Design of Remote Monitoring System for Ventilator Based on Golang and MongoDB
-T2  - 2023 6th International Conference on Artificial Intelligence and Big Data (ICAIBD)
-SP  - 320
-EP  - 324
-AU  - J. Hu
-AU  - Y. Zhang
-PY  - 2023
-KW  - Performance evaluation
-KW  - Concurrent computing
-KW  - Ventilators
-KW  - Java
-KW  - Heart beat
-KW  - Scalability
-KW  - Real-time systems
-KW  - ventilator
-KW  - server
-KW  - MongoDB
-KW  - multithreading
-KW  - Golang
-DO  - 10.1109/ICAIBD57115.2023.10206318
-JO  - 2023 6th International Conference on Artificial Intelligence and Big Data (ICAIBD)
-IS  - 
-SN  - 2769-3554
-VO  - 
-VL  - 
-JA  - 2023 6th International Conference on Artificial Intelligence and Big Data (ICAIBD)
-Y1  - 26-29 May 2023
-AB  - In order to solve the contradiction between the large number of ventilators, large amount of data and limited medical personnel, this paper proposes a solution based on Golang and MongoDB. In this scheme, the ventilator uploads the device data information in real time through UDP. Based on Golang concurrency and EPOLL-ET mode, the server realizes high performance and scalability. MongoDB is used to store structured data. Compared with traditional solutions, this scheme has a more convenient way of development and stronger horizontal expansion ability, which can expand to more medical device. The test results show that the single Web service supports the maximum QPS of 105485 for short connections and 334687 for long connections. The single device service can support 3000 online devices and consumes fewer system resources.
-ER  - 
-
 TY  - JOUR
 TI  - Developing a Vital Signal Detection Electrode for Fabric Substrate Using a High-Performance Conductive Carbon-Based Ink
 T2  - IEEE Open Journal of Engineering in Medicine and Biology
@@ -436,6 +442,213 @@ VL  -
 JA  - IEEE Open Journal of Engineering in Medicine and Biology
 Y1  - 
 AB  - Merging electrophysiology signal monitoring technology with wearable devices offers interesting future health care options. This study presented carbon-based screen-printing inks produced by mixing a graphite composite with a polymer emulsion to bind with flexible fabric substrates and tested with 10,000 bending cycles. The prepared carbon-based ink performed well for electrical conduction and vital signal response. Adding calcium carbonate resulted in a microstructure of graphite that decreased the electrical sheet resistance and resistance to 11.61 Ω/◻ and 0.127 Ω. The signal-to-noise ratio of the electrocardiogram (ECG) was 31.02 dB with built-in front-end powering noise filtration. Noninvasive blood pressure (NIBP) was achieved by bio-impedance measurement and showed outstanding systolic and diastolic pressure values with a correlation coefficient of 0.799, and exhibited a similar interval time to define the same precise heart rate. The ECG data from the prepared electrode were applied to the machine learning models. The Random Forest (RF) model exhibited the optimized prediction value, with an F1 score of 99.9%. Equipment made from carbon screen-printing inks showed potential for health care monitoring with no excessive pressure, dry processing, and repeatability as a flexible wearable bio-electronic device.
+ER  - 
+
+TY  - CONF
+TI  - Development of a Real Time Weight Monitoring System for Premature Infants
+T2  - 2024 4th International Conference on Pervasive Computing and Social Networking (ICPCSN)
+SP  - 539
+EP  - 547
+AU  - M. Isshaad
+AU  - R. V. H. Prasad
+AU  - M. Manashshe
+AU  - T. V. V. Reddy
+PY  - 2024
+KW  - Weight measurement
+KW  - Pediatrics
+KW  - Accuracy
+KW  - Medical services
+KW  - Real-time systems
+KW  - Software
+KW  - Electron tubes
+KW  - Healthcare technology
+KW  - Internet of Things (IoT)
+KW  - Load cell
+KW  - medical devices
+KW  - Neonatal care
+KW  - Neonatal Intensive Care Unit (NICU)
+KW  - Non-invasive techniques
+KW  - NodeMCU ESP8266
+KW  - Prema ture infants
+KW  - Real-time monitoring
+KW  - Weight measurement
+DO  - 10.1109/ICPCSN62568.2024.00091
+JO  - 2024 4th International Conference on Pervasive Computing and Social Networking (ICPCSN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 4th International Conference on Pervasive Computing and Social Networking (ICPCSN)
+Y1  - 3-4 May 2024
+AB  - The management and care of premature infants in neonatal intensive care units (NICUs) demand precise and frequent monitoring of various health parameters, including body weight. Traditional methods of weighing premature infants often involve the removal and reinsertion of medical tubes, a process that can cause discomfort and potential health risks to these vulnerable patients. This abstract introduces an innovative weight monitoring system designed to provide real-time, accurate measurements of a premature infant’s weight in milligrams without the need to disturb the infant or remove medical tubing. Utilizing the NodeMCU ESP8266 microcontroller and a sensitive load cell, the system offers a non-intrusive, continuous weight monitoring solution. The design addresses the critical need for minimizing physical handling of premature infants while ensuring accurate weight tracking, a key indicator of health and development. The system’s capability to transmit real-time data to medical professionals’ aid in timely decision-making and enhances the overall care process. The design and implementation of the system, including the integration of the NodeMCU ESP8266 platform with the load cell for high-precision measurements, are detailed. Furthermore, the calibration process, data accuracy, and the system’s potential to reduce the workload of medical staff and improve the standard of care in NICUs are discussed. Preliminary results and implications for future research and clinical application are also presented, highlighting the system’s role in advancing neonatal care technology.
+ER  - 
+
+TY  - JOUR
+TI  - Data-Driven Anomaly Recognition for Unsupervised Model-Free Fault Detection in Artificial Pancreas
+T2  - IEEE Transactions on Control Systems Technology
+SP  - 33
+EP  - 47
+AU  - L. Meneghetti
+AU  - M. Terzi
+AU  - S. Del Favero
+AU  - G. A. Susto
+AU  - C. Cobelli
+PY  - 2020
+KW  - Insulin
+KW  - Biomedical monitoring
+KW  - Sugar
+KW  - Data models
+KW  - Diabetes
+KW  - Monitoring
+KW  - Adaptation models
+KW  - Anomaly detection (AD)
+KW  - connectivity-based outlier factor (COF)
+KW  - data mining
+KW  - insulin pump faults
+KW  - isolation forest (iForest)
+KW  - local outlier factor (LOF)
+KW  - machine learning (ML)
+KW  - Type 1 Diabetes (T1D)
+DO  - 10.1109/TCST.2018.2885963
+JO  - IEEE Transactions on Control Systems Technology
+IS  - 1
+SN  - 1558-0865
+VO  - 28
+VL  - 28
+JA  - IEEE Transactions on Control Systems Technology
+Y1  - Jan. 2020
+AB  - The last decade has seen tremendous improvements in technologies for Type 1 Diabetes (T1D) management, in particular the so-called artificial pancreas (AP), a wearable closed-loop device modulating insulin injection based on glucose sensor readings. Unluckily, the AP actuator, an insulin pump, is subject to failures, with potentially serious consequences for subject safety. This calls for the development of advanced monitoring systems, leveraging the unprecedented data availability. This paper tackles for the first time the problem of automatically detecting pump faults with multidimensional data-driven anomaly detection (AD) methodologies. The approach allows to avoid the subtask of identifying a physiological model, typical of model-based approaches. Furthermore, we employ unsupervised methods, removing the need of labeled data for training, hardly available in practice. The adopted data-driven AD methods are local outlier factor, connectivity-based outlier factor, and isolation forest. Moreover, we propose a modification of these methods to cope with the dynamic nature of the underlying problem. The algorithms were tuned and tested on: 1) two-synthetic 100-patients' data set, of one-month data each, generated using the “UVA/Padova T1D Simulator,” a large-scale nonlinear computer simulator of T1D subject physiology, largely adopted in AP research and accepted by the American Food and Drug Administration as a replacement of preclinical animal trials for AP and 2) a real 7-patients' data set consisting of one month in free-living conditions. The satisfactory accuracy of the proposed approach paves the way to the embedding of these methodologies in AP systems or their deployment in remote monitoring systems.
+ER  - 
+
+TY  - JOUR
+TI  - Fog-Centric IoT Based Framework for Healthcare Monitoring, Management and Early Warning System
+T2  - IEEE Access
+SP  - 74168
+EP  - 74179
+AU  - A. Hussain
+AU  - K. Zafar
+AU  - A. R. Baig
+PY  - 2021
+KW  - Biomedical monitoring
+KW  - Medical services
+KW  - Monitoring
+KW  - Real-time systems
+KW  - Activity recognition
+KW  - Hazards
+KW  - Machine learning
+KW  - Fog computing
+KW  - gym activity recognition
+KW  - health hazard recognition
+KW  - Internet-of-Things (IoT)
+KW  - machine learning
+KW  - smart workout
+DO  - 10.1109/ACCESS.2021.3080237
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 9
+VL  - 9
+JA  - IEEE Access
+Y1  - 2021
+AB  - Internet of things (IoT) and machine learning based systems incorporating smart wearable technology are rapidly evolving to monitor and manage healthcare and physical activities. This paper is focused on the proposition of a fog-centric wireless, real-time, smart wearable and IoT-based framework for ubiquitous health and fitness analysis in a smart gym environment. The proposed framework aims to aid in the health and fitness industry based on body vitals, body movement and health related data. The framework is expected to assist athletes, trainers and physicians with the interpretation of multiple physical signs and raise alerts in case of any health hazard. We proposed a method to collect and analyze exercise specific data which can be used to measure exercise intensity and its benefit to athlete's health and serve as recommendation system for upcoming athletes. We determined the validity of the proposed framework by giving a six weeks workout plan with six days a week for workout activity targeting all muscles followed by one day for recovery. We recorded the electrocardiogram, heart rate, heart rate variability, breath rate, and determined athlete's movement using a 3D-acceleration. The collected data in the research is used in two modules. A Health zone module implemented on body vitals data which categorizes athlete's health state into various categories. Hzone module is responsible for health hazards identification and alarming. Outstandingly, the Hzone module is able to identify an athlete's physical state with 97% accuracy. A gym activity recognition (GAR) module is implemented to recognize workout activity in real-time using body movements and body vitals data. The purpose of the GAR module is to collect and analyze exercise specific data. The GAR module achieved an accuracy of above 89% on athlete independent model based on muscle group.
+ER  - 
+
+TY  - JOUR
+TI  - An Edge-Fog Computing-Enabled Lossless EEG Data Compression With Epileptic Seizure Detection in IoMT Networks
+T2  - IEEE Internet of Things Journal
+SP  - 13327
+EP  - 13337
+AU  - A. K. Idrees
+AU  - S. K. Idrees
+AU  - R. Couturier
+AU  - T. Ali-Yahiya
+PY  - 2022
+KW  - Electroencephalography
+KW  - Logic gates
+KW  - Image edge detection
+KW  - Internet of Things
+KW  - Discrete wavelet transforms
+KW  - Cloud computing
+KW  - Convolutional neural networks
+KW  - Edge-fog computing
+KW  - epileptic seizure detection
+KW  - Internet of Medical Things (IoMT)
+KW  - lossless compression
+KW  - machine learning
+DO  - 10.1109/JIOT.2022.3143704
+JO  - IEEE Internet of Things Journal
+IS  - 15
+SN  - 2327-4662
+VO  - 9
+VL  - 9
+JA  - IEEE Internet of Things Journal
+Y1  - 1 Aug.1, 2022
+AB  - The need to improve smart health systems to monitor the health situation of patients has grown as a result of the spread of epidemic diseases, the ageing of the population, the increase in the number of patients, and the lack of facilities to treat them. This led to an increased demand for remote healthcare systems using biosensors. These biosensors produce a large volume of sensed data that will be received by the edge of the Internet of Medical Things (IoMT) to be forwarded to the data centers of the cloud for further treatment. An edge-fog computing-enabled lossless electroencephalogram (EEG) data compression with epileptic seizure detection in IoMT networks is proposed in this article. The proposed approach achieves three functionalities. First, it reduces the amount of sent data from the edge to the fog gateway using lossless EEG data compression based on a hybrid approach of  $k$ -means clustering and Huffman encoding (KCHE) at the edge gateway. Second, it decides the epileptic seizure situation of the patient at the fog gateway based on the epileptic seizure detector-based Naive Bayes (ESDNB) algorithm. Third, it reduces the size of IoMT EEG data delivered to the cloud using the same lossless compression algorithm in the first step. Various measures implemented to show the effectiveness of the suggested approach and the comparison results confirm that the KCHE reduces the amount of EEG data transmitted to the fog and cloud platform and produces a suitable detection of an epileptic seizure. The average of compression power of the proposed KCHE is four times the average of compression power of other methods for all EEG records ( $Z, F, N, O$ , and  $S$ ). Furthermore, the proposed ESDNB outperforms the other methods in terms of accuracy, where it provides accuracy from 99.53 % up to 99.99 % using the data set of Bonn University.
+ER  - 
+
+TY  - CONF
+TI  - Real Time Human Activity Recognition from Accelerometer Data using Convolutional Neural Networks
+T2  - 2022 7th International Conference on Communication and Electronics Systems (ICCES)
+SP  - 1394
+EP  - 1397
+AU  - M. A. Rahman
+AU  - Y. Mia
+AU  - M. R. Masum
+AU  - D. M. H. Abid
+AU  - T. Islam
+PY  - 2022
+KW  - Accelerometers
+KW  - Shape
+KW  - Time series analysis
+KW  - Medical services
+KW  - Real-time systems
+KW  - Mobile handsets
+KW  - Sensors
+KW  - Accelerometer Data
+KW  - RHA
+KW  - Convolutional Neural Network
+KW  - Machine Learning
+KW  - Deep Learning
+DO  - 10.1109/ICCES54183.2022.9835797
+JO  - 2022 7th International Conference on Communication and Electronics Systems (ICCES)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 7th International Conference on Communication and Electronics Systems (ICCES)
+Y1  - 22-24 June 2022
+AB  - The study of human regular tasks have become more prevalent and accessible as a result of the widespread use of different sensors integrated into mobile devices. This issue now exists in different vast real-world area applications some examples are “healthcare monitoring, fitness tracking, and user-adaptive systems”. Where a generic model capable of recognizing an arbitrary user’s activity in real-time is necessary. This paper presents a user-independent deep learning technique for digital human activity categorization. The proposed research study advocates the utilization of CNN in combination with basic statistical characteristics to maintain the information regarding the global shape of different time series for performing a local feature extraction. This research study also focuses on how the duration of a time series affects recognition accuracy ans restricting it to a single second to allow time series analysis for performing activity classification.
+ER  - 
+
+TY  - CONF
+TI  - Design of Remote Monitoring System for Ventilator Based on Golang and MongoDB
+T2  - 2023 6th International Conference on Artificial Intelligence and Big Data (ICAIBD)
+SP  - 320
+EP  - 324
+AU  - J. Hu
+AU  - Y. Zhang
+PY  - 2023
+KW  - Performance evaluation
+KW  - Concurrent computing
+KW  - Ventilators
+KW  - Java
+KW  - Heart beat
+KW  - Scalability
+KW  - Real-time systems
+KW  - ventilator
+KW  - server
+KW  - MongoDB
+KW  - multithreading
+KW  - Golang
+DO  - 10.1109/ICAIBD57115.2023.10206318
+JO  - 2023 6th International Conference on Artificial Intelligence and Big Data (ICAIBD)
+IS  - 
+SN  - 2769-3554
+VO  - 
+VL  - 
+JA  - 2023 6th International Conference on Artificial Intelligence and Big Data (ICAIBD)
+Y1  - 26-29 May 2023
+AB  - In order to solve the contradiction between the large number of ventilators, large amount of data and limited medical personnel, this paper proposes a solution based on Golang and MongoDB. In this scheme, the ventilator uploads the device data information in real time through UDP. Based on Golang concurrency and EPOLL-ET mode, the server realizes high performance and scalability. MongoDB is used to store structured data. Compared with traditional solutions, this scheme has a more convenient way of development and stronger horizontal expansion ability, which can expand to more medical device. The test results show that the single Web service supports the maximum QPS of 105485 for short connections and 334687 for long connections. The single device service can support 3000 online devices and consumes fewer system resources.
 ER  - 
 
 TY  - JOUR
@@ -471,39 +684,6 @@ VL  - 12
 JA  - IEEE Consumer Electronics Magazine
 Y1  - 1 Nov. 2023
 AB  - Recent trends have shown a widespread increase in the landscape of digital healthcare (i.e., Healthcare 4.0) services, such as personalized healthcare, intelligent rehabilitation, telemedicine, and smart diet management, among others. These healthcare services are based on a variety of diverse requirements. Fulfilling these requirements require proactive intelligent analytics and self-sustainability of networks. Self-sustainability enables the operation of a network with minimum possible interaction from the end-users/network operators, whereas proactive intelligent analytics enables efficient management of resources in response to users’ requests. To enable healthcare 4.0 with proactive online analytics and self-sustainability, one can leverage digital twins. In this article, we present an overview and recent advances of digital twins for healthcare 4.0. An architecture of digital twins for healthcare is also proposed. Furthermore, we present several use cases of digital twins. Finally, we present open research challenges with possible solutions.
-ER  - 
-
-TY  - JOUR
-TI  - Fog-Centric IoT Based Framework for Healthcare Monitoring, Management and Early Warning System
-T2  - IEEE Access
-SP  - 74168
-EP  - 74179
-AU  - A. Hussain
-AU  - K. Zafar
-AU  - A. R. Baig
-PY  - 2021
-KW  - Biomedical monitoring
-KW  - Medical services
-KW  - Monitoring
-KW  - Real-time systems
-KW  - Activity recognition
-KW  - Hazards
-KW  - Machine learning
-KW  - Fog computing
-KW  - gym activity recognition
-KW  - health hazard recognition
-KW  - Internet-of-Things (IoT)
-KW  - machine learning
-KW  - smart workout
-DO  - 10.1109/ACCESS.2021.3080237
-JO  - IEEE Access
-IS  - 
-SN  - 2169-3536
-VO  - 9
-VL  - 9
-JA  - IEEE Access
-Y1  - 2021
-AB  - Internet of things (IoT) and machine learning based systems incorporating smart wearable technology are rapidly evolving to monitor and manage healthcare and physical activities. This paper is focused on the proposition of a fog-centric wireless, real-time, smart wearable and IoT-based framework for ubiquitous health and fitness analysis in a smart gym environment. The proposed framework aims to aid in the health and fitness industry based on body vitals, body movement and health related data. The framework is expected to assist athletes, trainers and physicians with the interpretation of multiple physical signs and raise alerts in case of any health hazard. We proposed a method to collect and analyze exercise specific data which can be used to measure exercise intensity and its benefit to athlete's health and serve as recommendation system for upcoming athletes. We determined the validity of the proposed framework by giving a six weeks workout plan with six days a week for workout activity targeting all muscles followed by one day for recovery. We recorded the electrocardiogram, heart rate, heart rate variability, breath rate, and determined athlete's movement using a 3D-acceleration. The collected data in the research is used in two modules. A Health zone module implemented on body vitals data which categorizes athlete's health state into various categories. Hzone module is responsible for health hazards identification and alarming. Outstandingly, the Hzone module is able to identify an athlete's physical state with 97% accuracy. A gym activity recognition (GAR) module is implemented to recognize workout activity in real-time using body movements and body vitals data. The purpose of the GAR module is to collect and analyze exercise specific data. The GAR module achieved an accuracy of above 89% on athlete independent model based on muscle group.
 ER  - 
 
 TY  - CONF
@@ -543,73 +723,38 @@ AB  - The effective utilization of real-world data is an integral part of any Io
 ER  - 
 
 TY  - CONF
-TI  - Real Time Human Activity Recognition from Accelerometer Data using Convolutional Neural Networks
-T2  - 2022 7th International Conference on Communication and Electronics Systems (ICCES)
-SP  - 1394
-EP  - 1397
-AU  - M. A. Rahman
-AU  - Y. Mia
-AU  - M. R. Masum
-AU  - D. M. H. Abid
-AU  - T. Islam
-PY  - 2022
-KW  - Accelerometers
-KW  - Shape
-KW  - Time series analysis
-KW  - Medical services
-KW  - Real-time systems
-KW  - Mobile handsets
-KW  - Sensors
-KW  - Accelerometer Data
-KW  - RHA
-KW  - Convolutional Neural Network
-KW  - Machine Learning
-KW  - Deep Learning
-DO  - 10.1109/ICCES54183.2022.9835797
-JO  - 2022 7th International Conference on Communication and Electronics Systems (ICCES)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2022 7th International Conference on Communication and Electronics Systems (ICCES)
-Y1  - 22-24 June 2022
-AB  - The study of human regular tasks have become more prevalent and accessible as a result of the widespread use of different sensors integrated into mobile devices. This issue now exists in different vast real-world area applications some examples are “healthcare monitoring, fitness tracking, and user-adaptive systems”. Where a generic model capable of recognizing an arbitrary user’s activity in real-time is necessary. This paper presents a user-independent deep learning technique for digital human activity categorization. The proposed research study advocates the utilization of CNN in combination with basic statistical characteristics to maintain the information regarding the global shape of different time series for performing a local feature extraction. This research study also focuses on how the duration of a time series affects recognition accuracy ans restricting it to a single second to allow time series analysis for performing activity classification.
-ER  - 
-
-TY  - JOUR
-TI  - ECG-Based Automated Emotion Recognition using Temporal Convolution Neural Networks
-T2  - IEEE Sensors Journal
+TI  - A metaplastic neural network technique for human activity recognition for Alzheimer’s patients
+T2  - 2023 International Conference on Innovations in Intelligent Systems and Applications (INISTA)
 SP  - 1
-EP  - 1
-AU  - T. C. Sweeney-Fanelli
-AU  - M. H. Imtiaz
-PY  - 2024
-KW  - Electrocardiography
-KW  - Accuracy
-KW  - Convolutional neural networks
-KW  - Feature extraction
-KW  - Sensors
-KW  - Emotion recognition
-KW  - Electrodes
-KW  - Affective Computing
-KW  - Biomedical Signal Analysis
-KW  - Convolutional Neural Networks (CNN)
-KW  - Deep Learning
-KW  - Electrocardiogram (ECG)
-KW  - Emotion Recognition
-KW  - Machine Learning
-KW  - Physiological Signal Processing
-KW  - Temporal Convolutional Networks (TCN)
-KW  - Wearable Sensors
-DO  - 10.1109/JSEN.2024.3434479
-JO  - IEEE Sensors Journal
+EP  - 6
+AU  - A. Zaghdoud
+AU  - O. Jemai
+PY  - 2023
+KW  - Training
+KW  - Technological innovation
+KW  - Artificial neural networks
+KW  - Behavioral sciences
+KW  - Human activity recognition
+KW  - Alzheimer's disease
+KW  - Task analysis
+KW  - Alzheimer’s
+KW  - HAR
+KW  - CNN
+KW  - BNN’s
+KW  - Binary
+KW  - BinarizedNet
+KW  - Metaplasticity
+KW  - Synaptic metaplasticity
+KW  - Continuous learning
+DO  - 10.1109/INISTA59065.2023.10310437
+JO  - 2023 International Conference on Innovations in Intelligent Systems and Applications (INISTA)
 IS  - 
-SN  - 1558-1748
+SN  - 2768-7295
 VO  - 
 VL  - 
-JA  - IEEE Sensors Journal
-Y1  - 
-AB  - This study introduces a novel application of Temporal Convolutional Neural Networks (TCNN) for Automated Emotion Recognition (AER) using Electrocardiogram (ECG) signals. By leveraging advanced deep learning techniques, our approach achieves impressive classification accuracies of 98.68% for arousal and 97.30% for valence across two publicly available datasets. This methodology effectively preserves the temporal integrity of ECG signals, offering a robust framework for real-time emotion detection. Extensive preprocessing ensures high-quality input data, while cross-validation confirms model generalizability. Our results demonstrate the potential of TCNN in enhancing human-computer interactions and healthcare monitoring systems through improved emotion recognition, paving the way for future applications in affective computing and wearable sensor technology.
+JA  - 2023 International Conference on Innovations in Intelligent Systems and Applications (INISTA)
+Y1  - 20-23 Sept. 2023
+AB  - Artificial Intelligence technology has made a huge leap forward. However, the current systems still fall short when faced with the catastrophic challenge of forgetting. Deep neural networks face huge limitations, including the tendency to forget learned tasks as they perform new tasks. While neuroscience research suggests that the human brain synapses can overcome this challenge through the ability to adapt based on historical information, applying similar mechanisms to deep neural networks to prevent forgetting previous data proves to be a monumental task.In this study, our focus lies on using these improved deep networks to provide assistance to people afflicted with Alzheimer’s disease, a prevalent condition among the elderly. Due to cognitive impairments, individuals with Alzheimer’s often require ongoing support to carry out daily activities necessary for their well-being. To tackle the issue of forgetfulness in deep neural networks, specifically binary neural networks, and grant them the ability of multitasking and continuous learning, we propose an effective training method. This can be achieved by treating the hidden weights as semi-modifiable variables and adapting the training methodology accordingly. The proposed remote monitoring system consists of two main components. The first component is the Human Activity and Patient Behavior Monitoring (HAR) Identification Unit, which focuses on monitoring and identifying patterns in the activities and behaviors of Alzheimer’s patients. The second component is a support unit that detects anomalies and behavioral problems and provides appropriate warnings. This system is based on augmentative learning technology. As a result of our research, we have developed auxiliary systems specifically designed for Alzheimer’s patients. Activity details are as follows. We achieved excellent results for Activity 1 (Task 1) with an accuracy of 99.51% and Activity 2 (Task 2) was also well-addressed by our system, reaching an accuracy of 96.63%. Finally, we conducted a comparative study, comparing our system’s performance complexity with previous systems using the Dem@care Dataset.
 ER  - 
 
 TY  - JOUR
@@ -647,6 +792,70 @@ VL  - 32
 JA  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
 Y1  - 2024
 AB  - Postural instability is associated with disease status and fall risk in Persons with Multiple Sclerosis (PwMS). However, assessments of postural instability, known as postural sway, leverage force platforms or wearable accelerometers, and are most often conducted in laboratory environments and are thus not broadly accessible. Remote measures of postural sway captured during daily life may provide a more accessible alterative, but their ability to capture disease status and fall risk has not yet been established. We explored the utility of remote measures of postural sway in a sample of 33 PwMS. Remote measures of sway differed significantly from lab-based measures, but still demonstrated moderately strong associations with patient-reported measures of balance and mobility impairment. Machine learning models for predicting fall risk trained on lab data provided an Area Under Curve (AUC) of 0.79, while remote data only achieved an AUC of 0.51. Remote model performance improved to an AUC of 0.74 after a new, subject-specific k-means clustering approach was applied for identifying the remote data most appropriate for modelling. This cluster-based approach for analyzing remote data also strengthened associations with patient-reported measures, increasing their strength above those observed in the lab. This work introduces a new framework for analyzing data from remote patient monitoring technologies and demonstrates the promise of remote postural sway assessment for assessing fall risk and characterizing balance impairment in PwMS.
+ER  - 
+
+TY  - CONF
+TI  - Intelligent Near-Infrared Spectroscopy for Blood Glucose Level Classification
+T2  - 2024 32nd International Conference on Electrical Engineering (ICEE)
+SP  - 1
+EP  - 5
+AU  - S. Sharifi
+AU  - A. Maddah-T.
+AU  - M. -R. Akbarzadeh-T.
+PY  - 2024
+KW  - Support vector machines
+KW  - Stimulated emission
+KW  - Smart healthcare
+KW  - Machine learning
+KW  - Nearest neighbor methods
+KW  - Feature extraction
+KW  - Glucose
+KW  - Blood Glucose
+KW  - Photoplethysmography signal
+KW  - NIR Spectroscopy
+KW  - Biomedical Signal Processing
+KW  - Feature Extraction
+KW  - Machine Learning
+KW  - Classification
+KW  - Confusion Matrix
+DO  - 10.1109/ICEE63041.2024.10668364
+JO  - 2024 32nd International Conference on Electrical Engineering (ICEE)
+IS  - 
+SN  - 2642-9527
+VO  - 
+VL  - 
+JA  - 2024 32nd International Conference on Electrical Engineering (ICEE)
+Y1  - 14-16 May 2024
+AB  - Diabetes Mellitus is a disease characterized by inadequate control of blood glucose levels, and it ranks among the leading causes of human mortality, the measurement of which, requires fingertip pricking. Nowadays, non-invasive healthcare monitoring systems based on wearable sensors and machine learning models hold the future of smart health. However, the nature of these methods is such that they get affected by internal physiological and external parameters, which is one of the obstacles to this path. This study aims to introduce a non-invasive blood glucose level classification method based on machine learning analysis. The device's sensor consists of an optical finger sensor that transmits near-infrared light, filtering, and amplification to reduce the noise of the extracted photoplethysmography signal. Moreover, we have adopted the four-stage framework of biomedical signal processing to analyze the acquired PPG signal. Before using the Savitzky-Golay derivation to pre-filter the signal and prepare it for feature extraction, it was normalized using Standard Normal Variate (SNV). In addition, four different machine learning models, including Support Vector Machine (SVM), Weighted K-Nearest Neighbors (KNN), Wide Neural Network, and Decision Tree were used for blood glucose level classification. For this study, a dataset was created consisting of 106 data, gathered from 27 subjects. Findings revealed that the Weighted KNN exhibited the best performance among other classification models, having 90.5% accuracy.
+ER  - 
+
+TY  - JOUR
+TI  - Detection and Assessment of Point-to-Point Movements During Functional Activities Using Deep Learning and Kinematic Analyses of the Stroke-Affected Wrist
+T2  - IEEE Journal of Biomedical and Health Informatics
+SP  - 1022
+EP  - 1030
+AU  - B. Oubre
+AU  - S. I. Lee
+PY  - 2024
+KW  - Feature extraction
+KW  - Wrist
+KW  - Kinematics
+KW  - Biological system modeling
+KW  - Task analysis
+KW  - Monitoring
+KW  - Human activity recognition
+KW  - Stroke
+KW  - wearable sensing
+KW  - remote monitoring
+DO  - 10.1109/JBHI.2023.3337156
+JO  - IEEE Journal of Biomedical and Health Informatics
+IS  - 2
+SN  - 2168-2208
+VO  - 28
+VL  - 28
+JA  - IEEE Journal of Biomedical and Health Informatics
+Y1  - Feb. 2024
+AB  - Stoke is a leading cause of long-term disability, including upper-limb hemiparesis. Frequent, unobtrusive assessment of naturalistic motor performance could enable clinicians to better assess rehabilitation effectiveness and monitor patients' recovery trajectories. We therefore propose and validate a two-phase data analytic pipeline to estimate upper-limb impairment based on the naturalistic performance of activities of daily living (ADLs). Eighteen stroke survivors were equipped with an inertial sensor on the stroke-affected wrist and performed up to four ADLs in a naturalistic manner. Continuous inertial time series were segmented into sliding windows, and a machine-learned model identified windows containing instances of point-to-point (P2P) movements. Using kinematic features extracted from the detected windows, a subsequent model was used to estimate upper-limb motor impairment, as measured by the Fugl-Meyer Assessment (FMA). Both models were evaluated using leave-one-subject-out cross-validation. The P2P movement detection model had an area under the precision-recall curve of 0.72. FMA estimates had a normalized root mean square error of 18.8% with $R^{2}=0.72$. These promising results support the potential to develop seamless, ecologically valid measures of real-world motor performance.
 ER  - 
 
 TY  - JOUR
@@ -723,41 +932,6 @@ Y1  - 6-8 Dec. 2022
 AB  - Developing the capability to continuously and noninvasively monitor the mental health status of individuals is a critical focus in the mHealth domain. The use of passively-generated data gathered via smart and portable electronic devices to monitor specific indicators of mental health has shown potential to serve as an effective alternative to traditional intrusive survey-based approaches to monitoring mental health remotely. In this study, we propose a remote health monitoring framework for dynamic, flexible, and scalable assessment and detection of physiological precursors of a stress response. Our method comprises a smartwatch-based system for continuous monitoring of primary physiological signals, followed by a deep neural network architecture that performs the fusion and processing of the multi-modal sensor readings. We empirically validate our system on a cohort of university-affiliated members of the military. Our findings demonstrate the effectiveness of our passive-sensing system for tracking perceived stress, the results of which can be used to obtain a better understanding of patient behavior and improve personalized treatments1.
 ER  - 
 
-TY  - CONF
-TI  - A metaplastic neural network technique for human activity recognition for Alzheimer’s patients
-T2  - 2023 International Conference on Innovations in Intelligent Systems and Applications (INISTA)
-SP  - 1
-EP  - 6
-AU  - A. Zaghdoud
-AU  - O. Jemai
-PY  - 2023
-KW  - Training
-KW  - Technological innovation
-KW  - Artificial neural networks
-KW  - Behavioral sciences
-KW  - Human activity recognition
-KW  - Alzheimer's disease
-KW  - Task analysis
-KW  - Alzheimer’s
-KW  - HAR
-KW  - CNN
-KW  - BNN’s
-KW  - Binary
-KW  - BinarizedNet
-KW  - Metaplasticity
-KW  - Synaptic metaplasticity
-KW  - Continuous learning
-DO  - 10.1109/INISTA59065.2023.10310437
-JO  - 2023 International Conference on Innovations in Intelligent Systems and Applications (INISTA)
-IS  - 
-SN  - 2768-7295
-VO  - 
-VL  - 
-JA  - 2023 International Conference on Innovations in Intelligent Systems and Applications (INISTA)
-Y1  - 20-23 Sept. 2023
-AB  - Artificial Intelligence technology has made a huge leap forward. However, the current systems still fall short when faced with the catastrophic challenge of forgetting. Deep neural networks face huge limitations, including the tendency to forget learned tasks as they perform new tasks. While neuroscience research suggests that the human brain synapses can overcome this challenge through the ability to adapt based on historical information, applying similar mechanisms to deep neural networks to prevent forgetting previous data proves to be a monumental task.In this study, our focus lies on using these improved deep networks to provide assistance to people afflicted with Alzheimer’s disease, a prevalent condition among the elderly. Due to cognitive impairments, individuals with Alzheimer’s often require ongoing support to carry out daily activities necessary for their well-being. To tackle the issue of forgetfulness in deep neural networks, specifically binary neural networks, and grant them the ability of multitasking and continuous learning, we propose an effective training method. This can be achieved by treating the hidden weights as semi-modifiable variables and adapting the training methodology accordingly. The proposed remote monitoring system consists of two main components. The first component is the Human Activity and Patient Behavior Monitoring (HAR) Identification Unit, which focuses on monitoring and identifying patterns in the activities and behaviors of Alzheimer’s patients. The second component is a support unit that detects anomalies and behavioral problems and provides appropriate warnings. This system is based on augmentative learning technology. As a result of our research, we have developed auxiliary systems specifically designed for Alzheimer’s patients. Activity details are as follows. We achieved excellent results for Activity 1 (Task 1) with an accuracy of 99.51% and Activity 2 (Task 2) was also well-addressed by our system, reaching an accuracy of 96.63%. Finally, we conducted a comparative study, comparing our system’s performance complexity with previous systems using the Dem@care Dataset.
-ER  - 
-
 TY  - JOUR
 TI  - Pre-Impact Firefighter Fall Detection Using Machine Learning on the Edge
 T2  - IEEE Sensors Journal
@@ -794,33 +968,35 @@ Y1  - 1 July1, 2023
 AB  - Falling is one of the primary causes of firefighter casualties. Therefore, early fall detection, followed by reliable and timely notification, is vital to ensure the survival of firefighters. However, due to complex and diverse firefighting scenarios, current fall detection systems (FDSs) are inadequate, especially in terms of accuracy and real-time applications. Hence, in this study, a wearable pre-impact FDS (PIFDS) for firefighters is proposed. We also evaluated the feasibility of using machine learning (ML) and ensemble learning (EL) methods deployed on the edge node to simultaneously improve the real-time performance and accuracy. Moving thresholding method is introduced to overcome the class-imbalanced issue due to fewer samples acquired during the pre-impact (PI) phase. Based on 14 firefighters’ data collection, the experimental results revealed that a Decision Tree classifier with optimized parameters (DT-ED4) outperformed other ML and EL methods in a tradeoff between processing time and accuracy. The results also showed that our system can detect falls before the impact with an average lead time of 447.9 ms, sensitivity of 95.10%, and specificity of 97.99%. The system’s heterogeneous IoT network architecture facilitated remote monitoring and alerts that enabled the incident commander (IC) to execute the rescue mission immediately upon notification. This study enhances the practicability of PIFDS and extends the application range of PIFDS from healthcare to firefighting.
 ER  - 
 
-TY  - JOUR
-TI  - Detection and Assessment of Point-to-Point Movements During Functional Activities Using Deep Learning and Kinematic Analyses of the Stroke-Affected Wrist
-T2  - IEEE Journal of Biomedical and Health Informatics
-SP  - 1022
-EP  - 1030
-AU  - B. Oubre
-AU  - S. I. Lee
-PY  - 2024
-KW  - Feature extraction
-KW  - Wrist
-KW  - Kinematics
-KW  - Biological system modeling
-KW  - Task analysis
-KW  - Monitoring
-KW  - Human activity recognition
-KW  - Stroke
-KW  - wearable sensing
-KW  - remote monitoring
-DO  - 10.1109/JBHI.2023.3337156
-JO  - IEEE Journal of Biomedical and Health Informatics
-IS  - 2
-SN  - 2168-2208
-VO  - 28
-VL  - 28
-JA  - IEEE Journal of Biomedical and Health Informatics
-Y1  - Feb. 2024
-AB  - Stoke is a leading cause of long-term disability, including upper-limb hemiparesis. Frequent, unobtrusive assessment of naturalistic motor performance could enable clinicians to better assess rehabilitation effectiveness and monitor patients' recovery trajectories. We therefore propose and validate a two-phase data analytic pipeline to estimate upper-limb impairment based on the naturalistic performance of activities of daily living (ADLs). Eighteen stroke survivors were equipped with an inertial sensor on the stroke-affected wrist and performed up to four ADLs in a naturalistic manner. Continuous inertial time series were segmented into sliding windows, and a machine-learned model identified windows containing instances of point-to-point (P2P) movements. Using kinematic features extracted from the detected windows, a subsequent model was used to estimate upper-limb motor impairment, as measured by the Fugl-Meyer Assessment (FMA). Both models were evaluated using leave-one-subject-out cross-validation. The P2P movement detection model had an area under the precision-recall curve of 0.72. FMA estimates had a normalized root mean square error of 18.8% with $R^{2}=0.72$. These promising results support the potential to develop seamless, ecologically valid measures of real-world motor performance.
+TY  - CONF
+TI  - Predicting the Application of Internet of Things (IoT) a New Wave of Technology for Smart Health Care
+T2  - 2023 International Conference on Inventive Computation Technologies (ICICT)
+SP  - 1343
+EP  - 1350
+AU  - V. Manjula
+AU  - C. Vijayabanu
+PY  - 2023
+KW  - Industries
+KW  - Microcontrollers
+KW  - Software algorithms
+KW  - Smart healthcare
+KW  - Medical services
+KW  - Software
+KW  - Hardware
+KW  - Microcontroller Board
+KW  - cloud
+KW  - Decision-making algorithm
+KW  - Internet of Things
+KW  - Sensors
+DO  - 10.1109/ICICT57646.2023.10134279
+JO  - 2023 International Conference on Inventive Computation Technologies (ICICT)
+IS  - 
+SN  - 2767-7788
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Inventive Computation Technologies (ICICT)
+Y1  - 26-28 April 2023
+AB  - Healthcare is a fundamental aspect of human life. Furthermore, receiving high-quality medical care is highly essential. India is now facing various healthcare challenges due to a lack of resources. To define the concept of “smart healthcare,” this study discusses about the primary technologies before describing how it is presently being implemented across several key industries. Then, this study discusses about the challenges currently faced by smart healthcare. Finally, the future possibilities for smart healthcare are examined. The objective of this study is to comprehend the utilization of the Internet of Things, a new wave technology, to deal with healthcare related challenges. Finally, different IoT-based healthcare monitoring systems are comparatively analyzed. The limitations of IoT in healthcare, such as authentication, security, and wearability are examined, and ideas for future methodological approaches are presented.
 ER  - 
 
 TY  - CONF
@@ -866,37 +1042,6 @@ VL  -
 JA  - 2023 IEEE International Conference on E-health Networking, Application & Services (Healthcom)
 Y1  - 15-17 Dec. 2023
 AB  - 5G is being deployed and B5G connectivity is under study and standardization. Benefits brought by the 5G/B5G air interface are numerous and 5G is more than just an evolution of radio technology since it consists of innovative concepts: the application of network softwarization and programmability paradigms to the overall network design, the reduced latency promised by edge computing, or the concept of network slicing. These innovations open the door to new vertical-specific services, even capable of saving more lives. The paper describes four use cases to demonstrate the large-scale trialing of the B5G technology specifically devoted to eHealth and Emergency domains, by supporting the B5G applications in large-scale environments (e.g., hospitals) and bringing novel applications (e.g., Remote Proctoring and Smart Ambulance) and on societal benefits in eHealth and Emergency areas through the development of innovative B5G/6G applications. The work is a part of a more complete behavior, TrialsNet project, within SNS JU European Commission Programme, considering other field of application of B5G connectivity.
-ER  - 
-
-TY  - CONF
-TI  - Predicting the Application of Internet of Things (IoT) a New Wave of Technology for Smart Health Care
-T2  - 2023 International Conference on Inventive Computation Technologies (ICICT)
-SP  - 1343
-EP  - 1350
-AU  - V. Manjula
-AU  - C. Vijayabanu
-PY  - 2023
-KW  - Industries
-KW  - Microcontrollers
-KW  - Software algorithms
-KW  - Smart healthcare
-KW  - Medical services
-KW  - Software
-KW  - Hardware
-KW  - Microcontroller Board
-KW  - cloud
-KW  - Decision-making algorithm
-KW  - Internet of Things
-KW  - Sensors
-DO  - 10.1109/ICICT57646.2023.10134279
-JO  - 2023 International Conference on Inventive Computation Technologies (ICICT)
-IS  - 
-SN  - 2767-7788
-VO  - 
-VL  - 
-JA  - 2023 International Conference on Inventive Computation Technologies (ICICT)
-Y1  - 26-28 April 2023
-AB  - Healthcare is a fundamental aspect of human life. Furthermore, receiving high-quality medical care is highly essential. India is now facing various healthcare challenges due to a lack of resources. To define the concept of “smart healthcare,” this study discusses about the primary technologies before describing how it is presently being implemented across several key industries. Then, this study discusses about the challenges currently faced by smart healthcare. Finally, the future possibilities for smart healthcare are examined. The objective of this study is to comprehend the utilization of the Internet of Things, a new wave technology, to deal with healthcare related challenges. Finally, different IoT-based healthcare monitoring systems are comparatively analyzed. The limitations of IoT in healthcare, such as authentication, security, and wearability are examined, and ideas for future methodological approaches are presented.
 ER  - 
 
 TY  - CONF
@@ -999,6 +1144,40 @@ VL  -
 JA  - 2021 IEEE 17th International Conference on Wearable and Implantable Body Sensor Networks (BSN)
 Y1  - 27-30 July 2021
 AB  - Contactless monitoring of vital signs, e.g., heart rate (HR) attracts the researcher's attention due to its convenience and affordability. Among others, under-mattress ballistocardiogram (BCG) sensors have proved effective for contactless remote monitoring of HR. Nevertheless, HR detection from BCG sensors is a challenging task because the signal morphology can vary between and within-subjects. In this paper, we studied the potential of two wavelet-based methods, i.e., the multiresolution analysis of the maximal overlap discrete wavelet transform (MODWT-MRA) and continuous wavelet transform (CWT) for HR detection via a microbend fiber optic sensor (MFOS). BCG signals were gathered from ten sleep apnea patients during overnight polysomnography (PSG) study. The MFOS was placed under the bed mattress and the PSG electrocardiogram (ECG) signals were used as a reference to evaluate the proposed HR detection algorithms. Overall, CWT with derivative of Gaussian provided (Gaus2) slightly better results compared with the MODWT-MRA, CWT (frequency Bspline), and CWT (Shannon). Across the ten patients, the mean absolute error, mean absolute percentage error, and root mean square error metrics were as follows: 4.71 (1.22), 7.58% (2.17), and 5.58 (1.20), and 4.71 (1.07), 7.61% (1.65), and 5.59 (1.02), for Gau2 and MODWT-MRA, respectively. That said, the total precision for MODWT-MRA, i.e., 80.22 (19.01) was higher than Gaus2, i.e., 78.83 (17.84).
+ER  - 
+
+TY  - CONF
+TI  - Egocentric Vision Action Recognition: Performance Analysis on the Coer_Egovision Dataset
+T2  - 2024 International Conference on Automation and Computation (AUTOCOM)
+SP  - 341
+EP  - 346
+AU  - H. Gupta
+AU  - V. Kumar
+PY  - 2024
+KW  - Support vector machines
+KW  - Three-dimensional displays
+KW  - Medical services
+KW  - Cameras
+KW  - Convolutional neural networks
+KW  - Biomedical monitoring
+KW  - Long short term memory
+KW  - Egocentric Vision
+KW  - Action Recognition
+KW  - Deep Learning
+KW  - 3D CNN
+KW  - LRCN
+KW  - HOG
+KW  - SVM
+KW  - Ensemble Learning
+DO  - 10.1109/AUTOCOM60220.2024.10486146
+JO  - 2024 International Conference on Automation and Computation (AUTOCOM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Automation and Computation (AUTOCOM)
+Y1  - 14-16 March 2024
+AB  - Egocentric activity recognition, also known as first-person vision, captures human actions and activities from the perspective of a wearable camera, providing a personalized and contextualized viewpoint. This unique perspective is crucial for various real-world applications, including healthcare monitoring, sports analy-sis, augmented reality, and assistive technologies. In this paper, we present a comparative analysis of various state-of-the-art algorithms for egocentric action recognition using the recently curated dataset, “Coer_Egovision.” This dataset captures human actions and activities from the unique perspective of a wearable camera, providing a personalized and context-aware viewpoint. Such a perspective holds significant value for real-world applications, including healthcare monitoring, sports analysis, augmented reality, and assistive technologies.The “Coer_Egovision” dataset encompasses diverse actions, such as “Going_Downstairs”, “Going_Upstairs”, “Texting”, “Walking” and “Writing” allowing for a challenging benchmark to evaluate algorithms in this domain. By leveraging the wearable camera perspective, the dataset addresses the need for a more com-prehensive understanding of human interactions with the environment.Among the evaluated algorithms, the Long-term Recurrent Convolutional Network (LRCN) emerges as the top performer, achieving an impressive accuracy of 88% in effectively modeling long-term temporal dependencies. Additionally, the Histogram of Oriented Gradients (HOG) combined with Support Vector Machine (SVM) approach demonstrates robust performance with 82% accuracy, highlighting the efficacy of feature-based methods. The study also reveals promising results for the 2-Stream Approach with 3D CNN and LSTM, achieving an accuracy of 74%. Furthermore, pretrained models like VGG16 and DenseNet201 along with LSTM exhibit competitive performances with accuracies of 80% each.These results offer valuable insights into the performance of diverse algorithms on the “Coer_Egovision” dataset, providing valuable guidance for future research in the field of egocentric action recognition.
 ER  - 
 
 TY  - CONF
@@ -1172,37 +1351,40 @@ AB  - In recent times, there has been a notable rise in the utilization of Inter
 ER  - 
 
 TY  - CONF
-TI  - Egocentric Vision Action Recognition: Performance Analysis on the Coer_Egovision Dataset
-T2  - 2024 International Conference on Automation and Computation (AUTOCOM)
-SP  - 341
-EP  - 346
-AU  - H. Gupta
-AU  - V. Kumar
-PY  - 2024
-KW  - Support vector machines
-KW  - Three-dimensional displays
-KW  - Medical services
-KW  - Cameras
-KW  - Convolutional neural networks
-KW  - Biomedical monitoring
-KW  - Long short term memory
-KW  - Egocentric Vision
-KW  - Action Recognition
-KW  - Deep Learning
-KW  - 3D CNN
-KW  - LRCN
-KW  - HOG
-KW  - SVM
-KW  - Ensemble Learning
-DO  - 10.1109/AUTOCOM60220.2024.10486146
-JO  - 2024 International Conference on Automation and Computation (AUTOCOM)
+TI  - Vitaband: IoT-Driven Health Monitoring System for Home Quarantine COVID-19 Patient Using LoRaWAN
+T2  - 2022 IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS)
+SP  - 351
+EP  - 357
+AU  - A. Cruz
+AU  - M. L. Villena
+AU  - I. M. Castro
+AU  - J. P. Cervantes
+AU  - S. A. Ondra
+AU  - R. Quijano
+AU  - J. E. Veneracion
+AU  - M. Alipio
+PY  - 2022
+KW  - Temperature measurement
+KW  - COVID-19
+KW  - Temperature sensors
+KW  - Microcontrollers
+KW  - Signal processing algorithms
+KW  - Logic gates
+KW  - Sensors
+KW  - COVID-19
+KW  - health monitoring
+KW  - Internet of Things
+KW  - LoRaWAN
+KW  - Vitaband
+DO  - 10.1109/IoTaIS56727.2022.9975992
+JO  - 2022 IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS)
 IS  - 
-SN  - 
+SN  - 2832-1383
 VO  - 
 VL  - 
-JA  - 2024 International Conference on Automation and Computation (AUTOCOM)
-Y1  - 14-16 March 2024
-AB  - Egocentric activity recognition, also known as first-person vision, captures human actions and activities from the perspective of a wearable camera, providing a personalized and contextualized viewpoint. This unique perspective is crucial for various real-world applications, including healthcare monitoring, sports analy-sis, augmented reality, and assistive technologies. In this paper, we present a comparative analysis of various state-of-the-art algorithms for egocentric action recognition using the recently curated dataset, “Coer_Egovision.” This dataset captures human actions and activities from the unique perspective of a wearable camera, providing a personalized and context-aware viewpoint. Such a perspective holds significant value for real-world applications, including healthcare monitoring, sports analysis, augmented reality, and assistive technologies.The “Coer_Egovision” dataset encompasses diverse actions, such as “Going_Downstairs”, “Going_Upstairs”, “Texting”, “Walking” and “Writing” allowing for a challenging benchmark to evaluate algorithms in this domain. By leveraging the wearable camera perspective, the dataset addresses the need for a more com-prehensive understanding of human interactions with the environment.Among the evaluated algorithms, the Long-term Recurrent Convolutional Network (LRCN) emerges as the top performer, achieving an impressive accuracy of 88% in effectively modeling long-term temporal dependencies. Additionally, the Histogram of Oriented Gradients (HOG) combined with Support Vector Machine (SVM) approach demonstrates robust performance with 82% accuracy, highlighting the efficacy of feature-based methods. The study also reveals promising results for the 2-Stream Approach with 3D CNN and LSTM, achieving an accuracy of 74%. Furthermore, pretrained models like VGG16 and DenseNet201 along with LSTM exhibit competitive performances with accuracies of 80% each.These results offer valuable insights into the performance of diverse algorithms on the “Coer_Egovision” dataset, providing valuable guidance for future research in the field of egocentric action recognition.
+JA  - 2022 IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS)
+Y1  - 24-26 Nov. 2022
+AB  - Technological advancements in medical field gave birth to smart watches, handheld devices that can read your vital signs real-time. However, home quarantined COVID-19 patients, even with the help of smartwatches, are still needed to be monitored physically by health practitioners, therefore posing a threat of transmission of the virus. This paved the way to the investigation of designing a wearable device that read health vital statistics and the location of home quarantined patients and a system that will remotely monitor it. Thus, this work developed Vitaband, a health-monitoring system made up of a node, gateway, and a web application. The node consists of sensors – pulse meter, oximeter, IR sensor and GPS module – that will read the vital signs of the patient and display it through an OLED screen. Two Raspberry Pico Pi microcontrollers will process the data gathered by these sensors and send them to the gateway through the Lora module. The gateway then, housing the ESP32 microcontroller, will connect to the internet and transmit the received data to the MongoDB database. The web application finally, which is programmed using REACT framework, shall display the data for remote monitoring. Vitaband is tested and evaluated using the ISO/IEC 25010 model. Results revealed that Vitaband received an overall rating of Very Satisfactory from the Bulacan State University Nursing student during their training as the respondents and Excellent from medical professionals which are registered nurses and barangay health workers, respectively.
 ER  - 
 
 TY  - CONF
@@ -1273,43 +1455,6 @@ VL  - 11
 JA  - IEEE Access
 Y1  - 2023
 AB  - The integration of wireless antenna sensors for cyber-physical systems has become increasingly prevalent in various biosimilar applications due to the escalating need for monitoring techniques that are efficient, accurate, and reliable. The primary objective of this comprehensive investigation is to offer a scholarly examination of the present advancements, challenges, and potentialities in the realm of wireless antenna sensor technology for monitoring biosimilars. Specifically, the focus will be on the current state of the art in wireless antenna sensor design, manufacturing, and implementation along with the discussion of cyber security trends. The advantages of wireless antenna sensors, including increased sensitivity, real-time data gathering, and remote monitoring, will next be discussed in relation to their use in a variety of biosimilar applications. Furthermore, we will explore the challenges of deploying wireless antenna sensors for biosimilar monitoring, such as power consumption, signal integrity, and biocompatibility concerns. To wrap things off, there will be a discussion about where this subject is headed and why collaborative work is essential to advancing wireless antenna sensor technology and its applications in biosimilar monitoring. Providing an in-depth overview of the present landscape and potential developments, this article aims to be an asset for academics and professionals in the fields of antenna sensors, biosimilar development, wireless communication technologies, and cyber physical systems.
-ER  - 
-
-TY  - CONF
-TI  - Vitaband: IoT-Driven Health Monitoring System for Home Quarantine COVID-19 Patient Using LoRaWAN
-T2  - 2022 IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS)
-SP  - 351
-EP  - 357
-AU  - A. Cruz
-AU  - M. L. Villena
-AU  - I. M. Castro
-AU  - J. P. Cervantes
-AU  - S. A. Ondra
-AU  - R. Quijano
-AU  - J. E. Veneracion
-AU  - M. Alipio
-PY  - 2022
-KW  - Temperature measurement
-KW  - COVID-19
-KW  - Temperature sensors
-KW  - Microcontrollers
-KW  - Signal processing algorithms
-KW  - Logic gates
-KW  - Sensors
-KW  - COVID-19
-KW  - health monitoring
-KW  - Internet of Things
-KW  - LoRaWAN
-KW  - Vitaband
-DO  - 10.1109/IoTaIS56727.2022.9975992
-JO  - 2022 IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS)
-IS  - 
-SN  - 2832-1383
-VO  - 
-VL  - 
-JA  - 2022 IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS)
-Y1  - 24-26 Nov. 2022
-AB  - Technological advancements in medical field gave birth to smart watches, handheld devices that can read your vital signs real-time. However, home quarantined COVID-19 patients, even with the help of smartwatches, are still needed to be monitored physically by health practitioners, therefore posing a threat of transmission of the virus. This paved the way to the investigation of designing a wearable device that read health vital statistics and the location of home quarantined patients and a system that will remotely monitor it. Thus, this work developed Vitaband, a health-monitoring system made up of a node, gateway, and a web application. The node consists of sensors – pulse meter, oximeter, IR sensor and GPS module – that will read the vital signs of the patient and display it through an OLED screen. Two Raspberry Pico Pi microcontrollers will process the data gathered by these sensors and send them to the gateway through the Lora module. The gateway then, housing the ESP32 microcontroller, will connect to the internet and transmit the received data to the MongoDB database. The web application finally, which is programmed using REACT framework, shall display the data for remote monitoring. Vitaband is tested and evaluated using the ISO/IEC 25010 model. Results revealed that Vitaband received an overall rating of Very Satisfactory from the Bulacan State University Nursing student during their training as the respondents and Excellent from medical professionals which are registered nurses and barangay health workers, respectively.
 ER  - 
 
 TY  - JOUR
@@ -1437,36 +1582,6 @@ Y1  - 15-17 Dec. 2023
 AB  - The deployment of the Internet of Medical Things (IoMTs) for remote monitoring has grown exponentially as an alternative for in-hospital diagnosis. The COVID-19 lockdown and the shortage of human and medical apparatus pushed the detection and diagnostics toward the Wireless Body Area Network to prevent the spread of infection. In this paper, we present a novel approach to detect cardiovascular diseases using the IoMTs. The proposed approach is based on the use of autoencoders to derive a compressed representation of the input record, followed by a Random Forest to classify the latent data. The objective is to provide a lightweight and accurate model compatible with the constrained resources of sensors. Our experiment results on a public annotated dataset show that our approach can enhance the performance where the obtained area under the curve is 89%. We also compare the performance of widely used classification algorithms to prove the efficiency of our proposed model.
 ER  - 
 
-TY  - JOUR
-TI  - GaRuDa: A Blockchain-Based Delivery Scheme Using Drones for Healthcare 5.0 Applications
-T2  - IEEE Internet of Things Magazine
-SP  - 60
-EP  - 66
-AU  - R. Gupta
-AU  - P. Bhattacharya
-AU  - S. Tanwar
-AU  - N. Kumar
-AU  - S. Zeadally
-PY  - 2021
-KW  - Tactile Internet
-KW  - Data privacy
-KW  - Costs
-KW  - Supply chains
-KW  - Memory
-KW  - Medical services
-KW  - Blockchains
-KW  - Drones
-DO  - 10.1109/IOTM.001.2100045
-JO  - IEEE Internet of Things Magazine
-IS  - 4
-SN  - 2576-3199
-VO  - 4
-VL  - 4
-JA  - IEEE Internet of Things Magazine
-Y1  - December 2021
-AB  - Over the years, the healthcare industry has transformed from being hospital-centric to patient-centric. This shift is mainly due to the convergence of emergent technologies such as Internet of Things (IoT)-based healthcare, fifth generation (5G)-assisted networking, and data-driven analytics through artificial intelligence. The convergence, referred to as Healthcare 5.0, has improved healthcare services to support real-time analytics, user mobility, remote monitoring, and personalized user experience through decentralized applications. However, the medical supply chain systems and delivery operations among healthcare stakeholders suffer from limitations of harsh environmental conditions due to restricted zones, rough terrains, war-prone areas, poor road conditions, congested traffic, and remote locations. Thus, the Internet of Drones (IoD) is deployed in Healthcare 5.0 supply chains to streamline and expedite the medical delivery process through open channels (i.e. the Internet). However, the Internet is an open channel that is prone to malicious activities which can violate the privacy and confidentiality of patient data. Blockchain is a promising technology that can handle the security and reliability of drone delivery among untrusted open channels. Motivated by the aforementioned facts, we propose GaRuDa, a blockchain-based drone delivery scheme for Healthcare 5.0 applications. The proposed scheme integrates IoD and blockchain through 5G-enabled tactile Internet to facilitate low-latency responsive delivery of medical supplies that can be chronologically monitored and tracked among different stakeholders. We compared the proposed scheme with the traditional medical delivery scheme with payment gateways to demonstrate its effectiveness in terms of data storage, computation, and communication costs. The simulation results obtained show that the average transaction cost has been reduced by ≈ 44.56 percent, and 5G tactile Internet has a reduced latency of 0.051 ms compared to 18.3 ms in 4G LTE service. The average communication overheads have reduced by ≈ 67.34 percent compared to traditional 4G LTE and orthogonal frequency-division multiplexing channels, which indicates the scheme's viability.
-ER  - 
-
 TY  - CONF
 TI  - A Plug&Play flexible skin sensor for the wireless monitoring of pandemics
 T2  - 2021 IEEE International Conference on Flexible and Printable Sensors and Systems (FLEPS)
@@ -1508,6 +1623,36 @@ AB  - The fight against pandemics is redesigning the interaction between doctor 
 ER  - 
 
 TY  - JOUR
+TI  - GaRuDa: A Blockchain-Based Delivery Scheme Using Drones for Healthcare 5.0 Applications
+T2  - IEEE Internet of Things Magazine
+SP  - 60
+EP  - 66
+AU  - R. Gupta
+AU  - P. Bhattacharya
+AU  - S. Tanwar
+AU  - N. Kumar
+AU  - S. Zeadally
+PY  - 2021
+KW  - Tactile Internet
+KW  - Data privacy
+KW  - Costs
+KW  - Supply chains
+KW  - Memory
+KW  - Medical services
+KW  - Blockchains
+KW  - Drones
+DO  - 10.1109/IOTM.001.2100045
+JO  - IEEE Internet of Things Magazine
+IS  - 4
+SN  - 2576-3199
+VO  - 4
+VL  - 4
+JA  - IEEE Internet of Things Magazine
+Y1  - December 2021
+AB  - Over the years, the healthcare industry has transformed from being hospital-centric to patient-centric. This shift is mainly due to the convergence of emergent technologies such as Internet of Things (IoT)-based healthcare, fifth generation (5G)-assisted networking, and data-driven analytics through artificial intelligence. The convergence, referred to as Healthcare 5.0, has improved healthcare services to support real-time analytics, user mobility, remote monitoring, and personalized user experience through decentralized applications. However, the medical supply chain systems and delivery operations among healthcare stakeholders suffer from limitations of harsh environmental conditions due to restricted zones, rough terrains, war-prone areas, poor road conditions, congested traffic, and remote locations. Thus, the Internet of Drones (IoD) is deployed in Healthcare 5.0 supply chains to streamline and expedite the medical delivery process through open channels (i.e. the Internet). However, the Internet is an open channel that is prone to malicious activities which can violate the privacy and confidentiality of patient data. Blockchain is a promising technology that can handle the security and reliability of drone delivery among untrusted open channels. Motivated by the aforementioned facts, we propose GaRuDa, a blockchain-based drone delivery scheme for Healthcare 5.0 applications. The proposed scheme integrates IoD and blockchain through 5G-enabled tactile Internet to facilitate low-latency responsive delivery of medical supplies that can be chronologically monitored and tracked among different stakeholders. We compared the proposed scheme with the traditional medical delivery scheme with payment gateways to demonstrate its effectiveness in terms of data storage, computation, and communication costs. The simulation results obtained show that the average transaction cost has been reduced by ≈ 44.56 percent, and 5G tactile Internet has a reduced latency of 0.051 ms compared to 18.3 ms in 4G LTE service. The average communication overheads have reduced by ≈ 67.34 percent compared to traditional 4G LTE and orthogonal frequency-division multiplexing channels, which indicates the scheme's viability.
+ER  - 
+
+TY  - JOUR
 TI  - Emerging Technologies Used in Health Management and Efficiency Improvement During Different Contact Tracing Phases Against COVID-19 Pandemic
 T2  - IEEE Reviews in Biomedical Engineering
 SP  - 38
@@ -1540,6 +1685,79 @@ VL  - 16
 JA  - IEEE Reviews in Biomedical Engineering
 Y1  - 2023
 AB  - Confronted with the COVID-19 health crisis, the year 2020 represented a turning point for the entire world. It paved the way for health-care systems to reaffirm their foundations by using different technologies such as sensors, wearables, mobile applications, drones, robots, Artificial Intelligence (AI), Machine Learning (ML) and the Internet of Things (IoT). A lot of domains have been renovated such as diagnosis, treatment, and monitoring, as well as previously unprecedented domains such as contact tracing. Contact tracing, in conjunction with the emergence, spread, and public compliance for vaccines, was a critical step for controlling and limiting the spread of the pandemic. Traditional contact tracing is usually dependent on individuals ability to recall their interactions, which is challenging and yet not effective. Consequently, further development and usage of automated, privacy-preserving, digital contact-tracing was required. As the pandemic is coming to an end, it is vital to collect and learn the effective used technologies that aided in fighting the virus in order to be prepared for any future pandemics and to be aware of any literature gaps that must be filled. This paper surveys state-of-the-art architectures, platforms, and applications combating COVID-19 at each phase of the five basic contact tracing phases, including case identification, contacts identification and rapid exposure notification, surveillance, regular follow up and prevention. In addition, there is a phase of preparation and post-pandemic services for current and needed future technology that will aid in the fight against any incoming infectious diseases.
+ER  - 
+
+TY  - CONF
+TI  - Resource Aware Fog Based Remote Health Monitoring System
+T2  - IEEE INFOCOM 2022 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
+SP  - 1
+EP  - 6
+AU  - D. H. Barbhuiya
+AU  - A. Dey
+AU  - R. Ghosh
+AU  - K. Das
+AU  - K. Ray
+AU  - N. Medhi
+PY  - 2022
+KW  - Temperature measurement
+KW  - COVID-19
+KW  - Pulse measurements
+KW  - Conferences
+KW  - Distributed databases
+KW  - Quality of service
+KW  - Telecommunication traffic
+KW  - Internet of Medical Things (IoMT)
+KW  - Fog
+KW  - Cloud
+KW  - LOF
+KW  - SVM
+DO  - 10.1109/INFOCOMWKSHPS54753.2022.9798058
+JO  - IEEE INFOCOM 2022 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE INFOCOM 2022 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
+Y1  - 2-5 May 2022
+AB  - In today’s world of medical science, remote patient monitoring devices are becoming more important and a future need particularly in the present COVID-19 situation as individuals are preferred to be kept isolated. Patients would be benefited from a suitable monitoring system that measures their important medical parameters such as pulse rate, oxygen saturation or SpO2, body temperature, blood pressure, and Galvanized Skin Response (GSR). This system can increase the medical staff efficiency by drastically decreasing their duties in hospitals and the need to attend to them individually. Patients in their home isolation may utilize the device as well, and their vital indicators may be checked by doctors remotely. In this work, we are prototyping a powerefficient, wearable medical kit and a resource-aware fog network set up to handle the Internet of Things (IoT) data traffic. The idea behind the design is to process the critical medical sensors’ data in the fog nodes which are deployed at the edge of the network. The data thus received, is used for a machine learning-based solution for personal health anomalies and COVID-19 infection risk analysis.
+ER  - 
+
+TY  - CONF
+TI  - Early Detection Framework for Gait Disorders Using an IoT LiDAR-Based Monitoring System in Outdoor Spaces
+T2  - 2023 16th International Conference on Sensing Technology (ICST)
+SP  - 1
+EP  - 6
+AU  - A. Gaddam
+AU  - N. K. Suryadevara
+AU  - D. Thiruvady
+PY  - 2023
+KW  - Legged locomotion
+KW  - Sociology
+KW  - Medical services
+KW  - Alarm systems
+KW  - Aging
+KW  - Sensors
+KW  - Internet of Things
+KW  - smart technology
+KW  - IoT-based systems
+KW  - public monitoring
+KW  - healthcare technology
+KW  - ageing population
+KW  - mobility analysis
+KW  - posture analysis
+KW  - ageing in place
+KW  - healthcare innovation
+KW  - gait pattern analysis
+KW  - elderly health
+DO  - 10.1109/ICST59744.2023.10460850
+JO  - 2023 16th International Conference on Sensing Technology (ICST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 16th International Conference on Sensing Technology (ICST)
+Y1  - 17-20 Dec. 2023
+AB  - In the pursuit of advancing healthcare technologies and promoting the well-being of the elderly population, this paper presents a conceptual framework for early detection of gait disorders through public IoT-based health monitoring. As global life expectancy continues to rise, there is an increasing need for unobtrusive health monitoring systems that can facilitate the early identification of health issues, particularly among the elderly. While many healthcare monitoring technologies exist, their limited accessibility and deployment in controlled environments or healthcare facilities present challenges. To address this, our innovative concept proposes a smart IoT-based outdoor health monitoring system, specifically designed for public spaces such as parks and supermarkets. This system aims to collect data on mobility, posture, and gait, recognising the crucial role that gait plays in an individual's well-being. The proposed system leverages the power of the Internet of Things (IoT) to gather data seamlessly from individuals in their everyday environments, creating a more holistic and real-world understanding of their health. By analysing gait patterns and deviations, our conceptual framework aims to serve as an early warning system for health-care providers, caregivers, and individuals themselves, alerting them to potential health concerns and enabling proactive intervention. This concept, while in its early stages, holds immense promise for addressing the challenges of an ageing population and reducing healthcare disparities. It aligns with the broader vision of harnessing emerging technologies to enhance the quality of life for the elderly.
 ER  - 
 
 TY  - CONF
@@ -1649,79 +1867,6 @@ VL  - 40
 JA  - Journal of Lightwave Technology
 Y1  - 1 July1, 2022
 AB  - A dual-channel single-mode-multi-mode-single-mode (SMS) fiber optic sensor encapsulated by polydimethylsiloxane (PDMS) was proposed for the first time, for the simultaneous monitoring of the brachial and radial arteries for accurate blood pressure prediction. With the help of the machine learning algorithm Support Vector Regression (SVR), the SMS fiber sensor can continuously and accurately monitor the systolic and diastolic blood pressure. Commercial sphygmomanometers are used to calibrate the accuracy of blood pressure measurement. Compared with the single-channel system, this system can extract more pulse wave features for blood pressure prediction, such as radial artery transit time (RPTT), brachial artery transit time (BPTT), and the transit time difference between the radial artery and the brachial artery (DBRPTT). The results show that the performance of dual-channel blood pressure monitoring is more accurate than that of single-channel blood pressure monitoring in terms of the absolute value of the correlation coefficient (R) and the average value of the difference between SBP and DBP. In addition, both the single-channel and dual-channel blood pressure monitoring are in line with the Association for the Advancement of Medical Devices (AAMI), but the average deviation (DM, 0.06 mmHg) and standard deviation (SD, 1.54 mmHg) of dual-channel blood pressure monitoring are more accurate. The blood pressure monitoring system has the characteristics of low cost, high sensitivity, non-invasive and capability for remote real time monitoring, which can provide effective solution for intelligent health monitoring in the era of artificial intelligence in the future.
-ER  - 
-
-TY  - CONF
-TI  - Resource Aware Fog Based Remote Health Monitoring System
-T2  - IEEE INFOCOM 2022 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
-SP  - 1
-EP  - 6
-AU  - D. H. Barbhuiya
-AU  - A. Dey
-AU  - R. Ghosh
-AU  - K. Das
-AU  - K. Ray
-AU  - N. Medhi
-PY  - 2022
-KW  - Temperature measurement
-KW  - COVID-19
-KW  - Pulse measurements
-KW  - Conferences
-KW  - Distributed databases
-KW  - Quality of service
-KW  - Telecommunication traffic
-KW  - Internet of Medical Things (IoMT)
-KW  - Fog
-KW  - Cloud
-KW  - LOF
-KW  - SVM
-DO  - 10.1109/INFOCOMWKSHPS54753.2022.9798058
-JO  - IEEE INFOCOM 2022 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - IEEE INFOCOM 2022 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
-Y1  - 2-5 May 2022
-AB  - In today’s world of medical science, remote patient monitoring devices are becoming more important and a future need particularly in the present COVID-19 situation as individuals are preferred to be kept isolated. Patients would be benefited from a suitable monitoring system that measures their important medical parameters such as pulse rate, oxygen saturation or SpO2, body temperature, blood pressure, and Galvanized Skin Response (GSR). This system can increase the medical staff efficiency by drastically decreasing their duties in hospitals and the need to attend to them individually. Patients in their home isolation may utilize the device as well, and their vital indicators may be checked by doctors remotely. In this work, we are prototyping a powerefficient, wearable medical kit and a resource-aware fog network set up to handle the Internet of Things (IoT) data traffic. The idea behind the design is to process the critical medical sensors’ data in the fog nodes which are deployed at the edge of the network. The data thus received, is used for a machine learning-based solution for personal health anomalies and COVID-19 infection risk analysis.
-ER  - 
-
-TY  - CONF
-TI  - Early Detection Framework for Gait Disorders Using an IoT LiDAR-Based Monitoring System in Outdoor Spaces
-T2  - 2023 16th International Conference on Sensing Technology (ICST)
-SP  - 1
-EP  - 6
-AU  - A. Gaddam
-AU  - N. K. Suryadevara
-AU  - D. Thiruvady
-PY  - 2023
-KW  - Legged locomotion
-KW  - Sociology
-KW  - Medical services
-KW  - Alarm systems
-KW  - Aging
-KW  - Sensors
-KW  - Internet of Things
-KW  - smart technology
-KW  - IoT-based systems
-KW  - public monitoring
-KW  - healthcare technology
-KW  - ageing population
-KW  - mobility analysis
-KW  - posture analysis
-KW  - ageing in place
-KW  - healthcare innovation
-KW  - gait pattern analysis
-KW  - elderly health
-DO  - 10.1109/ICST59744.2023.10460850
-JO  - 2023 16th International Conference on Sensing Technology (ICST)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2023 16th International Conference on Sensing Technology (ICST)
-Y1  - 17-20 Dec. 2023
-AB  - In the pursuit of advancing healthcare technologies and promoting the well-being of the elderly population, this paper presents a conceptual framework for early detection of gait disorders through public IoT-based health monitoring. As global life expectancy continues to rise, there is an increasing need for unobtrusive health monitoring systems that can facilitate the early identification of health issues, particularly among the elderly. While many healthcare monitoring technologies exist, their limited accessibility and deployment in controlled environments or healthcare facilities present challenges. To address this, our innovative concept proposes a smart IoT-based outdoor health monitoring system, specifically designed for public spaces such as parks and supermarkets. This system aims to collect data on mobility, posture, and gait, recognising the crucial role that gait plays in an individual's well-being. The proposed system leverages the power of the Internet of Things (IoT) to gather data seamlessly from individuals in their everyday environments, creating a more holistic and real-world understanding of their health. By analysing gait patterns and deviations, our conceptual framework aims to serve as an early warning system for health-care providers, caregivers, and individuals themselves, alerting them to potential health concerns and enabling proactive intervention. This concept, while in its early stages, holds immense promise for addressing the challenges of an ageing population and reducing healthcare disparities. It aligns with the broader vision of harnessing emerging technologies to enhance the quality of life for the elderly.
 ER  - 
 
 TY  - CONF
@@ -1887,6 +2032,41 @@ AB  - Asthma and other respiratory diseases impose a significant global burden, 
 ER  - 
 
 TY  - JOUR
+TI  - Homecare-Oriented Intelligent Long-Term Monitoring of Blood Pressure Using Electrocardiogram Signals
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 7150
+EP  - 7158
+AU  - X. Fan
+AU  - H. Wang
+AU  - F. Xu
+AU  - Y. Zhao
+AU  - K. -L. Tsui
+PY  - 2020
+KW  - Estimation
+KW  - Electrocardiography
+KW  - Task analysis
+KW  - Blood pressure
+KW  - Biomedical monitoring
+KW  - Monitoring
+KW  - Informatics
+KW  - Attention mechanism
+KW  - blood pressure
+KW  - deep learning
+KW  - electrocardiogram signals
+KW  - healthcare monitoring
+KW  - multiple tasks
+DO  - 10.1109/TII.2019.2962546
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 11
+SN  - 1941-0050
+VO  - 16
+VL  - 16
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - Nov. 2020
+AB  - Long-term blood pressure (BP) monitoring is a widely used approach in a homecare intelligent system. However, BP is usually measured using cuff-based devices with tedious operation in practice, which may not be cost effective for continuous BP tracking. In this article, we propose a novel attention-based multitask network with a weighting scheme for BP estimation by analyzing and modeling single lead electrocardiogram (ECG) signals. Experimental results demonstrate that the proposed method could achieve mean error of systolic blood pressure, diastolic blood pressure, and mean arterial pressure estimation in levels of 0.18 ± 10.83, 1.24 ± 5.90, and 0.84 ± 6.47 mmHg, respectively. In comparison to other cutting-edge methods using ECG signals, the proposed method shows superior BP estimation performance. By integrating with a wearable/portable ECG monitoring device, the proposed model can be deployed to an embedded system or remote healthcare intelligent system to provide long-term BP monitoring service, which would help to reduce the incidence of malignant events happened in hypertensive population.
+ER  - 
+
+TY  - JOUR
 TI  - Biodegradable Cuboid Isotropic Metamaterial for Wireless Soil Monitoring
 T2  - IEEE Sensors Journal
 SP  - 27256
@@ -1944,41 +2124,6 @@ VL  - 9
 JA  - IEEE Consumer Electronics Magazine
 Y1  - 1 Jan. 2020
 AB  - In the case of diabetes, fingertip pricking for blood sample is inconvenient for glucose measurement. Invasive approaches like laboratory tests and one touch glucometers enhance the risk of blood related infections. To mitigate this important issue, this article introduces a novel Internet-of-Medical-Things (IoMT) enabled edge-device for precise, noninvasive blood glucose measurement. The device called “Intelligent Glucose Meter” (i.e., iGLU) is based on near-infrared (NIR) spectroscopy and a machine learning model of high accuracy. iGLU has been validated in a hospital and blood glucose values are stored in an IoMT platform for remote monitoring by endocrinologists.
-ER  - 
-
-TY  - JOUR
-TI  - Homecare-Oriented Intelligent Long-Term Monitoring of Blood Pressure Using Electrocardiogram Signals
-T2  - IEEE Transactions on Industrial Informatics
-SP  - 7150
-EP  - 7158
-AU  - X. Fan
-AU  - H. Wang
-AU  - F. Xu
-AU  - Y. Zhao
-AU  - K. -L. Tsui
-PY  - 2020
-KW  - Estimation
-KW  - Electrocardiography
-KW  - Task analysis
-KW  - Blood pressure
-KW  - Biomedical monitoring
-KW  - Monitoring
-KW  - Informatics
-KW  - Attention mechanism
-KW  - blood pressure
-KW  - deep learning
-KW  - electrocardiogram signals
-KW  - healthcare monitoring
-KW  - multiple tasks
-DO  - 10.1109/TII.2019.2962546
-JO  - IEEE Transactions on Industrial Informatics
-IS  - 11
-SN  - 1941-0050
-VO  - 16
-VL  - 16
-JA  - IEEE Transactions on Industrial Informatics
-Y1  - Nov. 2020
-AB  - Long-term blood pressure (BP) monitoring is a widely used approach in a homecare intelligent system. However, BP is usually measured using cuff-based devices with tedious operation in practice, which may not be cost effective for continuous BP tracking. In this article, we propose a novel attention-based multitask network with a weighting scheme for BP estimation by analyzing and modeling single lead electrocardiogram (ECG) signals. Experimental results demonstrate that the proposed method could achieve mean error of systolic blood pressure, diastolic blood pressure, and mean arterial pressure estimation in levels of 0.18 ± 10.83, 1.24 ± 5.90, and 0.84 ± 6.47 mmHg, respectively. In comparison to other cutting-edge methods using ECG signals, the proposed method shows superior BP estimation performance. By integrating with a wearable/portable ECG monitoring device, the proposed model can be deployed to an embedded system or remote healthcare intelligent system to provide long-term BP monitoring service, which would help to reduce the incidence of malignant events happened in hypertensive population.
 ER  - 
 
 TY  - CONF

@@ -65,6 +65,36 @@ AB  - This narrative analysis article investigates the revolutionary potential o
 ER  - 
 
 TY  - CONF
+TI  - Flexible Capacitive Pressure Sensors and Their Applications in Human-Machine Interactions
+T2  - 2023 2nd International Symposium on Sensor Technology and Control (ISSTC)
+SP  - 196
+EP  - 200
+AU  - C. Fang
+AU  - T. Fu
+AU  - Y. Shi
+PY  - 2023
+KW  - Pressure sensors
+KW  - Human computer interaction
+KW  - Support vector machines
+KW  - Silver
+KW  - Sensitivity
+KW  - Wearable computers
+KW  - Skin
+KW  - capacitive pressure sensors
+KW  - flexible
+KW  - human-machine interactions
+DO  - 10.1109/ISSTC59603.2023.10280832
+JO  - 2023 2nd International Symposium on Sensor Technology and Control (ISSTC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 2nd International Symposium on Sensor Technology and Control (ISSTC)
+Y1  - 11-13 Aug. 2023
+AB  - Flexible capacitive pressure sensors have shown excellent application potential in human-machine interactions, wearable electronic devices, biological and medical, and electronic skin. Compared with piezoresistive and piezoelectric pressure sensors, capacitive pressure sensors with advantages such as high flexibility, high stability, low consumption, and simple construction. Because of these advantages, flexible capacitive pressure sensors have become the key research direction of pressure sensors in recent years. This paper introduces the working principle of flexible capacitive pressure sensors and discusses numerous research on improving the performance of flexible capacitive pressure sensors. Then two methods of improving the dielectric layer structures to improve the sensitivity of the sensor and some related works are reviewed. Finally, the flexible capacitive pressure sensors' huge potential for advances in human-machine interactions areas such as health care and motion monitoring is also discussed. The paper concludes with an overview of future research directions of improving the performance of flexible capacitive pressure sensors.
+ER  - 
+
+TY  - CONF
 TI  - A Wireless Wearable Patch for Remote Monitoring of Respiratory and Cardiac Rhythm in Children
 T2  - 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
 SP  - 1
@@ -93,6 +123,40 @@ VL  -
 JA  - 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
 Y1  - 24-27 July 2023
 AB  - Remote patient monitoring (RPM) is an innovative strategy to promote health and improve patient management and care. Recent advances in healthcare technologies have seen the emergence of wearable sensors allowing longitudinal physiological measurements in any environment. This paper introduces a wireless wearable patch ‘Leo’ for continuous remote monitoring of physiological data at home and healthcare settings. This includes single lead ECG, chest impedance, heart rate (HR), respiration rate (RR) and body posture. To test Leo’s ability to capture longitudinal physiological data at home, 15 children experiencing acute severe asthma exacerbations were recruited during their emergency department (ED) visits. Participants wore the Leo device for 7 (+/-2) days post-hospital discharge. Nocturnal RR and HR and variability were higher during the first half of the night on Day1 compared to Day7 (p<0.005). Participants also completed a usability questionnaire and reported the patch wear to be comfortable (average score of 3.3 out of 5) and easy to wear during the night (average score of 3.5 out of 5) with 5/15 (33%) reported very slight barely perceptible skin irritation/redness and 2 (13%) reported well defined skin irritation and redness.Clinical Relevance— These results highlight the potential use of the Leo device in clinical practice for continuous un-obstructive monitoring of diseased populations, such as asthma.
+ER  - 
+
+TY  - JOUR
+TI  - A Wireless and Battery-Free Wearable Pressure Sensing System for Human–Machine Interaction and Health Monitoring
+T2  - IEEE Journal on Flexible Electronics
+SP  - 439
+EP  - 447
+AU  - S. W. Lee
+AU  - X. Pei
+AU  - J. Rajendran
+AU  - R. Esfandyarpour
+PY  - 2023
+KW  - Sensors
+KW  - Pressure sensors
+KW  - Biomedical monitoring
+KW  - Wireless communication
+KW  - Wireless sensor networks
+KW  - Monitoring
+KW  - Real-time systems
+KW  - Flexible electronics
+KW  - human–machine interaction
+KW  - MXene
+KW  - PEDOT:PSS
+KW  - wearable healthcare devices
+KW  - wireless communication
+DO  - 10.1109/JFLEX.2023.3300997
+JO  - IEEE Journal on Flexible Electronics
+IS  - 6
+SN  - 2768-167X
+VO  - 2
+VL  - 2
+JA  - IEEE Journal on Flexible Electronics
+Y1  - Nov. 2023
+AB  - Wearable devices have received tremendous interest in healthcare monitoring due to their significant advantages in terms of flexibility, noninvasiveness, wireless capability, and portability. However, they still face challenges, including the need for external power sources, bulky measuring instruments, and a lack of a wireless data transport system. Herein, we propose a PEDOT:PSS/MXene pressure sensing platform based on 2-D e-textile and screen-printed interdigitated electrodes (IDEs). Both materials improve the electrical conductivity, sensitivity, stability, flexibility, and mechanical durability of the pressure sensor. A near-field communication (NFC) readout system provides real-time wireless monitoring by transmitting signals from the sensor to a smartphone app, without external batteries. The pressure sensor has sensitivity, a wide detection range, excellent repeatability and stability, fast response/recovery time, and long-term durability. Long-term usability was verified through the bending test up to 21400 cycles. The flexible pressure sensor successfully monitored wrist pulse, physical movements, and various muscle movements in the body. Repeatable, stable, reliable, and regular signals were obtained wirelessly through the NFC readout system. Our sensing platform could be a promising solution for healthcare monitoring, rehabilitation therapy, and early medical diagnosis. In addition, it suggests a new platform for helping people with disabilities to communicate with others through human–machine interaction.
 ER  - 
 
 TY  - CONF
@@ -170,41 +234,6 @@ VL  -
 JA  - 2024 5th International Conference for Emerging Technology (INCET)
 Y1  - 24-26 May 2024
 AB  - This research paper focuses on the revolutionary effect of instant in-person health analytics by IoT -connected wearable medical devices on health results. By the exploration of currently available literature, technical systems and showing case studies, we provided strong evidence that real time monitoring improved patient outcome and made healthcare delivery better. The research unveils the remarkable sequestration of advancing wearable device technology that can capture and analyze essential health factors in the current state. Through our representation of the remote patient monitoring, chronic disease management, and fitness tracking trends, we show the effects of those advancements being clearly pronounced as early disease detection, personal interventions, and higher patient engagement. On the other hand we tackle the mentioned issues such as data privacy and security presenting new methods as possible options to minimize the dangers. Stakeholders in the healthcare and technology sector obtain useful information by analyzing the results of this study, as they can now explore the power of real-time health data analytics to completely change patient care and design upon healthcare delivery in the future.
-ER  - 
-
-TY  - CONF
-TI  - An IoT-Based Wearable Healthcare Monitoring Device and Medical Emergency Response System
-T2  - 2024 IEEE Students Conference on Engineering and Systems (SCES)
-SP  - 1
-EP  - 6
-AU  - S. Chowdhury
-AU  - M. M. Rahman
-AU  - A. R. Dristy
-AU  - R. S. Yeara
-AU  - M. F. Uddin
-AU  - M. Hasan
-AU  - M. R. Uddin
-PY  - 2024
-KW  - Temperature sensors
-KW  - Temperature measurement
-KW  - Medical services
-KW  - Emergency services
-KW  - Mobile applications
-KW  - Internet of Things
-KW  - Biomedical monitoring
-KW  - healthcare monitoring
-KW  - emergency response system
-KW  - Sensor
-KW  - microcontroller
-DO  - 10.1109/SCES61914.2024.10652507
-JO  - 2024 IEEE Students Conference on Engineering and Systems (SCES)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2024 IEEE Students Conference on Engineering and Systems (SCES)
-Y1  - 21-23 June 2024
-AB  - This paper aims to present an IoT-based wearable health monitoring device and medical emergency response system to improve healthcare services. The wearable device collects vital health data such as oxygen level (MAX30100), heart rate (MAX30100) and body temperature (DS18B20) and transmits it to a centralized system for real-time monitoring to detect anomalies and potential medical emergencies, triggering immediate alerts. The system collects data from the sensors and then transmits it wirelessly through Microcontroller to a cloud-based platform for storage and analysis. To evaluate the system's effectiveness, a simulator is developed to replicate real-world scenarios. A portable mobile app monitors the patient's heartbeat, body temperature, and oxygen level in this study. A continual checking and control device employing Wi-Fi Module-based remote correspondence would screen the patient's state and store their data on a server. This research demonstrates the potential of IoT technology to revolutionize healthcare delivery, enabling early detection of critical conditions and improving patient outcomes. The integration of wearable health monitoring devices and medical emergency response systems provides a comprehensive solution to enhance the overall healthcare ecosystem. This research establishes a foundation for future developments in this field.
 ER  - 
 
 TY  - CONF
@@ -457,38 +486,37 @@ Y1  - 2-4 June 2023
 AB  - A wireless acoustic wearable system was designed to directly measure wearers' heart and respiratory rates from their chest sounds and record segments concerning chest sounds. These measurements and associated recordings are provided to healthcare providers as a real-time monitor or medical log for later review. The system was validated by healthy volunteers with two gold-standard devices commonly used in healthcare settings. Both gold standard reference devices are United States (US) Food and Drug Administration (FDA)-cleared and CE-marked. Twenty-six adult volunteers between the ages of 21 and 80 were recruited. The device achieved an accuracy of ± 2.8 beats per minute (BPM) for heart rate measurement against a heart rate measurement reference of ± 3 BPM accuracy. Compared with respiratory rate measurement reference with ± 1 breath per minute (BRPM) accuracy, the devices achieved ± 0.7 BRPM accuracy. Furthermore, the usability survey result of 17 healthcare professionals and 28 lay users showed that both healthcare professionals (HCPs) and lay users could operate the system without guidance. 88% of the HCPs regarded the system to be helpful as a tool for remote patient monitoring, and 94% of the lay users agreed that the system was easy to use.
 ER  - 
 
-TY  - JOUR
-TI  - A Wireless and Battery-Free Wearable Pressure Sensing System for Human–Machine Interaction and Health Monitoring
-T2  - IEEE Journal on Flexible Electronics
-SP  - 439
-EP  - 447
-AU  - S. W. Lee
-AU  - X. Pei
-AU  - J. Rajendran
-AU  - R. Esfandyarpour
-PY  - 2023
-KW  - Sensors
-KW  - Pressure sensors
-KW  - Biomedical monitoring
-KW  - Wireless communication
-KW  - Wireless sensor networks
-KW  - Monitoring
-KW  - Real-time systems
-KW  - Flexible electronics
-KW  - human–machine interaction
-KW  - MXene
-KW  - PEDOT:PSS
-KW  - wearable healthcare devices
-KW  - wireless communication
-DO  - 10.1109/JFLEX.2023.3300997
-JO  - IEEE Journal on Flexible Electronics
-IS  - 6
-SN  - 2768-167X
-VO  - 2
-VL  - 2
-JA  - IEEE Journal on Flexible Electronics
-Y1  - Nov. 2023
-AB  - Wearable devices have received tremendous interest in healthcare monitoring due to their significant advantages in terms of flexibility, noninvasiveness, wireless capability, and portability. However, they still face challenges, including the need for external power sources, bulky measuring instruments, and a lack of a wireless data transport system. Herein, we propose a PEDOT:PSS/MXene pressure sensing platform based on 2-D e-textile and screen-printed interdigitated electrodes (IDEs). Both materials improve the electrical conductivity, sensitivity, stability, flexibility, and mechanical durability of the pressure sensor. A near-field communication (NFC) readout system provides real-time wireless monitoring by transmitting signals from the sensor to a smartphone app, without external batteries. The pressure sensor has sensitivity, a wide detection range, excellent repeatability and stability, fast response/recovery time, and long-term durability. Long-term usability was verified through the bending test up to 21400 cycles. The flexible pressure sensor successfully monitored wrist pulse, physical movements, and various muscle movements in the body. Repeatable, stable, reliable, and regular signals were obtained wirelessly through the NFC readout system. Our sensing platform could be a promising solution for healthcare monitoring, rehabilitation therapy, and early medical diagnosis. In addition, it suggests a new platform for helping people with disabilities to communicate with others through human–machine interaction.
+TY  - CONF
+TI  - REMONI: An Autonomous System Integrating Wearables and Multimodal Large Language Models for Enhanced Remote Health Monitoring
+T2  - 2024 IEEE International Symposium on Medical Measurements and Applications (MeMeA)
+SP  - 1
+EP  - 6
+AU  - T. C. Ho
+AU  - F. Kharrat
+AU  - A. Abid
+AU  - F. Karray
+AU  - A. Koubaa
+PY  - 2024
+KW  - Human computer interaction
+KW  - Visualization
+KW  - Costs
+KW  - Autonomous systems
+KW  - Large language models
+KW  - Data visualization
+KW  - Medical services
+KW  - Remote Health Monitoring
+KW  - Wearable Technol-ogy
+KW  - Multimodal Large Language Models
+KW  - Healthcare
+DO  - 10.1109/MeMeA60663.2024.10596778
+JO  - 2024 IEEE International Symposium on Medical Measurements and Applications (MeMeA)
+IS  - 
+SN  - 2837-5882
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Symposium on Medical Measurements and Applications (MeMeA)
+Y1  - 26-28 June 2024
+AB  - With the widespread adoption of wearable devices in our daily lives, the demand and appeal for remote patient monitoring have significantly increased. Most research in this field has concentrated on collecting sensor data, visualizing it, and analyzing it to detect anomalies in specific diseases such as diabetes, heart disease and depression. However, this domain has a notable gap in the aspect of human-machine interaction. This paper proposes REMONI, an autonomous REmote health MONItoring system that integrates multimodal large language models (MLLMs), the Internet of Things (loT), and wearable devices. The system automatically and continuously collects vital signs, accelerometer data from a special wearable (such as a smartwatch), and visual data in patient video clips collected from cameras. This data is processed by an anomaly detection module, which includes a fall detection model and algorithms to identify and alert caregivers of the patient's emergency conditions. A distinctive feature of our proposed system is the natural lan-guage processing component, developed with MLLMs capable of detecting and recognizing a patient's activity and emotion while responding to healthcare worker's inquiries. Additionally, prompt engineering is employed to integrate all patient information seamlessly. As a result, doctors and nurses can access real-time vital signs and the patient's current state and mood by interacting with an intelligent agent through a user-friendly web application. Our experiments demonstrate that our system is implementable and scalable for real-life scenarios, potentially reducing the workload of medical professionals and healthcare costs. A full-fledged prototype illustrating the functionalities of the system has been developed and being tested to demonstrate the robustness of its various capabilities.
 ER  - 
 
 TY  - CONF
@@ -519,6 +547,39 @@ VL  -
 JA  - 2023 International Conference on Research Methodologies in Knowledge Management, Artificial Intelligence and Telecommunication Engineering (RMKMATE)
 Y1  - 1-2 Nov. 2023
 AB  - The Internet of Things (IoT) has had a profound impact on the healthcare sector by paving the way for the creation of smart healthcare systems that improve patient monitoring, diagnosis, and individualized care. The purpose of this study is to provide a review of the state of the art in IoT-based healthcare system architectures. In this study, we take a look at the current state of the art of Internet of Things (IoT) technologies, protocols, and communication models used in healthcare settings. The survey digs into the roles and interconnections of key components and layers of IoT architecture, such as sensor nodes, gateways, cloud platforms, and data analytics, in a smart healthcare ecosystem. Furthermore, it investigates the potential for incorporating wearable devices, medical sensors, and other smart healthcare gadgets that enable real - time data gathering and transmission. In addition, the paper explores the dangers and vulnerabilities inherent in IoT - based healthcare systems, as well as the current solutions available for addressing these issues and safeguarding sensitive patient data. The challenges of interoperability and standardization are also explored in order to guarantee the smooth integration and communication of various healthcare equipment and systems. Using examples like remote patient monitoring, chronic illness management, fall detection, and elderly care, the survey emphasizes the beneficial effects of IoT on patient outcomes and healthcare efficiency.
+ER  - 
+
+TY  - CONF
+TI  - Wearable Device for Pulse, Oximetry and Galvanic Skin Response Recordings for Neuromarketing
+T2  - 2024 13th International Conference on Modern Circuits and Systems Technologies (MOCAST)
+SP  - 01
+EP  - 06
+AU  - S. Andonov
+AU  - S. Georgiev
+AU  - G. Tsenov
+AU  - V. Mladenov
+PY  - 2024
+KW  - Pulse measurements
+KW  - Atmospheric measurements
+KW  - Neuromarketing
+KW  - Particle measurements
+KW  - Skin
+KW  - Electroencephalography
+KW  - Real-time systems
+KW  - signal processing
+KW  - biosignal feedback
+KW  - feature extraction
+KW  - neuromarketing
+KW  - modelling and simulation
+DO  - 10.1109/MOCAST61810.2024.10615512
+JO  - 2024 13th International Conference on Modern Circuits and Systems Technologies (MOCAST)
+IS  - 
+SN  - 2993-4443
+VO  - 
+VL  - 
+JA  - 2024 13th International Conference on Modern Circuits and Systems Technologies (MOCAST)
+Y1  - 26-28 June 2024
+AB  - In this paper we present a device for multiple biosignal measurement and extraction for neuromarketing. The primary objective of neuromarketing is extraction of useful information from the neurophysiological reaction of test participants for use in brand user experience, customer experience or advertising marketing material effectiveness and more. This methodology utilizes focus groups to evaluate participants' neurophysiological reactions to various stimuli and to draw statistically significant conclusions from the results. There is a problem with using multiple different sensors that they need to be synchronized separately and tuned one at a time. With the device we present, we can directly measure and utilize real-time bio-signals, such as electroencephalography (EEG), galvanic skin response (GSR), and pulse. This relatively affordable and mobile hardware allows us to analyze the recorded biometric data in real-time. By examining the statistical patterns in these signals and extracting meaningful characteristics based on aggregate data, rather than focusing on individual variations, we can categorize and utilize the recorded brain activity and other physiological measurements for a range of practical purposes.
 ER  - 
 
 TY  - CONF
@@ -556,39 +617,6 @@ VL  -
 JA  - 2022 IEEE 12th International Conference on Consumer Electronics (ICCE-Berlin)
 Y1  - 2-6 Sept. 2022
 AB  - This article presents the architecture of a telerehabilitation and telemonitoring system for people with Parkinson's disease. The main advantages of the system are the use of low- cost and widespread consumer technology devices. A pilot study on 5 patients allowed a first assessment of the technical reliability, usability, and acceptability of the system, helping the technical and clinical staff to improve the system.
-ER  - 
-
-TY  - CONF
-TI  - Wearable Device for Pulse, Oximetry and Galvanic Skin Response Recordings for Neuromarketing
-T2  - 2024 13th International Conference on Modern Circuits and Systems Technologies (MOCAST)
-SP  - 01
-EP  - 06
-AU  - S. Andonov
-AU  - S. Georgiev
-AU  - G. Tsenov
-AU  - V. Mladenov
-PY  - 2024
-KW  - Pulse measurements
-KW  - Atmospheric measurements
-KW  - Neuromarketing
-KW  - Particle measurements
-KW  - Skin
-KW  - Electroencephalography
-KW  - Real-time systems
-KW  - signal processing
-KW  - biosignal feedback
-KW  - feature extraction
-KW  - neuromarketing
-KW  - modelling and simulation
-DO  - 10.1109/MOCAST61810.2024.10615512
-JO  - 2024 13th International Conference on Modern Circuits and Systems Technologies (MOCAST)
-IS  - 
-SN  - 2993-4443
-VO  - 
-VL  - 
-JA  - 2024 13th International Conference on Modern Circuits and Systems Technologies (MOCAST)
-Y1  - 26-28 June 2024
-AB  - In this paper we present a device for multiple biosignal measurement and extraction for neuromarketing. The primary objective of neuromarketing is extraction of useful information from the neurophysiological reaction of test participants for use in brand user experience, customer experience or advertising marketing material effectiveness and more. This methodology utilizes focus groups to evaluate participants' neurophysiological reactions to various stimuli and to draw statistically significant conclusions from the results. There is a problem with using multiple different sensors that they need to be synchronized separately and tuned one at a time. With the device we present, we can directly measure and utilize real-time bio-signals, such as electroencephalography (EEG), galvanic skin response (GSR), and pulse. This relatively affordable and mobile hardware allows us to analyze the recorded biometric data in real-time. By examining the statistical patterns in these signals and extracting meaningful characteristics based on aggregate data, rather than focusing on individual variations, we can categorize and utilize the recorded brain activity and other physiological measurements for a range of practical purposes.
 ER  - 
 
 TY  - JOUR
@@ -959,45 +987,6 @@ AB  - About 1% of newborns have congenital heart disease at birth. This generall
 ER  - 
 
 TY  - CONF
-TI  - An IoT-based Smart Wearable System for Remote Health Monitoring
-T2  - 2021 9th International Japan-Africa Conference on Electronics, Communications, and Computations (JAC-ECC)
-SP  - 192
-EP  - 197
-AU  - M. Abo-Zahhad
-AU  - M. S. Sayed
-AU  - A. H. Abd El-Malek
-AU  - A. Fawaz
-AU  - A. A. Zakaria
-AU  - A. E. Wahdan
-AU  - M. Elsayed
-AU  - A. Taghian
-PY  - 2021
-KW  - Temperature sensors
-KW  - Temperature measurement
-KW  - Wearable computers
-KW  - Microprocessors
-KW  - Medical services
-KW  - Feature extraction
-KW  - Hazards
-KW  - Internet of Things
-KW  - wearable electronics
-KW  - health monitoring
-KW  - vital signs
-KW  - telemedicine
-KW  - connectivity
-KW  - Node-RED
-DO  - 10.1109/JAC-ECC54461.2021.9691431
-JO  - 2021 9th International Japan-Africa Conference on Electronics, Communications, and Computations (JAC-ECC)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2021 9th International Japan-Africa Conference on Electronics, Communications, and Computations (JAC-ECC)
-Y1  - 13-14 Dec. 2021
-AB  - Internet of Things (IoT) has reshaped our lives by being part of a wide range of fields. Thus, using IoT in healthcare became highly demanded. This could be done through monitoring some of the vital health signs that provide information about the state of health. These vital signs include blood pressure, blood oxygen saturation, body temperature, and pulse rate. Besides, recognizing physical movements of the body leads to the detection of various hazards, such as falls and concussions. Being directed towards daily health monitoring, the design requirements for such device are portability, lightweight and ease of use. We can break down the process of constructing the system into four main stages: data acquisition, pre-processing the sensor readings using an embedded microprocessor, feature extraction and implementation in further recognition algorithms using a shared cloud platform, and data visualization of all vital signs in addition to callouts in case of emergency.
-ER  - 
-
-TY  - CONF
 TI  - Integrated System for Real-Time Health Management in Rural Areas with Medicine Dispatcher Box
 T2  - 2023 2nd International Conference on Edge Computing and Applications (ICECAA)
 SP  - 704
@@ -1062,6 +1051,45 @@ AB  - Wearable devices like smart glasses have gained popularity across various 
 ER  - 
 
 TY  - CONF
+TI  - An IoT-based Smart Wearable System for Remote Health Monitoring
+T2  - 2021 9th International Japan-Africa Conference on Electronics, Communications, and Computations (JAC-ECC)
+SP  - 192
+EP  - 197
+AU  - M. Abo-Zahhad
+AU  - M. S. Sayed
+AU  - A. H. Abd El-Malek
+AU  - A. Fawaz
+AU  - A. A. Zakaria
+AU  - A. E. Wahdan
+AU  - M. Elsayed
+AU  - A. Taghian
+PY  - 2021
+KW  - Temperature sensors
+KW  - Temperature measurement
+KW  - Wearable computers
+KW  - Microprocessors
+KW  - Medical services
+KW  - Feature extraction
+KW  - Hazards
+KW  - Internet of Things
+KW  - wearable electronics
+KW  - health monitoring
+KW  - vital signs
+KW  - telemedicine
+KW  - connectivity
+KW  - Node-RED
+DO  - 10.1109/JAC-ECC54461.2021.9691431
+JO  - 2021 9th International Japan-Africa Conference on Electronics, Communications, and Computations (JAC-ECC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 9th International Japan-Africa Conference on Electronics, Communications, and Computations (JAC-ECC)
+Y1  - 13-14 Dec. 2021
+AB  - Internet of Things (IoT) has reshaped our lives by being part of a wide range of fields. Thus, using IoT in healthcare became highly demanded. This could be done through monitoring some of the vital health signs that provide information about the state of health. These vital signs include blood pressure, blood oxygen saturation, body temperature, and pulse rate. Besides, recognizing physical movements of the body leads to the detection of various hazards, such as falls and concussions. Being directed towards daily health monitoring, the design requirements for such device are portability, lightweight and ease of use. We can break down the process of constructing the system into four main stages: data acquisition, pre-processing the sensor readings using an embedded microprocessor, feature extraction and implementation in further recognition algorithms using a shared cloud platform, and data visualization of all vital signs in addition to callouts in case of emergency.
+ER  - 
+
+TY  - CONF
 TI  - Wristband for Elderly Individuals: Esp-32 and Arduino Nano Enabled Solution for Health Monitoring and Tracking
 T2  - 2023 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS)
 SP  - 26
@@ -1091,6 +1119,41 @@ VL  -
 JA  - 2023 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS)
 Y1  - 19-20 Dec. 2023
 AB  - Effective healthcare monitoring and tracking solutions for senior individuals are urgently needed given the growing geriatric population and rising healthcare expenses. In order to provide a complete healthcare monitoring and tracking wristband for senior people, this research study suggests a wristwatch system using ESP-32 and Arduino N ano microcontrollers. Heart rate monitoring, fall detection, sleepwalk detection, GPS tracking, medication reminders, temperature monitoring, and an emergency SOS button are just a few of the functionalities that the wristband incorporates from a variety of sensors. Caretakers may check on the old person's health from a distance thanks to the technology, which transmits real-time health information to a specialized smartphone app. The technology sends notifications to surrounding caretakers in the event of crises or unstable health metrics. The suggested wristband has the potential to improve older people's quality of life by encouraging preventative care and allowing them to safely age in place. To solve usability and privacy issues, however, more development and user testing are essential. The results of the research indicate that this cutting-edge wristwatch technology has the potential to greatly enhance healthcare outcomes for the senior population.
+ER  - 
+
+TY  - CONF
+TI  - An IoT-enabled Electronic Textile-based Flexible Body Sensor Network for Real-time Health Monitoring in Assisted Living during Pandemic
+T2  - 2022 23rd International Symposium on Quality Electronic Design (ISQED)
+SP  - 1
+EP  - 5
+AU  - N. I. Hossain
+AU  - S. Tabassum
+PY  - 2022
+KW  - Training
+KW  - Smart textiles
+KW  - Sensitivity
+KW  - Pandemics
+KW  - Kinematics
+KW  - Real-time systems
+KW  - Internet of Things
+KW  - Internet of Things (IoT)
+KW  - LoRa
+KW  - Electronic textile
+KW  - Wearable sensor
+KW  - Strain sensor
+KW  - Flexible body sensor network
+KW  - Assisted living
+KW  - Smart home
+KW  - COVID-19
+DO  - 10.1109/ISQED54688.2022.9806281
+JO  - 2022 23rd International Symposium on Quality Electronic Design (ISQED)
+IS  - 
+SN  - 1948-3295
+VO  - 
+VL  - 
+JA  - 2022 23rd International Symposium on Quality Electronic Design (ISQED)
+Y1  - 6-7 April 2022
+AB  - This paper presents a cost-effective and flexible electronic textile sensor with high sensitivity and fast response and demonstrates its versatile applications, including real-time measurements of finger kinematics, phonation, cough patterns, as well as subtle muscle movements (i.e., eye reflex). The sensor can discriminate between speech and cough patterns, thereby expanding its applications to COVID-19 detection, speech rehabilitation training, and human/machine interactions. A combination of different sensor data is essential to acquire clinically significant information. Therefore, a sensor array is interfaced with the LoRa communication protocol to establish an Internet of Things (IoT)-based electronic textile framework. The IoT integration allows remote monitoring of body kinematics and physiological parameters. Therefore, the proposed IoT-based framework holds the potential to provide real-time and continuous health monitoring to allow immediate intervention during this pandemic.
 ER  - 
 
 TY  - CONF
@@ -1165,6 +1228,37 @@ AB  - The rapid advancement of large language models (LLMs) has opened new front
 ER  - 
 
 TY  - CONF
+TI  - Improving Human Activity Recognition Algorithms using Wireless Body Sensors and SVM
+T2  - 2020 International Wireless Communications and Mobile Computing (IWCMC)
+SP  - 607
+EP  - 612
+AU  - A. Shaafi
+AU  - O. Salem
+AU  - A. Mehaoua
+PY  - 2020
+KW  - Feature extraction
+KW  - Activity recognition
+KW  - Three-dimensional displays
+KW  - Signal processing algorithms
+KW  - Support vector machines
+KW  - Gyroscopes
+KW  - 3D Accelerometer
+KW  - 3D Gyroscope
+KW  - Support Vector Machine (SVM)
+KW  - Wearable Sensor
+KW  - HAR
+DO  - 10.1109/IWCMC48107.2020.9148175
+JO  - 2020 International Wireless Communications and Mobile Computing (IWCMC)
+IS  - 
+SN  - 2376-6506
+VO  - 
+VL  - 
+JA  - 2020 International Wireless Communications and Mobile Computing (IWCMC)
+Y1  - 15-19 June 2020
+AB  - The accurate individuals' activities description is an important assignments in human computer interface. Many applications can be developed based on correct and fast activity recognition, such as healthcare monitoring and fall detection applications. Human Activity Recognition (HAR) is an active research field, where some key factors still challenging and need to be enhanced for faster and accurate recognition. This paper presents a novel approach aims to improve the activity recognition time by aggregating the raw data from inertial sensors into one time series used as input, then various features are extracted from the resulted signal by dimensionality reduction procedure, Those features are used as input data for the classification algorithm without affecting the information associated with activity in the raw data. The results of the novel method showed an improvement in recognition time while retaining the same level of accuracy.
+ER  - 
+
+TY  - CONF
 TI  - Healthcare Monitoring for SCI Individuals: Learning Activities of Daily Living through a SlowFast Neural Network
 T2  - 2023 IEEE/SICE International Symposium on System Integration (SII)
 SP  - 1
@@ -1199,37 +1293,6 @@ Y1  - 17-20 Jan. 2023
 AB  - Continuous healthcare monitoring is a prevalent need for the spinal cord injured (SCI) population to mitigate the risk of secondary health conditions and develop preventive methods. In this paper, we developed an embodied system for remote monitoring and classification of activities of daily living (ADL). We propose a framework for sensor transfer learning to recognize these activities from simple and short samples through label transferring from a deep SlowFast network on video data. Multiple wearable devices were included and synchronized in this study to capture physiological data as well as posture and movement from acceleration and pressure distribution. Furthermore, we propose a pipeline of data capturing for automatically creating a ground truth dataset of different ADLs. Results from a pilot training with eight users in 15 minutes task recordings over eight different tasks produced a weighted accuracy on F1-score of 77% in correctly classifying ADLs. Although extending the data is required to increase precision, we showed a successful method for monitoring and classification of specific activities in SCI with up to 91% in accuracy. Further work will focus on extending to multi-class soft labelling for achieving usability in complex situations.
 ER  - 
 
-TY  - CONF
-TI  - Improving Human Activity Recognition Algorithms using Wireless Body Sensors and SVM
-T2  - 2020 International Wireless Communications and Mobile Computing (IWCMC)
-SP  - 607
-EP  - 612
-AU  - A. Shaafi
-AU  - O. Salem
-AU  - A. Mehaoua
-PY  - 2020
-KW  - Feature extraction
-KW  - Activity recognition
-KW  - Three-dimensional displays
-KW  - Signal processing algorithms
-KW  - Support vector machines
-KW  - Gyroscopes
-KW  - 3D Accelerometer
-KW  - 3D Gyroscope
-KW  - Support Vector Machine (SVM)
-KW  - Wearable Sensor
-KW  - HAR
-DO  - 10.1109/IWCMC48107.2020.9148175
-JO  - 2020 International Wireless Communications and Mobile Computing (IWCMC)
-IS  - 
-SN  - 2376-6506
-VO  - 
-VL  - 
-JA  - 2020 International Wireless Communications and Mobile Computing (IWCMC)
-Y1  - 15-19 June 2020
-AB  - The accurate individuals' activities description is an important assignments in human computer interface. Many applications can be developed based on correct and fast activity recognition, such as healthcare monitoring and fall detection applications. Human Activity Recognition (HAR) is an active research field, where some key factors still challenging and need to be enhanced for faster and accurate recognition. This paper presents a novel approach aims to improve the activity recognition time by aggregating the raw data from inertial sensors into one time series used as input, then various features are extracted from the resulted signal by dimensionality reduction procedure, Those features are used as input data for the classification algorithm without affecting the information associated with activity in the raw data. The results of the novel method showed an improvement in recognition time while retaining the same level of accuracy.
-ER  - 
-
 TY  - JOUR
 TI  - A Home Telemedicine System for Continuous Respiratory Monitoring
 T2  - IEEE Journal of Biomedical and Health Informatics
@@ -1259,6 +1322,38 @@ VL  - 25
 JA  - IEEE Journal of Biomedical and Health Informatics
 Y1  - April 2021
 AB  - This article presents a continuous home telemonitoring system for chronic respiratory patients using 5G connectivity developed in partnership with Vodafone as a part of the 5G Trial in Milan established by the Italian Ministry of Economic Development. The system features a wearable respiratory and activity monitor, an environmental sensor and a pulse oximeter sending the data through a 5G router to a Multi-Edge Computing server, incorporated in the Vodafone 5G infrastructure, where they are stored and accessible for visualization. In particular, activity, respiratory and environmental data are continuously streamed and collected. The solution has been tested on 18 healthy volunteers during non-supervised recordings lasting at least 48 hours. The combination of recognized activities and associated respiratory parameters provided statistically significant variations in breathing patterns between one activity and the other, thus giving more complete information to the clinicians than previously studied telemedicine systems based on spot-checks. In particular, statistically significant differences are found in tidal volume and minute ventilation between horizontal and vertical postures (p < 0.001) and between vertical postures and dynamic activities (p < 0.001); the respiratory rate shows statistically significant differences between horizontal and vertical postures (p < 0.001). Some environmental parameters have different mean values between day and night, such as carbon dioxide (p < 0.001). Trials on patients are needed to further study this telemedicine solution and make it commercially available in the future. The main further technical development suggested is the use of commercial 5G smartphones as routers, in order to make the system usable outside of home settings.
+ER  - 
+
+TY  - CONF
+TI  - Performance Comparison of Machine Learning Algorithms for Human Activity Recognition
+T2  - 2022 30th Signal Processing and Communications Applications Conference (SIU)
+SP  - 1
+EP  - 4
+AU  - B. Bostan
+AU  - Y. Şenol
+AU  - G. Aşcioğlu
+PY  - 2022
+KW  - Deep learning
+KW  - Wireless communication
+KW  - Measurement
+KW  - Wireless sensor networks
+KW  - Machine learning algorithms
+KW  - Surveillance
+KW  - Signal processing algorithms
+KW  - Human activity recognition
+KW  - neural networks
+KW  - decision tree
+KW  - machine learning
+KW  - wearable sensors
+DO  - 10.1109/SIU55565.2022.9864754
+JO  - 2022 30th Signal Processing and Communications Applications Conference (SIU)
+IS  - 
+SN  - 2165-0608
+VO  - 
+VL  - 
+JA  - 2022 30th Signal Processing and Communications Applications Conference (SIU)
+Y1  - 15-18 May 2022
+AB  - Human activity monitoring and recognition is one of the significant focuses for researchers recently due to the concerns regarding improvements of the healthcare, surveillance and many others that includes human-machine interactions. The data collected because of advances in sensor technology and the machine learning algorithms enable the work in the field of recognition of human activities to progress. Life quality of especially elderly people highly benefits from the activity monitoring and recognition research. This study aims to collect data from multiple activities and train multiple machine learning algorithms using the recorded data. For this purpose, a total of two wireless sensors were placed on the ankle and calf regions of the subjects on one leg, and the data obtained from these sensors were used in decision tree, artificial neural network, and deep learning algorithms. The performance of the algorithms was evaluated with the F1 score metric. The results show that the most suitable algorithm for this dataset is the deep learning algorithm with an average F1 score of 0.989.
 ER  - 
 
 TY  - JOUR

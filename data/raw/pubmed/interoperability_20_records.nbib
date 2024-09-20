@@ -804,6 +804,131 @@ AID - 10.3390/s22041497 [doi]
 PST - epublish
 SO  - Sensors (Basel). 2022 Feb 15;22(4):1497. doi: 10.3390/s22041497.
 
+PMID- 36125863
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20221007
+IS  - 1929-0748 (Print)
+IS  - 1929-0748 (Electronic)
+IS  - 1929-0748 (Linking)
+VI  - 11
+IP  - 9
+DP  - 2022 Sep 20
+TI  - Technologies for Interoperable Internet of Medical Things Platforms to Manage 
+      Medical Emergencies in Home and Prehospital Care: Protocol for a Scoping Review.
+PG  - e40243
+LID - 10.2196/40243 [doi]
+LID - e40243
+AB  - BACKGROUND: Population growth and aging have highlighted the need for more 
+      effective home and prehospital care. Interconnected medical devices and 
+      applications, which comprise an infrastructure referred to as the Internet of 
+      Medical Things (IoMT), have enabled remote patient monitoring and can be 
+      important tools to cope with these demographic changes. However, developing IoMT 
+      platforms requires profound knowledge of clinical needs and challenges related to 
+      interoperability and how these can be managed with suitable technologies. 
+      OBJECTIVE: The purpose of this scoping review is to summarize the best practices 
+      and technologies to overcome interoperability concerns in IoMT platform 
+      development for medical emergencies in home and prehospital care. METHODS: This 
+      scoping review will be conducted in accordance with Arksey and O'Malley's 5-stage 
+      framework and adhere to the PRISMA-P (Preferred Reporting Items for Systematic 
+      Reviews and Meta-analyses Protocols) guidelines. Only peer-reviewed articles 
+      published in English will be considered. The databases/web search engines that 
+      will be used are IEEE Xplore, PubMed, Scopus, Google Scholar, National Center for 
+      Biotechnology Information, SAGE Journals, and ScienceDirect. The search process 
+      for relevant literature will be divided into 4 different steps. This will ensure 
+      that a suitable approach is followed in terms of search terms, limitations, and 
+      eligibility criteria. Relevant articles that meet the inclusion criteria will be 
+      screened in 2 stages: abstract and title screening and full-text screening. To 
+      reduce selection bias, the screening process will be performed by 2 reviewers. 
+      RESULTS: The results of the preliminary search indicate that there is sufficient 
+      literature to form a good foundation for the scoping review. The search was 
+      performed in April 2022, and a total of 4579 articles were found. The main 
+      clinical focus is the prevention and management of falls, but other medical 
+      emergencies, such as heart disease and stroke, are also considered. Preliminary 
+      results show that little attention has been given to real-time IoMT platforms 
+      that can be deployed in real-world care settings. The final results are expected 
+      to be presented in a scoping review in 2023 and will be disseminated through 
+      scientific conference presentations, oral presentations, and publication in a 
+      peer-reviewed journal. CONCLUSIONS: This scoping review will provide insights and 
+      recommendations regarding how interoperable real-time IoMT platforms can be 
+      developed to handle medical emergencies in home and prehospital care. The 
+      findings of this research could be used by researchers, clinicians, and 
+      implementation teams to facilitate future development and interdisciplinary 
+      discussions. INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): 
+      DERR1-10.2196/40243.
+CI  - ©Mattias Seth, Hoor Jalo, Åsa Högstedt, Otto Medin, Ulrica Björner, Bengt Arne 
+      Sjöqvist, Stefan Candefjord. Originally published in JMIR Research Protocols 
+      (https://www.researchprotocols.org), 20.09.2022.
+FAU - Seth, Mattias
+AU  - Seth M
+AUID- ORCID: 0000-0002-3737-3316
+AD  - Department of Electrical Engineering, Chalmers University of Technology, 
+      Gothenburg, Sweden.
+FAU - Jalo, Hoor
+AU  - Jalo H
+AUID- ORCID: 0000-0001-6975-8520
+AD  - Department of Electrical Engineering, Chalmers University of Technology, 
+      Gothenburg, Sweden.
+FAU - Högstedt, Åsa
+AU  - Högstedt Å
+AUID- ORCID: 0000-0003-2353-0306
+AD  - Prehospen - Centre for Prehospital Research, Faculty of Caring Science, Work Life 
+      and Social Welfare, University of Borås, Borås, Sweden.
+FAU - Medin, Otto
+AU  - Medin O
+AUID- ORCID: 0000-0003-4480-6973
+AD  - InterSystems Corp, Stockholm, Sweden.
+FAU - Björner, Ulrica
+AU  - Björner U
+AUID- ORCID: 0000-0001-6175-1965
+AD  - Äldre Samt Vård och Omsorgsförvaltningen, Gothenburg, Sweden.
+FAU - Sjöqvist, Bengt Arne
+AU  - Sjöqvist BA
+AUID- ORCID: 0000-0002-6564-737X
+AD  - Department of Electrical Engineering, Chalmers University of Technology, 
+      Gothenburg, Sweden.
+FAU - Candefjord, Stefan
+AU  - Candefjord S
+AUID- ORCID: 0000-0001-7942-2190
+AD  - Department of Electrical Engineering, Chalmers University of Technology, 
+      Gothenburg, Sweden.
+LA  - eng
+PT  - Journal Article
+DEP - 20220920
+PL  - Canada
+TA  - JMIR Res Protoc
+JT  - JMIR research protocols
+JID - 101599504
+PMC - PMC9533201
+OTO - NOTNLM
+OT  - Internet of Medical Things
+OT  - home care
+OT  - interoperability
+OT  - mapping
+OT  - medical emergency
+OT  - prehospital
+OT  - prehospital care
+OT  - reference models
+OT  - scoping review, falls, cardiovascular disease, stroke
+OT  - technologies
+COIS- Conflicts of Interest: OM is a sales engineer at InterSystems. There are no other 
+      conflicts of interest to declare.
+EDAT- 2022/09/21 06:00
+MHDA- 2022/09/21 06:01
+PMCR- 2022/09/20
+CRDT- 2022/09/20 11:53
+PHST- 2022/06/12 00:00 [received]
+PHST- 2022/08/30 00:00 [accepted]
+PHST- 2022/08/25 00:00 [revised]
+PHST- 2022/09/20 11:53 [entrez]
+PHST- 2022/09/21 06:00 [pubmed]
+PHST- 2022/09/21 06:01 [medline]
+PHST- 2022/09/20 00:00 [pmc-release]
+AID - v11i9e40243 [pii]
+AID - 10.2196/40243 [doi]
+PST - epublish
+SO  - JMIR Res Protoc. 2022 Sep 20;11(9):e40243. doi: 10.2196/40243.
+
 PMID- 38620637
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -918,6 +1043,83 @@ PST - ppublish
 SO  - Internet Things (Amst). 2022 May;18:100399. doi: 10.1016/j.iot.2021.100399. Epub 
       2021 Apr 6.
 
+PMID- 39277343
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240914
+LR  - 20240914
+IS  - 1558-4518 (Electronic)
+IS  - 0895-7967 (Linking)
+VI  - 37
+IP  - 3
+DP  - 2024 Sep
+TI  - Wearable technology in vascular surgery: Current applications and future 
+      perspectives.
+PG  - 281-289
+LID - S0895-7967(24)00050-4 [pii]
+LID - 10.1053/j.semvascsurg.2024.08.004 [doi]
+AB  - The COVID-19 pandemic exposed the vulnerabilities of global health care systems, 
+      underscoring the need for innovative solutions to meet the demands of an aging 
+      population, workforce shortages, and rising physician burnout. In recent years, 
+      wearable technology has helped segue various medical specialties into the digital 
+      era, yet its adoption in vascular surgery remains limited. This article explores 
+      the applications of wearable devices in vascular surgery and explores their 
+      potential outlets, such as enhancing primary and secondary prevention, optimizing 
+      perioperative care, and supporting surgical training. The integration of 
+      artificial intelligence and machine learning with wearable technology further 
+      expands its applications, enabling predictive analytics, personalized care, and 
+      remote monitoring. Despite the promising prospects, challenges such as regulatory 
+      complexities, data security, and interoperability must be addressed. As the 
+      digital health movement unfolds, wearable technology could play a pivotal role in 
+      reshaping vascular surgery while offering cost-effective, accessible, and 
+      patient-centered care.
+CI  - Copyright © 2024 Elsevier Inc. All rights reserved.
+FAU - Bartos, Oana
+AU  - Bartos O
+AD  - Department of Vascular Medicine, St. Josefs-Hospital, Beethovenstraße 20, 65189 
+      Wiesbaden, Germany.
+FAU - Trenner, Matthias
+AU  - Trenner M
+AD  - Department of Vascular Medicine, St. Josefs-Hospital, Beethovenstraße 20, 65189 
+      Wiesbaden, Germany; School of Medicine, Technical University of Munich, Munich, 
+      Germany. Electronic address: mtrenner@joho.de.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20240822
+PL  - United States
+TA  - Semin Vasc Surg
+JT  - Seminars in vascular surgery
+JID - 8809602
+SB  - IM
+MH  - Humans
+MH  - *Wearable Electronic Devices
+MH  - *Vascular Surgical Procedures/instrumentation/adverse effects
+MH  - *COVID-19/epidemiology
+MH  - Telemedicine/instrumentation
+OTO - NOTNLM
+OT  - Digital medicine
+OT  - Smartphone
+OT  - Smartwatch
+OT  - Vascular disease
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this article.
+EDAT- 2024/09/15 14:09
+MHDA- 2024/09/15 14:10
+CRDT- 2024/09/14 21:01
+PHST- 2024/05/24 00:00 [received]
+PHST- 2024/08/14 00:00 [revised]
+PHST- 2024/08/16 00:00 [accepted]
+PHST- 2024/09/15 14:10 [medline]
+PHST- 2024/09/15 14:09 [pubmed]
+PHST- 2024/09/14 21:01 [entrez]
+AID - S0895-7967(24)00050-4 [pii]
+AID - 10.1053/j.semvascsurg.2024.08.004 [doi]
+PST - ppublish
+SO  - Semin Vasc Surg. 2024 Sep;37(3):281-289. doi: 10.1053/j.semvascsurg.2024.08.004. 
+      Epub 2024 Aug 22.
+
 PMID- 37869817
 OWN - NLM
 STAT- MEDLINE
@@ -1006,6 +1208,111 @@ AID - SHTI230751 [pii]
 AID - 10.3233/SHTI230751 [doi]
 PST - ppublish
 SO  - Stud Health Technol Inform. 2023 Oct 20;309:106-110. doi: 10.3233/SHTI230751.
+
+PMID- 37485467
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231109
+IS  - 2574-2531 (Electronic)
+IS  - 2574-2531 (Linking)
+VI  - 6
+IP  - 3
+DP  - 2023 Oct
+TI  - CardinalKit: open-source standards-based, interoperable mobile development 
+      platform to help translate the promise of digital health.
+PG  - ooad044
+LID - 10.1093/jamiaopen/ooad044 [doi]
+LID - ooad044
+AB  - Smartphone devices capable of monitoring users' health, physiology, activity, and 
+      environment revolutionize care delivery, medical research, and remote patient 
+      monitoring. Such devices, laden with clinical-grade sensors and cloud 
+      connectivity, allow clinicians, researchers, and patients to monitor health 
+      longitudinally, passively, and persistently, shifting the paradigm of care and 
+      research from low-resolution, intermittent, and discrete to one of persistent, 
+      continuous, and high resolution. The collection, transmission, and storage of 
+      sensitive health data using mobile devices presents unique challenges that serve 
+      as significant barriers to entry for care providers and researchers alike. 
+      Compliance with standards like HIPAA and GDPR requires unique skills and 
+      practices. These requirements make off-the-shelf technologies insufficient for 
+      use in the digital health space. As a result, budget, timeline, talent, and 
+      resource constraints are the largest barriers to new digital technologies. The 
+      CardinalKit platform is an open-source project addressing these challenges by 
+      focusing on reducing these barriers and accelerating the innovation, adoption, 
+      and use of digital health technologies. CardinalKit provides a mobile template 
+      application and web dashboard to enable an interoperable foundation for 
+      developing digital health applications. We demonstrate the applicability of 
+      CardinalKit to a wide variety of digital health applications across 18 innovative 
+      digital health prototypes.
+CI  - © The Author(s) 2023. Published by Oxford University Press on behalf of the 
+      American Medical Informatics Association.
+FAU - Aalami, Oliver
+AU  - Aalami O
+AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
+      Alto, California, USA.
+FAU - Hittle, Mike
+AU  - Hittle M
+AD  - Department of Epidemiology, Stanford University School of Medicine, Palo Alto, 
+      California, USA.
+FAU - Ravi, Vishnu
+AU  - Ravi V
+AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
+      Alto, California, USA.
+FAU - Griffin, Ashley
+AU  - Griffin A
+AUID- ORCID: 0000-0002-1535-0797
+AD  - Department of Health Policy, Stanford University School of Medicine; VA Palo Alto 
+      Health Care System, Palo Alto, California, USA.
+FAU - Schmiedmayer, Paul
+AU  - Schmiedmayer P
+AUID- ORCID: 0000-0002-8607-9148
+AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
+      Alto, California, USA.
+FAU - Shenoy, Varun
+AU  - Shenoy V
+AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
+      Alto, California, USA.
+FAU - Gutierrez, Santiago
+AU  - Gutierrez S
+AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
+      Alto, California, USA.
+FAU - Venook, Ross
+AU  - Venook R
+AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
+      Alto, California, USA.
+LA  - eng
+GR  - T32 HL151323/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+DEP - 20230719
+PL  - United States
+TA  - JAMIA Open
+JT  - JAMIA open
+JID - 101730643
+PMC - PMC10356573
+OTO - NOTNLM
+OT  - android
+OT  - digital health
+OT  - iOS
+OT  - mobile app development
+OT  - open-source software
+COIS- None of the authors have a competing interest. The CardinalKit Framework is 
+      open-source and is being used for teaching digital health mobile app development 
+      and to support research and young enterprise digital health projects.
+EDAT- 2023/07/24 06:42
+MHDA- 2023/07/24 06:43
+PMCR- 2023/07/19
+CRDT- 2023/07/24 04:59
+PHST- 2022/06/28 00:00 [received]
+PHST- 2022/12/20 00:00 [revised]
+PHST- 2023/06/19 00:00 [accepted]
+PHST- 2023/07/24 06:43 [medline]
+PHST- 2023/07/24 06:42 [pubmed]
+PHST- 2023/07/24 04:59 [entrez]
+PHST- 2023/07/19 00:00 [pmc-release]
+AID - ooad044 [pii]
+AID - 10.1093/jamiaopen/ooad044 [doi]
+PST - epublish
+SO  - JAMIA Open. 2023 Jul 19;6(3):ooad044. doi: 10.1093/jamiaopen/ooad044. eCollection 
+      2023 Oct.
 
 PMID- 35957207
 OWN - NLM
@@ -1195,131 +1502,6 @@ AID - 10.1109/JBHI.2019.2894552 [doi]
 PST - ppublish
 SO  - IEEE J Biomed Health Inform. 2020 Jan;24(1):268-279. doi: 
       10.1109/JBHI.2019.2894552. Epub 2019 Feb 18.
-
-PMID- 36125863
-OWN - NLM
-STAT- PubMed-not-MEDLINE
-LR  - 20221007
-IS  - 1929-0748 (Print)
-IS  - 1929-0748 (Electronic)
-IS  - 1929-0748 (Linking)
-VI  - 11
-IP  - 9
-DP  - 2022 Sep 20
-TI  - Technologies for Interoperable Internet of Medical Things Platforms to Manage 
-      Medical Emergencies in Home and Prehospital Care: Protocol for a Scoping Review.
-PG  - e40243
-LID - 10.2196/40243 [doi]
-LID - e40243
-AB  - BACKGROUND: Population growth and aging have highlighted the need for more 
-      effective home and prehospital care. Interconnected medical devices and 
-      applications, which comprise an infrastructure referred to as the Internet of 
-      Medical Things (IoMT), have enabled remote patient monitoring and can be 
-      important tools to cope with these demographic changes. However, developing IoMT 
-      platforms requires profound knowledge of clinical needs and challenges related to 
-      interoperability and how these can be managed with suitable technologies. 
-      OBJECTIVE: The purpose of this scoping review is to summarize the best practices 
-      and technologies to overcome interoperability concerns in IoMT platform 
-      development for medical emergencies in home and prehospital care. METHODS: This 
-      scoping review will be conducted in accordance with Arksey and O'Malley's 5-stage 
-      framework and adhere to the PRISMA-P (Preferred Reporting Items for Systematic 
-      Reviews and Meta-analyses Protocols) guidelines. Only peer-reviewed articles 
-      published in English will be considered. The databases/web search engines that 
-      will be used are IEEE Xplore, PubMed, Scopus, Google Scholar, National Center for 
-      Biotechnology Information, SAGE Journals, and ScienceDirect. The search process 
-      for relevant literature will be divided into 4 different steps. This will ensure 
-      that a suitable approach is followed in terms of search terms, limitations, and 
-      eligibility criteria. Relevant articles that meet the inclusion criteria will be 
-      screened in 2 stages: abstract and title screening and full-text screening. To 
-      reduce selection bias, the screening process will be performed by 2 reviewers. 
-      RESULTS: The results of the preliminary search indicate that there is sufficient 
-      literature to form a good foundation for the scoping review. The search was 
-      performed in April 2022, and a total of 4579 articles were found. The main 
-      clinical focus is the prevention and management of falls, but other medical 
-      emergencies, such as heart disease and stroke, are also considered. Preliminary 
-      results show that little attention has been given to real-time IoMT platforms 
-      that can be deployed in real-world care settings. The final results are expected 
-      to be presented in a scoping review in 2023 and will be disseminated through 
-      scientific conference presentations, oral presentations, and publication in a 
-      peer-reviewed journal. CONCLUSIONS: This scoping review will provide insights and 
-      recommendations regarding how interoperable real-time IoMT platforms can be 
-      developed to handle medical emergencies in home and prehospital care. The 
-      findings of this research could be used by researchers, clinicians, and 
-      implementation teams to facilitate future development and interdisciplinary 
-      discussions. INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): 
-      DERR1-10.2196/40243.
-CI  - ©Mattias Seth, Hoor Jalo, Åsa Högstedt, Otto Medin, Ulrica Björner, Bengt Arne 
-      Sjöqvist, Stefan Candefjord. Originally published in JMIR Research Protocols 
-      (https://www.researchprotocols.org), 20.09.2022.
-FAU - Seth, Mattias
-AU  - Seth M
-AUID- ORCID: 0000-0002-3737-3316
-AD  - Department of Electrical Engineering, Chalmers University of Technology, 
-      Gothenburg, Sweden.
-FAU - Jalo, Hoor
-AU  - Jalo H
-AUID- ORCID: 0000-0001-6975-8520
-AD  - Department of Electrical Engineering, Chalmers University of Technology, 
-      Gothenburg, Sweden.
-FAU - Högstedt, Åsa
-AU  - Högstedt Å
-AUID- ORCID: 0000-0003-2353-0306
-AD  - Prehospen - Centre for Prehospital Research, Faculty of Caring Science, Work Life 
-      and Social Welfare, University of Borås, Borås, Sweden.
-FAU - Medin, Otto
-AU  - Medin O
-AUID- ORCID: 0000-0003-4480-6973
-AD  - InterSystems Corp, Stockholm, Sweden.
-FAU - Björner, Ulrica
-AU  - Björner U
-AUID- ORCID: 0000-0001-6175-1965
-AD  - Äldre Samt Vård och Omsorgsförvaltningen, Gothenburg, Sweden.
-FAU - Sjöqvist, Bengt Arne
-AU  - Sjöqvist BA
-AUID- ORCID: 0000-0002-6564-737X
-AD  - Department of Electrical Engineering, Chalmers University of Technology, 
-      Gothenburg, Sweden.
-FAU - Candefjord, Stefan
-AU  - Candefjord S
-AUID- ORCID: 0000-0001-7942-2190
-AD  - Department of Electrical Engineering, Chalmers University of Technology, 
-      Gothenburg, Sweden.
-LA  - eng
-PT  - Journal Article
-DEP - 20220920
-PL  - Canada
-TA  - JMIR Res Protoc
-JT  - JMIR research protocols
-JID - 101599504
-PMC - PMC9533201
-OTO - NOTNLM
-OT  - Internet of Medical Things
-OT  - home care
-OT  - interoperability
-OT  - mapping
-OT  - medical emergency
-OT  - prehospital
-OT  - prehospital care
-OT  - reference models
-OT  - scoping review, falls, cardiovascular disease, stroke
-OT  - technologies
-COIS- Conflicts of Interest: OM is a sales engineer at InterSystems. There are no other 
-      conflicts of interest to declare.
-EDAT- 2022/09/21 06:00
-MHDA- 2022/09/21 06:01
-PMCR- 2022/09/20
-CRDT- 2022/09/20 11:53
-PHST- 2022/06/12 00:00 [received]
-PHST- 2022/08/30 00:00 [accepted]
-PHST- 2022/08/25 00:00 [revised]
-PHST- 2022/09/20 11:53 [entrez]
-PHST- 2022/09/21 06:00 [pubmed]
-PHST- 2022/09/21 06:01 [medline]
-PHST- 2022/09/20 00:00 [pmc-release]
-AID - v11i9e40243 [pii]
-AID - 10.2196/40243 [doi]
-PST - epublish
-SO  - JMIR Res Protoc. 2022 Sep 20;11(9):e40243. doi: 10.2196/40243.
 
 PMID- 39066012
 OWN - NLM
@@ -1524,111 +1706,6 @@ AID - sensors-24-02804 [pii]
 AID - 10.3390/s24092804 [doi]
 PST - epublish
 SO  - Sensors (Basel). 2024 Apr 27;24(9):2804. doi: 10.3390/s24092804.
-
-PMID- 37485467
-OWN - NLM
-STAT- PubMed-not-MEDLINE
-LR  - 20231109
-IS  - 2574-2531 (Electronic)
-IS  - 2574-2531 (Linking)
-VI  - 6
-IP  - 3
-DP  - 2023 Oct
-TI  - CardinalKit: open-source standards-based, interoperable mobile development 
-      platform to help translate the promise of digital health.
-PG  - ooad044
-LID - 10.1093/jamiaopen/ooad044 [doi]
-LID - ooad044
-AB  - Smartphone devices capable of monitoring users' health, physiology, activity, and 
-      environment revolutionize care delivery, medical research, and remote patient 
-      monitoring. Such devices, laden with clinical-grade sensors and cloud 
-      connectivity, allow clinicians, researchers, and patients to monitor health 
-      longitudinally, passively, and persistently, shifting the paradigm of care and 
-      research from low-resolution, intermittent, and discrete to one of persistent, 
-      continuous, and high resolution. The collection, transmission, and storage of 
-      sensitive health data using mobile devices presents unique challenges that serve 
-      as significant barriers to entry for care providers and researchers alike. 
-      Compliance with standards like HIPAA and GDPR requires unique skills and 
-      practices. These requirements make off-the-shelf technologies insufficient for 
-      use in the digital health space. As a result, budget, timeline, talent, and 
-      resource constraints are the largest barriers to new digital technologies. The 
-      CardinalKit platform is an open-source project addressing these challenges by 
-      focusing on reducing these barriers and accelerating the innovation, adoption, 
-      and use of digital health technologies. CardinalKit provides a mobile template 
-      application and web dashboard to enable an interoperable foundation for 
-      developing digital health applications. We demonstrate the applicability of 
-      CardinalKit to a wide variety of digital health applications across 18 innovative 
-      digital health prototypes.
-CI  - © The Author(s) 2023. Published by Oxford University Press on behalf of the 
-      American Medical Informatics Association.
-FAU - Aalami, Oliver
-AU  - Aalami O
-AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
-      Alto, California, USA.
-FAU - Hittle, Mike
-AU  - Hittle M
-AD  - Department of Epidemiology, Stanford University School of Medicine, Palo Alto, 
-      California, USA.
-FAU - Ravi, Vishnu
-AU  - Ravi V
-AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
-      Alto, California, USA.
-FAU - Griffin, Ashley
-AU  - Griffin A
-AUID- ORCID: 0000-0002-1535-0797
-AD  - Department of Health Policy, Stanford University School of Medicine; VA Palo Alto 
-      Health Care System, Palo Alto, California, USA.
-FAU - Schmiedmayer, Paul
-AU  - Schmiedmayer P
-AUID- ORCID: 0000-0002-8607-9148
-AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
-      Alto, California, USA.
-FAU - Shenoy, Varun
-AU  - Shenoy V
-AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
-      Alto, California, USA.
-FAU - Gutierrez, Santiago
-AU  - Gutierrez S
-AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
-      Alto, California, USA.
-FAU - Venook, Ross
-AU  - Venook R
-AD  - Stanford Byers Center for Biodesign, Stanford University School of Medicine, Palo 
-      Alto, California, USA.
-LA  - eng
-GR  - T32 HL151323/HL/NHLBI NIH HHS/United States
-PT  - Journal Article
-DEP - 20230719
-PL  - United States
-TA  - JAMIA Open
-JT  - JAMIA open
-JID - 101730643
-PMC - PMC10356573
-OTO - NOTNLM
-OT  - android
-OT  - digital health
-OT  - iOS
-OT  - mobile app development
-OT  - open-source software
-COIS- None of the authors have a competing interest. The CardinalKit Framework is 
-      open-source and is being used for teaching digital health mobile app development 
-      and to support research and young enterprise digital health projects.
-EDAT- 2023/07/24 06:42
-MHDA- 2023/07/24 06:43
-PMCR- 2023/07/19
-CRDT- 2023/07/24 04:59
-PHST- 2022/06/28 00:00 [received]
-PHST- 2022/12/20 00:00 [revised]
-PHST- 2023/06/19 00:00 [accepted]
-PHST- 2023/07/24 06:43 [medline]
-PHST- 2023/07/24 06:42 [pubmed]
-PHST- 2023/07/24 04:59 [entrez]
-PHST- 2023/07/19 00:00 [pmc-release]
-AID - ooad044 [pii]
-AID - 10.1093/jamiaopen/ooad044 [doi]
-PST - epublish
-SO  - JAMIA Open. 2023 Jul 19;6(3):ooad044. doi: 10.1093/jamiaopen/ooad044. eCollection 
-      2023 Oct.
 
 PMID- 38440198
 OWN - NLM

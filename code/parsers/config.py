@@ -18,7 +18,7 @@ RIS_KEYWORDS = {
     'publication_language': 'LA  -',
     'publication_type': 'TY  -',
     'abstract': 'AB  -',
-    'venue': 'T2  -'
+    'venue': 'T2  -',
     # Add more fields as necessary
 }
 

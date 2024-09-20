@@ -3004,6 +3004,83 @@ PST - epublish
 SO  - Clin Med Insights Case Rep. 2022 Jan 22;15:11795476211069194. doi: 
       10.1177/11795476211069194. eCollection 2022.
 
+PMID- 39277343
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240914
+LR  - 20240914
+IS  - 1558-4518 (Electronic)
+IS  - 0895-7967 (Linking)
+VI  - 37
+IP  - 3
+DP  - 2024 Sep
+TI  - Wearable technology in vascular surgery: Current applications and future 
+      perspectives.
+PG  - 281-289
+LID - S0895-7967(24)00050-4 [pii]
+LID - 10.1053/j.semvascsurg.2024.08.004 [doi]
+AB  - The COVID-19 pandemic exposed the vulnerabilities of global health care systems, 
+      underscoring the need for innovative solutions to meet the demands of an aging 
+      population, workforce shortages, and rising physician burnout. In recent years, 
+      wearable technology has helped segue various medical specialties into the digital 
+      era, yet its adoption in vascular surgery remains limited. This article explores 
+      the applications of wearable devices in vascular surgery and explores their 
+      potential outlets, such as enhancing primary and secondary prevention, optimizing 
+      perioperative care, and supporting surgical training. The integration of 
+      artificial intelligence and machine learning with wearable technology further 
+      expands its applications, enabling predictive analytics, personalized care, and 
+      remote monitoring. Despite the promising prospects, challenges such as regulatory 
+      complexities, data security, and interoperability must be addressed. As the 
+      digital health movement unfolds, wearable technology could play a pivotal role in 
+      reshaping vascular surgery while offering cost-effective, accessible, and 
+      patient-centered care.
+CI  - Copyright © 2024 Elsevier Inc. All rights reserved.
+FAU - Bartos, Oana
+AU  - Bartos O
+AD  - Department of Vascular Medicine, St. Josefs-Hospital, Beethovenstraße 20, 65189 
+      Wiesbaden, Germany.
+FAU - Trenner, Matthias
+AU  - Trenner M
+AD  - Department of Vascular Medicine, St. Josefs-Hospital, Beethovenstraße 20, 65189 
+      Wiesbaden, Germany; School of Medicine, Technical University of Munich, Munich, 
+      Germany. Electronic address: mtrenner@joho.de.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20240822
+PL  - United States
+TA  - Semin Vasc Surg
+JT  - Seminars in vascular surgery
+JID - 8809602
+SB  - IM
+MH  - Humans
+MH  - *Wearable Electronic Devices
+MH  - *Vascular Surgical Procedures/instrumentation/adverse effects
+MH  - *COVID-19/epidemiology
+MH  - Telemedicine/instrumentation
+OTO - NOTNLM
+OT  - Digital medicine
+OT  - Smartphone
+OT  - Smartwatch
+OT  - Vascular disease
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this article.
+EDAT- 2024/09/15 14:09
+MHDA- 2024/09/15 14:10
+CRDT- 2024/09/14 21:01
+PHST- 2024/05/24 00:00 [received]
+PHST- 2024/08/14 00:00 [revised]
+PHST- 2024/08/16 00:00 [accepted]
+PHST- 2024/09/15 14:10 [medline]
+PHST- 2024/09/15 14:09 [pubmed]
+PHST- 2024/09/14 21:01 [entrez]
+AID - S0895-7967(24)00050-4 [pii]
+AID - 10.1053/j.semvascsurg.2024.08.004 [doi]
+PST - ppublish
+SO  - Semin Vasc Surg. 2024 Sep;37(3):281-289. doi: 10.1053/j.semvascsurg.2024.08.004. 
+      Epub 2024 Aug 22.
+
 PMID- 32745621
 OWN - NLM
 STAT- MEDLINE
@@ -3930,87 +4007,118 @@ AID - 10.3390/s24020351 [doi]
 PST - epublish
 SO  - Sensors (Basel). 2024 Jan 6;24(2):351. doi: 10.3390/s24020351.
 
-PMID- 39213113
+PMID- 38888429
 OWN - NLM
-STAT- Publisher
-LR  - 20240906
-IS  - 1878-7401 (Electronic)
-IS  - 0928-7329 (Linking)
-DP  - 2024 Aug 8
-TI  - Secure data communication in WSHN using EXP-MD5 and DHSK-ECC.
-LID - 10.3233/THC-240790 [doi]
-AB  - BACKGROUND: In the Healthcare (HC) sector, the usage of Wireless Sensor 
-      Healthcare Networks (WSHN) is attaining specific importance. The sensor device is 
-      implanted into the patient's body, and the sensed health information of patients 
-      is transformed via data aggregating devices like mobile devices, cameras, and so 
-      on, to the doctors. Thus, the early signs of diseases are identified, and remote 
-      monitoring of the patient's health is carried out by the physician on time. This 
-      aids in improving the health condition of the people and reduces the severity of 
-      disorders. But, the security gap in HC remains unresolved, despite various 
-      advantages. OBJECTIVE: This work proposes secured data communication in WSHN 
-      using Exponential Message Digest5 (EXP-MD5) and Diffie Hellman Secret Key-based 
-      Elliptic Curve Cryptography (DHSK-ECC) techniques. METHODS: Primarily, the 
-      patient registers their details in the Hospital Cloud Server (HCS). With hospital 
-      ID and patient ID, public and private keys are generated during registration. 
-      Afterward, by utilizing the Navie Shuffling (NS) technique, nCr combinations are 
-      created and shuffled. After shuffling, any of the randomly selected combinations 
-      are encoded utilizing the American Standard Code for Information Interchange 
-      (ASCII) code. For patient authentication, the ASCII code is further converted 
-      into a Quick Response(QR) code. Upon successful registration, the patient logs in 
-      to HCS. The patient can book for doctor's appointment if the login details are 
-      verified with those of the registered details. On consulting the doctor at the 
-      pre-informed time, the digital signature is created utilizing the Universal 
-      Unique Salt-based Digital Signature Algorithm (UUS-DSA) for authenticating the 
-      patient details. Further, for providing accessibility to all the authorized 
-      patients, the registered patients on HCS are considered as nodes. Then, an 
-      authorized path is created using the EXP-MD5 technique to protect each individual 
-      patient's details. The patient's IoT data is sensed, followed by authorized path 
-      creation. The data is encrypted via the DHSK-ECC algorithm for secure data 
-      transmission. Lastly, all the information is stored in HCS, so that the patient's 
-      health condition is regularly monitored by the doctor and the needy advice is 
-      suggested to the patients in the future. Also, hash matching is carried out when 
-      the doctor needs to access data. RESULTS: The proposed technique's efficacy is 
-      validated by the performance analysis in comparison with other conventional 
-      techniques. CONCLUSION: In this proposed research, the authentication is 
-      performed in multiple scenarios to enhance data security and user privacy. The 
-      patient details are authenticated during registration and verification to access 
-      the online consultation only by the authorized person. Further, the patient 
-      health information is encrypted in the proposed work after consultation so that 
-      the intrusion of medical records by malicious users and data tampering is 
-      prevented. Also, the sensed data gathered from patients are transferred to the 
-      HCS by creating the authorized path, which further enhances the security of 
-      patient data. Thus, the data communication of the WSHN is well-secured in this 
-      work through multi-level authentication and improved cryptography techniques.
-FAU - Anjikumar, Tamarapalli
-AU  - Anjikumar T
-FAU - Chakravarthy, A S N
-AU  - Chakravarthy ASN
+STAT- MEDLINE
+DCOM- 20240711
+LR  - 20240714
+IS  - 2040-3372 (Electronic)
+IS  - 2040-3364 (Print)
+IS  - 2040-3364 (Linking)
+VI  - 16
+IP  - 27
+DP  - 2024 Jul 11
+TI  - Recent advances in graphene-based electroanalytical devices for healthcare 
+      applications.
+PG  - 12857-12882
+LID - 10.1039/d3nr06137j [doi]
+AB  - Graphene, with its outstanding mechanical, electrical, and biocompatible 
+      properties, stands out as an emerging nanomaterial for healthcare applications, 
+      especially in building electroanalytical biodevices. With the rising prevalence 
+      of chronic diseases and infectious diseases, such as the COVID-19 pandemic, the 
+      demand for point-of-care testing and remote patient monitoring has never been 
+      greater. Owing to their portability, ease of manufacturing, scalability, and 
+      rapid and sensitive response, electroanalytical devices excel in these settings 
+      for improved healthcare accessibility, especially in resource-limited settings. 
+      The development of different synthesis methods yielding large-scale graphene and 
+      its derivatives with controllable properties, compatible with device 
+      manufacturing - from lithography to various printing methods - and tunable 
+      electrical, chemical, and electrochemical properties make it an attractive 
+      candidate for electroanalytical devices. This review article sheds light on how 
+      graphene-based devices can be transformative in addressing pressing healthcare 
+      needs, ranging from the fundamental understanding of biology in in vivo and ex 
+      vivo studies to early disease detection and management using in vitro assays and 
+      wearable devices. In particular, the article provides a special focus on (i) 
+      synthesis and functionalization techniques, emphasizing their suitability for 
+      scalable integration into devices, (ii) various transduction methods to design 
+      diverse electroanalytical device architectures, (iii) a myriad of applications 
+      using devices based on graphene, its derivatives, and hybrids with other 
+      nanomaterials, and (iv) emerging technologies at the intersection of device 
+      engineering and advanced data analytics. Finally, some of the major hurdles that 
+      graphene biodevices face for translation into clinical applications are 
+      discussed.
+FAU - Kammarchedu, Vinay
+AU  - Kammarchedu V
+AUID- ORCID: 0000-0002-7795-9231
+AD  - Department of Electrical Engineering, The Pennsylvania State University, 
+      University Park, Pennsylvania 16802, USA. sue66@psu.edu.
+AD  - Center for Atomically Thin Multifunctional Coatings, The Pennsylvania State 
+      University, University Park, Pennsylvania 16802, USA.
+AD  - Materials Research Institute, The Pennsylvania State University, University Park, 
+      Pennsylvania 16802, USA.
+FAU - Asgharian, Heshmat
+AU  - Asgharian H
+AD  - Department of Electrical Engineering, The Pennsylvania State University, 
+      University Park, Pennsylvania 16802, USA. sue66@psu.edu.
+AD  - Materials Research Institute, The Pennsylvania State University, University Park, 
+      Pennsylvania 16802, USA.
+FAU - Zhou, Keren
+AU  - Zhou K
+AUID- ORCID: 0000-0003-1059-4300
+AD  - Department of Electrical Engineering, The Pennsylvania State University, 
+      University Park, Pennsylvania 16802, USA. sue66@psu.edu.
+AD  - Materials Research Institute, The Pennsylvania State University, University Park, 
+      Pennsylvania 16802, USA.
+FAU - Soltan Khamsi, Pouya
+AU  - Soltan Khamsi P
+AD  - Department of Electrical Engineering, The Pennsylvania State University, 
+      University Park, Pennsylvania 16802, USA. sue66@psu.edu.
+AD  - Materials Research Institute, The Pennsylvania State University, University Park, 
+      Pennsylvania 16802, USA.
+FAU - Ebrahimi, Aida
+AU  - Ebrahimi A
+AD  - Department of Electrical Engineering, The Pennsylvania State University, 
+      University Park, Pennsylvania 16802, USA. sue66@psu.edu.
+AD  - Center for Atomically Thin Multifunctional Coatings, The Pennsylvania State 
+      University, University Park, Pennsylvania 16802, USA.
+AD  - Materials Research Institute, The Pennsylvania State University, University Park, 
+      Pennsylvania 16802, USA.
+AD  - Department of Biomedical Engineering, The Pennsylvania State University, 
+      University Park, Pennsylvania 16802, USA.
 LA  - eng
+GR  - R21 EB031354/EB/NIBIB NIH HHS/United States
+GR  - R21 GM132793/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
-DEP - 20240808
-PL  - Netherlands
-TA  - Technol Health Care
-JT  - Technology and health care : official journal of the European Society for 
-      Engineering and Medicine
-JID - 9314590
+PT  - Review
+DEP - 20240711
+PL  - England
+TA  - Nanoscale
+JT  - Nanoscale
+JID - 101525249
+RN  - 7782-42-5 (Graphite)
 SB  - IM
-OTO - NOTNLM
-OT  - Data security
-OT  - Diffie Hellman Secret Key-based Elliptic Curve Cryptography (DHSK-ECC)
-OT  - Hospital Cloud Server (HCS)
-OT  - Universal Unique Salt-based Digital Signature Algorithm (UUS-DSA)
-OT  - healthcare networks
-OT  - privacy-preserving
-EDAT- 2024/08/31 09:48
-MHDA- 2024/08/31 09:48
-CRDT- 2024/08/30 12:03
-PHST- 2024/08/31 09:48 [pubmed]
-PHST- 2024/08/31 09:48 [medline]
-PHST- 2024/08/30 12:03 [entrez]
-AID - THC240790 [pii]
-AID - 10.3233/THC-240790 [doi]
-PST - aheadofprint
-SO  - Technol Health Care. 2024 Aug 8. doi: 10.3233/THC-240790.
+MH  - *Graphite/chemistry
+MH  - Humans
+MH  - *COVID-19
+MH  - *Electrochemical Techniques
+MH  - SARS-CoV-2
+MH  - Biosensing Techniques
+MH  - Wearable Electronic Devices
+MH  - Nanostructures/chemistry
+PMC - PMC11238565
+COIS- There are no conflicts to declare.
+EDAT- 2024/06/18 17:41
+MHDA- 2024/07/11 12:42
+PMCR- 2024/05/29
+CRDT- 2024/06/18 09:43
+PHST- 2024/07/11 12:42 [medline]
+PHST- 2024/06/18 17:41 [pubmed]
+PHST- 2024/06/18 09:43 [entrez]
+PHST- 2024/05/29 00:00 [pmc-release]
+AID - d3nr06137j [pii]
+AID - 10.1039/d3nr06137j [doi]
+PST - epublish
+SO  - Nanoscale. 2024 Jul 11;16(27):12857-12882. doi: 10.1039/d3nr06137j.
 
 PMID- 35204598
 OWN - NLM
@@ -4269,6 +4377,111 @@ PST - ppublish
 SO  - IEEE J Biomed Health Inform. 2023 Sep;27(9):4524-4535. doi: 
       10.1109/JBHI.2023.3280196. Epub 2023 Sep 6.
 
+PMID- 39135461
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240916
+LR  - 20240918
+IS  - 1552-5775 (Electronic)
+IS  - 1552-5767 (Print)
+IS  - 1552-5767 (Linking)
+VI  - 28
+IP  - 3
+DP  - 2024 Sep 16
+TI  - The Impact of Digital Health Solutions on Bridging the Health Care Gap in Rural 
+      Areas: A Scoping Review.
+PG  - 130-143
+LID - 10.7812/TPP/23.134 [doi]
+AB  - Digital health tools can improve health care access and outcomes for individuals 
+      with limited access to health care, particularly those residing in rural areas. 
+      This scoping review examines the existing literature on using digital tools in 
+      patients with limited access to health care in rural areas. It assesses their 
+      effectiveness in improving health outcomes. The review adopts a comprehensive 
+      search strategy to identify relevant studies from electronic databases, and the 
+      selected studies are analyzed descriptively. The findings highlight the 
+      advantages and barriers of digital health interventions in rural populations. The 
+      advantages include increased access to health care practitioners through 
+      teleconsultations, improved health care outcomes through remote monitoring, 
+      better disease management through mobile health applications and wearable 
+      devices, and enhanced access to specialized care and preventive programs. 
+      However, limited internet connectivity and a lack of familiarity with digital 
+      tools are barriers that must be addressed to ensure equitable access to digital 
+      health interventions in rural areas. Overall, digital tools improve health 
+      outcomes for individuals with limited health care access in rural areas.
+FAU - Maita, Karla C
+AU  - Maita KC
+AD  - Division of Plastic Surgery, Mayo Clinic, Jacksonville, FL, USA.
+FAU - Maniaci, Michael J
+AU  - Maniaci MJ
+AUID- ORCID: 0000-0002-2731-1787
+AD  - Division of Hospital Internal Medicine, Mayo Clinic, Jacksonville, FL, USA.
+FAU - Haider, Clifton R
+AU  - Haider CR
+AD  - Department of Physiology and Biomedical Engineering, Mayo Clinic, Rochester, MN, 
+      USA.
+FAU - Avila, Francisco R
+AU  - Avila FR
+AD  - Division of Plastic Surgery, Mayo Clinic, Jacksonville, FL, USA.
+FAU - Torres-Guzman, Ricardo A
+AU  - Torres-Guzman RA
+AD  - Division of Plastic Surgery, Mayo Clinic, Jacksonville, FL, USA.
+FAU - Borna, Sahar
+AU  - Borna S
+AD  - Division of Plastic Surgery, Mayo Clinic, Jacksonville, FL, USA.
+FAU - Lunde, Julianne J
+AU  - Lunde JJ
+AD  - Center for Digital Health, Mayo Clinic, Rochester, MN, USA.
+FAU - Coffey, Jordan D
+AU  - Coffey JD
+AUID- ORCID: 0000-0002-5256-0654
+AD  - Center for Digital Health, Mayo Clinic, Rochester, MN, USA.
+FAU - Demaerschalk, Bart M
+AU  - Demaerschalk BM
+AD  - Center for Digital Health, Mayo Clinic, Rochester, MN, USA.
+AD  - Department of Neurology, Mayo Clinic College of Medicine and Science, Phoenix, 
+      AZ, USA.
+FAU - Forte, Antonio Jorge
+AU  - Forte AJ
+AUID- ORCID: 0000-0003-2004-7538
+AD  - Division of Plastic Surgery, Mayo Clinic, Jacksonville, FL, USA.
+AD  - Center for Digital Health, Mayo Clinic, Rochester, MN, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20240813
+PL  - United States
+TA  - Perm J
+JT  - The Permanente journal
+JID - 9800474
+SB  - IM
+MH  - Humans
+MH  - *Telemedicine
+MH  - *Health Services Accessibility
+MH  - *Rural Population
+MH  - Rural Health Services/organization & administration
+MH  - Mobile Applications
+MH  - Digital Health
+PMC - PMC11404635
+OTO - NOTNLM
+OT  - Barriers and advantages
+OT  - Digital health
+OT  - Health outcomes
+OT  - Healthcare access
+OT  - Rural areas
+COIS- Conflicts of Interest None declared
+EDAT- 2024/08/13 06:42
+MHDA- 2024/09/17 10:44
+PMCR- 2024/01/01
+CRDT- 2024/08/13 03:03
+PHST- 2024/09/17 10:44 [medline]
+PHST- 2024/08/13 06:42 [pubmed]
+PHST- 2024/08/13 03:03 [entrez]
+PHST- 2024/01/01 00:00 [pmc-release]
+AID - TPJ-23-134 [pii]
+AID - 10.7812/TPP/23.134 [doi]
+PST - ppublish
+SO  - Perm J. 2024 Sep 16;28(3):130-143. doi: 10.7812/TPP/23.134. Epub 2024 Aug 13.
+
 PMID- 33451865
 OWN - NLM
 STAT- MEDLINE
@@ -4397,6 +4610,98 @@ AID - 10.1016/j.ejvs.2020.11.044 [doi]
 PST - ppublish
 SO  - Eur J Vasc Endovasc Surg. 2021 Apr;61(4):676-687. doi: 
       10.1016/j.ejvs.2020.11.044. Epub 2021 Jan 12.
+
+PMID- 39154454
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240911
+LR  - 20240911
+IS  - 1872-6054 (Electronic)
+IS  - 0168-8510 (Linking)
+VI  - 148
+DP  - 2024 Oct
+TI  - Early access programs for medical devices in France: Overview of recent reforms 
+      and outcomes (2015-2022).
+PG  - 105146
+LID - S0168-8510(24)00156-8 [pii]
+LID - 10.1016/j.healthpol.2024.105146 [doi]
+AB  - The medical technology sector is characterised by a constant influx of 
+      innovations with the potential to revolutionise patient care. In France, there 
+      are several pathways for medical devices to enter the market, from 
+      diagnosis-related group tariffs to reimbursement lists. However, traditional 
+      regulatory pathways can delay market access for innovative technologies. In 
+      response, France has established Early Access Programs to expedite patient access 
+      to medical devices. This paper looks at three of these Early Access Programs for 
+      medical devices. Innovation Funding, introduced in its final version in 2015, 
+      provides temporary coverage for innovative devices and facilitates data 
+      collection for informed funding decisions. Transitional Coverage (PECT), 
+      established in 2021, targets CE-marked devices for rare or serious conditions. 
+      Transitional coverage for digital health applications (PECAN), introduced in 
+      2022, covers digital medical devices, either therapeutic or for patient 
+      monitoring. Innovation funding has been granted to 16 technologies out of 35 
+      applications (46%) since 2015. 6 technologies out of 11 (64%) applications 
+      benefit from PECT. PECAN, in its first year, has granted a telemonitoring 
+      solution with a favourable opinion. The French experience could provide valuable 
+      lessons for the development of a harmonised European framework to ensure that 
+      innovative medical technologies benefit those who need them, while maintaining 
+      high safety standards.
+CI  - Copyright © 2024 The Author(s). Published by Elsevier B.V. All rights reserved.
+FAU - Martin, Tess
+AU  - Martin T
+AD  - Pharmacy Department, Georges Pompidou European Hospital, AP-HP, 20 Rue Leblanc, 
+      75015 Paris, France; Paris-Saclay University, GRADES, Faculty of Pharmacy, 17 Av. 
+      des Sciences, 91400 Orsay, France.
+FAU - Hervias, Alexandra
+AU  - Hervias A
+AD  - Pharmacy Department, Georges Pompidou European Hospital, AP-HP, 20 Rue Leblanc, 
+      75015 Paris, France.
+FAU - Armoiry, Xavier
+AU  - Armoiry X
+AD  - Edouard Herriot Hospital, Pharmacy Department, 5 place d'Arsonval, 69003 Lyon, 
+      France; University of Lyon, School of Pharmacy (ISPB) /UMR CNRS 5510 MATEIS, 8 
+      avenue Rockefeller, 69008 Lyon, France.
+FAU - Martelli, Nicolas
+AU  - Martelli N
+AD  - Pharmacy Department, Georges Pompidou European Hospital, AP-HP, 20 Rue Leblanc, 
+      75015 Paris, France; Paris-Saclay University, GRADES, Faculty of Pharmacy, 17 Av. 
+      des Sciences, 91400 Orsay, France. Electronic address: nicolas.martelli@aphp.fr.
+LA  - eng
+PT  - Journal Article
+DEP - 20240811
+PL  - Ireland
+TA  - Health Policy
+JT  - Health policy (Amsterdam, Netherlands)
+JID - 8409431
+SB  - IM
+MH  - France
+MH  - Humans
+MH  - *Equipment and Supplies/economics
+MH  - Health Services Accessibility
+MH  - Health Care Reform
+MH  - Biomedical Technology
+MH  - Inventions
+MH  - Telemedicine
+OTO - NOTNLM
+OT  - Early access
+OT  - Funding
+OT  - Health technology assessment
+OT  - Market access
+OT  - Medical device
+COIS- Declarations of competing interest None.
+EDAT- 2024/08/19 00:42
+MHDA- 2024/09/12 00:42
+CRDT- 2024/08/18 18:20
+PHST- 2023/10/10 00:00 [received]
+PHST- 2024/03/12 00:00 [revised]
+PHST- 2024/08/06 00:00 [accepted]
+PHST- 2024/09/12 00:42 [medline]
+PHST- 2024/08/19 00:42 [pubmed]
+PHST- 2024/08/18 18:20 [entrez]
+AID - S0168-8510(24)00156-8 [pii]
+AID - 10.1016/j.healthpol.2024.105146 [doi]
+PST - ppublish
+SO  - Health Policy. 2024 Oct;148:105146. doi: 10.1016/j.healthpol.2024.105146. Epub 
+      2024 Aug 11.
 
 PMID- 37239523
 OWN - NLM
@@ -5266,119 +5571,6 @@ PST - epublish
 SO  - PLoS One. 2021 Aug 4;16(8):e0249872. doi: 10.1371/journal.pone.0249872. 
       eCollection 2021.
 
-PMID- 38888429
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20240711
-LR  - 20240714
-IS  - 2040-3372 (Electronic)
-IS  - 2040-3364 (Print)
-IS  - 2040-3364 (Linking)
-VI  - 16
-IP  - 27
-DP  - 2024 Jul 11
-TI  - Recent advances in graphene-based electroanalytical devices for healthcare 
-      applications.
-PG  - 12857-12882
-LID - 10.1039/d3nr06137j [doi]
-AB  - Graphene, with its outstanding mechanical, electrical, and biocompatible 
-      properties, stands out as an emerging nanomaterial for healthcare applications, 
-      especially in building electroanalytical biodevices. With the rising prevalence 
-      of chronic diseases and infectious diseases, such as the COVID-19 pandemic, the 
-      demand for point-of-care testing and remote patient monitoring has never been 
-      greater. Owing to their portability, ease of manufacturing, scalability, and 
-      rapid and sensitive response, electroanalytical devices excel in these settings 
-      for improved healthcare accessibility, especially in resource-limited settings. 
-      The development of different synthesis methods yielding large-scale graphene and 
-      its derivatives with controllable properties, compatible with device 
-      manufacturing - from lithography to various printing methods - and tunable 
-      electrical, chemical, and electrochemical properties make it an attractive 
-      candidate for electroanalytical devices. This review article sheds light on how 
-      graphene-based devices can be transformative in addressing pressing healthcare 
-      needs, ranging from the fundamental understanding of biology in in vivo and ex 
-      vivo studies to early disease detection and management using in vitro assays and 
-      wearable devices. In particular, the article provides a special focus on (i) 
-      synthesis and functionalization techniques, emphasizing their suitability for 
-      scalable integration into devices, (ii) various transduction methods to design 
-      diverse electroanalytical device architectures, (iii) a myriad of applications 
-      using devices based on graphene, its derivatives, and hybrids with other 
-      nanomaterials, and (iv) emerging technologies at the intersection of device 
-      engineering and advanced data analytics. Finally, some of the major hurdles that 
-      graphene biodevices face for translation into clinical applications are 
-      discussed.
-FAU - Kammarchedu, Vinay
-AU  - Kammarchedu V
-AUID- ORCID: 0000-0002-7795-9231
-AD  - Department of Electrical Engineering, The Pennsylvania State University, 
-      University Park, Pennsylvania 16802, USA. sue66@psu.edu.
-AD  - Center for Atomically Thin Multifunctional Coatings, The Pennsylvania State 
-      University, University Park, Pennsylvania 16802, USA.
-AD  - Materials Research Institute, The Pennsylvania State University, University Park, 
-      Pennsylvania 16802, USA.
-FAU - Asgharian, Heshmat
-AU  - Asgharian H
-AD  - Department of Electrical Engineering, The Pennsylvania State University, 
-      University Park, Pennsylvania 16802, USA. sue66@psu.edu.
-AD  - Materials Research Institute, The Pennsylvania State University, University Park, 
-      Pennsylvania 16802, USA.
-FAU - Zhou, Keren
-AU  - Zhou K
-AUID- ORCID: 0000-0003-1059-4300
-AD  - Department of Electrical Engineering, The Pennsylvania State University, 
-      University Park, Pennsylvania 16802, USA. sue66@psu.edu.
-AD  - Materials Research Institute, The Pennsylvania State University, University Park, 
-      Pennsylvania 16802, USA.
-FAU - Soltan Khamsi, Pouya
-AU  - Soltan Khamsi P
-AD  - Department of Electrical Engineering, The Pennsylvania State University, 
-      University Park, Pennsylvania 16802, USA. sue66@psu.edu.
-AD  - Materials Research Institute, The Pennsylvania State University, University Park, 
-      Pennsylvania 16802, USA.
-FAU - Ebrahimi, Aida
-AU  - Ebrahimi A
-AD  - Department of Electrical Engineering, The Pennsylvania State University, 
-      University Park, Pennsylvania 16802, USA. sue66@psu.edu.
-AD  - Center for Atomically Thin Multifunctional Coatings, The Pennsylvania State 
-      University, University Park, Pennsylvania 16802, USA.
-AD  - Materials Research Institute, The Pennsylvania State University, University Park, 
-      Pennsylvania 16802, USA.
-AD  - Department of Biomedical Engineering, The Pennsylvania State University, 
-      University Park, Pennsylvania 16802, USA.
-LA  - eng
-GR  - R21 EB031354/EB/NIBIB NIH HHS/United States
-GR  - R21 GM132793/GM/NIGMS NIH HHS/United States
-PT  - Journal Article
-PT  - Review
-DEP - 20240711
-PL  - England
-TA  - Nanoscale
-JT  - Nanoscale
-JID - 101525249
-RN  - 7782-42-5 (Graphite)
-SB  - IM
-MH  - *Graphite/chemistry
-MH  - Humans
-MH  - *COVID-19
-MH  - *Electrochemical Techniques
-MH  - SARS-CoV-2
-MH  - Biosensing Techniques
-MH  - Wearable Electronic Devices
-MH  - Nanostructures/chemistry
-PMC - PMC11238565
-COIS- There are no conflicts to declare.
-EDAT- 2024/06/18 17:41
-MHDA- 2024/07/11 12:42
-PMCR- 2024/05/29
-CRDT- 2024/06/18 09:43
-PHST- 2024/07/11 12:42 [medline]
-PHST- 2024/06/18 17:41 [pubmed]
-PHST- 2024/06/18 09:43 [entrez]
-PHST- 2024/05/29 00:00 [pmc-release]
-AID - d3nr06137j [pii]
-AID - 10.1039/d3nr06137j [doi]
-PST - epublish
-SO  - Nanoscale. 2024 Jul 11;16(27):12857-12882. doi: 10.1039/d3nr06137j.
-
 PMID- 36732963
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -5548,6 +5740,88 @@ AID - 10.1016/j.scib.2020.07.031 [doi]
 PST - ppublish
 SO  - Sci Bull (Beijing). 2020 Dec 30;65(24):2100-2106. doi: 
       10.1016/j.scib.2020.07.031. Epub 2020 Jul 25.
+
+PMID- 39213113
+OWN - NLM
+STAT- Publisher
+LR  - 20240906
+IS  - 1878-7401 (Electronic)
+IS  - 0928-7329 (Linking)
+DP  - 2024 Aug 8
+TI  - Secure data communication in WSHN using EXP-MD5 and DHSK-ECC.
+LID - 10.3233/THC-240790 [doi]
+AB  - BACKGROUND: In the Healthcare (HC) sector, the usage of Wireless Sensor 
+      Healthcare Networks (WSHN) is attaining specific importance. The sensor device is 
+      implanted into the patient's body, and the sensed health information of patients 
+      is transformed via data aggregating devices like mobile devices, cameras, and so 
+      on, to the doctors. Thus, the early signs of diseases are identified, and remote 
+      monitoring of the patient's health is carried out by the physician on time. This 
+      aids in improving the health condition of the people and reduces the severity of 
+      disorders. But, the security gap in HC remains unresolved, despite various 
+      advantages. OBJECTIVE: This work proposes secured data communication in WSHN 
+      using Exponential Message Digest5 (EXP-MD5) and Diffie Hellman Secret Key-based 
+      Elliptic Curve Cryptography (DHSK-ECC) techniques. METHODS: Primarily, the 
+      patient registers their details in the Hospital Cloud Server (HCS). With hospital 
+      ID and patient ID, public and private keys are generated during registration. 
+      Afterward, by utilizing the Navie Shuffling (NS) technique, nCr combinations are 
+      created and shuffled. After shuffling, any of the randomly selected combinations 
+      are encoded utilizing the American Standard Code for Information Interchange 
+      (ASCII) code. For patient authentication, the ASCII code is further converted 
+      into a Quick Response(QR) code. Upon successful registration, the patient logs in 
+      to HCS. The patient can book for doctor's appointment if the login details are 
+      verified with those of the registered details. On consulting the doctor at the 
+      pre-informed time, the digital signature is created utilizing the Universal 
+      Unique Salt-based Digital Signature Algorithm (UUS-DSA) for authenticating the 
+      patient details. Further, for providing accessibility to all the authorized 
+      patients, the registered patients on HCS are considered as nodes. Then, an 
+      authorized path is created using the EXP-MD5 technique to protect each individual 
+      patient's details. The patient's IoT data is sensed, followed by authorized path 
+      creation. The data is encrypted via the DHSK-ECC algorithm for secure data 
+      transmission. Lastly, all the information is stored in HCS, so that the patient's 
+      health condition is regularly monitored by the doctor and the needy advice is 
+      suggested to the patients in the future. Also, hash matching is carried out when 
+      the doctor needs to access data. RESULTS: The proposed technique's efficacy is 
+      validated by the performance analysis in comparison with other conventional 
+      techniques. CONCLUSION: In this proposed research, the authentication is 
+      performed in multiple scenarios to enhance data security and user privacy. The 
+      patient details are authenticated during registration and verification to access 
+      the online consultation only by the authorized person. Further, the patient 
+      health information is encrypted in the proposed work after consultation so that 
+      the intrusion of medical records by malicious users and data tampering is 
+      prevented. Also, the sensed data gathered from patients are transferred to the 
+      HCS by creating the authorized path, which further enhances the security of 
+      patient data. Thus, the data communication of the WSHN is well-secured in this 
+      work through multi-level authentication and improved cryptography techniques.
+FAU - Anjikumar, Tamarapalli
+AU  - Anjikumar T
+FAU - Chakravarthy, A S N
+AU  - Chakravarthy ASN
+LA  - eng
+PT  - Journal Article
+DEP - 20240808
+PL  - Netherlands
+TA  - Technol Health Care
+JT  - Technology and health care : official journal of the European Society for 
+      Engineering and Medicine
+JID - 9314590
+SB  - IM
+OTO - NOTNLM
+OT  - Data security
+OT  - Diffie Hellman Secret Key-based Elliptic Curve Cryptography (DHSK-ECC)
+OT  - Hospital Cloud Server (HCS)
+OT  - Universal Unique Salt-based Digital Signature Algorithm (UUS-DSA)
+OT  - healthcare networks
+OT  - privacy-preserving
+EDAT- 2024/08/31 09:48
+MHDA- 2024/08/31 09:48
+CRDT- 2024/08/30 12:03
+PHST- 2024/08/31 09:48 [pubmed]
+PHST- 2024/08/31 09:48 [medline]
+PHST- 2024/08/30 12:03 [entrez]
+AID - THC240790 [pii]
+AID - 10.3233/THC-240790 [doi]
+PST - aheadofprint
+SO  - Technol Health Care. 2024 Aug 8. doi: 10.3233/THC-240790.
 
 PMID- 37698905
 OWN - NLM
@@ -6421,7 +6695,7 @@ SO  - Sensors (Basel). 2024 Jan 31;24(3):938. doi: 10.3390/s24030938.
 PMID- 36896009
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20230311
+LR  - 20240913
 IS  - 2296-4185 (Print)
 IS  - 2296-4185 (Electronic)
 IS  - 2296-4185 (Linking)
@@ -6808,6 +7082,97 @@ AID - 10.1111/jdv.19361 [doi]
 PST - ppublish
 SO  - J Eur Acad Dermatol Venereol. 2023 Nov;37(11):2311-2318. doi: 10.1111/jdv.19361. 
       Epub 2023 Aug 24.
+
+PMID- 39275695
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240914
+LR  - 20240916
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 24
+IP  - 17
+DP  - 2024 Sep 5
+TI  - Penetrating Barriers: Noncontact Measurement of Vital Bio Signs Using Radio 
+      Frequency Technology.
+LID - 10.3390/s24175784 [doi]
+LID - 5784
+AB  - The noninvasive measurement and sensing of vital bio signs, such as respiration 
+      and cardiopulmonary parameters, has become an essential part of the evaluation of 
+      a patient's physiological condition. The demand for new technologies that 
+      facilitate remote and noninvasive techniques for such measurements continues to 
+      grow. While previous research has made strides in the continuous monitoring of 
+      vital bio signs using lasers, this paper introduces a novel technique for remote 
+      noncontact measurements based on radio frequencies. Unlike laser-based methods, 
+      this innovative approach offers the advantage of penetrating through walls and 
+      tissues, enabling the measurement of respiration and heart rate. Our method, 
+      diverging from traditional radar systems, introduces a unique sensing concept 
+      that enables the detection of micro-movements in all directions, including those 
+      parallel to the antenna surface. The main goal of this work is to present a 
+      novel, simple, and cost-effective measurement tool capable of indicating changes 
+      in a subject's condition. By leveraging the unique properties of radio 
+      frequencies, this technique allows for the noninvasive monitoring of vital bio 
+      signs without the need for physical contact or invasive procedures. Moreover, the 
+      ability to penetrate barriers such as walls and tissues opens new possibilities 
+      for remote monitoring in various settings, including home healthcare, hospital 
+      environments, and even search and rescue operations. In order to validate the 
+      effectiveness of this technique, a series of experiments were conducted using a 
+      prototype device. The results demonstrated the feasibility of accurately 
+      measuring respiration patterns and heart rate remotely, showcasing the potential 
+      for real-time monitoring of a patient's physiological parameters. Furthermore, 
+      the simplicity and low-cost nature of the proposed measurement tool make it 
+      accessible to a wide range of users, including healthcare professionals, 
+      caregivers, and individuals seeking to monitor their own health.
+FAU - Aflalo, Kobi
+AU  - Aflalo K
+AUID- ORCID: 0000-0003-3072-6171
+AD  - Faculty of Engineering, Bar-Ilan University, Ramat Gan 5290002, Israel.
+AD  - ELTA Systems, Israeli Air Industries, 100 Yitzchak Hanasi Blvd, Ashdod 7762403, 
+      Israel.
+FAU - Zalevsky, Zeev
+AU  - Zalevsky Z
+AUID- ORCID: 0000-0002-4459-3421
+AD  - Faculty of Engineering, Bar-Ilan University, Ramat Gan 5290002, Israel.
+LA  - eng
+PT  - Journal Article
+DEP - 20240905
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - Humans
+MH  - Monitoring, Physiologic/methods/instrumentation
+MH  - *Heart Rate/physiology
+MH  - *Radio Waves
+MH  - Vital Signs/physiology
+MH  - Respiratory Rate/physiology
+PMC - PMC11397866
+OTO - NOTNLM
+OT  - heart rate
+OT  - microwave
+OT  - noninvasive
+OT  - respiration rate
+COIS- Author Kobi Aflalo was employed by the company ELTA Systems, Israeli Air 
+      Industries. The remaining author declares that the research was conducted in the 
+      absence of any commercial or financial relationships that could be construed as a 
+      potential conflict of interest.
+EDAT- 2024/09/14 10:43
+MHDA- 2024/09/14 10:44
+PMCR- 2024/09/05
+CRDT- 2024/09/14 01:21
+PHST- 2024/07/19 00:00 [received]
+PHST- 2024/08/13 00:00 [revised]
+PHST- 2024/08/20 00:00 [accepted]
+PHST- 2024/09/14 10:44 [medline]
+PHST- 2024/09/14 10:43 [pubmed]
+PHST- 2024/09/14 01:21 [entrez]
+PHST- 2024/09/05 00:00 [pmc-release]
+AID - s24175784 [pii]
+AID - sensors-24-05784 [pii]
+AID - 10.3390/s24175784 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2024 Sep 5;24(17):5784. doi: 10.3390/s24175784.
 
 PMID- 32209497
 OWN - NLM

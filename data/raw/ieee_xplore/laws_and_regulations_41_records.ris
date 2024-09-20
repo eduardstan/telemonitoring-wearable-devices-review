@@ -696,36 +696,33 @@ AB  - The expansion of Internet if Things (IoT) technology has led to the widesp
 ER  - 
 
 TY  - CONF
-TI  - HNMblock: Blockchain Technology Powered Healthcare Network Model for Epidemiological Monitoring, Medical Systems Security, and Wellness
-T2  - 2024 12th International Symposium on Digital Forensics and Security (ISDFS)
-SP  - 01
-EP  - 08
-AU  - N. Kshetri
-AU  - R. Mishra
-AU  - M. M. Rahman
-AU  - T. Steigner
-PY  - 2024
-KW  - Telemedicine
-KW  - Surveillance
-KW  - Medical services
-KW  - Real-time systems
-KW  - Blockchains
-KW  - Security
-KW  - Ransomware
+TI  - Toward Privacy-Enhancing Ambulatory-Based Well-Being Monitoring: Investigating User Re-Identification Risk in Multimodal Data
+T2  - ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+SP  - 1
+EP  - 5
+AU  - R. Pranjal
+AU  - R. Seshadri
+AU  - R. Kumar Sanath Kumar Kadaba
+AU  - T. Feng
+AU  - S. S. Narayanan
+AU  - T. Chaspari
+PY  - 2023
+KW  - Training
 KW  - Data privacy
-KW  - health care
-KW  - medical security
-KW  - patient monitoring
-KW  - tamper-proof
-DO  - 10.1109/ISDFS60797.2024.10527226
-JO  - 2024 12th International Symposium on Digital Forensics and Security (ISDFS)
+KW  - Sensitivity
+KW  - Anxiety disorders
+KW  - Medical services
+KW  - Recording
+KW  - Task analysis
+DO  - 10.1109/ICASSP49357.2023.10096235
+JO  - ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 IS  - 
-SN  - 2768-1831
+SN  - 2379-190X
 VO  - 
 VL  - 
-JA  - 2024 12th International Symposium on Digital Forensics and Security (ISDFS)
-Y1  - 29-30 April 2024
-AB  - In the ever-evolving healthcare sector, the widespread adoption of Internet of Things and wearable technologies facilitates remote patient monitoring. However, the existing client/server infrastructure poses significant security and privacy challenges, necessitating strict adherence to healthcare data regulations. To combat these issues, a decentralized approach is imperative, and blockchain technology emerges as a compelling solution for strengthening Internet of Things and medical systems security. This paper introduces HNMblock, a model that elevates the realms of epidemiological monitoring, medical system security, and wellness enhancement. By harnessing the transparency and immutability inherent in blockchain, HNMblock empowers real-time, tamper-proof tracking of epidemiological data, enabling swift responses to disease outbreaks. Furthermore, it fortifies the security of medical systems through advanced cryptographic techniques and smart contracts, with a paramount focus on safeguarding patient privacy. HNMblock also fosters personalized health care, encouraging patient involvement and data-informed decision-making. The integration of blockchain within the healthcare domain, as exemplified by HNMblock, holds the potential to revolutionize data management, epidemiological surveillance, and wellness, as meticulously explored in this research article.
+JA  - ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+Y1  - 4-10 June 2023
+AB  - The sensitivity of data collected via ambulatory monitoring, which regularly involve the recording of speech signals and sensor information, can cause strong privacy concerns. We investigate user re-identification risk in a corpus of such data collected to observe the interplay between behavior, physiology, and well-being of healthcare workers in their daily life. We then develop a user anonymization approach that preserves well-being information (i.e., anxiety), but eliminates user identify (ID) information. We formulate this via an auto-encoder that learns a transformed version of the original feature set in an adversarial manner so that it minimizes the anxiety estimation loss and maximizes the user classification loss. Results indicate that the original features bear a large user re-identification risk, while also having a good ability to classify a user’s anxiety. After removing the most prone features to user re-identification from the original feature set, the user classification accuracy decreases, while the anxiety classification performance is preserved. The final features transformed via the auto-encoder further reduce evidence of user ID and preserve anxiety classification ability. Findings from this study can contribute to the design privacy-aware bio-behavioral models that can be used for responsible ambulatory monitoring in healthcare and beyond.
 ER  - 
 
 TY  - CONF
@@ -762,6 +759,39 @@ VL  -
 JA  - 2020 23rd Euromicro Conference on Digital System Design (DSD)
 Y1  - 26-28 Aug. 2020
 AB  - The objective of this work is the design of a technological platform for remote monitoring of patients with Chronic Obstructive Pulmonary Disease (COPD). The concept of the framework is a breakthrough in the state of medical, scientific and technological art, aimed at engaging patients in the treatment plan and supporting interaction with healthcare professionals. The proposed platform is able to support a new paradigm for the management of patients with COPD, by integrating clinical data and parameters monitored in daily life using Artificial Intelligence algorithms. Therefore, the doctor is provided with a dynamic picture of the disease and its impact on lifestyle and vice versa, and can thus plan more personalized diagnostics, therapeutics, and social interventions. This strategy allows for a more effective organization of access to outpatient care and therefore a reduction of emergencies and hospitalizations because exacerbations of the disease can be better prevented and monitored. Hence, it can result in improvements in patients' quality of life and lower costs for the healthcare system.
+ER  - 
+
+TY  - CONF
+TI  - HNMblock: Blockchain Technology Powered Healthcare Network Model for Epidemiological Monitoring, Medical Systems Security, and Wellness
+T2  - 2024 12th International Symposium on Digital Forensics and Security (ISDFS)
+SP  - 01
+EP  - 08
+AU  - N. Kshetri
+AU  - R. Mishra
+AU  - M. M. Rahman
+AU  - T. Steigner
+PY  - 2024
+KW  - Telemedicine
+KW  - Surveillance
+KW  - Medical services
+KW  - Real-time systems
+KW  - Blockchains
+KW  - Security
+KW  - Ransomware
+KW  - Data privacy
+KW  - health care
+KW  - medical security
+KW  - patient monitoring
+KW  - tamper-proof
+DO  - 10.1109/ISDFS60797.2024.10527226
+JO  - 2024 12th International Symposium on Digital Forensics and Security (ISDFS)
+IS  - 
+SN  - 2768-1831
+VO  - 
+VL  - 
+JA  - 2024 12th International Symposium on Digital Forensics and Security (ISDFS)
+Y1  - 29-30 April 2024
+AB  - In the ever-evolving healthcare sector, the widespread adoption of Internet of Things and wearable technologies facilitates remote patient monitoring. However, the existing client/server infrastructure poses significant security and privacy challenges, necessitating strict adherence to healthcare data regulations. To combat these issues, a decentralized approach is imperative, and blockchain technology emerges as a compelling solution for strengthening Internet of Things and medical systems security. This paper introduces HNMblock, a model that elevates the realms of epidemiological monitoring, medical system security, and wellness enhancement. By harnessing the transparency and immutability inherent in blockchain, HNMblock empowers real-time, tamper-proof tracking of epidemiological data, enabling swift responses to disease outbreaks. Furthermore, it fortifies the security of medical systems through advanced cryptographic techniques and smart contracts, with a paramount focus on safeguarding patient privacy. HNMblock also fosters personalized health care, encouraging patient involvement and data-informed decision-making. The integration of blockchain within the healthcare domain, as exemplified by HNMblock, holds the potential to revolutionize data management, epidemiological surveillance, and wellness, as meticulously explored in this research article.
 ER  - 
 
 TY  - CONF
@@ -1095,40 +1125,6 @@ Y1  - 30 June-1 July 2022
 AB  - Providing health care with the extensive support brought by Remote Health Monitoring Systems (RHMS) is compulsory relied on a comprehensive and strict management of health data, due to its sensitive feature, amount, complexity and heterogeneity. As the quality, responsiveness, efficiency and reliability of the associated medical outcomes basically depends on the quality and accessibility of health data, specific attention must be paid on ensuring its completeness and accuracy. RO- SmartAgeing system is such a RHMS in which specific tasks and methods are targeted to ensure a strict control of collected data that is stored and further processed for sustaining proactive and preventative health care in an age-friendly smart environment.
 ER  - 
 
-TY  - CONF
-TI  - Cloud Server Based Intelligent Health Care Kit using Body Sensor Network
-T2  - 2023 Second International Conference On Smart Technologies For Smart Nation (SmartTechCon)
-SP  - 323
-EP  - 327
-AU  - A. A. Prasath
-AU  - S. Srinivasan
-AU  - C. S. Ranganathan
-AU  - N. Latha
-AU  - K. Saravanan
-PY  - 2023
-KW  - Cloud computing
-KW  - Body sensor networks
-KW  - Electric potential
-KW  - Medical treatment
-KW  - Medical services
-KW  - Real-time systems
-KW  - Servers
-KW  - Health Management
-KW  - Body Sensor Network
-KW  - Healthcare Kit
-KW  - Cloud Server
-KW  - Database
-DO  - 10.1109/SmartTechCon57526.2023.10391445
-JO  - 2023 Second International Conference On Smart Technologies For Smart Nation (SmartTechCon)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2023 Second International Conference On Smart Technologies For Smart Nation (SmartTechCon)
-Y1  - 18-19 Aug. 2023
-AB  - In this study, the model investigates designing and deploying a Body Sensor Network (BSN)-based intelligent healthcare kit hosted on a cloud server. This study aims to determine whether and how well this technology can track and manage people's health. The study focuses on developing and implementing wearable sensors for continuously monitoring vital signs such as heart rate, blood pressure, temperature, and oxygen saturation. The data is sent wirelessly to a gateway device or central hub, which may be processed locally or analyzed in the cloud using sophisticated algorithms and machine learning methods. The cloud server is crucial for tracking users' vitals, spotting outliers, and alerting users and medical staff in real time. Based on an individual's health data, the system offers suggestions for changing one's lifestyle, taking medications as prescribed and engaging in physical activity. The cloud server ensures the privacy and security of stored data and complies with applicable data protection laws. In addition, methods are investigated for integrating the intelligent healthcare kit with preexisting healthcare systems and electronic health records to support the smooth exchange of data and the provision of all-encompassing medical treatment. This work aims to promote healthcare technology and patient care by conducting empirical research and assessing a cloud server-based intelligent healthcare kit employing a body sensor network.
-ER  - 
-
 TY  - JOUR
 TI  - Digital Privacy in Healthcare: State-of-the-Art and Future Vision
 T2  - IEEE Access
@@ -1166,6 +1162,40 @@ VL  - 12
 JA  - IEEE Access
 Y1  - 2024
 AB  - The article draws inspiration from IEEE Digital Privacy, which explores attaining privacy goals for individuals in the digital realm. Privacy is an umbrella term that equates to respect for an individual’s dignity. When it integrates with digital technology, it alludes to individuals’ right and authority to control the flow of their personally identifiable information (PII) on the digital platform. Adopting digital technology in healthcare is not novel, but the COVID-19 outbreak has accelerated its incorporation into healthcare. Digital technology perks a wide range of healthcare professions, including biomedicine, diagnostic imaging, and remote patient monitoring, to mention a few, through facilitating accurate and effective health-related decisions. Thanks to technological advancements, healthcare professionals and other medical personnel are now quickly accessing and retaining patient information, which aids in scouring for optimal and swiftly acted-upon medications. While the technology’s inception is positive, it raised privacy issues for patients’ PII and other sensitive health data that remain intact. The review article addresses the key challenges in digital privacy for healthcare while also reviewing the state-of-the-art work by investigating data encryption techniques, access control mechanisms, and risk assessment techniques with digital privacy as a primary concern. Every country has enacted resilient laws and regulations to protect digital privacy in healthcare, which are briefed in the article. Artificial intelligence (AI) has proven valuable in cybersecurity and healthcare technology growth. As a result, the article delves into the hurdles of employing AI for healthcare digital privacy and cutting-edge work in healthcare digital privacy using AI. Finally, the article concludes with a future vision of data privacy in healthcare.
+ER  - 
+
+TY  - CONF
+TI  - Cloud Server Based Intelligent Health Care Kit using Body Sensor Network
+T2  - 2023 Second International Conference On Smart Technologies For Smart Nation (SmartTechCon)
+SP  - 323
+EP  - 327
+AU  - A. A. Prasath
+AU  - S. Srinivasan
+AU  - C. S. Ranganathan
+AU  - N. Latha
+AU  - K. Saravanan
+PY  - 2023
+KW  - Cloud computing
+KW  - Body sensor networks
+KW  - Electric potential
+KW  - Medical treatment
+KW  - Medical services
+KW  - Real-time systems
+KW  - Servers
+KW  - Health Management
+KW  - Body Sensor Network
+KW  - Healthcare Kit
+KW  - Cloud Server
+KW  - Database
+DO  - 10.1109/SmartTechCon57526.2023.10391445
+JO  - 2023 Second International Conference On Smart Technologies For Smart Nation (SmartTechCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 Second International Conference On Smart Technologies For Smart Nation (SmartTechCon)
+Y1  - 18-19 Aug. 2023
+AB  - In this study, the model investigates designing and deploying a Body Sensor Network (BSN)-based intelligent healthcare kit hosted on a cloud server. This study aims to determine whether and how well this technology can track and manage people's health. The study focuses on developing and implementing wearable sensors for continuously monitoring vital signs such as heart rate, blood pressure, temperature, and oxygen saturation. The data is sent wirelessly to a gateway device or central hub, which may be processed locally or analyzed in the cloud using sophisticated algorithms and machine learning methods. The cloud server is crucial for tracking users' vitals, spotting outliers, and alerting users and medical staff in real time. Based on an individual's health data, the system offers suggestions for changing one's lifestyle, taking medications as prescribed and engaging in physical activity. The cloud server ensures the privacy and security of stored data and complies with applicable data protection laws. In addition, methods are investigated for integrating the intelligent healthcare kit with preexisting healthcare systems and electronic health records to support the smooth exchange of data and the provision of all-encompassing medical treatment. This work aims to promote healthcare technology and patient care by conducting empirical research and assessing a cloud server-based intelligent healthcare kit employing a body sensor network.
 ER  - 
 
 TY  - CONF

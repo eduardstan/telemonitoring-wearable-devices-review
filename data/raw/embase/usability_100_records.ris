@@ -117,19 +117,26 @@ N2  - Background: Multi-parametric assessment, including heart sounds in additio
 ER  - 
 
 TY  - JOUR
-M3  - Article in Press
+M3  - Article
 Y1  - 2024
+VL  - 11
+IS  - 5
+SP  - 1049
+EP  - 1065
 SN  - 2214-3602
-JF  - Journal of neuromuscular diseases
-JO  - J Neuromuscul Dis
-UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L644747614&from=export
-U2  - L644747614
+SN  - 2214-3599
+JF  - Journal of Neuromuscular Diseases
+JO  - J. Neuromusc. Dis.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2034471777&from=export
+U2  - L2034471777
 C5  - 38995798
+DB  - Embase
 DB  - Medline
-U3  - 2024-07-19
+U3  - 2024-09-13
+U4  - 2024-09-17
 L2  - http://dx.doi.org/10.3233/JND-240004
 DO  - 10.3233/JND-240004
-LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=22143602&id=doi:10.3233%2FJND-240004&atitle=Smartphone-Based+Assessment+of+Mobility+and+Manual+Dexterity+in+Adult+People+with+Spinal+Muscular+Atrophy&stitle=J+Neuromuscul+Dis&title=Journal+of+neuromuscular+diseases&volume=&issue=&spage=&epage=&aulast=Arteaga-Bracho&aufirst=Eduardo&auinit=E.&aufull=Arteaga-Bracho+E.&coden=&isbn=&pages=-&date=2024&auinit1=E&auinitm=
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=22143602&id=doi:10.3233%2FJND-240004&atitle=Smartphone-Based+Assessment+of+Mobility+and+Manual+Dexterity+in+Adult+People+with+Spinal+Muscular+Atrophy&stitle=J.+Neuromusc.+Dis.&title=Journal+of+Neuromuscular+Diseases&volume=11&issue=5&spage=1049&epage=1065&aulast=Arteaga-Bracho&aufirst=Eduardo&auinit=E.&aufull=Arteaga-Bracho+E.&coden=&isbn=&pages=1049-1065&date=2024&auinit1=E&auinitm=
 A1  - Arteaga-Bracho, E.
 A1  - Cosne, G.
 A1  - Kanzler, C.
@@ -152,36 +159,257 @@ A1  - Günther, R.
 A1  - Campbell, N.
 A1  - Belachew, S.
 A1  - Hagenacker, T.
-M1  - (Arteaga-Bracho E.; Cosne G.; Kanzler C.; Karatsidis A.; Mazzà C.; Penalver-Andres J.; Zhu C.; Shen C.; Erb M K.; Campbell N.; Belachew S.) Biogen Digital Health, Biogen, Cambridge, MA, United States
+M1  - (Arteaga-Bracho E.; Cosne G.; Kanzler C.; Karatsidis A.; Mazzà C., claudia.mazza@gmail.com; Penalver-Andres J.; Zhu C.; Shen C.; Erb M K.; Campbell N.; Belachew S.) Biogen Digital Health Biogen, Cambridge, MA, United States
 M1  - (Freigang M.; Lapp H.-S.; Günther R.) Department of Neurology, Dresden University Hospital, Dresden, Germany
-M1  - (Thiele S.; Wenninger S.; Walter M.C.) Friedrich-Baur-Institute at the Department of Neurology, LMU University Hospital, LMU Munich,
+M1  - (Thiele S.; Wenninger S.; Walter M.C.) Friedrich-Baur-Institute at the Department of Neurology, LMU University Hospital, LMU Munich, Munich, Germany
 M1  - (Jung E.; Weiler M.) Department of Neurology, Heidelberg University Hospital, Heidelberg, Germany
 M1  - (Petri S.) Department of Neurology, Hannover Medical School, Hannover, Germany
 M1  - (Kleinschnitz C.; Hagenacker T.) Department of Neurology, Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Hospital Essen, Essen, Germany
+AD  - C. Mazzà, Biogen Digital Health International GmbH, Neuhofstrasse 30, Baar, Switzerland
 T1  - Smartphone-Based Assessment of Mobility and Manual Dexterity in Adult People with Spinal Muscular Atrophy
 LA  - English
 KW  - accelerometer
+KW  - Konectom
+KW  - magnetometer
+KW  - mobile health application
+KW  - smartphone
+KW  - wearable sensor
 KW  - adult
+KW  - adult person with spinal muscular atrophy
+KW  - age distribution
+KW  - arm movement
 KW  - article
-KW  - clinical article
+KW  - clinical outcome
 KW  - construct validity
 KW  - controlled study
+KW  - correlation analysis
 KW  - correlation coefficient
+KW  - cross-sectional study
+KW  - data extraction
 KW  - dexterity test
-KW  - duration
+KW  - drawing
+KW  - feasibility study
 KW  - female
+KW  - gyroscope sensor
+KW  - Hammersmith Functional Scale Expanded
 KW  - human
+KW  - information processing
+KW  - leg movement
+KW  - major clinical study
 KW  - male
+KW  - manual dexterity
+KW  - motor dysfunction
+KW  - motor performance
+KW  - multicenter study
+KW  - musculoskeletal disease assessment
+KW  - neurologic disease assessment
+KW  - observational study
 KW  - outcome assessment
+KW  - patient
+KW  - patient compliance
+KW  - patient mobility
+KW  - patient satisfaction
+KW  - physical activity, capacity and performance
+KW  - pinching
+KW  - quantitative analysis
 KW  - reliability
 KW  - remote sensing
-KW  - smartphone
+KW  - Revised Upper Limb Module
+KW  - six minute walk test
 KW  - spinal muscular atrophy
-KW  - upper limb
-KW  - walker
+KW  - test retest reliability
+KW  - turning
+KW  - typing
 KW  - walking
-KW  - wearable sensor
-N2  - Background: More responsive, reliable, and clinically valid endpoints of disability are essential to reduce size, duration, and burden of clinical trials in adult persons with spinal muscular atrophy (aPwSMA). Objective: The aim is to investigate the feasibility of smartphone-based assessments in aPwSMA and provide evidence on the reliability and construct validity of sensor-derived measures (SDMs) of mobility and manual dexterity collected remotely in aPwSMA. Methods: Data were collected from 59 aPwSMA (23 walkers, 20 sitters and 16 non-sitters) and 30 age-matched healthy controls (HC). SDMs were extracted from five smartphone-based tests capturing mobility and manual dexterity, which were administered in-clinic and remotely in daily life for four weeks. Reliability (Intraclass Correlation Coefficients, ICC) and construct validity (ability to discriminate between HC and aPwSMA and correlations with Revised Upper Limb Module, RULM and Hammersmith Functional Scale - Expanded HFMSE) were quantified for all SDMs. Results: The smartphone-based assessments proved feasible, with 92.1% average adherence in aPwSMA. The SDMs allowed to reliably assess both mobility and dexterity (ICC > 0.75 for 15/22 SDMs). Twenty-one out of 22 SDMs significantly discriminated between HC and aPwSMA. The highest correlations with the RULM were observed for SDMs from the manual dexterity tests in both non-sitters (Typing, ρ= 0.78) and sitters (Pinching, ρ= 0.75). In walkers, the highest correlation was between mobility tests and HFMSE (5 U-Turns, ρ= 0.79). Conclusions: This exploratory study provides preliminary evidence for the usability of smartphone-based assessments of mobility and manual dexterity in aPwSMA when deployed remotely in participants' daily life. Reliability and construct validity of SDMs remotely collected in real-life was demonstrated, which is a pre-requisite for their use in longitudinal trials. Additionally, three novel smartphone-based performance outcome assessments were successfully established for aPwSMA. Upon further validation of responsiveness to interventions, this technology holds potential to increase the efficiency of clinical trials in aPwSMA.
+KW  - Konectom
+C3  - Konectom
+N2  - Background: More responsive, reliable, and clinically valid endpoints of disability are essential to reduce size, duration, and burden of clinical trials in adult persons with spinal muscular atrophy (aPwSMA). Objective: The aim is to investigate the feasibility of smartphone-based assessments in aPwSMA and provide evidence on the reliability and construct validity of sensor-derived measures (SDMs) of mobility and manual dexterity collected remotely in aPwSMA. Methods: Data were collected from 59 aPwSMA (23 walkers, 20 sitters and 16 non-sitters) and 30 age-matched healthy controls (HC). SDMs were extracted from five smartphone-based tests capturing mobility and manual dexterity, which were administered in-clinic and remotely in daily life for four weeks. Reliability (Intraclass Correlation Coefficients, ICC) and construct validity (ability to discriminate between HC and aPwSMA and correlations with Revised Upper Limb Module, RULM and Hammersmith Functional Scale - Expanded HFMSE) were quantified for all SDMs. Results: The smartphone-based assessments proved feasible, with 92.1% average adherence in aPwSMA. The SDMs allowed to reliably assess both mobility and dexterity (ICC>0.75 for 14/22 SDMs). Twenty-one out of 22 SDMs significantly discriminated between HC and aPwSMA. The highest correlations with the RULM were observed for SDMs from the manual dexterity tests in both non-sitters (Typing, ρ=0.78) and sitters (Pinching, ρ=0.75). In walkers, the highest correlation was between mobility tests and HFMSE (5 U-Turns, ρ=0.79). Conclusions: This exploratory study provides preliminary evidence for the usability of smartphone-based assessments of mobility and manual dexterity in aPwSMA when deployed remotely in participants' daily life. Reliability and construct validity of SDMs remotely collected in real-life was demonstrated, which is a pre-requisite for their use in longitudinal trials. Additionally, three novel smartphone-based performance outcome assessments were successfully established for aPwSMA. Upon further validation of responsiveness to interventions, this technology holds potential to increase the efficiency of clinical trials in aPwSMA.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 47
+IS  - 9
+SN  - 1550-9109
+SN  - 0161-8105
+JF  - Sleep
+JO  - Sleep
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2034483701&from=export
+U2  - L2034483701
+C5  - 38551123
+DB  - Embase
+DB  - Medline
+U3  - 2024-09-13
+U4  - 2024-09-18
+L2  - http://dx.doi.org/10.1093/sleep/zsae083
+DO  - 10.1093/sleep/zsae083
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=15509109&id=doi:10.1093%2Fsleep%2Fzsae083&atitle=The+Swiss+Primary+Hypersomnolence+and+Narcolepsy+Cohort+Study%3A+feasibility+of+long-term+monitoring+with+Fitbit+smartwatches+in+central+disorders+of+hypersomnolence+and+extraction+of+digital+biomarkers+in+narcolepsy&stitle=Sleep&title=Sleep&volume=47&issue=9&spage=&epage=&aulast=Gnarra&aufirst=Oriella&auinit=O.&aufull=Gnarra+O.&coden=SLEED&isbn=&pages=-&date=2024&auinit1=O&auinitm=
+A1  - Gnarra, O.
+A1  - Van Der Meer, J.
+A1  - Warncke, J.D.
+A1  - Fregolente, L.G.
+A1  - Wenz, E.
+A1  - Zub, K.
+A1  - Nwachukwu, U.
+A1  - Zhang, Z.
+A1  - Khatami, R.
+A1  - Von Manitius, S.
+A1  - Miano, S.
+A1  - Acker, J.
+A1  - Strub, M.
+A1  - Riener, R.
+A1  - Bassetti, C.L.A.
+A1  - Schmidt, M.H.
+M1  - (Gnarra O., oriella.gnarra@hest.ethz.ch; Van Der Meer J.; Warncke J.D.; Fregolente L.G.; Wenz E.; Zub K.; Nwachukwu U.; Khatami R.; Bassetti C.L.A.; Schmidt M.H.) Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland
+M1  - (Gnarra O., oriella.gnarra@hest.ethz.ch; Riener R.) Sensory-Motor Systems Lab, Department of Health Sciences and Technology, Institute of Robotics and Intelligent Systems, ETH Zurich, Switzerland
+M1  - (Fregolente L.G.; Wenz E.; Zhang Z.; Khatami R.) Graduate School of Health Sciences, University of Bern, Bern, Switzerland
+M1  - (Zhang Z.; Khatami R.; Von Manitius S.) Clinic Barmelweid, Center for Sleep Medicine and Sleep Research, Barmelweid, Switzerland
+M1  - (Von Manitius S.; Miano S.) Department of Neurology, Kantonsspital St. Gallen, St. Gallen, Switzerland
+M1  - (Miano S.; Acker J.) Neurocenter of Southern Switzerland, Faculty of Biomedical Sciences, Università della Svizzera Italiana, Sleep Medicine Unit, Ospedale Civico, Lugano, Switzerland
+M1  - (Acker J.; Strub M.) Clinic for Sleep Medicine, Bad Zurzach, Switzerland
+M1  - (Strub M.; Riener R.) Zentrum für Schlafmedizin Basel, Basel, Switzerland
+M1  - (Riener R.; Schmidt M.H.) Spinal Cord Injury Center, University Hospital Balgrist, Zurich, Switzerland
+M1  - (Schmidt M.H.) Ohio Sleep Medicine Institute, Dublin, United States
+AD  - O. Gnarra, Freiburgstrasse 3, Bern, Switzerland
+T1  - The Swiss Primary Hypersomnolence and Narcolepsy Cohort Study: feasibility of long-term monitoring with Fitbit smartwatches in central disorders of hypersomnolence and extraction of digital biomarkers in narcolepsy
+LA  - English
+KW  - NCT04330963
+KW  - smart watch
+KW  - biological marker
+KW  - adult
+KW  - ambulatory monitoring
+KW  - arousal
+KW  - article
+KW  - cohort analysis
+KW  - controlled study
+KW  - female
+KW  - heart rate
+KW  - human
+KW  - hypersomnia
+KW  - hypersomnolence
+KW  - major clinical study
+KW  - male
+KW  - multicenter study
+KW  - narcolepsy
+KW  - narcolepsy with cataplexy
+KW  - physical activity
+KW  - REM sleep latency
+KW  - sleep deprivation
+KW  - sleep latency
+KW  - sleep parameters
+KW  - telemonitoring
+KW  - time in bed
+KW  - wake after sleep onset
+KW  - wearable technology
+N2  - The Swiss Primary Hypersomnolence and Narcolepsy Cohort Study (SPHYNCS) is a multicenter research initiative to identify new biomarkers in central disorders of hypersomnolence (CDH). Whereas narcolepsy type 1 (NT1) is well characterized, other CDH disorders lack precise biomarkers. In SPHYNCS, we utilized Fitbit smartwatches to monitor physical activity, heart rate, and sleep parameters over 1 year. We examined the feasibility of long-term ambulatory monitoring using the wearable device. We then explored digital biomarkers differentiating patients with NT1 from healthy controls (HC). A total of 115 participants received a Fitbit smartwatch. Using a adherence metric to evaluate the usability of the wearable device, we found an overall adherence rate of 80% over 1 year. We calculated daily physical activity, heart rate, and sleep parameters from 2 weeks of greatest adherence to compare NT1 (n=20) and HC (n=9) participants. Compared to controls, NT1 patients demonstrated findings consistent with increased sleep fragmentation, including significantly greater wake-after-sleep onset (p=.007) and awakening index (p=.025), as well as standard deviation of time in bed (p=.044). Moreover, NT1 patients exhibited a significantly shorter REM latency (p=.019), and sleep latency (p=.001), as well as a lower peak heart rate (p=.008), heart rate standard deviation (p=.039) and high-intensity activity (p=.009) compared to HC. This ongoing study demonstrates the feasibility of long-term monitoring with wearable technology in patients with CDH and potentially identifies a digital biomarker profile for NT1. While further validation is needed in larger datasets, these data suggest that long-term wearable technology may play a future role in diagnosing and managing narcolepsy.
+ER  - 
+
+TY  - JOUR
+M3  - Conference Abstract
+Y1  - 2024
+VL  - 53
+SP  - iii21
+SN  - 0002-0729
+JF  - Age and Ageing
+JO  - Age Ageing
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L645167872&from=export
+U2  - L645167872
+DB  - Embase
+U4  - 2024-09-10
+L2  - http://dx.doi.org/10.1093/ageing/afae139.080
+DO  - 10.1093/ageing/afae139.080
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=00020729&id=doi:10.1093%2Fageing%2Fafae139.080&atitle=Geriatric+patients+in+virtual+wards%3B+technology+adoption+style%2C+ease+of+use%2C+and+adherence+to+remote+monitoring+technology&stitle=Age+Ageing&title=Age+and+Ageing&volume=53&issue=&spage=iii21&epage=&aulast=Pugmire&aufirst=J.&auinit=J.&aufull=Pugmire+J.&coden=&isbn=&pages=iii21-&date=2024&auinit1=J&auinitm=
+A1  - Pugmire, J.
+A1  - Wilkes, M.
+A1  - Kramer, A.
+A1  - Zaniello, B.
+A1  - Zahradka, N.
+M1  - (Pugmire J.; Wilkes M.; Kramer A.) Current Health,A Best Buy Company, Edinburgh, United Kingdom
+M1  - (Zaniello B.; Zahradka N.) Current Health,A Best Buy Company Boston, United States
+AD  - J. Pugmire, Current Health,A Best Buy Company, Edinburgh, United Kingdom
+T1  - Geriatric patients in virtual wards; technology adoption style, ease of use, and adherence to remote monitoring technology
+LA  - English
+KW  - adult
+KW  - aged
+KW  - blood pressure
+KW  - conference abstract
+KW  - controlled study
+KW  - England
+KW  - female
+KW  - geriatric care
+KW  - geriatric patient
+KW  - groups by age
+KW  - home care
+KW  - human
+KW  - major clinical study
+KW  - male
+KW  - national health service
+KW  - observational study
+KW  - patient compliance
+KW  - patient engagement
+KW  - questionnaire
+KW  - remote sensing
+KW  - special situation for pharmacovigilance
+KW  - stereotypy
+KW  - telecare
+KW  - telehealth
+KW  - very elderly
+KW  - ward
+KW  - wearable device
+N2  - Introduction: NHS England is committed to the expansion of virtual wards, necessitating patient engagement with home care technology. Literature suggests there is a technology adoption lag among older populations. We investigated if this lag was evident in geriatric virtual ward patients. Methods: Data from three NHS trusts using a virtual care platform (March 2021- August 2023) were aggregated to assess differences in perceived ease of use, technology adoption style, and measures of adherence. All patients received the Telehealth Usability Questionnaire Ease of Use (EOU) subsection (higher scores indicate higher EOU). Patients completed surveys via tablet, wore monitoring devices, and took blood pressure readings. We dichotomised age (<75 vs. 75+) and used Fisher's exact and Wilcoxon-Mann- Whitney tests. Results: Of 857 patients, 36.9% were geriatric (mean age 81.5 years). The younger group (mean age 59.1 years) had 541 patients. Gender was evenly split between age groups (p = 0.62). Median EOU scores were 5.5 (geriatric) and 6.2 (younger) (p<0.001). Geriatric patients were more likely to avoid or delay technology adoption (82% vs. 56% in younger patients, p<0.001). Geriatric patients had higher adherence to the wearable device (median 95.3%) compared to younger patients (93.3%, p<0.001). Blood pressure (median 81.6%) and survey adherence (median 83.3%) did not significantly differ between groups (p = 0.076, p = 0.0501). Conclusions: Despite perceptions and literature suggesting older patients are less comfortable with technology, our findings demonstrate high engagement in virtual ward technology. While differences exist in technology adoption and EOU scores, geriatric patients exhibit equal or higher adherence to remote monitoring tasks. These results challenge stereotypes and underscore the importance of incorporating technology in geriatric care.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 16
+IS  - 24
+SP  - 31657
+EP  - 31665
+SN  - 1944-8252
+JF  - ACS applied materials & interfaces
+JO  - ACS Appl Mater Interfaces
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L644444637&from=export
+U2  - L644444637
+C5  - 38838205
+DB  - Medline
+U3  - 2024-06-12
+U4  - 2024-06-12
+L2  - http://dx.doi.org/10.1021/acsami.4c06993
+DO  - 10.1021/acsami.4c06993
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=19448252&id=doi:10.1021%2Facsami.4c06993&atitle=Low+Driving+Voltage+Electroluminescence+Device+for+Integrated+Visual+Strain+Sensing&stitle=ACS+Appl+Mater+Interfaces&title=ACS+applied+materials+%26+interfaces&volume=16&issue=24&spage=31657&epage=31665&aulast=Zhu&aufirst=Simu&auinit=S.&aufull=Zhu+S.&coden=&isbn=&pages=31657-31665&date=2024&auinit1=S&auinitm=
+A1  - Zhu, S.
+A1  - Xiong, F.
+A1  - Gu, Y.
+A1  - Chen, W.
+A1  - Fan, Q.
+A1  - Lu, H.
+A1  - Wang, T.
+A1  - Yang, B.-R.
+A1  - Deng, S.
+M1  - (Zhu S.; Xiong F.; Gu Y.; Chen W.; Fan Q.; Lu H.; Wang T.; Yang B.-R.; Deng S.) State Key Laboratory of Optoelectronic Materials and Technologies, Guangdong Province Key Laboratory of Display Material and Technology, School of Electronics and Information Technology, Sun Yat-sen University, Guangzhou, China
+T1  - Low Driving Voltage Electroluminescence Device for Integrated Visual Strain Sensing
+LA  - English
+KW  - hydrogel
+KW  - polyurethan
+KW  - article
+KW  - brightness
+KW  - coating (procedure)
+KW  - controlled study
+KW  - display system
+KW  - electric potential
+KW  - electrode
+KW  - electronics
+KW  - fluorescence
+KW  - human
+KW  - ionization
+KW  - luminescence
+KW  - pharmaceutics
+KW  - polymerization
+KW  - powder
+KW  - wearable device
+N2  - As a pivotal component in human-machine interactions, display devices have undergone rapid development in modern life. Displays such as alternative current electroluminescence|alternative current electroluminescent (ACEL) devices with high flexibility and long operational lifetimes are essential for wearable electronics. However, ACEL devices are constrained by their inherent high driving voltage and complex fabrication processes. Our work presents an easy blade-coating method for fabricating flexible ACEL display devices based on an all-solution process. By dispersing BaTiO3 and ZnS/Cu powder into waterborne polyurethane, we successfully combined dielectric and fluorescence functionalities within a single layer, significantly reducing the device's driving voltage. Additionally, the ionic conducting hydrogel was chosen as a transparent electrode to achieve good electrical contact and strong interfacial adhesion through in situ polymerization. Owing to the unique method, our ACEL device exhibits high flexibility, low driving voltage (20-100 V), high brightness (300+ cd/m2 at 60 V), and environmental friendliness. Furthermore, by repurposing the hydrogel electrode, we integrated strain visualization capabilities within a single device, highlighting its potential for applications such as wearable healthcare monitoring.
 ER  - 
 
 TY  - JOUR
@@ -585,77 +813,38 @@ N2  - Research Objectives: Evaluate the safety, feasibility, and usability of in
 ER  - 
 
 TY  - JOUR
-M3  - Article in Press
+M3  - Article
 Y1  - 2024
-SN  - 1550-9109
-JF  - Sleep
-JO  - Sleep
-UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L643872996&from=export
-U2  - L643872996
-C5  - 38551123
+VL  - 16
+IS  - 7
+SP  - 9551
+EP  - 9560
+SN  - 1944-8252
+JF  - ACS applied materials & interfaces
+JO  - ACS Appl Mater Interfaces
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L643467845&from=export
+U2  - L643467845
+C5  - 38331574
 DB  - Medline
-U3  - 2024-04-09
-L2  - http://dx.doi.org/10.1093/sleep/zsae083
-DO  - 10.1093/sleep/zsae083
-LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=15509109&id=doi:10.1093%2Fsleep%2Fzsae083&atitle=SPHYNCS%3A+Feasibility+of+long-term+monitoring+with+Fitbit+smartwatches+in+central+disorders+of+hypersomnolence+and+extraction+of+digital+biomarkers+in+narcolepsy&stitle=Sleep&title=Sleep&volume=&issue=&spage=&epage=&aulast=Gnarra&aufirst=Oriella&auinit=O.&aufull=Gnarra+O.&coden=&isbn=&pages=-&date=2024&auinit1=O&auinitm=
-A1  - Gnarra, O.
-A1  - van der Meer, J.
-A1  - Warncke, J.D.
-A1  - Fregolente, L.G.
-A1  - Wenz, E.
-A1  - Zub, K.
-A1  - Nwachukwu, U.
-A1  - Zhang, Z.
-A1  - Khatami, R.
-A1  - von Manitius, S.
-A1  - Miano, S.
-A1  - Acker, J.
-A1  - Strub, M.
-A1  - Riener, R.
-A1  - Bassetti, C.L.A.
-A1  - Schmidt, M.H.
-M1  - (Gnarra O.; van der Meer J.; Warncke J.D.; Fregolente L.G.; Wenz E.; Zub K.; Nwachukwu U.; Khatami R.; Bassetti C.L.A.; Schmidt M.H.) Sleep-Wake Epilepsy Center, NeuroTec, Department of Neurology, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland
-M1  - (Gnarra O.; Riener R.) Sensory-Motor Systems Lab, Department of Health Sciences and Technology, Institute of Robotics and Intelligent Systems, ETH Zurich, Switzerland
-M1  - (Fregolente L.G.; Wenz E.) Graduate School of Health Sciences, University of Bern, Switzerland
-M1  - (Zhang Z.; Khatami R.) Clinic Barmelweid, Center for Sleep Medicine and Sleep Research, Barmelweid, Switzerland
-M1  - (von Manitius S.) Department of Neurology, Kantonsspital St. Gallen St, Switzerland
-M1  - (Miano S.) Neurocenter of Southern Switzerland, Faculty of Biomedical Sciences, Università della Svizzera Italiana, Sleep Medicine Unit, Ospedale Civico, Lugano, Switzerland
-M1  - (Acker J.) Clinic for Sleep Medicine, Bad Zurzach, Switzerland
-M1  - (Strub M.) Basel, Switzerland
-M1  - (Riener R.) Spinal Cord Injury Center, University Hospital Balgrist, Zurich, Switzerland
-M1  - (Schmidt M.H.) Ohio Sleep Medicine Institute, Dublin, United States
-M1  - ()
-T1  - SPHYNCS: Feasibility of long-term monitoring with Fitbit smartwatches in central disorders of hypersomnolence and extraction of digital biomarkers in narcolepsy
+U4  - 2024-02-29
+L2  - http://dx.doi.org/10.1021/acsami.3c18588
+DO  - 10.1021/acsami.3c18588
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=19448252&id=doi:10.1021%2Facsami.3c18588&atitle=Machine+Learning-Enabled+Environmentally+Adaptable+Skin-Electronic+Sensor+for+Human+Gesture+Recognition&stitle=ACS+Appl+Mater+Interfaces&title=ACS+applied+materials+%26+interfaces&volume=16&issue=7&spage=9551&epage=9560&aulast=Song&aufirst=Yongjun&auinit=Y.&aufull=Song+Y.&coden=&isbn=&pages=9551-9560&date=2024&auinit1=Y&auinitm=
+A1  - Song, Y.
+A1  - Nguyen, T.H.
+A1  - Lee, D.
+A1  - Kim, J.
+M1  - (Song Y.; Nguyen T.H.; Lee D.; Kim J.) Department of Photonics and Nanoelectronics, Hanyang University, Ansan, South Korea
+M1  - (Song Y.; Nguyen T.H.; Lee D.; Kim J.) BK21 FOUR ERICA-ACE Center, Hanyang University, Ansan, South Korea
+T1  - Machine Learning-Enabled Environmentally Adaptable Skin-Electronic Sensor for Human Gesture Recognition
 LA  - English
-KW  - biological marker
-KW  - aged
-KW  - ambulatory monitoring
-KW  - arousal
-KW  - article
-KW  - clinical article
-KW  - cohort analysis
-KW  - controlled study
-KW  - diagnosis
-KW  - female
-KW  - heart rate
+KW  - electronics
+KW  - wearable computer
+KW  - gesture
 KW  - human
-KW  - hypersomnia
-KW  - hypersomnolence
-KW  - major clinical study
-KW  - male
-KW  - narcolepsy
-KW  - narcolepsy with cataplexy
-KW  - physical activity
-KW  - REM sleep latency
-KW  - sleep deprivation
-KW  - sleep latency
-KW  - sleep parameters
-KW  - telemonitoring
-KW  - time in bed
-KW  - wake after sleep onset
-KW  - wearable device
-KW  - wearable technology
-N2  - The Swiss Primary Hypersomnolence and Narcolepsy Cohort Study (SPHYNCS) is a multicenter research initiative to identify new biomarkers in central disorders of hypersomnolence (CDH). Whereas narcolepsy type 1 (NT1) is well characterized, other CDH disorders lack precise biomarkers. In SPHYNCS, we utilized Fitbit smartwatches to monitor physical activity, heart rate, and sleep parameters over one year. We examined the feasibility of long-term ambulatory monitoring using the wearable device. We then explored digital biomarkers differentiating patients with NT1 from healthy controls (HC). A total of 115 participants received a Fitbit smartwatch. Using a compliance metric to evaluate the usability of the wearable device, we found an overall compliance rate of 80% over one year. We calculated daily physical activity, heart rate, and sleep parameters from two weeks of greatest compliance to compare NT1 (n=20) and HC (n=9) subjects. Compared to controls, NT1 patients demonstrated findings consistent with increased sleep fragmentation, including significantly greater wake-after-sleep onset (p=0.007) and awakening index (p=0.025), as well as standard deviation of time in bed (p=0.044). Moreover, NT1 patients exhibited a significantly shorter REM latency (p=0.019), and sleep latency (p=0.001), as well as a lower peak heart rate (p=0.008), heart rate standard deviation (p=0.039) and high-intensity activity (p=0.009) compared to HC. This ongoing study demonstrates the feasibility of long-term monitoring with wearable technology in patients with CDH and potentially identifies a digital biomarker profile for NT1. While further validation is needed in larger datasets, these data suggest that long-term wearable technology may play a future role in diagnosing and managing narcolepsy.
+KW  - motion
+KW  - robotics
+N2  - Stretchable sensors have been widely investigated and developed for the purpose of human motion detection, touch sensors, and healthcare monitoring, typically converting mechanical/structural deformation into electrical signals. The viscoelastic strain of stretchable materials often results in nonlinear stress-strain characteristics over a broad range of strains, consequently making the stretchable sensors at the body joints less accurate in predicting and recognizing human gestures. Accurate recognition of human gestures can be further deteriorated by environmental changes such as temperature and humidity. Here, we demonstrated an environment-adaptable high stress-strain linearity (up to ε = 150%) and high-durability (>100,000 cycles) stretchable sensor conformally laminated onto the body joints for human gesture recognition. The serpentine configuration of our ionic liquid-based stretchable film enabled us to construct broad data sets of mechanical strain and temperature changes for machine learning-based gesture recognition. Signal recognition and training of distinct strains and environmental stimuli using a machine learning-based algorithm analysis successfully measured and predicted the joint motion in a temperature-changing environment with an accuracy of 92.86% (R-squared). Therefore, we believe that our serpentine-shaped ion gel-based stretchable sensor harmonized with machine-learning analysis will be a significant achievement toward environmentally adaptive and multianalyte sensing applications. Our proposed machine learning-enabled multisensor system may enable the development of future electronic devices such as wearable electronics, soft robotics, electronic skin, and human-machine interaction systems.
 ER  - 
 
 TY  - JOUR
@@ -691,6 +880,63 @@ KW  - human
 KW  - pain
 KW  - randomized controlled trial (topic)
 N2  - BACKGROUND: Perioperative telemonitoring of patients undergoing major surgery might lead to improved postoperative outcomes. The aim of this systematic review is to evaluate the effectiveness of current perioperative telemonitoring interventions on postoperative clinical, patient-reported, and financial outcome measures in patients undergoing major surgery. METHODS: For this systematic review, PubMed, CINAHL, and Embase databases were searched for eligible articles published between January 1, 2009 and March 15, 2021. Studies were eligible as they described: (P) patients aged 18 years or older who underwent major abdominal surgery, (I) perioperative telemonitoring as intervention, (C) a control group receiving usual care, (O) any type of postoperative clinical, patient-reported, or financial outcome measures, and (S) an interventional study design. RESULTS: The search identified 2958 articles of which 10 were eligible for analysis, describing nine controlled trials of 2438 patients. Perioperative telemonitoring comprised wearable biosensors (n = 3), websites (n = 3), e-mail (n = 1), and mobile applications (n = 2). Outcome measures were clinical (n = 8), patient-reported (n = 5), and financial (n = 2). Results show significant improvement of recovery time, stoma self-efficacy and pain in the early postoperative phase in patients receiving telemonitoring. Other outcome measures were not significantly different between the groups. CONCLUSION: Evidence for the effectiveness of perioperative telemonitoring in major surgery is scarce. There is a need for good quality studies with sufficient patients while ensuring that the quality and usability of the technology and the adoption in care processes are optimal.
+ER  - 
+
+TY  - JOUR
+M3  - Review
+Y1  - 2024
+VL  - 10
+IS  - 1
+SP  - 191
+EP  - 218
+SN  - 2373-9878
+JF  - ACS Biomaterials Science and Engineering
+JO  - ACS Biomater. Sci. Eng.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2029146980&from=export
+U2  - L2029146980
+C5  - 38052003
+DB  - Embase
+DB  - Medline
+U3  - 2023-12-22
+U4  - 2024-03-12
+L2  - http://dx.doi.org/10.1021/acsbiomaterials.3c01003
+DO  - 10.1021/acsbiomaterials.3c01003
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=23739878&id=doi:10.1021%2Facsbiomaterials.3c01003&atitle=Conductive+and+Eco-friendly+Biomaterials-based+Hydrogels+for+Noninvasive+Epidermal+Sensors%3A+A+Review&stitle=ACS+Biomater.+Sci.+Eng.&title=ACS+Biomaterials+Science+and+Engineering&volume=10&issue=1&spage=191&epage=218&aulast=Zhang&aufirst=Yibo&auinit=Y.&aufull=Zhang+Y.&coden=&isbn=&pages=191-218&date=2024&auinit1=Y&auinitm=
+A1  - Zhang, Y.
+A1  - Tang, Q.
+A1  - Zhou, J.
+A1  - Zhao, C.
+A1  - Li, J.
+A1  - Wang, H.
+M1  - (Zhang Y.; Wang H., 03577@qust.edu.cn) School of Information Science and Technology, Qingdao University of Science and Technology, Qingdao, China
+M1  - (Zhang Y.; Zhao C.; Li J.) Department of Materials Science and Engineering, City University of Hong Kong, 83 Tat Chee Avenue, Hong Kong, Kowloon, Hong Kong
+M1  - (Tang Q.) School of Marine Technology and Environment, Dalian Ocean University, 52 Heishijiao Street, Liaoning, Dalian, China
+M1  - (Zhou J.) School of Polymer Science and Engineering, Qingdao University of Science and Technology, Qingdao, China
+AD  - H. Wang, School of Information Science and Technology, Qingdao University of Science and Technology, Qingdao, China
+T1  - Conductive and Eco-friendly Biomaterials-based Hydrogels for Noninvasive Epidermal Sensors: A Review
+LA  - English
+KW  - biosensor
+KW  - glucose sensor
+KW  - sensor
+KW  - thermal sensor
+KW  - wearable computer
+KW  - alginic acid
+KW  - biomaterial
+KW  - cellulose
+KW  - hydrogel
+KW  - polyphenol
+KW  - polysaccharide
+KW  - protein
+KW  - biocompatibility
+KW  - biodegradability
+KW  - biological monitoring
+KW  - biomass
+KW  - conductance
+KW  - electroencephalogram
+KW  - human
+KW  - remote sensing
+KW  - review
+N2  - As noninvasive wearable electronic devices, epidermal sensors enable continuous, real-time, and remote monitoring of various human physiological parameters. Conductive biomaterials-based hydrogels as sensor matrix materials have good biocompatibility, biodegradability, and efficient stimulus response capabilities and are widely applied in motion monitoring, healthcare, and human-machine interaction. However, biomass hydrogel-based epidermal sensing devices still need excellent mechanical properties, prolonged stability, multifunctionality, and extensive practicality. Therefore, this paper reviews the common biomass hydrogel materials for epidermal sensing (proteins, polysaccharides, polyphenols, etc.) and the various types of noninvasive sensing devices (strain/pressure sensors, temperature sensors, glucose sensors, electrocardiograms, etc.). Moreover, this review focuses on the strategies of scholars to enhance sensor properties, such as strength, conductivity, stability, adhesion, and self-healing ability. This work will guide the preparation and optimization of high-performance biomaterials-based hydrogel epidermal sensors.
 ER  - 
 
 TY  - JOUR
@@ -783,6 +1029,40 @@ KW  - smartphone
 KW  - therapy effect
 KW  - wearable sensor
 N2  - Background: Remote monitoring systems have the potential to measure symptoms and treatment effects in people with Parkinson's disease (PwP) in the home environment. However, information about user experience and long-term compliance of such systems in a large group of PwP with relatively severe PD symptoms is lacking. Objective: The aim was to gain insight into user experience and long-term compliance of a smartwatch (to be worn 24/7) and an online dashboard to report falls and receive feedback of data. Methods: We analyzed the data of the “Bringing Parkinson Care Back Home” study, a 1-year observational cohort study in 200 PwP with a fall history. User experience, compliance, and reasons for noncompliance were described. Multiple Cox regression models were used to identify determinants of 1-year compliance. Results: We included 200 PwP (mean age: 69 years, 37% women), of whom 116 (58%) completed the 1-year study. The main reasons for dropping out of the study were technical problems (61 of 118 reasons). Median wear time of the smartwatch was 17.5 h/day. The online dashboard was used by 77% of participants to report falls. Smartphone possession, shorter disease duration, more severe motor symptoms, and less-severe freezing and balance problems, but not age and gender, were associated with a higher likelihood of 1-year compliance. Conclusions: The 1-year compliance with this specific smartwatch was moderate, and the user experience was generally good, except battery life and data transfer. Future studies can build on these findings by incorporating a smartwatch that is less prone to technical issues.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 40
+IS  - 6
+SP  - 1062
+EP  - 1070
+SN  - 1001-5515
+JF  - Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi
+JO  - Sheng Wu Yi Xue Gong Cheng Xue Za Zhi
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L643125388&from=export
+U2  - L643125388
+C5  - 38151928
+DB  - Medline
+U4  - 2024-01-08
+L2  - http://dx.doi.org/10.7507/1001-5515.202210035
+DO  - 10.7507/1001-5515.202210035
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=10015515&id=doi:10.7507%2F1001-5515.202210035&atitle=Application+of+electronic+skin+in+healthcare+and+virtual+reality&stitle=Sheng+Wu+Yi+Xue+Gong+Cheng+Xue+Za+Zhi&title=Sheng+wu+yi+xue+gong+cheng+xue+za+zhi+%3D+Journal+of+biomedical+engineering+%3D+Shengwu+yixue+gongchengxue+zazhi&volume=40&issue=6&spage=1062&epage=1070&aulast=Zhao&aufirst=Guangyao&auinit=G.&aufull=Zhao+G.&coden=&isbn=&pages=1062-1070&date=2023&auinit1=G&auinitm=
+A1  - Zhao, G.
+A1  - Yao, K.
+A1  - Liu, Y.
+A1  - Huang, X.
+A1  - Yu, X.
+M1  - (Zhao G.; Yao K.; Liu Y.; Huang X.; Yu X.) Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China
+M1  - (Yu X.) Hong Kong Center for Cerebra-Cardiovascular Health Engineering, Hong Kong, China
+M1  - (Yu X.) Shenzhen Research Institute, City University of Hong Kong, Shenzhen, Guangdong, China
+T1  - Application of electronic skin in healthcare and virtual reality
+LA  - Chinese
+KW  - wearable computer
+KW  - human
+KW  - virtual reality
+N2  - Electronic skin has shown great application potential in many fields such as healthcare monitoring and human-machine interaction due to their excellent sensing performance, mechanical properties and biocompatibility. This paper starts from the materials selection and structures design of electronic skin, and summarizes their different applications in the field of healthcare equipment, especially current development status of wearable sensors with different functions, as well as the application of electronic skin in virtual reality. The challenges of electronic skin in the field of wearable devices and healthcare, as well as our corresponding strategies, are discussed to provide a reference for further advancing the research of electronic skin.
 ER  - 
 
 TY  - JOUR
@@ -1890,6 +2170,107 @@ ER  -
 TY  - JOUR
 M3  - Article
 Y1  - 2023
+VL  - 15
+IS  - 9
+SP  - 12551
+EP  - 12559
+SN  - 1944-8252
+JF  - ACS applied materials & interfaces
+JO  - ACS Appl Mater Interfaces
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L640379558&from=export
+U2  - L640379558
+C5  - 36808950
+DB  - Medline
+U3  - 2023-02-27
+U4  - 2023-03-17
+L2  - http://dx.doi.org/10.1021/acsami.2c22287
+DO  - 10.1021/acsami.2c22287
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=19448252&id=doi:10.1021%2Facsami.2c22287&atitle=A+Machine+Learning-Combined+Flexible+Sensor+for+Tactile+Detection+and+Voice+Recognition&stitle=ACS+Appl+Mater+Interfaces&title=ACS+applied+materials+%26+interfaces&volume=15&issue=9&spage=12551&epage=12559&aulast=Xie&aufirst=Jiawang&auinit=J.&aufull=Xie+J.&coden=&isbn=&pages=12551-12559&date=2023&auinit1=J&auinitm=
+A1  - Xie, J.
+A1  - Zhao, Y.
+A1  - Zhu, D.
+A1  - Yan, J.
+A1  - Li, J.
+A1  - Qiao, M.
+A1  - He, G.
+A1  - Deng, S.
+M1  - (Xie J.; Zhao Y.; Zhu D.; Yan J.; Li J.; Qiao M.; He G.; Deng S.) State Key Laboratory of Tribology in Advanced Equipment, Department of Mechanical Engineering, Tsinghua University, Beijing, China
+T1  - A Machine Learning-Combined Flexible Sensor for Tactile Detection and Voice Recognition
+LA  - English
+KW  - artificial intelligence
+KW  - electricity
+KW  - electronic device
+KW  - human
+KW  - machine learning
+N2  - Intelligent sensors have attracted substantial attention for various applications, including wearable electronics, artificial intelligence, healthcare monitoring, and human-machine interactions. However, there still remains a critical challenge in developing a multifunctional sensing system for complex signal detection and analysis in practical applications. Here, we develop a machine learning-combined flexible sensor for real-time tactile sensing and voice recognition through laser-induced graphitization. The intelligent sensor with a triboelectric layer can convert local pressure to an electrical signal through a contact electrification effect without external bias, which has a characteristic response behavior when exposed to various mechanical stimuli. With the special patterning design, a smart human-machine interaction controlling system composed of a digital arrayed touch panel is constructed to control electronic devices. Based on machine learning, the real-time monitoring and recognition of the changes of voice are achieved with high accuracy. The machine learning-empowered flexible sensor provides a promising platform for the development of flexible tactile sensing, real-time health detection, human-machine interaction, and intelligent wearable devices.
+ER  - 
+
+TY  - JOUR
+M3  - Review
+Y1  - 2023
+VL  - 13
+IS  - 3
+SN  - 2079-6374
+JF  - Biosensors
+JO  - Biosensors
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2022313457&from=export
+U2  - L2022313457
+C5  - 36979605
+DB  - Embase
+DB  - Medline
+U3  - 2023-04-14
+U4  - 2023-04-26
+L2  - http://dx.doi.org/10.3390/bios13030393
+DO  - 10.3390/bios13030393
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=20796374&id=doi:10.3390%2Fbios13030393&atitle=Recent+Progress+of+Biomaterials-Based+Epidermal+Electronics+for+Healthcare+Monitoring+and+Human%E2%80%93Machine+Interaction&stitle=Biosensors&title=Biosensors&volume=13&issue=3&spage=&epage=&aulast=Han&aufirst=Ningning&auinit=N.&aufull=Han+N.&coden=BISSE&isbn=&pages=-&date=2023&auinit1=N&auinitm=
+A1  - Han, N.
+A1  - Yao, X.
+A1  - Wang, Y.
+A1  - Huang, W.
+A1  - Niu, M.
+A1  - Zhu, P.
+A1  - Mao, Y.
+M1  - (Han N.; Yao X.; Wang Y.; Huang W.; Niu M.; Zhu P., pengcheng_zhu@zzu.edu.cn; Mao Y., ymao@zzu.edu.cn) Key Laboratory of Materials Physics, Ministry of Education, School of Physics and Microelectronics, Zhengzhou University, Zhengzhou, China
+AD  - P. Zhu, Key Laboratory of Materials Physics, Ministry of Education, School of Physics and Microelectronics, Zhengzhou University, Zhengzhou, China
+AD  - Y. Mao, Key Laboratory of Materials Physics, Ministry of Education, School of Physics and Microelectronics, Zhengzhou University, Zhengzhou, China
+T1  - Recent Progress of Biomaterials-Based Epidermal Electronics for Healthcare Monitoring and Human–Machine Interaction
+LA  - English
+KW  - electrode
+KW  - electronic device
+KW  - electronics
+KW  - robot
+KW  - biomaterial
+KW  - cellulose
+KW  - chitosan
+KW  - gelatin
+KW  - gluten
+KW  - protein
+KW  - silk protein
+KW  - starch
+KW  - unclassified drug
+KW  - chemical bond
+KW  - dermis
+KW  - electrocardiogram
+KW  - electroencephalogram
+KW  - electromyogram
+KW  - epidermis
+KW  - health care
+KW  - health care monitoring
+KW  - human
+KW  - man machine interaction
+KW  - monitoring
+KW  - motion
+KW  - nonhuman
+KW  - polarization
+KW  - review
+KW  - storage
+KW  - virtual reality
+N2  - Epidermal electronics offer an important platform for various on-skin applications including electrophysiological signals monitoring and human–machine interactions (HMI), due to their unique advantages of intrinsic softness and conformal interfaces with skin. The widely used nondegradable synthetic materials may produce massive electronic waste to the ecosystem and bring safety issues to human skin. However, biomaterials extracted from nature are promising to act as a substitute material for the construction of epidermal electronics, owing to their diverse characteristics of biocompatibility, biodegradability, sustainability, low cost and natural abundance. Therefore, the development of natural biomaterials holds great prospects for advancement of high-performance sustainable epidermal electronics. Here, we review the recent development on different types of biomaterials including proteins and polysaccharides for multifunctional epidermal electronics. Subsequently, the applications of biomaterials-based epidermal electronics in electrophysiological monitoring and HMI are discussed, respectively. Finally, the development situation and future prospects of biomaterials-based epidermal electronics are summarized. We expect that this review can provide some inspirations for the development of future, sustainable, biomaterials-based epidermal electronics.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
 VL  - 23
 IS  - 2
 SN  - 1424-8220
@@ -2880,6 +3261,48 @@ N2  - Introduction: Do assistive technologies (AT) enhance QoL of older people a
 ER  - 
 
 TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 16
+IS  - 11
+SP  - 18608
+EP  - 18620
+SN  - 1936-086X
+JF  - ACS nano
+JO  - ACS Nano
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L639406019&from=export
+U2  - L639406019
+C5  - 36318185
+DB  - Medline
+U3  - 2022-11-07
+U4  - 2022-12-05
+L2  - http://dx.doi.org/10.1021/acsnano.2c07097
+DO  - 10.1021/acsnano.2c07097
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=1936086X&id=doi:10.1021%2Facsnano.2c07097&atitle=An+Elastic+and+Damage-Tolerant+Dry+Epidermal+Patch+with+Robust+Skin+Adhesion+for+Bioelectronic+Interfacing&stitle=ACS+Nano&title=ACS+nano&volume=16&issue=11&spage=18608&epage=18620&aulast=Cheng&aufirst=Yin&auinit=Y.&aufull=Cheng+Y.&coden=&isbn=&pages=18608-18620&date=2022&auinit1=Y&auinitm=
+A1  - Cheng, Y.
+A1  - Zhou, Y.
+A1  - Wang, R.
+A1  - Chan, K.H.
+A1  - Liu, Y.
+A1  - Ding, T.
+A1  - Wang, X.-Q.
+A1  - Li, T.
+A1  - Ho, G.W.
+M1  - (Cheng Y.; Zhou Y.; Chan K.H.; Ding T.; Wang X.-Q.; Li T.; Ho G.W.) Department of Electrical and Computer Engineering, National University of Singapore, 4 Engineering Drive 3, Singapore
+M1  - (Cheng Y.; Wang R.; Liu Y.) State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Science, Shanghai, China
+T1  - An Elastic and Damage-Tolerant Dry Epidermal Patch with Robust Skin Adhesion for Bioelectronic Interfacing
+LA  - English
+KW  - carbon nanotube
+KW  - polymer
+KW  - chemistry
+KW  - human
+KW  - skin
+KW  - sweat
+KW  - Young modulus
+N2  - On-skin patches that record biopotential and biomechanical signals are essential for wearable healthcare monitoring, clinical treatment, and human-machine interaction. To acquire wearing comfort and high-quality signals, patches with tissue-like softness, elastic recovery, damage tolerance, and robust bioelectronic interface are highly desired yet challenging to achieve. Here, we report a dry epidermal patch made from a supramolecular polymer (SESA) and an in situ transferred carbon nanotubes' percolation network. The polymer possesses a hybrid structure of copolymerized permanent scaffold permeated by multiple dynamic interactions, which imparts a desired mechanical response transition from elastic recoil to energy dissipation with increased elongation. Such SESA-based patches are soft (Young's modulus ∼0.1 MPa) and elastic within physiologically relevant strain levels (97% elastic recovery at 50% tensile strain), intrinsically mechanical-electrical damage-resilient (∼90% restoration from damage after 5 min), and interference-immune in dynamic signal acquisition (stretch, underwater, sweat). We demonstrate its versatile physiological sensing applications, including electrocardiogram recording under various disturbances, machine-learning-enabled hand-gesture recognition through electromyogram measurement, subtle radial artery pulse, and drastic knee kinematics sensing. This epidermal patch offers a promising noninvasive, long-duration, and ambulant bioelectronic interfacing with anti-interference robustness.
+ER  - 
+
+TY  - JOUR
 M3  - Conference Abstract
 Y1  - 2022
 VL  - 152
@@ -3016,6 +3439,47 @@ N2  - In the last two decades, the sensors miniaturization, along with the commu
 ER  - 
 
 TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 14
+IS  - 34
+SP  - 12418
+EP  - 12430
+SN  - 2040-3372
+JF  - Nanoscale
+JO  - Nanoscale
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L638763525&from=export
+U2  - L638763525
+C5  - 35972043
+DB  - Medline
+U3  - 2022-08-23
+U4  - 2022-09-14
+L2  - http://dx.doi.org/10.1039/d2nr03277e
+DO  - 10.1039/d2nr03277e
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=20403372&id=doi:10.1039%2Fd2nr03277e&atitle=A+highly+stretchable+and+ultra-sensitive+strain+sensing+fiber+based+on+a+porous+core-network+sheath+configuration+for+wearable+human+motion+detection&stitle=Nanoscale&title=Nanoscale&volume=14&issue=34&spage=12418&epage=12430&aulast=Liu&aufirst=Jun&auinit=J.&aufull=Liu+J.&coden=&isbn=&pages=12418-12430&date=2022&auinit1=J&auinitm=
+A1  - Liu, J.
+A1  - Wang, P.
+A1  - Li, G.
+A1  - Yang, L.
+A1  - Yu, W.
+A1  - Meng, C.
+A1  - Guo, S.
+M1  - (Liu J.; Wang P.; Li G.; Yu W.; Meng C.; Guo S.) State Key Laboratory for Reliability and Intelligence of Electrical Equipment, Hebei Key Laboratory of Smart Sensing and Human-Robot Interaction, School of Mechanical Engineering, Hebei University of Technology, Tianjin, China
+M1  - (Yang L.) State Key Laboratory of Reliability and Intelligence of Electrical Equipment, School of Health Sciences and Biomedical Engineering, Hebei University of Technology, Tianjin, China
+T1  - A highly stretchable and ultra-sensitive strain sensing fiber based on a porous core-network sheath configuration for wearable human motion detection
+LA  - English
+KW  - nanowire
+KW  - silver
+KW  - chemistry
+KW  - electronic device
+KW  - human
+KW  - motion
+KW  - porosity
+KW  - textile
+N2  - Functional fibers have attracted much research attention due to their potential application in developing advanced electronic textiles for wearable devices. However, challenges still exist in preparing high-performance fiber-shaped sensors with superior flexibility and stretchability while achieving a high sensitivity and a wide detection range. Herein, we propose the design and fabrication of an ultra-flexible and super-elastic fiber-shaped strain sensor via a facile combining approach of wet-spinning and dip-coating. The sensor adopts a core-sheath configuration of liquid metal droplets dispersed in porous thermoplastic polyurethane as a substrate core and a carbon nanotube intertwined network embedding silver nanowires as a strain sensitive sheath. By taking advantage of both the composition of multiple functional materials and the design of a microstructured device configuration, the developed fiber-shaped sensor exhibits an ultrahigh sensitivity (maximum gauge factor of 7336.1), an extremely large workable strain range (500%), a low strain detection limit (0.5%), a fast response time (200 ms) and good stability (10 000 cycles). In addition, the sensor is temperature insensitive, inert under harsh solution conditions, degradable and recyclable. Intriguingly, the fiber-shaped sensor can be used to detect various human motions and gestures by directly attaching to skins or elaborately weaving into textiles, demonstrating its great potential in human healthcare monitoring and human-machine interactions.
+ER  - 
+
+TY  - JOUR
 M3  - Review
 Y1  - 2022
 VL  - 19
@@ -3119,6 +3583,119 @@ KW  - satisfaction
 KW  - telemonitoring
 KW  - usability
 N2  - Objective: This work presents an evaluation of the satisfaction of physicians from using a continuous telemonitoring system for patients with Parkinson's disease (PD). Background: The standard practice for evaluating PD symptoms is highly subjective and inaccurate and can be considered flawed [1], [2]. The route to objective evaluation of PD symptoms lies in the use of continuous telemonitoring systems (i.e., recording for some days per month), which could also help personalize and provide remote access to quality healthcare services. The application of telemonitoring to PD has been studied extensively as a new paradigm for managing the disease in general [3]-[7] and also during the COVID-19 pandemic [8]-[10], which made a lot of patients avoid visits to physicians and healthcare units. Methods: The user satisfaction and clinical benefits of the telemonitoring system [11] was evaluated in a multicenter, single arm, clinical trial. The study includes a baseline and two follow-up patient visits (month 3 and 6). At each visit, a number of different scales and questionnaires are filled by patients and physicians. A specially-designed questionnaire is used to evaluate the physician satisfaction and the usability of the system for each patient visit. Results: From 14 completed physician questionnaires we extracted the following statistics: 85.7% of physicians said that the use of the system helped to better evaluate patients' symptoms. 78.6% of responders indicated that the system helped to faster assess patients' symptoms. 78.6% of physicians said that the use of the system helped them make decisions about therapeutic interventions in patients. More specifically, based on physicians' input, there were 16 medication changes based on system-provided information. 92.9% of replies indicate that the use of the system helps to accurately record patient's symptoms in their environment, without limiting their daily activities. 85.7% of physicians believe that the use of the system helps them to better assess the general situation of patients in their own environment, without being a burden to their clinical work. Conclusions: The results demonstrate that the vast majority of physicians agree a telemonitoring wearable system could help them better and faster assess the symptoms of patients in their own environment, without additional burden for physicians, while providing meaningful information in the decision-making process for therapeutic interventions.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 16
+IS  - 8
+SP  - 12620
+EP  - 12634
+SN  - 1936-086X
+JF  - ACS nano
+JO  - ACS Nano
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L638538931&from=export
+U2  - L638538931
+C5  - 35856940
+DB  - Medline
+U3  - 2022-07-28
+U4  - 2022-11-17
+L2  - http://dx.doi.org/10.1021/acsnano.2c04188
+DO  - 10.1021/acsnano.2c04188
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=1936086X&id=doi:10.1021%2Facsnano.2c04188&atitle=Breathable+and+Waterproof+Electronic+Skin+with+Three-Dimensional+Architecture+for+Pressure+and+Strain+Sensing+in+Nonoverlapping+Mode&stitle=ACS+Nano&title=ACS+nano&volume=16&issue=8&spage=12620&epage=12634&aulast=Lei&aufirst=Ming&auinit=M.&aufull=Lei+M.&coden=&isbn=&pages=12620-12634&date=2022&auinit1=M&auinitm=
+A1  - Lei, M.
+A1  - Feng, K.
+A1  - Ding, S.
+A1  - Wang, M.
+A1  - Dai, Z.
+A1  - Liu, R.
+A1  - Gao, Y.
+A1  - Zhou, Y.
+A1  - Xu, Q.
+A1  - Zhou, B.
+M1  - (Lei M.; Ding S.; Dai Z.; Liu R.; Zhou Y.; Zhou B.) Joint Key Laboratory of the Ministry of Education, Institute of Applied Physics and Materials Engineering, University of Macau, Avenida da Universidade, Taipa, Macau 999078, China
+M1  - (Feng K.; Xu Q.) Department of Electromechanical Engineering, Faculty of Science and Technology, University of Macau, Avenida da Universidade, Taipa, Macau 999078, China
+M1  - (Wang M.) Department of Electrical and Computer Engineering, Duke University, Durham, NC, United States
+M1  - (Gao Y.) Shenzhen Shineway Technology Corporation, Shenzhen, Guangdong, China
+T1  - Breathable and Waterproof Electronic Skin with Three-Dimensional Architecture for Pressure and Strain Sensing in Nonoverlapping Mode
+LA  - English
+KW  - electric conductivity
+KW  - electronic device
+KW  - human
+KW  - motion
+N2  - Wearable sensors have recently attracted extensive interest not only in the field of healthcare monitoring but also for convenient and intelligent human-machine interactions. However, challenges such as wearable comfort, multiple applicable conditions, and differentiation of mechanical stimuli are yet to be fully addressed. Herein, we developed a breathable and waterproof electronic skin (E-skin) that can perceive pressure/strain with nonoverlapping signals. The synergistic effect from magnetic attraction and nanoscaled aggregation renders the E-skin with microscaled pores for breathability and three-dimensional microcilia for superhydrophobicity. Upon applied pressure, the bending of conductive microcilia enables sufficient contacts for resistance decrease, while the stretching causes increased resistance due to the separation of conductive materials. The optimized E-skin exhibits a high gauge factor of 7.747 for small strain (0-80%) and a detection limit down to 0.04%. The three-dimensional microcilia also exhibit a sensitivity of -0.0198 kPa-1 (0-3 kPa) and a broad detection range up to 200 kPa with robustness. The E-skin can reliably and precisely distinguish kinds of the human joint motions, covering a broad spectrum including bending, stretching, and pressure. With the nonoverlapping readouts, ternary inputs "1", "0", and "-1" could be produced with different stimuli, which expands the command capacity for logic outputs such as effective Morse code and intuitive robotic control. Owing to the rapid response, long-term stability (10 000 cycles), breathability, and superhydrophobicity, we believe that the E-skin can be widely applied as wearable devices from body motion monitoring to human-machine interactions toward a more convenient and intelligent future.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 46
+IS  - 36
+SP  - 17596
+EP  - 17609
+SN  - 1369-9261
+SN  - 1144-0546
+JF  - New Journal of Chemistry
+JO  - New J. Chem.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2020239658&from=export
+U2  - L2020239658
+DB  - Embase
+U3  - 2022-09-29
+U4  - 2023-03-30
+L2  - http://dx.doi.org/10.1039/d2nj03297j
+DO  - 10.1039/d2nj03297j
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=13699261&id=doi:10.1039%2Fd2nj03297j&atitle=Network+crack-based+high+performance+stretchable+strain+sensors+for+human+activity+and+healthcare+monitoring&stitle=New+J.+Chem.&title=New+Journal+of+Chemistry&volume=46&issue=36&spage=17596&epage=17609&aulast=Madhavan&aufirst=R.&auinit=R.&aufull=Madhavan+R.&coden=NJCHE&isbn=&pages=17596-17609&date=2022&auinit1=R&auinitm=
+A1  - Madhavan, R.
+M1  - (Madhavan R., madhavan_rajaa@rediffmail.com) Department of Chemical Engineering, Indian Institute of Science, Karnataka, Bengaluru, India
+AD  - R. Madhavan, Department of Chemical Engineering, Indian Institute of Science, Karnataka, Bengaluru, India
+T1  - Network crack-based high performance stretchable strain sensors for human activity and healthcare monitoring
+LA  - English
+KW  - electronic device
+KW  - general device
+KW  - HDM-3065B
+KW  - motion analysis system
+KW  - Rebound-25
+KW  - Skin-Tite
+KW  - wearable sensor
+KW  - carbon nanotube
+KW  - graphite
+KW  - nanocomposite
+KW  - nanoflake
+KW  - silastic
+KW  - article
+KW  - biomedical engineering
+KW  - blood flow
+KW  - elbow
+KW  - epidermis
+KW  - eye movement
+KW  - facial expression
+KW  - finger
+KW  - health care
+KW  - human
+KW  - human activities
+KW  - joint function
+KW  - knee
+KW  - monitoring
+KW  - nanofabrication
+KW  - pulse wave
+KW  - sensitivity analysis
+KW  - Shore hardness
+KW  - spray coating
+KW  - tensile strength
+KW  - vocal cord
+KW  - wrist
+KW  - Young modulus
+KW  - HDM-3065B
+KW  - Rebound-25
+KW  - Skin-Tite
+C3  - HDM-3065B
+C3  - Rebound-25(Smooth-On)
+C3  - Skin-Tite(Smooth-On)
+C4  - hantek
+C4  - kontakt chemie
+C4  - Smooth-On
+N2  - In recent years, stretchable and wearable strain sensors with excellent sensing performance are garnering significant research attention owing to their diverse range of application prospects in human activity monitoring, healthcare and biomedical engineering, and human-machine interaction. In this study, Rebound silicone elastomer/graphite nanoflake/Rebound silicone elastomer sandwich structured nanocomposites are constructed for strain monitoring and wearable applications. A cost-effective, environmentally benign, and scalable spray coating technique has been utilized to achieve highly conductive functional sensor materials by coating graphite nanoflakes onto the soft, epidermis-like, and highly elastic Rebound silicone elastomers. In strain monitoring, the Rebound silicone elastomer/graphite nanoflake (GNF)/Rebound silicone elastomer sandwich structured nanocomposite strain sensors demonstrate high performance with a large strain sensitivity (a maximum gauge factor of 96.73), a wide sensing range of up to 50%, a fast response and recovery speed (160 ms), high linearity, and prominent durability (more than 850 stretching-releasing cycles under an extensive tensile deformation of 15% strain). As a result, the Rebound silicone elastomer/graphite nanoflake/Rebound silicone elastomer sandwich structured nanocomposite strain sensor demonstrates attractive prospects in precision measurements of all frequencies of human activities, including tiny mechanical deformations (facial expressions, eye activities, blood flow pulse, and vibration of the vocal cords) and large-strain human joint movements (bending process of a finger, and wrist, elbow, and knee bending), hence exhibiting substantial potential in human activity monitoring as well as biomedical engineering.
 ER  - 
 
 TY  - JOUR
@@ -3281,6 +3858,45 @@ ER  -
 TY  - JOUR
 M3  - Article
 Y1  - 2022
+VL  - 38
+IS  - 18
+SP  - 5494
+EP  - 5501
+SN  - 1520-5827
+JF  - Langmuir : the ACS journal of surfaces and colloids
+JO  - Langmuir
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L637845065&from=export
+U2  - L637845065
+C5  - 35452246
+DB  - Medline
+U3  - 2022-05-02
+U4  - 2022-05-17
+L2  - http://dx.doi.org/10.1021/acs.langmuir.2c00054
+DO  - 10.1021/acs.langmuir.2c00054
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=15205827&id=doi:10.1021%2Facs.langmuir.2c00054&atitle=Porous+Pure+MXene+Fibrous+Network+for+Highly+Sensitive+Pressure+Sensors&stitle=Langmuir&title=Langmuir+%3A+the+ACS+journal+of+surfaces+and+colloids&volume=38&issue=18&spage=5494&epage=5501&aulast=Yu&aufirst=Qitao&auinit=Q.&aufull=Yu+Q.&coden=&isbn=&pages=5494-5501&date=2022&auinit1=Q&auinitm=
+A1  - Yu, Q.
+A1  - Zhao, B.
+A1  - Ren, X.
+A1  - Zhu, C.
+A1  - Wang, Q.
+A1  - Lin, Y.
+A1  - Zeng, W.
+A1  - Chen, Z.
+A1  - Wang, S.
+M1  - (Yu Q.; Zhao B.; Ren X.; Zhu C.; Zeng W.; Chen Z.; Wang S.) Information Materials and Intelligent Sensing Laboratory of Anhui Province, School of Integrated Circuits, Anhui University, No. 111 Jiulong RoadAnhui Province, Hefei, China
+M1  - (Yu Q.; Zhao B.; Ren X.; Zhu C.; Wang Q.; Lin Y.; Zeng W.; Chen Z.; Wang S.) Industry-Education-Research Institute of Advanced Materials and Technology for Integrated Circuits, School of Integrated Circuits, Anhui University, No. 111 Jiulong RoadAnhui Province, Hefei, China
+T1  - Porous Pure MXene Fibrous Network for Highly Sensitive Pressure Sensors
+LA  - English
+KW  - electronic device
+KW  - human
+KW  - motion
+KW  - porosity
+N2  - Wearable and elastic pressure sensors have caused widespread concern due to the popularity of smart terminals and human health monitoring. To obtain a flexible pressure sensor with a wide detection region and outstanding sensitivity, exploring new materials and novel structures has become the first choice for the research. Here, a wearable and flexible MXene fibrous network pressure sensor (MFNS) with a high sensitivity and wide detection region is reported. The holistic fiber network is composed of pure MXene fibers; among them, MXene fibers were prepared by wet-spinning of MXene nanosheets. The MFNS exhibits a high sensitivity in a wide detection region (51 kPa-1 for 14.7 kPa and 427 kPa-1 within the 14.7-19.9 kPa range), a low detection limit (8 Pa), a robust durability (10,000 cycles), and a prompt response (95 ms). Due to the superior performance of MFNS, it also proves prospective applications for human motion signal detection (such as swallowing, pulse beat, and joint motion) and measuring pressure distribution. This work provides an effective way to fabricate a high-performance pressure sensor for human-machine interactions, personal healthcare monitoring, and multitouch devices.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
 VL  - 161
 SN  - 1872-8243
 SN  - 1386-5056
@@ -3397,6 +4013,47 @@ KW  - software
 KW  - usability
 KW  - ventilator
 N2  - Introduction: The COVID-19 pandemic has advanced market awareness of the benefits of remote-controlled ventilators to reduce the exposure of healthcare workers to patients with COVID-19, enable more rapid and frequent ventilator setting adjustment, and preserve limited personal protective equipment. The US FDA permitted manufacturers to add remote monitoring and control capabilities to ventilators and infusion pumps through immediate in effect guidance [1,2]. When integrated with tele-critical care systems, remote control of medical devices allows distant clinical experts to collaborate with local clinicians to “virtually” manage the therapy of patients at hotspots. Core remote control capabilities can also be used by software applications to implement medical device control algorithms for Software as a Medical Device (SaMD). The US Army /TATRC launched the National Tele-Critical Care Network (NETCCN) to rapidly develop and deploy a platform to support COVID-19 disaster response [3]. We are investigating technical solutions, communication protocols, and safety assurance measures for integrating remote control of medical devices to the NETCCN systems. Methods: We developed an architecture and a prototype system (Figure 1) to investigate safety, security, and interoperability requirements for integration of remote control of medical devices with tele-critical care systems. The prototype system is based on OpenICE [4], an open-source interoperability platform developed by our program to transmit data and control medical devices at the patient's bedside. Customized interfaces (hardware and software) translate device proprietary protocols to ISO/IEEE 11073-10101 terminology over DDS middleware. Remote control applications of devices connected to OpenICE are implemented as either stand-alone OpenICE apps, which can be deployed inside or immediately outside the patient's room, or as web-based apps, which can be launched from any location to communicate with the OpenICE system. We refer to the former as “nearpatient remote control”, which may be at the bedside or co-located outside the room, and the latter as “far remote” control where the operator does not have physical access to the patient or medical equipment. Our prototype system uses the RTI Web Integration Service [5] to enable web-based control applications to communicate with the connected devices. Results: The generic architecture in Figure 1 is device agnostic: it can be used with critical care ventilators, IV infusion pumps, and other devices, provided that the device interfaces support remote control. As a proof of concept, we applied this architecture to a Q Core Sapphire IV infusion pump using a non-clinical control interface, and confirmed that the infusion rate could be adjusted by both near-patient and far remote (web) control applications with generally acceptable delays (3∼8 seconds from remote control action until the pump executes the change). This prototype system allows the exploration and validation of risks associated with medical device remote control in the tele-critical care context. An example of a risk identified in our study relates contention between near and far “loci of control”. Unexpected device behavior can occur if there is no mechanism to 1) explicitly prioritize loci of control that may occur simultaneously (e.g., always prioritize local control over far control to enable the local provider to regain control or prevent remote control); and 2) clearly indicate where the locus of control resides. Other risks may arise due to issues related to cybersecurity, network QoS, permission for remote control, and usability (e.g., use errors associated with far remote control due to the lack of a real-time view of the patient). We are collaborating with the AAMI InterOperability Working Group (IOWG) to share the experience and lessons learned in this effort to develop a safety standard for medical device remote control, and with other performers in the NETCCN portfolio. (Figure Presented).
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 14
+IS  - 12
+SP  - 14447
+EP  - 14454
+SN  - 1944-8252
+JF  - ACS applied materials & interfaces
+JO  - ACS Appl Mater Interfaces
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L637530528&from=export
+U2  - L637530528
+C5  - 35290012
+DB  - Medline
+U3  - 2022-03-25
+U4  - 2022-04-14
+L2  - http://dx.doi.org/10.1021/acsami.1c23716
+DO  - 10.1021/acsami.1c23716
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=19448252&id=doi:10.1021%2Facsami.1c23716&atitle=Optical+Microfibers+for+Sensing+Proximity+and+Contact+in+Human-Machine+Interfaces&stitle=ACS+Appl+Mater+Interfaces&title=ACS+applied+materials+%26+interfaces&volume=14&issue=12&spage=14447&epage=14454&aulast=Liu&aufirst=Haitao&auinit=H.&aufull=Liu+H.&coden=&isbn=&pages=14447-14454&date=2022&auinit1=H&auinitm=
+A1  - Liu, H.
+A1  - Song, X.
+A1  - Wang, X.
+A1  - Wang, S.
+A1  - Yao, N.
+A1  - Li, X.
+A1  - Fang, W.
+A1  - Tong, L.
+A1  - Zhang, L.
+M1  - (Liu H.; Wang X.; Yao N.; Zhang L.) Research Center for Humanoid Sensing, Zhejiang Lab, Hangzhou, China
+M1  - (Song X.; Wang S.; Fang W.; Tong L.; Zhang L.) State Key Laboratory of Modern Optical Instrumentation, College of Optical Science and Engineering, Zhejiang University, Hangzhou, China
+M1  - (Li X.) Tencent Robotics X Lab, Tencent Technology (Shenzhen) Co. Ltd, Shenzhen, China
+T1  - Optical Microfibers for Sensing Proximity and Contact in Human-Machine Interfaces
+LA  - English
+KW  - electronic device
+KW  - human
+KW  - humidity
+KW  - mechanics
+KW  - touch
+N2  - The monitoring of proximity-contact events is essential for human-machine interactions, intelligent robots, and healthcare monitoring. We report a dual-modal sensor made with two functionalized optical microfibers (MFs), which is inspired by the somatosensory system of human skin. The integrated sensor with a hierarchical structure gradationally detects finger approaching and touching by measuring the relative humidity (RH) and force-triggered light intensity variations. Specifically, the RH sensory part shows enhanced evanescent absorption, achieving a sensitive RH measurement with a fast response (110 ms), a high resolution (0.11%RH), and a wide working range (10-100%RH). Enabled by the transition from guided modes into radiation modes of the waveguiding MF, the force sensory part exhibits a high sensitivity (6.2%/kPa) and a fast response (up to 1.5 kHz). By using a real-time data processing unit, the proximity-contact sensor (PCS) achieves continuous detection of the full-contact events, including finger approaching, contacting, pressing, releasing, and leaving. As a proof of concept, the electromagnetic-interference-free PCS enables a smart switch system to recognize the proximity and contact of bare/gloved fingers. Moreover, skin humidity detection and respiration monitoring are realized. These initial results pave the way toward a category of optical collaborative devices ranging from human-machine interfaces to multifunctional on-skin healthcare sensors.
 ER  - 
 
 TY  - JOUR
@@ -3524,6 +4181,117 @@ KW  - electronic device
 KW  - human
 KW  - temperature
 N2  - Flexible pressure sensors have been studied as wearable voice-recognition devices to be utilized in human-machine interaction. However, the development of highly sensitive, skin-attachable, and comfortable sensing devices to achieve clear voice detection remains a considerable challenge. Herein, we present a wearable and flexible pressure and temperature sensor with a sensitive response to vibration, which can accurately recognize the human voice by combing with the artificial neural network. The device consists of a polyethylene terephthalate (PET) printed with a silver electrode, a filament-microstructured polydimethylsiloxane (PDMS) film embedded with single-walled carbon nanotubes and a polyimide (PI) film sputtered with a patterned Ti/Pt thermistor strip. The developed pressure sensor exhibited a pressure sensitivity of 0.398 kPa-1 in the low-pressure regime, and the fabricated temperature sensor shows a desirable temperature coefficient of resistance of 0.13% ∘C in the range of 25 ∘C to 105 ∘C. Through training and testing the neural network model with the waveform data of the sensor obtained from human pronunciation, the vocal fold vibrations of different words can be successfully recognized, and the total recognition accuracy rate can reach 93.4%. Our results suggest that the fabricated sensor has substantial potential for application in the human-computer interface fields, such as voice control, vocal healthcare monitoring, and voice authentication.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 2022
+SN  - 2090-2859
+SN  - 2090-2840
+JF  - Emergency Medicine International
+JO  - Emerg. Med. Int.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2016847799&from=export
+U2  - L2016847799
+DB  - Embase
+U3  - 2022-02-22
+U4  - 2022-04-27
+L2  - http://dx.doi.org/10.1155/2022/7245650
+DO  - 10.1155/2022/7245650
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=20902859&id=doi:10.1155%2F2022%2F7245650&atitle=An+IoT-Based+Smart+System+with+an+MQTT+Broker+for+Individual+Patient+Vital+Sign+Monitoring+in+Potential+Emergency+or+Prehospital+Applications&stitle=Emerg.+Med.+Int.&title=Emergency+Medicine+International&volume=2022&issue=&spage=&epage=&aulast=Tsao&aufirst=Yung-Chung&auinit=Y.-C.&aufull=Tsao+Y.-C.&coden=&isbn=&pages=-&date=2022&auinit1=Y&auinitm=-C
+A1  - Tsao, Y.-C.
+A1  - Cheng, F.-J.
+A1  - Li, Y.-H.
+A1  - Liao, L.-D.
+M1  - (Tsao Y.-C., prgbruce@gmail.com; Liao L.-D., ldliao@nhri.edu.tw) Institute of Biomedical Engineering and Nanomedicine, National Health Research Institutes, Zhunan, Taiwan
+M1  - (Cheng F.-J., a0953283092@yahoo.com.tw) Department of Emergency Medicine, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan
+M1  - (Li Y.-H., yihua.li@cycu.edu.tw) Department of Finance, Chung Yuan Christian University, Taoyuan City, Taiwan
+AD  - L.-D. Liao, Institute of Biomedical Engineering and Nanomedicine, National Health Research Institutes, Zhunan, Taiwan
+T1  - An IoT-Based Smart System with an MQTT Broker for Individual Patient Vital Sign Monitoring in Potential Emergency or Prehospital Applications
+LA  - English
+KW  - biomedical software
+KW  - blood pressure meter
+KW  - cardiovascular monitoring device
+KW  - computer interface
+KW  - computer memory
+KW  - desktop computer
+KW  - display system
+KW  - ESP32S
+KW  - HX711
+KW  - infrared thermometer
+KW  - integrated circuit
+KW  - light emitting diode
+KW  - medical device
+KW  - MFRC522
+KW  - microprocessor
+KW  - Mifare
+KW  - MKR1000
+KW  - MLX90614ESF-DCI
+KW  - MUART0-B
+KW  - Nano
+KW  - network server
+KW  - Nextion model LX90614
+KW  - Nextion USART HMI TFT model TJC8048T070 011
+KW  - personal computer
+KW  - pulse oximeter
+KW  - sensor
+KW  - smartphone
+KW  - thermal sensor
+KW  - thermistor
+KW  - transistor
+KW  - Xtensa
+KW  - oxygen
+KW  - article
+KW  - blood pressure
+KW  - body temperature
+KW  - body weight
+KW  - brain temperature
+KW  - cloud computing
+KW  - control system
+KW  - emergency care
+KW  - forehead temperature
+KW  - health care system
+KW  - health insurance
+KW  - human
+KW  - internet of things
+KW  - mass communication
+KW  - message queuing telemetry transport broker
+KW  - oxygen blood level
+KW  - patient monitoring
+KW  - radiofrequency identification
+KW  - reliability
+KW  - telemetry
+KW  - vital sign
+KW  - web browser
+KW  - workflow
+KW  - ESP32S
+KW  - HX711
+KW  - MFRC522
+KW  - Mifare
+KW  - MKR1000
+KW  - MLX90614ESF-DCI
+KW  - MUART0-B
+KW  - Nano
+KW  - Nextion model LX90614
+KW  - Nextion USART HMI TFT model TJC8048T070 011
+KW  - Xtensa
+C3  - ESP32S
+C3  - HX711
+C3  - MFRC522
+C3  - Mifare
+C3  - MKR1000(Arduino)
+C3  - MLX90614ESF-DCI
+C3  - MUART0-B
+C3  - Nano(Arduino)
+C3  - Nextion model LX90614
+C3  - Nextion USART HMI TFT model TJC8048T070 011
+C3  - Xtensa
+C4  - Arduino
+C4  - dongguan richtek electronics(China)
+C4  - IBM
+C4  - seed technology(China)
+C4  - sunplus innovation technology(Taiwan)
+N2  - Emergency care is a critical area of medicine whose outcomes are influenced by the time, availability, and accuracy of contextual information. The success of critical or emergency care is determined by the quality and accuracy of the information received during the emergency call and the data collected during emergency transportation. The Internet of Things (IoT) consists of many smart devices and components that communicate via their connection to the Internet, which is used to collect data with sensors that obtain personal health parameters. In the past, most health measurement systems were based on a single dedicated orientation, and few systems had multiple devices on the same platform. In addition to traditional health measurement technologies, most such systems use centralized data transmission, which means that health measurement data have become the exclusive intellectual asset of the system developer. Therefore, this study develops an IoT-based message-broker system that is deployed and demonstrated for five health devices: blood oxygen, blood pressure, forehead temperature, body temperature, and body weight sensors. A central controller accessed by radio-frequency identification (RFID) collects clients' health profiles on the cloud platform. All collected data can be quickly shared, analyzed, and visualized, and the health devices can be changed, added to, and removed reliably when the requirements change. Additionally, following the message queuing telemetry transport (MQTT) protocol, all devices can communicate with each other and be integrated into a higher-level health measurement standard (such as blood pressure plus weight or body temperature plus blood oxygen). We implement a smart healthcare monitoring system (SHMS) and verify its reliability. We use MQTT to establish an open communication format that other organizations can follow to perform individual patient vital sign monitoring in potential applications. The robustness and flexibility of this research can be verified through the addition of other systems. Through this structure, more large-scale health detection devices can be integrated into the method proposed in this research in the future. Personal RFID or health insurance cards can be used for personal services or in medical institutions, and the data can easily be shared through the mechanism of this research. Such information sharing will enable the utilization of medical resources to be maximized.
 ER  - 
 
 TY  - JOUR
@@ -4115,6 +4883,45 @@ N2  - BACKGROUND: Recent World Health Organization reports propose wearable devi
 ER  - 
 
 TY  - JOUR
+M3  - Article
+Y1  - 2021
+VL  - 15
+IS  - 6
+SP  - 9746
+EP  - 9758
+SN  - 1936-086X
+JF  - ACS nano
+JO  - ACS Nano
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L635239753&from=export
+U2  - L635239753
+C5  - 34080827
+DB  - Medline
+U4  - 2021-08-06
+L2  - http://dx.doi.org/10.1021/acsnano.1c00472
+DO  - 10.1021/acsnano.1c00472
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=1936086X&id=doi:10.1021%2Facsnano.1c00472&atitle=Breathable+Ti3C2Tx+MXene%2FProtein+Nanocomposites+for+Ultrasensitive+Medical+Pressure+Sensor+with+Degradability+in+Solvents&stitle=ACS+Nano&title=ACS+nano&volume=15&issue=6&spage=9746&epage=9758&aulast=Chao&aufirst=Mingyuan&auinit=M.&aufull=Chao+M.&coden=&isbn=&pages=9746-9758&date=2021&auinit1=M&auinitm=
+A1  - Chao, M.
+A1  - He, L.
+A1  - Gong, M.
+A1  - Li, N.
+A1  - Li, X.
+A1  - Peng, L.
+A1  - Shi, F.
+A1  - Zhang, L.
+A1  - Wan, P.
+M1  - (Chao M.; He L.; Gong M.; Li N.; Li X.; Peng L.; Shi F.; Zhang L.; Wan P.) Interdisciplinary Research Center for Artificial Intelligence, College of Materials Science and Engineering, State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing, China
+T1  - Breathable Ti3C2Tx MXene/Protein Nanocomposites for Ultrasensitive Medical Pressure Sensor with Degradability in Solvents
+LA  - English
+KW  - nanocomposite
+KW  - solvent
+KW  - titanium
+KW  - artificial intelligence
+KW  - electronic device
+KW  - human
+N2  - Flexible, breathable, and degradable pressure sensors with excellent sensing performance are drawing tremendous attention for various practical applications in wearable artificial skins, healthcare monitoring, and artificial intelligence due to their flexibility, breathability, lightweight, decreased electronic rubbish, and environmentally friendly impact. However, traditional plastic or elastomer substrates with impermeability, uncomfortableness, mechanical mismatches, and nondegradability greatly restricted their practical applications. Therefore, the fabrication of such pressure sensors with high flexibility, facile degradability, and breathability is still a critical challenge and highly desired. Herein, we present a wearable, breathable, degradable, and highly sensitive MXene/protein nanocomposites-based pressure sensor. The fabricated MXene/protein-based pressure sensor is assembled from a breathable conductive MXene coated silk fibroin nanofiber (MXene-SF) membrane and a silk fibroin nanofiber membrane patterned with a MXene ink-printed (MXene ink-SF) interdigitated electrode, which can serve as the sensing layer and the electrode layer, respectively. The assembled pressure sensor exhibits a wide sensing range (up to 39.3 kPa), high sensitivity (298.4 kPa-1 for 1.4-15.7 kPa; 171.9 kPa-1 for 15.7-39.3 kPa), fast response/recovery time (7/16 ms), reliable breathability, excellent cycling stability over 10 000 cycles, good biocompatibility, and robust degradability. Furthermore, it shows great sensing performance in monitoring human psychological signals, acting as an artificial skin for the quantitative illustration of pressure distribution, and wireless biomonitoring in real time. Considering the biodegradable and breathable features, the sensor may become promising to find potential applications in smart electronic skins, human motion detection, disease diagnosis, and human-machine interaction.
+ER  - 
+
+TY  - JOUR
 M3  - Conference Abstract
 Y1  - 2021
 VL  - 5
@@ -4642,6 +5449,51 @@ KW  - hospitalization
 KW  - human
 KW  - telemedicine
 N2  - The prevalence of Heart Failure is growing exponentially in the last decades, particularly amongst older adults. Heart Failure is a chronic cardiovascular disease that demands self-care management and substantial healthcare resources. For that reason, it is highly associated with hospital readmissions and mortality. Due to increased hospitalization costs, excessive waiting times and lack of specialized healthcare professionals to follow-up this growing population, telemedicine and telemonitoring technologies have become the best solutions to support health providers in the disease management tasks. Telemonitoring technologies offer better and more comfortable care because the elderly do not have to leave the comfort of their home to interact with the doctors, giving and receiving daily feedbacks trough these new applications, wearables, and health care platforms. This paper provides a comprehensive review covering the current progress of research in telemedicine and telemonitoring and their applications to Heart Failure Management services. It presents SmartBEAT, which demonstrated during a pilot phase, a user adherence of 97% for three months. Furthermore, SmartBEAT plus, an improved solution, is described, and the system usability a technology acceptance will be evaluated through a pilot with 40 Heart Failure Patients, involving nurses and cardiologists.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 111
+IS  - 9
+SP  - 477
+EP  - 479
+SN  - 2038-1840
+SN  - 0034-1193
+JF  - Recenti Progressi in Medicina
+JO  - Recenti Prog. Med.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2007887218&from=export
+U2  - L2007887218
+C5  - 32914774
+DB  - Embase
+DB  - Medline
+U3  - 2020-10-19
+U4  - 2020-12-11
+L2  - http://dx.doi.org/10.1701/3421.34059
+DO  - 10.1701/3421.34059
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=20381840&id=doi:10.1701%2F3421.34059&atitle=Sei+anemico%2C+lo+dice+l%E2%80%99elettrocardiogramma&stitle=Recenti+Prog.+Med.&title=Recenti+Progressi+in+Medicina&volume=111&issue=9&spage=477&epage=479&aulast=Collecchia&aufirst=Giampaolo&auinit=G.&aufull=Collecchia+G.&coden=RPMDA&isbn=&pages=477-479&date=2020&auinit1=G&auinitm=
+A1  - Collecchia, G.
+M1  - (Collecchia G., g.collec@vmail.it) Giampaolo Collecchia, Via Prado 44, Massa, Italy
+AD  - G. Collecchia, Giampaolo Collecchia, Via Prado 44, Massa, Italy
+T1  - Sei anemico, lo dice l’elettrocardiogramma
+LA  - Italian
+KW  - algorithm
+KW  - anemia
+KW  - article
+KW  - biotechnology
+KW  - disease severity
+KW  - electrocardiogram
+KW  - health care personnel
+KW  - high risk population
+KW  - human
+KW  - human machine interaction
+KW  - job experience
+KW  - machine
+KW  - methodology
+KW  - population
+KW  - prediction
+KW  - skill
+N2  - A recent, retrospective, multicenter korean study is the first to highlight the possible application of electrocardiograms (ECGs) for the diagnosis of systemic conditions, in particular anaemia. To confirm this predictive ability, however, methodologically more valid studies are needed, on populations at greater risk and with less serious levels of anaemia. As always, in the context of human-machine interaction, the integration between technology and the clinical experience of health professionals is also necessary, the soft skills that make them superior to algorithms.
 ER  - 
 
 TY  - JOUR

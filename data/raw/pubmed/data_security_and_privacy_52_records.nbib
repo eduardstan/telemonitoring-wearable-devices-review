@@ -235,6 +235,82 @@ PST - ppublish
 SO  - Curr Opin Gastroenterol. 2022 Jul 1;38(4):373-381. doi: 
       10.1097/MOG.0000000000000845.
 
+PMID- 31932232
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210416
+LR  - 20210416
+IS  - 2531-0437 (Electronic)
+IS  - 2531-0429 (Linking)
+VI  - 26
+IP  - 4
+DP  - 2020 Jul-Aug
+TI  - Telemonitoring systems for respiratory patients: technological aspects.
+PG  - 221-232
+LID - S2531-0437(19)30214-4 [pii]
+LID - 10.1016/j.pulmoe.2019.11.006 [doi]
+AB  - This review introduces the reader to the available technologies in the field of 
+      telemonitoring, with focus on respiratory patients. In the materials and methods 
+      section, a general structure of telemonitoring systems for respiratory patients 
+      is presented and the sensors of interest are illustrated, i.e., respiratory 
+      monitors (wearable and non-wearable), activity trackers, pulse oximeters, 
+      environmental monitors and other sensors of physiological variables. Afterwards, 
+      the most common communication protocols are briefly introduced. In the results 
+      section, selected clinical studies that prove the significance of the presented 
+      parameters in chronic respiratory diseases are presented. This is followed by a 
+      discussion on the main current issues in telemedicine, in particular legal 
+      aspects, data privacy and benefits both in economic and health terms.
+CI  - Copyright © 2019 Sociedade Portuguesa de Pneumologia. Published by Elsevier 
+      España, S.L.U. All rights reserved.
+FAU - Angelucci, Alessandra
+AU  - Angelucci A
+AD  - Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, 
+      32 - 20133 Milano, Italy.
+FAU - Aliverti, Andrea
+AU  - Aliverti A
+AD  - Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, 
+      32 - 20133 Milano, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200110
+PL  - Spain
+TA  - Pulmonology
+JT  - Pulmonology
+JID - 101723786
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Chronic Disease
+MH  - Communication
+MH  - Confidentiality/legislation & jurisprudence
+MH  - Environmental Monitoring/instrumentation
+MH  - Fitness Trackers/statistics & numerical data
+MH  - Humans
+MH  - Monitoring, Physiologic/economics/*instrumentation
+MH  - Oximetry/instrumentation
+MH  - Respiratory Tract Diseases/*physiopathology
+MH  - Technology/economics/*instrumentation
+MH  - Telemedicine/economics/*methods
+MH  - Wearable Electronic Devices/statistics & numerical data
+OTO - NOTNLM
+OT  - Telemedicine
+OT  - Telemonitoring
+OT  - eHealth
+EDAT- 2020/01/15 06:00
+MHDA- 2021/04/17 06:00
+CRDT- 2020/01/15 06:00
+PHST- 2019/11/22 00:00 [received]
+PHST- 2019/11/25 00:00 [accepted]
+PHST- 2020/01/15 06:00 [pubmed]
+PHST- 2021/04/17 06:00 [medline]
+PHST- 2020/01/15 06:00 [entrez]
+AID - S2531-0437(19)30214-4 [pii]
+AID - 10.1016/j.pulmoe.2019.11.006 [doi]
+PST - ppublish
+SO  - Pulmonology. 2020 Jul-Aug;26(4):221-232. doi: 10.1016/j.pulmoe.2019.11.006. Epub 
+      2020 Jan 10.
+
 PMID- 36292441
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -336,82 +412,6 @@ AID - healthcare-10-01993 [pii]
 AID - 10.3390/healthcare10101993 [doi]
 PST - epublish
 SO  - Healthcare (Basel). 2022 Oct 11;10(10):1993. doi: 10.3390/healthcare10101993.
-
-PMID- 31932232
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20210416
-LR  - 20210416
-IS  - 2531-0437 (Electronic)
-IS  - 2531-0429 (Linking)
-VI  - 26
-IP  - 4
-DP  - 2020 Jul-Aug
-TI  - Telemonitoring systems for respiratory patients: technological aspects.
-PG  - 221-232
-LID - S2531-0437(19)30214-4 [pii]
-LID - 10.1016/j.pulmoe.2019.11.006 [doi]
-AB  - This review introduces the reader to the available technologies in the field of 
-      telemonitoring, with focus on respiratory patients. In the materials and methods 
-      section, a general structure of telemonitoring systems for respiratory patients 
-      is presented and the sensors of interest are illustrated, i.e., respiratory 
-      monitors (wearable and non-wearable), activity trackers, pulse oximeters, 
-      environmental monitors and other sensors of physiological variables. Afterwards, 
-      the most common communication protocols are briefly introduced. In the results 
-      section, selected clinical studies that prove the significance of the presented 
-      parameters in chronic respiratory diseases are presented. This is followed by a 
-      discussion on the main current issues in telemedicine, in particular legal 
-      aspects, data privacy and benefits both in economic and health terms.
-CI  - Copyright © 2019 Sociedade Portuguesa de Pneumologia. Published by Elsevier 
-      España, S.L.U. All rights reserved.
-FAU - Angelucci, Alessandra
-AU  - Angelucci A
-AD  - Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, 
-      32 - 20133 Milano, Italy.
-FAU - Aliverti, Andrea
-AU  - Aliverti A
-AD  - Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, 
-      32 - 20133 Milano, Italy.
-LA  - eng
-PT  - Journal Article
-PT  - Review
-DEP - 20200110
-PL  - Spain
-TA  - Pulmonology
-JT  - Pulmonology
-JID - 101723786
-SB  - IM
-MH  - Aged
-MH  - Aged, 80 and over
-MH  - Chronic Disease
-MH  - Communication
-MH  - Confidentiality/legislation & jurisprudence
-MH  - Environmental Monitoring/instrumentation
-MH  - Fitness Trackers/statistics & numerical data
-MH  - Humans
-MH  - Monitoring, Physiologic/economics/*instrumentation
-MH  - Oximetry/instrumentation
-MH  - Respiratory Tract Diseases/*physiopathology
-MH  - Technology/economics/*instrumentation
-MH  - Telemedicine/economics/*methods
-MH  - Wearable Electronic Devices/statistics & numerical data
-OTO - NOTNLM
-OT  - Telemedicine
-OT  - Telemonitoring
-OT  - eHealth
-EDAT- 2020/01/15 06:00
-MHDA- 2021/04/17 06:00
-CRDT- 2020/01/15 06:00
-PHST- 2019/11/22 00:00 [received]
-PHST- 2019/11/25 00:00 [accepted]
-PHST- 2020/01/15 06:00 [pubmed]
-PHST- 2021/04/17 06:00 [medline]
-PHST- 2020/01/15 06:00 [entrez]
-AID - S2531-0437(19)30214-4 [pii]
-AID - 10.1016/j.pulmoe.2019.11.006 [doi]
-PST - ppublish
-SO  - Pulmonology. 2020 Jul-Aug;26(4):221-232. doi: 10.1016/j.pulmoe.2019.11.006. Epub 
-      2020 Jan 10.
 
 PMID- 37838182
 OWN - NLM
@@ -1482,6 +1482,84 @@ PST - ppublish
 SO  - Int J Med Inform. 2023 Jun;174:105048. doi: 10.1016/j.ijmedinf.2023.105048. Epub 
       2023 Mar 20.
 
+PMID- 38109949
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240913
+LR  - 20240913
+IS  - 1873-2615 (Electronic)
+IS  - 1050-1738 (Linking)
+VI  - 34
+IP  - 7
+DP  - 2024 Oct
+TI  - Benefits of remote hemodynamic monitoring in heart failure.
+PG  - 468-476
+LID - S1050-1738(23)00111-1 [pii]
+LID - 10.1016/j.tcm.2023.12.003 [doi]
+AB  - Despite treatment advancements, HF mortality remains high, prompting interest in 
+      reducing HF-related hospitalizations through remote monitoring. These advances 
+      are necessary considering the rapidly rising prevalence and incidence of HF 
+      worldwide, presenting a burden on hospital resources. While traditional 
+      approaches have failed in predicting impending HF-related hospitalizations, 
+      remote hemodynamic monitoring can detect changes in intracardiac filling pressure 
+      weeks prior to HF-related hospitalizations which makes timely pharmacological 
+      interventions possible. To ensure successful implementation, structural 
+      integration, optimal patient selection, and efficient data management are 
+      essential. This review aims to provide an overview of the rationale, the 
+      available devices, current evidence, and the implementation of remote hemodynamic 
+      monitoring.
+CI  - Copyright © 2023 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Clephas, P R D
+AU  - Clephas PRD
+AD  - Department of Cardiology, Erasmus MC University Medical Centre, Rotterdam, the 
+      Netherlands.
+FAU - de Boer, R A
+AU  - de Boer RA
+AD  - Department of Cardiology, Erasmus MC University Medical Centre, Rotterdam, the 
+      Netherlands.
+FAU - Brugts, J J
+AU  - Brugts JJ
+AD  - Department of Cardiology, Erasmus MC University Medical Centre, Rotterdam, the 
+      Netherlands. Electronic address: j.brugts@erasmusmc.nl.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20231216
+PL  - United States
+TA  - Trends Cardiovasc Med
+JT  - Trends in cardiovascular medicine
+JID - 9108337
+SB  - IM
+MH  - Humans
+MH  - *Heart Failure/physiopathology/diagnosis/therapy/mortality
+MH  - *Hemodynamics
+MH  - *Hemodynamic Monitoring/methods
+MH  - *Predictive Value of Tests
+MH  - Prognosis
+MH  - Telemedicine
+MH  - Remote Sensing Technology/instrumentation
+OTO - NOTNLM
+OT  - Heart failure
+OT  - Hemodynamics
+OT  - Pulmonary artery pressure
+OT  - Remote care
+OT  - Sensor
+OT  - Telemonitoring
+EDAT- 2023/12/19 00:41
+MHDA- 2024/09/14 10:42
+CRDT- 2023/12/18 19:23
+PHST- 2023/08/30 00:00 [received]
+PHST- 2023/11/28 00:00 [revised]
+PHST- 2023/12/13 00:00 [accepted]
+PHST- 2024/09/14 10:42 [medline]
+PHST- 2023/12/19 00:41 [pubmed]
+PHST- 2023/12/18 19:23 [entrez]
+AID - S1050-1738(23)00111-1 [pii]
+AID - 10.1016/j.tcm.2023.12.003 [doi]
+PST - ppublish
+SO  - Trends Cardiovasc Med. 2024 Oct;34(7):468-476. doi: 10.1016/j.tcm.2023.12.003. 
+      Epub 2023 Dec 16.
+
 PMID- 37675376
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -2204,88 +2282,6 @@ AID - 10.3390/healthcare11131911 [doi]
 PST - epublish
 SO  - Healthcare (Basel). 2023 Jul 1;11(13):1911. doi: 10.3390/healthcare11131911.
 
-PMID- 39213113
-OWN - NLM
-STAT- Publisher
-LR  - 20240906
-IS  - 1878-7401 (Electronic)
-IS  - 0928-7329 (Linking)
-DP  - 2024 Aug 8
-TI  - Secure data communication in WSHN using EXP-MD5 and DHSK-ECC.
-LID - 10.3233/THC-240790 [doi]
-AB  - BACKGROUND: In the Healthcare (HC) sector, the usage of Wireless Sensor 
-      Healthcare Networks (WSHN) is attaining specific importance. The sensor device is 
-      implanted into the patient's body, and the sensed health information of patients 
-      is transformed via data aggregating devices like mobile devices, cameras, and so 
-      on, to the doctors. Thus, the early signs of diseases are identified, and remote 
-      monitoring of the patient's health is carried out by the physician on time. This 
-      aids in improving the health condition of the people and reduces the severity of 
-      disorders. But, the security gap in HC remains unresolved, despite various 
-      advantages. OBJECTIVE: This work proposes secured data communication in WSHN 
-      using Exponential Message Digest5 (EXP-MD5) and Diffie Hellman Secret Key-based 
-      Elliptic Curve Cryptography (DHSK-ECC) techniques. METHODS: Primarily, the 
-      patient registers their details in the Hospital Cloud Server (HCS). With hospital 
-      ID and patient ID, public and private keys are generated during registration. 
-      Afterward, by utilizing the Navie Shuffling (NS) technique, nCr combinations are 
-      created and shuffled. After shuffling, any of the randomly selected combinations 
-      are encoded utilizing the American Standard Code for Information Interchange 
-      (ASCII) code. For patient authentication, the ASCII code is further converted 
-      into a Quick Response(QR) code. Upon successful registration, the patient logs in 
-      to HCS. The patient can book for doctor's appointment if the login details are 
-      verified with those of the registered details. On consulting the doctor at the 
-      pre-informed time, the digital signature is created utilizing the Universal 
-      Unique Salt-based Digital Signature Algorithm (UUS-DSA) for authenticating the 
-      patient details. Further, for providing accessibility to all the authorized 
-      patients, the registered patients on HCS are considered as nodes. Then, an 
-      authorized path is created using the EXP-MD5 technique to protect each individual 
-      patient's details. The patient's IoT data is sensed, followed by authorized path 
-      creation. The data is encrypted via the DHSK-ECC algorithm for secure data 
-      transmission. Lastly, all the information is stored in HCS, so that the patient's 
-      health condition is regularly monitored by the doctor and the needy advice is 
-      suggested to the patients in the future. Also, hash matching is carried out when 
-      the doctor needs to access data. RESULTS: The proposed technique's efficacy is 
-      validated by the performance analysis in comparison with other conventional 
-      techniques. CONCLUSION: In this proposed research, the authentication is 
-      performed in multiple scenarios to enhance data security and user privacy. The 
-      patient details are authenticated during registration and verification to access 
-      the online consultation only by the authorized person. Further, the patient 
-      health information is encrypted in the proposed work after consultation so that 
-      the intrusion of medical records by malicious users and data tampering is 
-      prevented. Also, the sensed data gathered from patients are transferred to the 
-      HCS by creating the authorized path, which further enhances the security of 
-      patient data. Thus, the data communication of the WSHN is well-secured in this 
-      work through multi-level authentication and improved cryptography techniques.
-FAU - Anjikumar, Tamarapalli
-AU  - Anjikumar T
-FAU - Chakravarthy, A S N
-AU  - Chakravarthy ASN
-LA  - eng
-PT  - Journal Article
-DEP - 20240808
-PL  - Netherlands
-TA  - Technol Health Care
-JT  - Technology and health care : official journal of the European Society for 
-      Engineering and Medicine
-JID - 9314590
-SB  - IM
-OTO - NOTNLM
-OT  - Data security
-OT  - Diffie Hellman Secret Key-based Elliptic Curve Cryptography (DHSK-ECC)
-OT  - Hospital Cloud Server (HCS)
-OT  - Universal Unique Salt-based Digital Signature Algorithm (UUS-DSA)
-OT  - healthcare networks
-OT  - privacy-preserving
-EDAT- 2024/08/31 09:48
-MHDA- 2024/08/31 09:48
-CRDT- 2024/08/30 12:03
-PHST- 2024/08/31 09:48 [pubmed]
-PHST- 2024/08/31 09:48 [medline]
-PHST- 2024/08/30 12:03 [entrez]
-AID - THC240790 [pii]
-AID - 10.3233/THC-240790 [doi]
-PST - aheadofprint
-SO  - Technol Health Care. 2024 Aug 8. doi: 10.3233/THC-240790.
-
 PMID- 37418385
 OWN - NLM
 STAT- MEDLINE
@@ -2805,6 +2801,83 @@ PHST- 2020/07/20 06:00 [entrez]
 AID - 10.1111/epi.16578 [doi]
 PST - ppublish
 SO  - Epilepsia. 2020 Nov;61 Suppl 1:S3-S10. doi: 10.1111/epi.16578. Epub 2020 Jul 19.
+
+PMID- 39277343
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240914
+LR  - 20240914
+IS  - 1558-4518 (Electronic)
+IS  - 0895-7967 (Linking)
+VI  - 37
+IP  - 3
+DP  - 2024 Sep
+TI  - Wearable technology in vascular surgery: Current applications and future 
+      perspectives.
+PG  - 281-289
+LID - S0895-7967(24)00050-4 [pii]
+LID - 10.1053/j.semvascsurg.2024.08.004 [doi]
+AB  - The COVID-19 pandemic exposed the vulnerabilities of global health care systems, 
+      underscoring the need for innovative solutions to meet the demands of an aging 
+      population, workforce shortages, and rising physician burnout. In recent years, 
+      wearable technology has helped segue various medical specialties into the digital 
+      era, yet its adoption in vascular surgery remains limited. This article explores 
+      the applications of wearable devices in vascular surgery and explores their 
+      potential outlets, such as enhancing primary and secondary prevention, optimizing 
+      perioperative care, and supporting surgical training. The integration of 
+      artificial intelligence and machine learning with wearable technology further 
+      expands its applications, enabling predictive analytics, personalized care, and 
+      remote monitoring. Despite the promising prospects, challenges such as regulatory 
+      complexities, data security, and interoperability must be addressed. As the 
+      digital health movement unfolds, wearable technology could play a pivotal role in 
+      reshaping vascular surgery while offering cost-effective, accessible, and 
+      patient-centered care.
+CI  - Copyright © 2024 Elsevier Inc. All rights reserved.
+FAU - Bartos, Oana
+AU  - Bartos O
+AD  - Department of Vascular Medicine, St. Josefs-Hospital, Beethovenstraße 20, 65189 
+      Wiesbaden, Germany.
+FAU - Trenner, Matthias
+AU  - Trenner M
+AD  - Department of Vascular Medicine, St. Josefs-Hospital, Beethovenstraße 20, 65189 
+      Wiesbaden, Germany; School of Medicine, Technical University of Munich, Munich, 
+      Germany. Electronic address: mtrenner@joho.de.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20240822
+PL  - United States
+TA  - Semin Vasc Surg
+JT  - Seminars in vascular surgery
+JID - 8809602
+SB  - IM
+MH  - Humans
+MH  - *Wearable Electronic Devices
+MH  - *Vascular Surgical Procedures/instrumentation/adverse effects
+MH  - *COVID-19/epidemiology
+MH  - Telemedicine/instrumentation
+OTO - NOTNLM
+OT  - Digital medicine
+OT  - Smartphone
+OT  - Smartwatch
+OT  - Vascular disease
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this article.
+EDAT- 2024/09/15 14:09
+MHDA- 2024/09/15 14:10
+CRDT- 2024/09/14 21:01
+PHST- 2024/05/24 00:00 [received]
+PHST- 2024/08/14 00:00 [revised]
+PHST- 2024/08/16 00:00 [accepted]
+PHST- 2024/09/15 14:10 [medline]
+PHST- 2024/09/15 14:09 [pubmed]
+PHST- 2024/09/14 21:01 [entrez]
+AID - S0895-7967(24)00050-4 [pii]
+AID - 10.1053/j.semvascsurg.2024.08.004 [doi]
+PST - ppublish
+SO  - Semin Vasc Surg. 2024 Sep;37(3):281-289. doi: 10.1053/j.semvascsurg.2024.08.004. 
+      Epub 2024 Aug 22.
 
 PMID- 38947726
 OWN - NLM
@@ -4594,6 +4667,88 @@ AID - 10.1186/s12880-024-01279-4 [pii]
 AID - 10.1186/s12880-024-01279-4 [doi]
 PST - epublish
 SO  - BMC Med Imaging. 2024 May 10;24(1):105. doi: 10.1186/s12880-024-01279-4.
+
+PMID- 39213113
+OWN - NLM
+STAT- Publisher
+LR  - 20240906
+IS  - 1878-7401 (Electronic)
+IS  - 0928-7329 (Linking)
+DP  - 2024 Aug 8
+TI  - Secure data communication in WSHN using EXP-MD5 and DHSK-ECC.
+LID - 10.3233/THC-240790 [doi]
+AB  - BACKGROUND: In the Healthcare (HC) sector, the usage of Wireless Sensor 
+      Healthcare Networks (WSHN) is attaining specific importance. The sensor device is 
+      implanted into the patient's body, and the sensed health information of patients 
+      is transformed via data aggregating devices like mobile devices, cameras, and so 
+      on, to the doctors. Thus, the early signs of diseases are identified, and remote 
+      monitoring of the patient's health is carried out by the physician on time. This 
+      aids in improving the health condition of the people and reduces the severity of 
+      disorders. But, the security gap in HC remains unresolved, despite various 
+      advantages. OBJECTIVE: This work proposes secured data communication in WSHN 
+      using Exponential Message Digest5 (EXP-MD5) and Diffie Hellman Secret Key-based 
+      Elliptic Curve Cryptography (DHSK-ECC) techniques. METHODS: Primarily, the 
+      patient registers their details in the Hospital Cloud Server (HCS). With hospital 
+      ID and patient ID, public and private keys are generated during registration. 
+      Afterward, by utilizing the Navie Shuffling (NS) technique, nCr combinations are 
+      created and shuffled. After shuffling, any of the randomly selected combinations 
+      are encoded utilizing the American Standard Code for Information Interchange 
+      (ASCII) code. For patient authentication, the ASCII code is further converted 
+      into a Quick Response(QR) code. Upon successful registration, the patient logs in 
+      to HCS. The patient can book for doctor's appointment if the login details are 
+      verified with those of the registered details. On consulting the doctor at the 
+      pre-informed time, the digital signature is created utilizing the Universal 
+      Unique Salt-based Digital Signature Algorithm (UUS-DSA) for authenticating the 
+      patient details. Further, for providing accessibility to all the authorized 
+      patients, the registered patients on HCS are considered as nodes. Then, an 
+      authorized path is created using the EXP-MD5 technique to protect each individual 
+      patient's details. The patient's IoT data is sensed, followed by authorized path 
+      creation. The data is encrypted via the DHSK-ECC algorithm for secure data 
+      transmission. Lastly, all the information is stored in HCS, so that the patient's 
+      health condition is regularly monitored by the doctor and the needy advice is 
+      suggested to the patients in the future. Also, hash matching is carried out when 
+      the doctor needs to access data. RESULTS: The proposed technique's efficacy is 
+      validated by the performance analysis in comparison with other conventional 
+      techniques. CONCLUSION: In this proposed research, the authentication is 
+      performed in multiple scenarios to enhance data security and user privacy. The 
+      patient details are authenticated during registration and verification to access 
+      the online consultation only by the authorized person. Further, the patient 
+      health information is encrypted in the proposed work after consultation so that 
+      the intrusion of medical records by malicious users and data tampering is 
+      prevented. Also, the sensed data gathered from patients are transferred to the 
+      HCS by creating the authorized path, which further enhances the security of 
+      patient data. Thus, the data communication of the WSHN is well-secured in this 
+      work through multi-level authentication and improved cryptography techniques.
+FAU - Anjikumar, Tamarapalli
+AU  - Anjikumar T
+FAU - Chakravarthy, A S N
+AU  - Chakravarthy ASN
+LA  - eng
+PT  - Journal Article
+DEP - 20240808
+PL  - Netherlands
+TA  - Technol Health Care
+JT  - Technology and health care : official journal of the European Society for 
+      Engineering and Medicine
+JID - 9314590
+SB  - IM
+OTO - NOTNLM
+OT  - Data security
+OT  - Diffie Hellman Secret Key-based Elliptic Curve Cryptography (DHSK-ECC)
+OT  - Hospital Cloud Server (HCS)
+OT  - Universal Unique Salt-based Digital Signature Algorithm (UUS-DSA)
+OT  - healthcare networks
+OT  - privacy-preserving
+EDAT- 2024/08/31 09:48
+MHDA- 2024/08/31 09:48
+CRDT- 2024/08/30 12:03
+PHST- 2024/08/31 09:48 [pubmed]
+PHST- 2024/08/31 09:48 [medline]
+PHST- 2024/08/30 12:03 [entrez]
+AID - THC240790 [pii]
+AID - 10.3233/THC-240790 [doi]
+PST - aheadofprint
+SO  - Technol Health Care. 2024 Aug 8. doi: 10.3233/THC-240790.
 
 PMID- 33494163
 OWN - NLM

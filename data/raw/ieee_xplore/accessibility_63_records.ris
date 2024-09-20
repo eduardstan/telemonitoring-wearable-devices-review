@@ -709,6 +709,45 @@ AB  - In this study, we developed a novel solar-powered wearable miniaturized hu
 ER  - 
 
 TY  - CONF
+TI  - Smart ICU Patient Monitoring System
+T2  - 2024 Second International Conference on Inventive Computing and Informatics (ICICI)
+SP  - 596
+EP  - 604
+AU  - R. Balpande
+AU  - S. Kalambe
+AU  - L. Umate
+AU  - N. Gore
+AU  - N. Khirade
+AU  - A. Gedam
+PY  - 2024
+KW  - Temperature sensors
+KW  - Temperature measurement
+KW  - Flexible printed circuits
+KW  - Sensor systems
+KW  - Real-time systems
+KW  - Safety
+KW  - Biomedical monitoring
+KW  - Comatose stage
+KW  - Wearable sensors
+KW  - Vital signs monitoring
+KW  - Cloud server
+KW  - Predictive analysis
+KW  - Preventive healthcare
+KW  - Saline therapy
+KW  - IoT platform
+KW  - Patient safety
+DO  - 10.1109/ICICI62254.2024.00103
+JO  - 2024 Second International Conference on Inventive Computing and Informatics (ICICI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 Second International Conference on Inventive Computing and Informatics (ICICI)
+Y1  - 11-12 June 2024
+AB  - To monitor comatose patients, a suggested system includes wearable sensors such as temperature, IR sensors, accelerometer, heartbeat, SPO2 oximeter, and flex sensors. Predictions about the chance of recovery are made possible by data kept on a Cloud server that is accessible from a PC or smartphone. This takes care of hospital monitoring issues and guarantees prompt interventions. Furthermore, by remotely monitoring levels and instantly stopping the flow when the bottle is empty, a saline level monitoring system improves patient safety during therapy and guards against injury brought on by carelessness or hectic schedules. Sensor technology advancements help speedy patient recovery and better healthcare in the face of an expanding world population.
+ER  - 
+
+TY  - CONF
 TI  - Internet of Things Oriented Human Body Enabled Communication Protocol Design for Health Monitoring Services
 T2  - 2024 International Conference on Intelligent Systems for Cybersecurity (ISCS)
 SP  - 1
@@ -785,37 +824,6 @@ AB  - Patients with impaired mobility and neurological disorders such as Alzheim
 ER  - 
 
 TY  - CONF
-TI  - A Novel and Efficient Multi-Band Wireless Communication System for Healthcare Management System
-T2  - 2023 International Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics (IITCEE)
-SP  - 791
-EP  - 797
-AU  - R. Renugadevi
-AU  - T. Sethukarasi
-PY  - 2023
-KW  - Wireless communication
-KW  - Technological innovation
-KW  - Transmitters
-KW  - Millimeter wave technology
-KW  - Medical services
-KW  - Tablet computers
-KW  - Low-power electronics
-KW  - MM wave
-KW  - WPT
-KW  - Internet of Things (IoT)
-KW  - Antenna
-KW  - Wireless Technology
-DO  - 10.1109/IITCEE57236.2023.10090991
-JO  - 2023 International Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics (IITCEE)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2023 International Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics (IITCEE)
-Y1  - 27-28 Jan. 2023
-AB  - As wireless technology has rapidly progressed, wireless gadgets have made their way into the medical field, expanding its scope and increasing its efficiency. Wireless technology allows physicians to remotely monitor patients and provide them with timely health records, warnings, and assistance; this has the potential to increase access to healthcare by making it accessible at any time and in any location. Placing a tiny wireless connection chip inside a tablet computer is one option we're examining for a medication management system. The chip's supporting components are incorporated into this system. A millimeter-wave dual-band antenna is used to accomplish the antenna size reduction required for the chip on tablet. Furthermore, an ultra-low power millimetre wave transmitter is utilized in conjunction with a big transmitting coil to send energy wirelessly to a tiny receiving coil, hence minimizing the need for a powerful battery. Essentially, this is the beginning of digital medicine, made possible by this innovation.
-ER  - 
-
-TY  - CONF
 TI  - Employing Cloud-Integrated Neural Network for Prediction of Heart Disease Using Advanced Telemedicine Solutions
 T2  - 2024 IEEE International Conference on Computing, Power and Communication Technologies (IC2PCT)
 SP  - 1268
@@ -844,6 +852,37 @@ VL  - 5
 JA  - 2024 IEEE International Conference on Computing, Power and Communication Technologies (IC2PCT)
 Y1  - 9-10 Feb. 2024
 AB  - Globally, cardiovascular disorders, including Atrial Fibrillation (AF), are a major health issue. Telemedicine and cloud-based neural networks are used to improve heart disease diagnosis and monitoring for AF patients in this research. Our technique uses remote patient monitoring and AI to improve AF diagnosis, treatment, and management. This paper develops a cloud-integrated neural network model to interpret real-time patient electrocardiogram (ECG) data. The neural network is trained on a broad dataset to detect modest AF start or progression patterns. Scalable, accessible, and effective data management is achieved using cloud computing. Telemedicine is crucial to this framework since it allows patients to be monitored remotely. Healthcare practitioners get notifications for abnormal ECG patterns, allowing quick intervention and individualized treatment. Patient data is safely saved in the cloud for long-term analysis and population-level AF research. The suggested telemedicine method improves AF event detection accuracy, according to preliminary data. Cloud-based neural networks improve diagnostics and enable healthcare research and information exchange. The system advances cardiac disease management, emphasizing AF, using integration and technology. This research may improve patient outcomes, lower healthcare costs, and increase population-level cardiovascular health knowledge. Teleconsultations maintain patient care while protecting sensitive health data. The system’s flexibility and learning increase diagnostic accuracy.
+ER  - 
+
+TY  - CONF
+TI  - A Novel and Efficient Multi-Band Wireless Communication System for Healthcare Management System
+T2  - 2023 International Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics (IITCEE)
+SP  - 791
+EP  - 797
+AU  - R. Renugadevi
+AU  - T. Sethukarasi
+PY  - 2023
+KW  - Wireless communication
+KW  - Technological innovation
+KW  - Transmitters
+KW  - Millimeter wave technology
+KW  - Medical services
+KW  - Tablet computers
+KW  - Low-power electronics
+KW  - MM wave
+KW  - WPT
+KW  - Internet of Things (IoT)
+KW  - Antenna
+KW  - Wireless Technology
+DO  - 10.1109/IITCEE57236.2023.10090991
+JO  - 2023 International Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics (IITCEE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics (IITCEE)
+Y1  - 27-28 Jan. 2023
+AB  - As wireless technology has rapidly progressed, wireless gadgets have made their way into the medical field, expanding its scope and increasing its efficiency. Wireless technology allows physicians to remotely monitor patients and provide them with timely health records, warnings, and assistance; this has the potential to increase access to healthcare by making it accessible at any time and in any location. Placing a tiny wireless connection chip inside a tablet computer is one option we're examining for a medication management system. The chip's supporting components are incorporated into this system. A millimeter-wave dual-band antenna is used to accomplish the antenna size reduction required for the chip on tablet. Furthermore, an ultra-low power millimetre wave transmitter is utilized in conjunction with a big transmitting coil to send energy wirelessly to a tiny receiving coil, hence minimizing the need for a powerful battery. Essentially, this is the beginning of digital medicine, made possible by this innovation.
 ER  - 
 
 TY  - CONF
@@ -1135,6 +1174,40 @@ AB  - The enhanced digitalization in the healthcare industry has made healthcare
 ER  - 
 
 TY  - CONF
+TI  - Digital Health Tracker
+T2  - 2024 International Conference on Smart Systems for Electrical, Electronics, Communication and Computer Engineering (ICSSEECC)
+SP  - 597
+EP  - 602
+AU  - G. Santhanamari
+AU  - A. M. R
+AU  - A. P
+AU  - J. M
+AU  - T. R
+AU  - D. D. P
+PY  - 2024
+KW  - Temperature sensors
+KW  - Temperature measurement
+KW  - Cloud computing
+KW  - Medical services
+KW  - Real-time systems
+KW  - Electronic healthcare
+KW  - Sensors
+KW  - ThingSpeak
+KW  - IFTTT (If This Then That)
+KW  - API (Application Programming Interface)
+KW  - Health Monitoring
+DO  - 10.1109/ICSSEECC61126.2024.10649524
+JO  - 2024 International Conference on Smart Systems for Electrical, Electronics, Communication and Computer Engineering (ICSSEECC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Smart Systems for Electrical, Electronics, Communication and Computer Engineering (ICSSEECC)
+Y1  - 28-29 June 2024
+AB  - The advent of Internet of Things (IoT) technology has sparked a revolution in healthcare, empowering the development of innovative solutions for remote patient monitoring. In this project, the Digital Health Tracker represents a pioneering effort to leverage IoT devices and online platforms for real-time monitoring of vital signs. This project focuses on monitoring two critical parameters, heartbeat rate and body temperature, using sensors interfaced with an Arduino Uno microcontroller, along with the ESP32 Wi-Fi module for internet connectivity. The collected data is transmitted to cloud-based platforms such as ThingSpeak and Google Sheets, facilitating remote access and analysis by healthcare providers. Additionally, an emergency panic button feature enables patients to summon immediate alerts via email or SMS to designated contacts, further enhancing patient safety. By seamlessly integrating hardware components, cloud services, and alert systems, the Digital Health Tracker offers a comprehensive solution for enhancing patient care and accessibility. The Digital Health Tracker represents a comprehensive solution to enhance patient care and accessibility, marking a significant stride towards the future of healthcare through IoT-enabled remote monitoring and intervention.
+ER  - 
+
+TY  - CONF
 TI  - Smart Non-Invasive Real-Time Health Monitoring using Machine Learning and IoT
 T2  - 2023 IEEE International Symposium on Smart Electronic Systems (iSES)
 SP  - 437
@@ -1202,40 +1275,6 @@ VL  -
 JA  - 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)
 Y1  - 6-8 July 2023
 AB  - The Internet of Things, with its expanding range of use cases across disciplines, has significantly altered the way we live. One example of an application of the Internet of Things is in the healthcare industry, which links internet-connected gadgets, machinery, patients, and medical professionals. When it comes to healthcare costs, the necessity and accessibility of resources, and personal care in general, particularly for older members of society, healthcare has emerged as a key socioeconomic concern in recent years. This new trend in healthcare has made it feasible for doctors to provide remote monitoring, chronic illness management, and seniors care of patients located in remote areas, and it has even made it possible for doctors to care for patients who are institutionalized so long as they remain connected to the internet. The widespread adoption of the Internet of Things (IoT) in healthcare and other similar technologies has helped to tackle a number of problems by utilizing remote monitoring, telemedicine, sensors, and other technologies. However, it seems difficult to accomplish widespread adoption because of considerations such as the need to protect users' privacy and the security of their data, the administration of massive amounts of data, scalability, upgradeability, etc. This new trend is both efficient and clever. The advantages and difficulties of trends in healthcare, which have altered the conventional healthcare system by making health management more effective via to their applications, are discussed in this study.
-ER  - 
-
-TY  - CONF
-TI  - Digital Health Tracker
-T2  - 2024 International Conference on Smart Systems for Electrical, Electronics, Communication and Computer Engineering (ICSSEECC)
-SP  - 597
-EP  - 602
-AU  - G. Santhanamari
-AU  - A. M. R
-AU  - A. P
-AU  - J. M
-AU  - T. R
-AU  - D. D. P
-PY  - 2024
-KW  - Temperature sensors
-KW  - Temperature measurement
-KW  - Cloud computing
-KW  - Medical services
-KW  - Real-time systems
-KW  - Electronic healthcare
-KW  - Sensors
-KW  - ThingSpeak
-KW  - IFTTT (If This Then That)
-KW  - API (Application Programming Interface)
-KW  - Health Monitoring
-DO  - 10.1109/ICSSEECC61126.2024.10649524
-JO  - 2024 International Conference on Smart Systems for Electrical, Electronics, Communication and Computer Engineering (ICSSEECC)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2024 International Conference on Smart Systems for Electrical, Electronics, Communication and Computer Engineering (ICSSEECC)
-Y1  - 28-29 June 2024
-AB  - The advent of Internet of Things (IoT) technology has sparked a revolution in healthcare, empowering the development of innovative solutions for remote patient monitoring. In this project, the Digital Health Tracker represents a pioneering effort to leverage IoT devices and online platforms for real-time monitoring of vital signs. This project focuses on monitoring two critical parameters, heartbeat rate and body temperature, using sensors interfaced with an Arduino Uno microcontroller, along with the ESP32 Wi-Fi module for internet connectivity. The collected data is transmitted to cloud-based platforms such as ThingSpeak and Google Sheets, facilitating remote access and analysis by healthcare providers. Additionally, an emergency panic button feature enables patients to summon immediate alerts via email or SMS to designated contacts, further enhancing patient safety. By seamlessly integrating hardware components, cloud services, and alert systems, the Digital Health Tracker offers a comprehensive solution for enhancing patient care and accessibility. The Digital Health Tracker represents a comprehensive solution to enhance patient care and accessibility, marking a significant stride towards the future of healthcare through IoT-enabled remote monitoring and intervention.
 ER  - 
 
 TY  - CONF
@@ -1333,6 +1372,25 @@ AB  - One of the India's largest issues is providing healthcare to rural people;
 ER  - 
 
 TY  - CONF
+TI  - Retracted: Patient Healthcare Analysis and Emergency Alerting using Adaptive Neuro Fuzzy Technique
+T2  - 2022 IEEE 2nd Mysore Sub Section International Conference (MysuruCon)
+SP  - 1
+EP  - 7
+AU  - A. Juyal
+AU  - P. Negi
+PY  - 2022
+DO  - 10.1109/MysuruCon55714.2022.9972407
+JO  - 2022 IEEE 2nd Mysore Sub Section International Conference (MysuruCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE 2nd Mysore Sub Section International Conference (MysuruCon)
+Y1  - 16-17 Oct. 2022
+AB  - There have already been initiatives to use the new technology in numerous areas to improve the standards of human existence as a result of technological advancement and sensor shrinking. The healthcare industry is one significant field of research where the concept has been adopted. Health services are extraordinarily expensive for the individuals who need them, and this is particularly true in developing nations. As a consequence, this research is an effort to address a contemporary healthcare issue in society. The creation of a remote healthcare system was the project’s principal goal. There are three primary components to it. The first step involved employing sensors for detecting the patient’s vital signs, the second involved transmitting the data to cloud storage, and the final step involved making the detected information available for enabling remote visuals. A doctor or caretaker can remotely access the data and track a patient’s health improvement from a location other than the hospital. The Internet of Things (IoT) principles have been widely applied to connect the available medical resources and provide patients with intelligent, dependable, and efficient healthcare. Among the ideas that can harness the benefits of the IoT to enhance the sufferer’s lifestyle is health monitoring for dynamic and supported living. We have provided an IoT system that has been specially designed for smart healthcare in this project. The proposal’s goal was to develop a Remote Health Monitoring System that could be created using readily accessible local sensors in order to keep costs low if it were to be mass produced. As a result, the presented architecture gathers sensor data using an Arduino microcontroller and transmits it to the cloud for processing and analysis before being made available for remote viewing. In the event of any emergencies, corrective actions depending on the evaluated data can be communicated back to the doctor or guardian by email and SMS notifications.
+ER  - 
+
+TY  - CONF
 TI  - Enhancing Elderly Care: Remote Glucose Monitoring for Health and Independence
 T2  - 2024 IEEE International Conference on Advanced Systems and Emergent Technologies (IC_ASET)
 SP  - 1
@@ -1401,6 +1459,41 @@ VL  -
 JA  - 2021 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)
 Y1  - 23-25 Oct. 2021
 AB  - The outbreak of COVID-19 hit the world with an incomparable magnitude and introduced new challenges in the diagnosis and treatment of patients. Personal interactions have suddenly become dangerous which can be reduced by the use of digital technology in healthcare. Towards this, we have developed a low-cost remote vital sign monitoring system (VSM) that can be used at hospitals as well as at home for continuous and long-term monitoring of different clinical status, and provide extended support to the vulnerable patients. The proposed VSM has been designed with four layers: sensing layer, data processing layer, networking layer, and applications layer. It comes with three units: a wrist unit, a bedside monitor and a web-based graphical user interface (GUI) accessible by the nurse, physician or attendants remotely from anywhere. The effectiveness of measurement, transmission, and remote monitoring has been demonstrated by experiments. The system is designed with open source and low-cost hardware devices to ensure that it can be afforded and implemented in low resource settings of the developing countries. The proposed system can provide an effective way of delivering care to more patients while protecting everyone involved from infection.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Patient Well-Being in Healthcare Through the Integration of IoT and Neural Network
+T2  - 2024 International Conference on Emerging Innovations and Advanced Computing (INNOCOMP)
+SP  - 241
+EP  - 246
+AU  - J. Singh
+AU  - N. A. Shelke
+AU  - K. Upreti
+AU  - P. Divakaran
+AU  - N. Lingareddy
+AU  - S. Deepika
+PY  - 2024
+KW  - Temperature sensors
+KW  - Support vector machines
+KW  - Technological innovation
+KW  - Medical services
+KW  - Machine learning
+KW  - Artificial neural networks
+KW  - Real-time systems
+KW  - Healthcare
+KW  - IoT systems
+KW  - patient monitoring
+KW  - machine learning
+KW  - user-friendly interfaces
+DO  - 10.1109/INNOCOMP63224.2024.00047
+JO  - 2024 International Conference on Emerging Innovations and Advanced Computing (INNOCOMP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Emerging Innovations and Advanced Computing (INNOCOMP)
+Y1  - 25-26 May 2024
+AB  - This study analyses the revolutionary integration of Internet of Things (IoT) structures in healthcare through a complete examination of outstanding case research. The first case study focuses on real-time patient fitness monitoring in a clinic setting. The suggested device utilizes an Internet of Things-ready device that has many sensors, including oxygen, pressure, and temperature sensors. The issues of forecasting patient health in advance are handled with the deployment of machine learning models, notably Artificial Neural Networks (ANN), Decision Trees (DT), and Support Vector Machines (SVM). The second case study analyses IoT's effect on patient-precise medication identification and remote fitness monitoring, uncovering issues associated with accessibility, pricing, and human interfaces. Proposed alternatives, which incorporates greater education, increased accessibility, and user-pleasant interfaces with robust technical assistance, have been evaluated with 30 patients over a three-month duration. The results reveal a great growth in impacted person health, along with heightened attention of periodic health monitoring. The results highlight how IoT technologies may transform healthcare procedures by offering pro-active solutions for patients' well-being. This study offers insightful information that may be used to solve practical issues, promote patient-centered solutions, and broaden the scope of the healthcare period. A significant step towards a patient-centered and technologically advanced healthcare environment, the successful outcomes validate the capacity for sustained innovation, cooperation, and improvement in the integration of IoT systems for optimal patient care.
 ER  - 
 
 TY  - CONF

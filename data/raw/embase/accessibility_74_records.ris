@@ -1,4 +1,58 @@
 TY  - JOUR
+M3  - Review
+Y1  - 2024
+VL  - 37
+IS  - 3
+SP  - 281
+EP  - 289
+SN  - 1558-4518
+SN  - 0895-7967
+JF  - Seminars in Vascular Surgery
+JO  - Semin. Vasc. Surg.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2034429920&from=export
+U2  - L2034429920
+DB  - Embase
+U3  - 2024-09-10
+U4  - 2024-09-10
+L2  - http://dx.doi.org/10.1053/j.semvascsurg.2024.08.004
+DO  - 10.1053/j.semvascsurg.2024.08.004
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=15584518&id=doi:10.1053%2Fj.semvascsurg.2024.08.004&atitle=Wearable+technology+in+vascular+surgery%3A+Current+applications+and+future+perspectives&stitle=Semin.+Vasc.+Surg.&title=Seminars+in+Vascular+Surgery&volume=37&issue=3&spage=281&epage=289&aulast=Bartos&aufirst=Oana&auinit=O.&aufull=Bartos+O.&coden=SVSUE&isbn=&pages=281-289&date=2024&auinit1=O&auinitm=
+A1  - Bartos, O.
+A1  - Trenner, M.
+M1  - (Bartos O.; Trenner M., mtrenner@joho.de) Department of Vascular Medicine, St. Josefs-Hospital, Beethovenstraße 20, Wiesbaden, Germany
+M1  - (Trenner M., mtrenner@joho.de) School of Medicine, Technical University of Munich, Munich, Germany
+AD  - M. Trenner, Department of Vascular Medicine, St. Josefs-Hospital, Beethovenstraße 20, Wiesbaden, Germany
+T1  - Wearable technology in vascular surgery: Current applications and future perspectives
+LA  - English
+KW  - aging
+KW  - artificial intelligence
+KW  - burnout
+KW  - coronavirus disease 2019
+KW  - digital health
+KW  - health care system
+KW  - human
+KW  - information security
+KW  - machine learning
+KW  - perioperative care
+KW  - person centered care
+KW  - personnel shortage
+KW  - physician
+KW  - remote sensing
+KW  - review
+KW  - secondary prevention
+KW  - smartphone
+KW  - surgery
+KW  - surgical training
+KW  - therapy
+KW  - vascular disease
+KW  - vascular surgery
+KW  - vulnerability
+KW  - wearable device
+KW  - wearable technology
+N2  - The COVID-19 pandemic exposed the vulnerabilities of global health care systems, underscoring the need for innovative solutions to meet the demands of an aging population, workforce shortages, and rising physician burnout. In recent years, wearable technology has helped segue various medical specialties into the digital era, yet its adoption in vascular surgery remains limited. This article explores the applications of wearable devices in vascular surgery and explores their potential outlets, such as enhancing primary and secondary prevention, optimizing perioperative care, and supporting surgical training. The integration of artificial intelligence and machine learning with wearable technology further expands its applications, enabling predictive analytics, personalized care, and remote monitoring. Despite the promising prospects, challenges such as regulatory complexities, data security, and interoperability must be addressed. As the digital health movement unfolds, wearable technology could play a pivotal role in reshaping vascular surgery while offering cost-effective, accessible, and patient-centered care.
+ER  - 
+
+TY  - JOUR
 M3  - Article in Press
 Y1  - 2024
 SP  - 1
@@ -45,6 +99,59 @@ KW  - virtual reality
 KW  - wearable device
 KW  - Web of Science
 N2  - INTRODUCTION: A modern and accessible healthcare system requires digital innovation and connectivity. The term "Digital health" covers vide range technologies, such as mobile health and applications, electronic records, telehealth and telemedicine, wearable devices, robotics, virtual reality and artificial intelligence. METHODS: Scientometrics is the method that we have done in this study by Cite Space and VOSviewer software, and the result of searching the Web of Science database in plain text format to perform analysis and scientometrics and create outputs in the form of graphs and tables in the field of digital health has been used in stroke rehabilitation. RESULT: A total of 2933 documents related to digital health technologies in stroke rehabilitation were identified by searching for the terms "stroke rehabilitation" or "stroke recovery" in the title and "digital health" across all fields. The strongest citations related to cerebrovascular disease spanned from 1994 to 2007, with randomised clinical trials occurring almost simultaneously and ended by 2012. Consequently, stroke rehabilitation by virtual reality technology has obtained the most citations and clinical trials and as an important part of digital health in the future research process. CONCLUSION: This scientometric study offers insights into how digital health technology can assist stroke patients in self-managing their health and well-being, in addition to supporting integrated stroke rehabilitation. The analysis revealed that three themes were present: author contributors and collaboration networks, temporal evolution, the strongest citation explosions for digital health technologies in stroke rehabilitation research, and semantic analysis.
+ER  - 
+
+TY  - GEN
+M3  - Preprint
+Y1  - 2024
+JF  - medRxiv
+JO  - medRxiv
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2033953266&from=export
+U2  - L2033953266
+U4  - 2024-09-12
+L2  - http://dx.doi.org/10.1101/2024.07.10.24310229
+DO  - 10.1101/2024.07.10.24310229
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=&id=doi:10.1101%2F2024.07.10.24310229&atitle=The+telemedical+platform+MyaLink+for+remote+monitoring+in+myasthenia+gravis%3A+Rationale+and+protocol+for+a+proof+of+concept+study&stitle=medRxiv&title=medRxiv&volume=&issue=&spage=&epage=&aulast=Stein&aufirst=Maike&auinit=M.&aufull=Stein+M.&coden=&isbn=&pages=-&date=2024&auinit1=M&auinitm=
+A1  - Stein, M.
+A1  - Meisel, A.
+A1  - Mönch, M.
+A1  - Narayanaswami, P.
+A1  - Sun, H.
+A1  - Herdick, M.
+A1  - Gerischer, L.
+A1  - Lehnerer, S.
+M1  - (Stein M., maike.stein@charite.de; Meisel A.; Herdick M.; Gerischer L.; Lehnerer S.) Charité – Universitätsmedizin Berlin, Freie Universität Berlin, Humboldt-Universität zu Berlin, Department of Neurology with Experimental Neurology, Berlin, Germany
+M1  - (Stein M., maike.stein@charite.de; Meisel A.; Herdick M.; Gerischer L.; Lehnerer S.) Charité – Universitätsmedizin Berlin, Freie Universität Berlin, Humboldt-Universität zu Berlin, Department of Neurology with Experimental Neurology, NeuroScience Clinical Research Center, Berlin, Germany
+M1  - (Stein M., maike.stein@charite.de; Meisel A.; Lehnerer S.) Center for Stroke Research Berlin, Charité – Universitätsmedizin Berlin, Berlin, Germany
+M1  - (Stein M., maike.stein@charite.de; Lehnerer S.) Berlin Institute of Health at Charité, Universitätsmedizin Berlin, Digital Health Center, Berlin, Germany
+M1  - (Stein M., maike.stein@charite.de; Narayanaswami P.; Sun H.) Department of Neurology, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, United States
+M1  - (Mönch M.) Charité – Universitätsmedizin Berlin, Freie Universität Berlin, Humboldt-Universität zu Berlin, Institute of Biometry and Clinical Epidemiology, Berlin, Germany
+AD  - M. Stein, Charité – Universitätsmedizin Berlin, Department of Neurology with Experimental Neurology, Charitéplatz 1, Berlin, Germany
+T1  - The telemedical platform MyaLink for remote monitoring in myasthenia gravis: Rationale and protocol for a proof of concept study
+LA  - English
+KW  - clinical article
+KW  - clinical outcome
+KW  - clinical trial
+KW  - controlled study
+KW  - digital health
+KW  - drug therapy
+KW  - human
+KW  - motor neuron disease
+KW  - muscle weakness
+KW  - myasthenia
+KW  - myasthenia gravis
+KW  - neurologic disease
+KW  - patient-reported outcome
+KW  - person centered care
+KW  - preprint
+KW  - proof of concept
+KW  - protocol
+KW  - randomized controlled trial
+KW  - remote sensing
+KW  - surgery
+KW  - telemedicine
+KW  - wearable device
+N2  - Rationale: Myasthenia gravis (MG) is a rare, chronic neurological disorder leading to fluctuating muscle weakness and potentially life-threatening crises. Patients often require life-long specialized treatment, but timely interventions are frequently hindered by the limited availability of specialists. Telemedical solutions at specialized centers enabling patient-physician interaction hold promise in bridging this gap, but are not yet available for MG. We developed 'MyaLink,' a remote monitoring platform tailored for MG, and outline the study design assessing the platform and clinical outcomes regarding telemedical intervention. Additionally, we present study results on care-related aspects in MG prior to telemedical intervention to identify challenges in the current care provision process. Design: The platform comprises a patient app and a physician portal, enabling systematic symptom monitoring using data from patient-reported outcome measures (PROMs), coupled devices and a communication module. The randomized controlled study included 45 study participants (SP) over a 12-weeks period, including a group receiving standard care (15 MG patients) and a group with additional telemedical treatment (30 MG patients) including assessment of PROMs, wearable data collection and telemedical check-ups. Questions regarding care-related aspects were assessed at baseline visit. Results: Many SP (N=33, 73.3%) communicate with the physician managing their MG via email. 73.3% (N=33) of SP identify areas for improvement in their MG care including symptom monitoring (N=23, 69.7%), specialist appointment availability (N=22, 66.7%), medication (N=22, 66.7%) and specialist accessibility (N=20, 60.6%). Additionally, 73.3% (N=33) reported that the effort required to manage their MG was high. Conclusion: Our results emphasize the high demand of affected MG patients for continuous telemedicine services. MyaLink can provide such a service through personalized support based on the exchange of health data. Telemedicine solutions such as MyaLink promise to improve myasthenia care by providing accessible, patient-centred care that enables early detection of worsening symptoms and non-response to treatment.
 ER  - 
 
 TY  - JOUR

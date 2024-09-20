@@ -49,8 +49,8 @@ def parse_data_from_multiple_sources(databases, sub_topics, output_file=None):
     total_parsed_records, total_skipped_records = 0, 0  # Track totals
     
     # Fields for all parsers
-    selected_fields = ['title', 'authors', 'doi', 'venue', 'abstract', 'publication_language']
-    required_fields = ['title', 'authors', 'venue', 'doi', 'abstract']
+    selected_fields = ['title', 'authors', 'doi', 'venue', 'year', 'abstract', 'publication_language']
+    required_fields = ['title', 'authors', 'venue', 'doi', 'year', 'abstract']
     optional_fields = ['publication_language']
     
     for database_folder in databases:
@@ -78,4 +78,5 @@ if __name__ == "__main__":
     sub_topics = input("Enter sub-topics (comma-separated, e.g., ai methods, accessibility): ").split(", ")
     output_file = input("Enter the output CSV file path (optional, leave blank for default): ")
 
+    # parse_data_from_multiple_sources(["embase", "ieee_xplore", "pubmed", "scopus"], sub_topics, output_file)
     parse_data_from_multiple_sources(databases, sub_topics, output_file)

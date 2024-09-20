@@ -348,39 +348,6 @@ AB  - Remote patient monitoring system is perhaps the most well-known concept th
 ER  - 
 
 TY  - CONF
-TI  - Survey on Health Care Monitoring of Paralyzed People
-T2  - 2024 IEEE International Conference on Big Data & Machine Learning (ICBDML)
-SP  - 290
-EP  - 294
-AU  - K. Makanyadevi
-AU  - M. V. S
-AU  - S. M
-AU  - T. B. A
-PY  - 2024
-KW  - Surveys
-KW  - Industries
-KW  - Cloud computing
-KW  - Engineering profession
-KW  - Medical treatment
-KW  - Machine learning
-KW  - Real-time systems
-KW  - Paralyzed people health monitoring
-KW  - IoT
-KW  - Comprehensive survey
-KW  - Artificial intelligence
-KW  - Deep learning
-DO  - 10.1109/ICBDML60909.2024.10577416
-JO  - 2024 IEEE International Conference on Big Data & Machine Learning (ICBDML)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2024 IEEE International Conference on Big Data & Machine Learning (ICBDML)
-Y1  - 24-25 Feb. 2024
-AB  - Health monitoring is one of the industries that is now on the rise and making quick strides in its development. According to the technological developments in healthcare systems, several analysts have suggested various arrangements for monitoring the health of paralyzed persons. The Internet is widely used nowadays, and one recent area that has seen growth is the Internet of Things (IoT), which many people have chosen to incorporate into a variety of applications. IoT is commonly utilized to link many easily accessible medical and related device resources. For individuals who are paralyzed, it offers amazing, efficient, and productive medical treatments. The secret to assist and dynamic living—which actively helps and modifies the paralyzed person by keeping an eye on his health—is to continuously improve the quality of life for those who are paralyzed. We provide a quick summary of the most current findings and advancements in the field of health monitoring systems for paralyzed people.
-ER  - 
-
-TY  - CONF
 TI  - Performance Modeling and Analysis of Internet of Things Enabled Healthcare Monitoring Systems
 T2  - 2023 IEEE 15th International Conference on Computational Intelligence and Communication Networks (CICN)
 SP  - 171
@@ -412,6 +379,39 @@ VL  -
 JA  - 2023 IEEE 15th International Conference on Computational Intelligence and Communication Networks (CICN)
 Y1  - 22-23 Dec. 2023
 AB  - The rise of the Internet of Things (IoT) has brought about significant changes in the healthcare sector, leading to the development of more advanced healthcare monitoring systems. To ensure that these systems are dependable and effective, it is crucial to conduct performance modeling and analysis. This research is focused on evaluating the performance of healthcare monitoring systems enabled by IoT. It takes into account various factors, including IoT network infrastructure, communication protocols, data processing, and storage. Moreover, the study utilizes machine learning technique that is Artificial Neural Network to assess healthcare data collected through IoT networks. By employing simulationbased methods, this investigation models how the system behaves and evaluates its performance using metrics like response time, throughput, and reliability. The findings from this study provide valuable insights into the performance of these systems, pinpointing areas where improvements can enhance the overall efficiency of healthcare monitoring systems. As a result, this research makes a substantial contribution to the improvement of efficient IoT-enabled healthcare monitoring systems, which, in turn, offer dependable and cost-effective healthcare solutions.
+ER  - 
+
+TY  - CONF
+TI  - Survey on Health Care Monitoring of Paralyzed People
+T2  - 2024 IEEE International Conference on Big Data & Machine Learning (ICBDML)
+SP  - 290
+EP  - 294
+AU  - K. Makanyadevi
+AU  - M. V. S
+AU  - S. M
+AU  - T. B. A
+PY  - 2024
+KW  - Surveys
+KW  - Industries
+KW  - Cloud computing
+KW  - Engineering profession
+KW  - Medical treatment
+KW  - Machine learning
+KW  - Real-time systems
+KW  - Paralyzed people health monitoring
+KW  - IoT
+KW  - Comprehensive survey
+KW  - Artificial intelligence
+KW  - Deep learning
+DO  - 10.1109/ICBDML60909.2024.10577416
+JO  - 2024 IEEE International Conference on Big Data & Machine Learning (ICBDML)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Big Data & Machine Learning (ICBDML)
+Y1  - 24-25 Feb. 2024
+AB  - Health monitoring is one of the industries that is now on the rise and making quick strides in its development. According to the technological developments in healthcare systems, several analysts have suggested various arrangements for monitoring the health of paralyzed persons. The Internet is widely used nowadays, and one recent area that has seen growth is the Internet of Things (IoT), which many people have chosen to incorporate into a variety of applications. IoT is commonly utilized to link many easily accessible medical and related device resources. For individuals who are paralyzed, it offers amazing, efficient, and productive medical treatments. The secret to assist and dynamic living—which actively helps and modifies the paralyzed person by keeping an eye on his health—is to continuously improve the quality of life for those who are paralyzed. We provide a quick summary of the most current findings and advancements in the field of health monitoring systems for paralyzed people.
 ER  - 
 
 TY  - CONF
@@ -572,6 +572,42 @@ Y1  - 15-17 March 2023
 AB  - The use of smart wearable devices in health care has proliferated rapidly in the past few years in diagnosis, prevention, prediction and treatment. This has been made possible through the continuous technological advances like artificial intelligence, internet of things that allows continuous 24×7 monitoring of health, activity, mobility, and mental status. In spite of their benefits there are still challenges related to their adoption. If the challenges and barriers in adoption are identified it may help to expand their increased adoption. The current study adopts text mining approach through R to retrieve information from articles published in Pubmed and Google scholar. Based on the occurrence frequency of the words six major themes were identified as notable challenges and barriers. They are related to sensor, devices, data, monitoring and system. The other challenges identified were related to security, lack of regulation, risk of data loss, accuracy and ethics. The results prove that it is possible to extract information through textmining.
 ER  - 
 
+TY  - CONF
+TI  - Review On: Pediatric Asthma Care with IoT Continuous Air Quality Monitoring and Wearable Sensing Technology
+T2  - 2023 2nd International Conference on Automation, Computing and Renewable Systems (ICACRS)
+SP  - 297
+EP  - 302
+AU  - S. Shanmugapriya
+AU  - S. Mariammal
+AU  - P. Angeeswari
+PY  - 2023
+KW  - Pediatrics
+KW  - Cloud computing
+KW  - Pollution measurement
+KW  - Wearable devices
+KW  - Wearable sensors
+KW  - Monitoring
+KW  - Asthma
+KW  - IoT
+KW  - ozone
+KW  - Nitrogen dioxide
+KW  - formaldehyde
+KW  - wearable device
+KW  - stationary box
+KW  - fuel cell technology server
+KW  - Bluetooth
+KW  - WIFI or cellular
+DO  - 10.1109/ICACRS58579.2023.10404238
+JO  - 2023 2nd International Conference on Automation, Computing and Renewable Systems (ICACRS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 2nd International Conference on Automation, Computing and Renewable Systems (ICACRS)
+Y1  - 11-13 Dec. 2023
+AB  - Pediatric asthma is common respiratory disorder that affecting children all over the world. Our innovative Internet of Things (IoT) sensory system offers Continuous observation of pediatric asthma, connecting to the cloud for data analysis and alert the caregivers. This technology enhances care, enabling remote monitoring and improving adherence, ultimately improving the lives of children with asthma. With help of wearable and stationary IoT sensors to monitor air pollution, specifically NO2 and aldehyde contact, in pediatric asthma patients. Wearable device offers continuous monitoring and its sensor can measure the formaldehyde in air using fuel cell technology while stationary sensors contribute to community -level data collection and measure ozone ad NO2. Wireless Communication between wearable device and stationary box through Bluetooth and storing data in server via Wi-Fi or cellular. This study is specifically focused on pediatric asthma and utilizes wearable devices and stationary sensors to help prevent severe asthma triggers and alert caregivers.
+ER  - 
+
 TY  - JOUR
 TI  - Artificial Intelligence Internet of Things for the Elderly: From Assisted Living to Health-Care Monitoring
 T2  - IEEE Signal Processing Magazine
@@ -641,42 +677,6 @@ VL  - 10
 JA  - IEEE Access
 Y1  - 2022
 AB  - Wireless Body Area Network (WBAN) is a special purpose wireless sensors network designed to connect various self-autonomous medical sensors and appliances located inside and outside of human body. Interests in human Healthcare Monitoring System (HMS) are based on WBAN due to the increasing aging population and chronically ill patients at home. HMS is expected to reduce healthcare expenses by enabling the continuous monitoring of patient’s health remotely in daily life activities. This research focuses on routing protocols in WBAN. The major problems in routing protocols are maximum energy consumption, path loss ratio, packet delivery ratio and maintaining stable signal to noise ratio. Real time analysis is required in HMS to support the patients through doctors, caregivers and hospital systems. Collected data is relayed by using existing wireless communication schemes towards the access point for further retransmission and processing. In this research, an Improved Quality of Service aware Routing Protocol (IM-QRP) is proposed for WBAN based HMS to remotely monitor the elderly people or chronically ill patients in hospitals and residential environments. The proposed protocol is capable to improve 10% residual energy, 30% reduction in path loss ratio, 10% improvement in packet transmission (link reliability) and 7% improvement in SNR as compared to existing CO-LEEBA and QPRD routing protocols. Convolutional Neural Network is used outside the WBAN environment to analyze the medical health records for healthcare diagnosis and intelligent decision-making.
-ER  - 
-
-TY  - CONF
-TI  - Review On: Pediatric Asthma Care with IoT Continuous Air Quality Monitoring and Wearable Sensing Technology
-T2  - 2023 2nd International Conference on Automation, Computing and Renewable Systems (ICACRS)
-SP  - 297
-EP  - 302
-AU  - S. Shanmugapriya
-AU  - S. Mariammal
-AU  - P. Angeeswari
-PY  - 2023
-KW  - Pediatrics
-KW  - Cloud computing
-KW  - Pollution measurement
-KW  - Wearable devices
-KW  - Wearable sensors
-KW  - Monitoring
-KW  - Asthma
-KW  - IoT
-KW  - ozone
-KW  - Nitrogen dioxide
-KW  - formaldehyde
-KW  - wearable device
-KW  - stationary box
-KW  - fuel cell technology server
-KW  - Bluetooth
-KW  - WIFI or cellular
-DO  - 10.1109/ICACRS58579.2023.10404238
-JO  - 2023 2nd International Conference on Automation, Computing and Renewable Systems (ICACRS)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2023 2nd International Conference on Automation, Computing and Renewable Systems (ICACRS)
-Y1  - 11-13 Dec. 2023
-AB  - Pediatric asthma is common respiratory disorder that affecting children all over the world. Our innovative Internet of Things (IoT) sensory system offers Continuous observation of pediatric asthma, connecting to the cloud for data analysis and alert the caregivers. This technology enhances care, enabling remote monitoring and improving adherence, ultimately improving the lives of children with asthma. With help of wearable and stationary IoT sensors to monitor air pollution, specifically NO2 and aldehyde contact, in pediatric asthma patients. Wearable device offers continuous monitoring and its sensor can measure the formaldehyde in air using fuel cell technology while stationary sensors contribute to community -level data collection and measure ozone ad NO2. Wireless Communication between wearable device and stationary box through Bluetooth and storing data in server via Wi-Fi or cellular. This study is specifically focused on pediatric asthma and utilizes wearable devices and stationary sensors to help prevent severe asthma triggers and alert caregivers.
 ER  - 
 
 TY  - JOUR
@@ -781,6 +781,39 @@ AB  - As the world population ages and the frequency of chronic diseases grows, 
 ER  - 
 
 TY  - CONF
+TI  - Early Detection of Breast Cancer with IoT: A Promising Solution
+T2  - 2023 International Conference on Advances in Computing, Communication and Applied Informatics (ACCAI)
+SP  - 1
+EP  - 6
+AU  - H. D
+AU  - A. D. S
+AU  - A. Begum
+AU  - P. Hemanth
+PY  - 2023
+KW  - Machine learning algorithms
+KW  - Wearable computers
+KW  - Sociology
+KW  - Sensitivity and specificity
+KW  - Breast cancer
+KW  - Sensor systems
+KW  - Internet of Things
+KW  - Breast cancer
+KW  - Internet of Things (IoT)
+KW  - Wearables Sensors
+KW  - Machine learning algorithms
+KW  - Remote patient monitoring
+DO  - 10.1109/ACCAI58221.2023.10199910
+JO  - 2023 International Conference on Advances in Computing, Communication and Applied Informatics (ACCAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Advances in Computing, Communication and Applied Informatics (ACCAI)
+Y1  - 25-26 May 2023
+AB  - Breast cancer is a serious health concern that affects millions of women worldwide. Early detection is crucial for effective management and increasing the chances of survival. However, traditional methods of breast cancer detection can be time-consuming, expensive, and inaccessible to many women. In recent years, the Internet of Things (IoT) has emerged as a promising solution for healthcare providers to monitor and manage patients remotely. By leveraging IoT devices such as wearables and sensors, healthcare providers can collect data on patients' health and track changes over time. This paper explores the use of IoT in breast cancer detection and management. Breast Cancer Detection System using IoT presented in this work that combines wearable devices and sensors to monitor changes in breast tissue and collect data on a patient's health. The collected data is analysed using machine learning algorithms to identify potential abnormalities and provide early warning signs of breast cancer. The system is designed to be affordable and accessible, making it particularly suitable for use in low-income or rural areas where traditional methods of breast cancer detection may not be available.
+ER  - 
+
+TY  - CONF
 TI  - A Holistic and State of the Art of Understanding the Linkages of Smart-City Healthcare Technologies
 T2  - 2022 3rd International Conference on Smart Electronics and Communication (ICOSEC)
 SP  - 1575
@@ -814,39 +847,6 @@ VL  -
 JA  - 2022 3rd International Conference on Smart Electronics and Communication (ICOSEC)
 Y1  - 20-22 Oct. 2022
 AB  - One can expect a day to come where internet would connect people from across the globe whenever required and become a mainstay for business function. But the realization of this would need a lot of time. Internet of Things is still in a primary stage and development has a long way to go. Wide range applications for IoT require infrastructure, application architecture, security measures and a standard system is yet to be established. By introducing IoT, several challenges, constraints, security concerns have to be addressed differently unlike the currently existing data systems. The current systems use make use of easy to implement standards and these are compatible for most of the devices used in communications and storage systems. But no such standard exists for devices using IoT owing to the various constraints arising between different devices that results in different classifications within IoT itself. It also discusses the requirement of security architectures for IoT and feasible mechanisms that can be implemented for various architecture layers of IoT for e-Health applications. The challenges faced in order to integrate IoT into health care applications are also discussed alongside the standards and security mechanisms. IoT can be considered as a key to providing improved medical facilities for patients whilst facilitating doctors, staff and hospitals. Most importantly, this work presents the ways to handle security for implementing IoT in healthcare sector not only in the currently existing systems but also for future applications. The current systems that use various domains and different technologies have been studied and analyzed to present a clear and precise solutions to challenges faced by IoT implementations as of today.This electronic document is a “live” template and already defines the components of you
-ER  - 
-
-TY  - CONF
-TI  - Early Detection of Breast Cancer with IoT: A Promising Solution
-T2  - 2023 International Conference on Advances in Computing, Communication and Applied Informatics (ACCAI)
-SP  - 1
-EP  - 6
-AU  - H. D
-AU  - A. D. S
-AU  - A. Begum
-AU  - P. Hemanth
-PY  - 2023
-KW  - Machine learning algorithms
-KW  - Wearable computers
-KW  - Sociology
-KW  - Sensitivity and specificity
-KW  - Breast cancer
-KW  - Sensor systems
-KW  - Internet of Things
-KW  - Breast cancer
-KW  - Internet of Things (IoT)
-KW  - Wearables Sensors
-KW  - Machine learning algorithms
-KW  - Remote patient monitoring
-DO  - 10.1109/ACCAI58221.2023.10199910
-JO  - 2023 International Conference on Advances in Computing, Communication and Applied Informatics (ACCAI)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2023 International Conference on Advances in Computing, Communication and Applied Informatics (ACCAI)
-Y1  - 25-26 May 2023
-AB  - Breast cancer is a serious health concern that affects millions of women worldwide. Early detection is crucial for effective management and increasing the chances of survival. However, traditional methods of breast cancer detection can be time-consuming, expensive, and inaccessible to many women. In recent years, the Internet of Things (IoT) has emerged as a promising solution for healthcare providers to monitor and manage patients remotely. By leveraging IoT devices such as wearables and sensors, healthcare providers can collect data on patients' health and track changes over time. This paper explores the use of IoT in breast cancer detection and management. Breast Cancer Detection System using IoT presented in this work that combines wearable devices and sensors to monitor changes in breast tissue and collect data on a patient's health. The collected data is analysed using machine learning algorithms to identify potential abnormalities and provide early warning signs of breast cancer. The system is designed to be affordable and accessible, making it particularly suitable for use in low-income or rural areas where traditional methods of breast cancer detection may not be available.
 ER  - 
 
 TY  - CONF
@@ -987,39 +987,6 @@ AB  - The past few decades have witnessed a significant growth in the field of m
 ER  - 
 
 TY  - CONF
-TI  - Noninvasive Wearable Device for Monitoring and Assisting Asthma Patients
-T2  - 2023 International Conference on Artificial Intelligence and Applications (ICAIA) Alliance Technology Conference (ATCON-1)
-SP  - 1
-EP  - 4
-AU  - B. M. Himani
-AU  - D. A. Prakash
-AU  - N. Mahendra
-AU  - G. R. Asha
-PY  - 2023
-KW  - Wearable computers
-KW  - Lung
-KW  - Medical services
-KW  - Predictive models
-KW  - Internet of Things
-KW  - Wearable sensors
-KW  - Smart phones
-KW  - Asthma
-KW  - PEFR
-KW  - IoT
-KW  - Sensors
-KW  - Severity Prediction
-DO  - 10.1109/ICAIA57370.2023.10169176
-JO  - 2023 International Conference on Artificial Intelligence and Applications (ICAIA) Alliance Technology Conference (ATCON-1)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2023 International Conference on Artificial Intelligence and Applications (ICAIA) Alliance Technology Conference (ATCON-1)
-Y1  - 21-22 April 2023
-AB  - Asthma is a chronic condition that affects the air passages in the lungs, causing symptoms such as cough, wheeze, shortness of breath, and chest tightness, which can be triggered by various factors including viral infections, dust, smoke, pollen, and soaps. It can affect patients’ daily lives in many harsh, debilitating ways, severe cases can lead to emergency health care, hospitalization, and even death. Although asthma can’t be cured, good management with inhaled medications can control the disease and enable people with asthma to lead a normal, active life. One of the ways in which asthma management becomes easier is the prediction of severity of asthma exacerbations in a patient. This model utilizes sensors and data collected from IoT devices and smartphones to predict asthma risk and severity. The model is trained on a dataset of asthma patients and takes into account various factors such as symptoms, triggers, and objective test results. The model is integrated with a non-invasive wearable device through bluetooth. The device itself adopts the latest IoT technologies to collect data about the patient’s whereabouts, their triggers as well as the condition of their disease. As the wearable device collects information from the sensor, this data is stored in the web application, where it can be compared to the previously collected readings to predict the severity of the asthma patient. The web application provides an interface between the patient and the data collected for prediction. This system significantly benefits asthma patients by providing a way to manage their condition better.
-ER  - 
-
-TY  - CONF
 TI  - Evaluating the Accuracy of Wearable Devices for Positioning Classification
 T2  - 2024 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)
 SP  - 1
@@ -1057,35 +1024,36 @@ AB  - Satellite-based positioning is among the useful functionalities provided b
 ER  - 
 
 TY  - CONF
-TI  - IoT based Automated Health Care Monitoring System for Smart City
-T2  - 2021 5th International Conference on Computing Methodologies and Communication (ICCMC)
-SP  - 364
-EP  - 368
-AU  - S. Gera
-AU  - M. Mridul
-AU  - S. Sharma
-PY  - 2021
-KW  - Industries
-KW  - Hospitals
-KW  - Smart cities
-KW  - Telemedicine
-KW  - Sensor systems
+TI  - Noninvasive Wearable Device for Monitoring and Assisting Asthma Patients
+T2  - 2023 International Conference on Artificial Intelligence and Applications (ICAIA) Alliance Technology Conference (ATCON-1)
+SP  - 1
+EP  - 4
+AU  - B. M. Himani
+AU  - D. A. Prakash
+AU  - N. Mahendra
+AU  - G. R. Asha
+PY  - 2023
+KW  - Wearable computers
+KW  - Lung
+KW  - Medical services
+KW  - Predictive models
 KW  - Internet of Things
-KW  - Medical diagnostic imaging
-KW  - Healthcare
+KW  - Wearable sensors
+KW  - Smart phones
+KW  - Asthma
+KW  - PEFR
 KW  - IoT
-KW  - sensors
-KW  - Smart City
-KW  - Automation
-DO  - 10.1109/ICCMC51019.2021.9418487
-JO  - 2021 5th International Conference on Computing Methodologies and Communication (ICCMC)
+KW  - Sensors
+KW  - Severity Prediction
+DO  - 10.1109/ICAIA57370.2023.10169176
+JO  - 2023 International Conference on Artificial Intelligence and Applications (ICAIA) Alliance Technology Conference (ATCON-1)
 IS  - 
 SN  - 
 VO  - 
 VL  - 
-JA  - 2021 5th International Conference on Computing Methodologies and Communication (ICCMC)
-Y1  - 8-10 April 2021
-AB  - In the healthcare sector, the Internet of Things (IoT) has sharpened the world by providing improved patient care, such as remote monitoring, tele monitoring and widening the scope of telemedicine. IoT plays a key role in the medical industry by providing better medical facilities for patients as well as for physicians and hospitals. The proposed system consists of five basic components, namely patient data collection, generation of patient primary reports, hospital patient care, pharmacist patient care and diagnostics. The objective of the proposed system is to provide excellent patient support even in remote areas, which could be smart enough to analyze the data collected by wearable IoT sensors and would be able to provide a recommendation for a check-up. The proposed system will also create an interface between the patient, the physician, the pharmacist and the diagnostician and will also improve decision-making skills and ease the traditional flow of the normal healthcare system.
+JA  - 2023 International Conference on Artificial Intelligence and Applications (ICAIA) Alliance Technology Conference (ATCON-1)
+Y1  - 21-22 April 2023
+AB  - Asthma is a chronic condition that affects the air passages in the lungs, causing symptoms such as cough, wheeze, shortness of breath, and chest tightness, which can be triggered by various factors including viral infections, dust, smoke, pollen, and soaps. It can affect patients’ daily lives in many harsh, debilitating ways, severe cases can lead to emergency health care, hospitalization, and even death. Although asthma can’t be cured, good management with inhaled medications can control the disease and enable people with asthma to lead a normal, active life. One of the ways in which asthma management becomes easier is the prediction of severity of asthma exacerbations in a patient. This model utilizes sensors and data collected from IoT devices and smartphones to predict asthma risk and severity. The model is trained on a dataset of asthma patients and takes into account various factors such as symptoms, triggers, and objective test results. The model is integrated with a non-invasive wearable device through bluetooth. The device itself adopts the latest IoT technologies to collect data about the patient’s whereabouts, their triggers as well as the condition of their disease. As the wearable device collects information from the sensor, this data is stored in the web application, where it can be compared to the previously collected readings to predict the severity of the asthma patient. The web application provides an interface between the patient and the data collected for prediction. This system significantly benefits asthma patients by providing a way to manage their condition better.
 ER  - 
 
 TY  - CONF
@@ -1120,6 +1088,38 @@ AB  - With the modern technological innovations every industry is transforming i
 ER  - 
 
 TY  - CONF
+TI  - IoT based Automated Health Care Monitoring System for Smart City
+T2  - 2021 5th International Conference on Computing Methodologies and Communication (ICCMC)
+SP  - 364
+EP  - 368
+AU  - S. Gera
+AU  - M. Mridul
+AU  - S. Sharma
+PY  - 2021
+KW  - Industries
+KW  - Hospitals
+KW  - Smart cities
+KW  - Telemedicine
+KW  - Sensor systems
+KW  - Internet of Things
+KW  - Medical diagnostic imaging
+KW  - Healthcare
+KW  - IoT
+KW  - sensors
+KW  - Smart City
+KW  - Automation
+DO  - 10.1109/ICCMC51019.2021.9418487
+JO  - 2021 5th International Conference on Computing Methodologies and Communication (ICCMC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 5th International Conference on Computing Methodologies and Communication (ICCMC)
+Y1  - 8-10 April 2021
+AB  - In the healthcare sector, the Internet of Things (IoT) has sharpened the world by providing improved patient care, such as remote monitoring, tele monitoring and widening the scope of telemedicine. IoT plays a key role in the medical industry by providing better medical facilities for patients as well as for physicians and hospitals. The proposed system consists of five basic components, namely patient data collection, generation of patient primary reports, hospital patient care, pharmacist patient care and diagnostics. The objective of the proposed system is to provide excellent patient support even in remote areas, which could be smart enough to analyze the data collected by wearable IoT sensors and would be able to provide a recommendation for a check-up. The proposed system will also create an interface between the patient, the physician, the pharmacist and the diagnostician and will also improve decision-making skills and ease the traditional flow of the normal healthcare system.
+ER  - 
+
+TY  - CONF
 TI  - Subject-Independent Slow Fall Detection with Wearable Sensors via Deep Learning
 T2  - 2020 IEEE SENSORS
 SP  - 1
@@ -1151,41 +1151,6 @@ VL  -
 JA  - 2020 IEEE SENSORS
 Y1  - 25-28 Oct. 2020
 AB  - One of the major healthcare challenges is elderly fallers. A fall can lead to disabilities and even mortality. With the current Covid-19 pandemic, insufficient resources could be provided for the care of elderlies, and care workers often may not be able to visit them. Therefore, a fall may get undetected or delayed leading to serious harm or consequences. Automatic fall detection systems could provide the necessary detection and warnings for timely intervention. Although many sensor-based fall detection systems have been proposed, most systems focus on the sudden fall and have not considered the slow fall scenario, a typical fall instance for elderly fallers. In this paper, a robust activity (RA) and slow fall detection system is proposed. The system consists of a waist-worn wearable sensor embedded with an inertial measurement unit (IMU) and a barometer, and a reference ambient barometer. A deep neural network (DNN) is developed for fusing the sensor data and classifying fall events. The results have shown that the IMU-barometer design yield better detection of fall events and the DNN approach (90.33% accuracy) outperforms traditional machine learning algorithms.
-ER  - 
-
-TY  - JOUR
-TI  - Explainable AI for Event and Anomaly Detection and Classification in Healthcare Monitoring Systems
-T2  - IEEE Internet of Things Journal
-SP  - 3446
-EP  - 3457
-AU  - M. Abououf
-AU  - S. Singh
-AU  - R. Mizouni
-AU  - H. Otrok
-PY  - 2024
-KW  - Medical diagnostic imaging
-KW  - Medical services
-KW  - Artificial intelligence
-KW  - Anomaly detection
-KW  - Internet of Things
-KW  - Monitoring
-KW  - Biomedical monitoring
-KW  - Anomaly detection
-KW  - classification
-KW  - deep learning
-KW  - event detection
-KW  - explainable Artificial intelligence (XAI)
-KW  - Medical Internet of Things (MIoT)
-KW  - Shapley additive explanation (SHAP)
-DO  - 10.1109/JIOT.2023.3296809
-JO  - IEEE Internet of Things Journal
-IS  - 2
-SN  - 2327-4662
-VO  - 11
-VL  - 11
-JA  - IEEE Internet of Things Journal
-Y1  - 15 Jan.15, 2024
-AB  - Artificial intelligence (AI) has the potential to revolutionize healthcare by automating the detection and classification of events and anomalies. In the scope of this work, events and anomalies are abnormalities in the patient’s data, where the former are due to a medical condition, such as a seizure or a fall, and the latter are erroneous data due to faults or malicious attacks. AI-based event and anomaly detection (EAD) and their classification can improve patient outcomes by identifying problems earlier, enabling more timely interventions while minimizing false alarms caused by anomalies. Moreover, the advancement of Medical Internet of Things (MIoT), or wearable devices, and their high processing capabilities facilitated the gathering, AI-based processing, and transmission of data, which enabled remote patient monitoring, and personalized and predictive healthcare. However, it is fundamental in healthcare to ensure the explainability of AI systems, meaning that they can provide understandable and transparent reasoning for their decisions. This article proposes an online EAD approach using a lightweight autoencoder (AE) on the MIoT. The detected abnormality is explained using KernelSHAP, an explainable AI (XAI) technique, where the explanation of the abnormality is used, by an artificial neural network (ANN), to classify it into an event or anomaly. Intensive simulations are conducted using the Medical Information Mart for Intensive Care (MIMIC) data set for various physiological data. Results showed the robustness of the proposed approach in the detection and classification of events, regardless of the percentage of the present anomalies.
 ER  - 
 
 TY  - CONF
@@ -1226,6 +1191,73 @@ AB  - AI and IoT can revolutionize patient care and monitoring. This presentatio
 ER  - 
 
 TY  - CONF
+TI  - Current Advancements in Cardiovascular Disease Management using Artificial Intelligence and Machine Learning Models: Current Scenario and Challenges
+T2  - 2022 10th International Conference on Emerging Trends in Engineering and Technology - Signal and Information Processing (ICETET-SIP-22)
+SP  - 1
+EP  - 6
+AU  - K. Bhadri
+AU  - N. Karnik
+AU  - P. Dhatrak
+PY  - 2022
+KW  - Pandemics
+KW  - Wearable computers
+KW  - Machine learning
+KW  - Medical services
+KW  - Electrocardiography
+KW  - Market research
+KW  - Software
+KW  - Artificial Intelligence (AI)
+KW  - Cardiology
+KW  - DL (deep learning)
+KW  - Medical imaging
+KW  - ML (machine learning)
+DO  - 10.1109/ICETET-SIP-2254415.2022.9791776
+JO  - 2022 10th International Conference on Emerging Trends in Engineering and Technology - Signal and Information Processing (ICETET-SIP-22)
+IS  - 
+SN  - 2157-0485
+VO  - 
+VL  - 
+JA  - 2022 10th International Conference on Emerging Trends in Engineering and Technology - Signal and Information Processing (ICETET-SIP-22)
+Y1  - 29-30 April 2022
+AB  - Recently, Artificial Intelligence (AI) and Machine Learning (ML) have been significant contributors to the development of sophisticated systems and models for cardiovascular disease (CVD) management. There is a wide scope of applications available today. Electrocardiography (ECG), cardiovascular image analysis and wearables for remote monitoring are the most consistently developing domains that are beginning to be AI-driven as technology and software advance over time. Furthermore, throughout the COVID-19 pandemic, AI has been utilised for cardiovascular disease management, drug targeting and risk analysis. The aim of the review is to highlight the recent advancements related to CVD management using AI and ML-based technologies. The works of literature reviewed in the present study consider the advancements of AI and ML-based CVD management technologies developed in the past decade. The different methods and technologies were studied, the working of various AI and ML algorithms have been discussed and few research gaps have been identified. The current implementations of AI algorithms lay a foundation to reduce the time and effort required to develop newer systems for future developments. Subsequently, overcoming the limitations of data processing techniques, many parameters required, and standardized datasets will improve the accuracy, implementation and interoperability of the AI and ML-based technologies for seamless integration in healthcare.
+ER  - 
+
+TY  - JOUR
+TI  - Explainable AI for Event and Anomaly Detection and Classification in Healthcare Monitoring Systems
+T2  - IEEE Internet of Things Journal
+SP  - 3446
+EP  - 3457
+AU  - M. Abououf
+AU  - S. Singh
+AU  - R. Mizouni
+AU  - H. Otrok
+PY  - 2024
+KW  - Medical diagnostic imaging
+KW  - Medical services
+KW  - Artificial intelligence
+KW  - Anomaly detection
+KW  - Internet of Things
+KW  - Monitoring
+KW  - Biomedical monitoring
+KW  - Anomaly detection
+KW  - classification
+KW  - deep learning
+KW  - event detection
+KW  - explainable Artificial intelligence (XAI)
+KW  - Medical Internet of Things (MIoT)
+KW  - Shapley additive explanation (SHAP)
+DO  - 10.1109/JIOT.2023.3296809
+JO  - IEEE Internet of Things Journal
+IS  - 2
+SN  - 2327-4662
+VO  - 11
+VL  - 11
+JA  - IEEE Internet of Things Journal
+Y1  - 15 Jan.15, 2024
+AB  - Artificial intelligence (AI) has the potential to revolutionize healthcare by automating the detection and classification of events and anomalies. In the scope of this work, events and anomalies are abnormalities in the patient’s data, where the former are due to a medical condition, such as a seizure or a fall, and the latter are erroneous data due to faults or malicious attacks. AI-based event and anomaly detection (EAD) and their classification can improve patient outcomes by identifying problems earlier, enabling more timely interventions while minimizing false alarms caused by anomalies. Moreover, the advancement of Medical Internet of Things (MIoT), or wearable devices, and their high processing capabilities facilitated the gathering, AI-based processing, and transmission of data, which enabled remote patient monitoring, and personalized and predictive healthcare. However, it is fundamental in healthcare to ensure the explainability of AI systems, meaning that they can provide understandable and transparent reasoning for their decisions. This article proposes an online EAD approach using a lightweight autoencoder (AE) on the MIoT. The detected abnormality is explained using KernelSHAP, an explainable AI (XAI) technique, where the explanation of the abnormality is used, by an artificial neural network (ANN), to classify it into an event or anomaly. Intensive simulations are conducted using the Medical Information Mart for Intensive Care (MIMIC) data set for various physiological data. Results showed the robustness of the proposed approach in the detection and classification of events, regardless of the percentage of the present anomalies.
+ER  - 
+
+TY  - CONF
 TI  - Application of Machine Learning and Cloud Computing for Observing Health Status of Patients Remotely in Healthcare System
 T2  - 2023 International Conference on Advances in Computation, Communication and Information Technology (ICAICCIT)
 SP  - 1391
@@ -1254,6 +1286,41 @@ VL  -
 JA  - 2023 International Conference on Advances in Computation, Communication and Information Technology (ICAICCIT)
 Y1  - 23-24 Nov. 2023
 AB  - Strategies that may gain insight from both labeled and unlabeled data as well as from their environment are being developed through the use of machine learning. Machine learning is applied in many domains, but it is most commonly used in the healthcare sector, where it offers substantial benefits through suitable decision- and prediction-making techniques. A online system which can continuously monitor the individual’s condition and generate an alert when needed is introduced by the proposed work. This suggested methodology uses cloud computing and various machine learning algorithms to store data continuously. To identify risks and provide the right treatment and diagnosis, physicians analyze medical data using machine learning techniques and tools. The range of remote healthcare services includes monitoring elderly patients, premature children, patients with chronic illnesses, and victims of accidents. The current study investigates how machine learning technologies can be used to monitor patients who are located remotely and provide real-time alerts about their condition via a remote system.
+ER  - 
+
+TY  - CONF
+TI  - Classification of Human Motion Activities using Mobile Phone Sensors and Deep Learning Model
+T2  - 2022 8th International Conference on Advanced Computing and Communication Systems (ICACCS)
+SP  - 1381
+EP  - 1386
+AU  - Y. A. Khan
+AU  - S. Imaduddin
+AU  - R. Prabhat
+AU  - M. Wajid
+PY  - 2022
+KW  - Deep learning
+KW  - Training
+KW  - Solid modeling
+KW  - Magnetic sensors
+KW  - Wearable computers
+KW  - Computational modeling
+KW  - Virtual reality
+KW  - Deep Learning
+KW  - Deep Neural Network
+KW  - Human Activity Recognition
+KW  - LSTM Network
+KW  - Classification Algorithm
+KW  - MEMS Sensors
+KW  - Mobile & Wearable Devices
+DO  - 10.1109/ICACCS54159.2022.9785009
+JO  - 2022 8th International Conference on Advanced Computing and Communication Systems (ICACCS)
+IS  - 
+SN  - 2575-7288
+VO  - 1
+VL  - 1
+JA  - 2022 8th International Conference on Advanced Computing and Communication Systems (ICACCS)
+Y1  - 25-26 March 2022
+AB  - Recently, human activity recognition (HAR) has gained a lot of importance due to its wide range of applications in virtual reality, healthcare, surveillance, security, automated control systems, etc. Latest mobile phones have advanced computational capabilities along with several embedded MEMS sensors, which enable us to detect various physical activities unobtrusively. Incorporating personalized motion samples can improve the accuracy of motion detection by mobile devices or wearable devices that are tailored to the individual. Recent works have demonstrated that the use of machine learning and statistical techniques can detect human activities more accurately. In this paper, we have classified two different physical activities, viz., walking and brisk-walking using a deep neural network (DNN). The personalized data has been collected using multiple sensors of the mobile phone with the two kinds of physical activity. Using mobile phone sensors like accelerometer, gyroscope, magnetometer, etc, data has been collected, examined, and used for training and testing the DNN model. Out of multiple sensors on the phone, we have identified the sensors which are more appropriate for the given motion/activities. Finally, we have achieved a classification accuracy of 96.5%.
 ER  - 
 
 TY  - JOUR
@@ -1297,73 +1364,6 @@ VL  - 10
 JA  - IEEE Access
 Y1  - 2022
 AB  - Wearable technology has played an essential role in the Mobile Health (mHealth) sector for diagnosis, treatment, and rehabilitation of numerous diseases and disorders. One such neuro-degenerative disorder is Parkinson’s Disease (PD). It is categorized by motor symptoms that affect a patient’s motor skills and non-motor symptoms that affect the general health of a PD patient. The quality of life of a patient with PD is highly compromised. To date, there is no cure for the disease, but early intervention and assistive care can help a PD patient to perform daily activities with considerable ease. Many research works in PD management discuss the challenges that healthcare professionals face in the early detection and management of this disease. Sensor devices have been promising to overcome these challenges to a certain degree because of the low cost and accuracy in measurement, yielding precise conclusive results to detect, monitor, and manage PD. This paper presents a Systematic Literature Review (SLR) that provides an in-depth analysis of the PD symptoms, Motor and Non-Motor Symptoms (NMS), the current diagnosis and management techniques used and their efficacy. The paper also highlights the work of various researchers in wearable sensors and their proposals to improve the quality of life of a PD patient by diagnosing, monitoring, and managing PD symptoms remotely via wearable sensors. Another area of focus is commercially available wearables for PD management and a few promising works in progress. This paper will be beneficial for future researchers to identify existing gaps and provide the clinicians better insight into the disease progression, and avoid complications. This paper analyzes around 50+ articles from 2016 to 2021 and concludes that there is still much room for improvement in wearables for PD management during the research process. While much work has been attributed to PD Motor Symptom management, there is little focus on the management of PD NMS via wearable sensors. Furthermore, this paper also presents future work for PD management.
-ER  - 
-
-TY  - CONF
-TI  - Classification of Human Motion Activities using Mobile Phone Sensors and Deep Learning Model
-T2  - 2022 8th International Conference on Advanced Computing and Communication Systems (ICACCS)
-SP  - 1381
-EP  - 1386
-AU  - Y. A. Khan
-AU  - S. Imaduddin
-AU  - R. Prabhat
-AU  - M. Wajid
-PY  - 2022
-KW  - Deep learning
-KW  - Training
-KW  - Solid modeling
-KW  - Magnetic sensors
-KW  - Wearable computers
-KW  - Computational modeling
-KW  - Virtual reality
-KW  - Deep Learning
-KW  - Deep Neural Network
-KW  - Human Activity Recognition
-KW  - LSTM Network
-KW  - Classification Algorithm
-KW  - MEMS Sensors
-KW  - Mobile & Wearable Devices
-DO  - 10.1109/ICACCS54159.2022.9785009
-JO  - 2022 8th International Conference on Advanced Computing and Communication Systems (ICACCS)
-IS  - 
-SN  - 2575-7288
-VO  - 1
-VL  - 1
-JA  - 2022 8th International Conference on Advanced Computing and Communication Systems (ICACCS)
-Y1  - 25-26 March 2022
-AB  - Recently, human activity recognition (HAR) has gained a lot of importance due to its wide range of applications in virtual reality, healthcare, surveillance, security, automated control systems, etc. Latest mobile phones have advanced computational capabilities along with several embedded MEMS sensors, which enable us to detect various physical activities unobtrusively. Incorporating personalized motion samples can improve the accuracy of motion detection by mobile devices or wearable devices that are tailored to the individual. Recent works have demonstrated that the use of machine learning and statistical techniques can detect human activities more accurately. In this paper, we have classified two different physical activities, viz., walking and brisk-walking using a deep neural network (DNN). The personalized data has been collected using multiple sensors of the mobile phone with the two kinds of physical activity. Using mobile phone sensors like accelerometer, gyroscope, magnetometer, etc, data has been collected, examined, and used for training and testing the DNN model. Out of multiple sensors on the phone, we have identified the sensors which are more appropriate for the given motion/activities. Finally, we have achieved a classification accuracy of 96.5%.
-ER  - 
-
-TY  - CONF
-TI  - Current Advancements in Cardiovascular Disease Management using Artificial Intelligence and Machine Learning Models: Current Scenario and Challenges
-T2  - 2022 10th International Conference on Emerging Trends in Engineering and Technology - Signal and Information Processing (ICETET-SIP-22)
-SP  - 1
-EP  - 6
-AU  - K. Bhadri
-AU  - N. Karnik
-AU  - P. Dhatrak
-PY  - 2022
-KW  - Pandemics
-KW  - Wearable computers
-KW  - Machine learning
-KW  - Medical services
-KW  - Electrocardiography
-KW  - Market research
-KW  - Software
-KW  - Artificial Intelligence (AI)
-KW  - Cardiology
-KW  - DL (deep learning)
-KW  - Medical imaging
-KW  - ML (machine learning)
-DO  - 10.1109/ICETET-SIP-2254415.2022.9791776
-JO  - 2022 10th International Conference on Emerging Trends in Engineering and Technology - Signal and Information Processing (ICETET-SIP-22)
-IS  - 
-SN  - 2157-0485
-VO  - 
-VL  - 
-JA  - 2022 10th International Conference on Emerging Trends in Engineering and Technology - Signal and Information Processing (ICETET-SIP-22)
-Y1  - 29-30 April 2022
-AB  - Recently, Artificial Intelligence (AI) and Machine Learning (ML) have been significant contributors to the development of sophisticated systems and models for cardiovascular disease (CVD) management. There is a wide scope of applications available today. Electrocardiography (ECG), cardiovascular image analysis and wearables for remote monitoring are the most consistently developing domains that are beginning to be AI-driven as technology and software advance over time. Furthermore, throughout the COVID-19 pandemic, AI has been utilised for cardiovascular disease management, drug targeting and risk analysis. The aim of the review is to highlight the recent advancements related to CVD management using AI and ML-based technologies. The works of literature reviewed in the present study consider the advancements of AI and ML-based CVD management technologies developed in the past decade. The different methods and technologies were studied, the working of various AI and ML algorithms have been discussed and few research gaps have been identified. The current implementations of AI algorithms lay a foundation to reduce the time and effort required to develop newer systems for future developments. Subsequently, overcoming the limitations of data processing techniques, many parameters required, and standardized datasets will improve the accuracy, implementation and interoperability of the AI and ML-based technologies for seamless integration in healthcare.
 ER  - 
 
 TY  - JOUR
@@ -1439,6 +1439,40 @@ VL  -
 JA  - 2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)
 Y1  - 8-9 Oct. 2022
 AB  - In the modern era, the role of antennas has grown dramatically high, especially in biological applications. Because of its size, compactness, non-invasive nature, safety, and cheaper cost, wearable antennas are utilized in numerous industries, including healthcare and Internet of Things (IoT). Additionally, wireless technology and wearable remote monitoring systems are essential methods for healthcare without sacrificing the life. In this paper, a low-profile antenna with Coplanar Waveguide (CPW) feeding technique is designed to operate at three frequencies 2.2GHz/4.2GHz/6GHz in wireless local area networks (WLAN), Worldwide Interoperability for Microwave Access (WiMAX), and Bluetooth for remote monitoring. Three resonant frequencies are produced using split-ring resonators with a circular shape antenna. To make a wearable antenna for patient monitoring, the proposed antenna is fabricated with a PREPERM paper substrate. This substrate, which is from PREMIX group, has a dielectric constant of 3.55 and a loss tangent of 0.005. The proposed antenna is studied based on parameters such as voltage standing wave ratio (VSWR), radiation patterns, return loss (S11) and gain. For antenna design, simulation and analysis, High-Frequency Structure Simulator (HFSS) software has been used.
+ER  - 
+
+TY  - CONF
+TI  - Deep Learning Approach for Complex Activity Recognition using Heterogeneous Sensors from Wearable Device
+T2  - 2021 Research, Invention, and Innovation Congress: Innovation Electricals and Electronics (RI2C)
+SP  - 60
+EP  - 65
+AU  - N. Hnoohom
+AU  - A. Jitpattanakul
+AU  - I. You
+AU  - S. Mekruksavanich
+PY  - 2021
+KW  - Deep learning
+KW  - Performance evaluation
+KW  - Accelerometers
+KW  - Technological innovation
+KW  - Wearable computers
+KW  - Senior citizens
+KW  - Activity recognition
+KW  - complex activity recognition
+KW  - deep learning
+KW  - heterogeneous sensor
+KW  - wearable device
+KW  - BiLSTM
+KW  - attention
+DO  - 10.1109/RI2C51727.2021.9559773
+JO  - 2021 Research, Invention, and Innovation Congress: Innovation Electricals and Electronics (RI2C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 Research, Invention, and Innovation Congress: Innovation Electricals and Electronics (RI2C)
+Y1  - 1-3 Sept. 2021
+AB  - The classification of simple and complex sequences of operations is made easier according to the use of heterogeneous sensors from a wearable device. Sensor-based human activity recognition (HAR) is being used in smartphone platforms for elderly healthcare monitoring, fall detection, and inappropriate behavior prevention, such as smoking habit, unhealthy eating, and lack of exercise. Common machine learning and deep learning techniques have recently been presented to tackle the HAR issue, with a focus on everyday activities, particularly general human activities including moving, sitting, and standing. However, there is an intriguing and challenging HAR research subjects involving more complicated psychological activities in various environments, including smoking, eating, and drinking. The use of heterogeneous sensor data to enhance recognition performance over sensor-based deep learning networks is considered in this work. We demonstrate that using a combination of two inertial measurement units outperforms employing either an accelerometer or a gyroscope by utilizing four deep learning classifiers to recognize complex human activity (CHA). Furthermore, we describe the impact of five window sizes (5s - 40s) on a publicly accessible benchmark dataset and how increasing window size effects to the classification performance of CHA deep learning networks.
 ER  - 
 
 TY  - CONF
@@ -1532,40 +1566,6 @@ AB  - Effective post-operative pain management requires an accurate and frequent
 ER  - 
 
 TY  - CONF
-TI  - Deep Learning Approach for Complex Activity Recognition using Heterogeneous Sensors from Wearable Device
-T2  - 2021 Research, Invention, and Innovation Congress: Innovation Electricals and Electronics (RI2C)
-SP  - 60
-EP  - 65
-AU  - N. Hnoohom
-AU  - A. Jitpattanakul
-AU  - I. You
-AU  - S. Mekruksavanich
-PY  - 2021
-KW  - Deep learning
-KW  - Performance evaluation
-KW  - Accelerometers
-KW  - Technological innovation
-KW  - Wearable computers
-KW  - Senior citizens
-KW  - Activity recognition
-KW  - complex activity recognition
-KW  - deep learning
-KW  - heterogeneous sensor
-KW  - wearable device
-KW  - BiLSTM
-KW  - attention
-DO  - 10.1109/RI2C51727.2021.9559773
-JO  - 2021 Research, Invention, and Innovation Congress: Innovation Electricals and Electronics (RI2C)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2021 Research, Invention, and Innovation Congress: Innovation Electricals and Electronics (RI2C)
-Y1  - 1-3 Sept. 2021
-AB  - The classification of simple and complex sequences of operations is made easier according to the use of heterogeneous sensors from a wearable device. Sensor-based human activity recognition (HAR) is being used in smartphone platforms for elderly healthcare monitoring, fall detection, and inappropriate behavior prevention, such as smoking habit, unhealthy eating, and lack of exercise. Common machine learning and deep learning techniques have recently been presented to tackle the HAR issue, with a focus on everyday activities, particularly general human activities including moving, sitting, and standing. However, there is an intriguing and challenging HAR research subjects involving more complicated psychological activities in various environments, including smoking, eating, and drinking. The use of heterogeneous sensor data to enhance recognition performance over sensor-based deep learning networks is considered in this work. We demonstrate that using a combination of two inertial measurement units outperforms employing either an accelerometer or a gyroscope by utilizing four deep learning classifiers to recognize complex human activity (CHA). Furthermore, we describe the impact of five window sizes (5s - 40s) on a publicly accessible benchmark dataset and how increasing window size effects to the classification performance of CHA deep learning networks.
-ER  - 
-
-TY  - CONF
 TI  - Smartwatch-based Human Activity Recognition Using Hybrid LSTM Network
 T2  - 2020 IEEE SENSORS
 SP  - 1
@@ -1627,6 +1627,41 @@ VL  -
 JA  - 2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT)
 Y1  - 6-8 July 2021
 AB  - The recent advancement of the Internet of Things (IoT) paves the way for the ubiquitous connection of things, which enables these things to collect and exchange data, and thus made a huge difference in the way we live. Healthcare can be considered as one such major domain, which reaps the benefits of this, where the latest movement in IoT is to bridge disparate technologies to enable new insights, by connecting physical objects, to help smart and intelligent decision-making. As the amount of IoT sensing devices in healthcare increase, it also makes doubt of proper analysis of this large volume of data, where recent advancements in Machine Learning (ML) and other associated Artificial Intelligence (AI) algorithms have made it possible to collect, analyze, and interpret an unprecedented amount of loT sensory information for effective health and wellbeing monitoring. Accumulating raw data in an efficient way and processing that data for better insights will enable a new era in healthcare including the prediction of chronic diseases in early-stage, and personalized and physiological health monitoring systems. In this regard, this paper aims to synthesize the literature mainly on AI-enabled IoT systems for health and wellbeing monitoring, highlighting current research and applications in practice.
+ER  - 
+
+TY  - CONF
+TI  - DL-Based Secure Wearable Scheme for Remote Patient Data Monitoring in Healthcare 4.0
+T2  - 2023 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)
+SP  - 757
+EP  - 762
+AU  - F. Ramoliya
+AU  - K. Darji
+AU  - R. Gupta
+AU  - R. Kakkar
+AU  - S. Tanwar
+AU  - A. Kumari
+PY  - 2023
+KW  - Medical services
+KW  - Data models
+KW  - Security
+KW  - Wearable devices
+KW  - Biomedical monitoring
+KW  - Streams
+KW  - Remote monitoring
+KW  - Healthcare 4.0
+KW  - Wearable Devices
+KW  - Remote Monitoring
+KW  - DL
+KW  - ML
+DO  - 10.1109/ICCCIS60361.2023.10425096
+JO  - 2023 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)
+Y1  - 3-4 Nov. 2023
+AB  - The paper articulates an exploration into the integration of wearable devices for remote patient data monitoring, which marks a transformative shift in healthcare practices. This transition is underscored by user-centric interfaces and applications, enabling convenient remote monitoring. However, the escalating concern of patient data vulnerability to network breaches presents a substantial impediment. In response, we introduce the proposed scheme that harnesses Machine Learning (ML) and Deep Learning (DL) techniques. The main objective of the proposed scheme is to meet the exacting requirements of healthcare systems, aiming to fortify data integrity and confidentiality. Within this context, the proposed scheme unveils a sophisticated DL-driven detection model, adeptly tailored for discerning and countering data manipulation endeavors through a nuanced multi-label classification paradigm. Notably, the emphasis lies on safeguarding patient data privacy and security, which is paramount in today's information-rich landscape. The narrative seamlessly interweaves elements of wearable technology, sensor networks, advanced DL capabilities, and robust security measures, resulting in an innovative scheme. Finally, the proposed scheme is evaluated against various metrics such as accuracy and loss curve and F1, recall, and precision comparison.
 ER  - 
 
 TY  - CONF
@@ -1700,41 +1735,6 @@ VL  -
 JA  - 2021 International Conference on Artificial Intelligence and Smart Systems (ICAIS)
 Y1  - 25-27 March 2021
 AB  - In the everyday occupied work, monitoring the home patient and overseeing their state of health ceaselessly is an exceptionally troublesome task. Especially agedness person's ought to be occasionally monitored and to be educated to the doctor about their health status now and again to spare their life in critical situation. Health monitoring is the serious problem in today's world. Because of absence of appropriate health monitoring, quiet experience the ill effects of genuine medical problems. To take care of this issue, there are lot of IOT devices are there to monitor the health of patient automatically now days. A smart health monitoring system is put into practice which utilizes heart beat and blood pressure sensors associated with ARDUINO UNO board to keep track the health of a patient. In the event, if a system notices any unforeseen changes in patient heartbeat and blood pressure, then it will spontaneously caution the doctor with a Short Message Service (SMS) about the patient's status with the assistance of global system for mobile communication (GSM) module and furthermore shows subtleties of heartbeat and blood pressure of patient live. On the off chance that the patient can't arrive at the clinic implies, Global Positioning System (GPS) module will assist the doctor with identifying the patient's area. In this manner, IOT based patient health tracking system effectually monitors the health status of patient and save their survives on schedule.
-ER  - 
-
-TY  - CONF
-TI  - DL-Based Secure Wearable Scheme for Remote Patient Data Monitoring in Healthcare 4.0
-T2  - 2023 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)
-SP  - 757
-EP  - 762
-AU  - F. Ramoliya
-AU  - K. Darji
-AU  - R. Gupta
-AU  - R. Kakkar
-AU  - S. Tanwar
-AU  - A. Kumari
-PY  - 2023
-KW  - Medical services
-KW  - Data models
-KW  - Security
-KW  - Wearable devices
-KW  - Biomedical monitoring
-KW  - Streams
-KW  - Remote monitoring
-KW  - Healthcare 4.0
-KW  - Wearable Devices
-KW  - Remote Monitoring
-KW  - DL
-KW  - ML
-DO  - 10.1109/ICCCIS60361.2023.10425096
-JO  - 2023 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2023 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)
-Y1  - 3-4 Nov. 2023
-AB  - The paper articulates an exploration into the integration of wearable devices for remote patient data monitoring, which marks a transformative shift in healthcare practices. This transition is underscored by user-centric interfaces and applications, enabling convenient remote monitoring. However, the escalating concern of patient data vulnerability to network breaches presents a substantial impediment. In response, we introduce the proposed scheme that harnesses Machine Learning (ML) and Deep Learning (DL) techniques. The main objective of the proposed scheme is to meet the exacting requirements of healthcare systems, aiming to fortify data integrity and confidentiality. Within this context, the proposed scheme unveils a sophisticated DL-driven detection model, adeptly tailored for discerning and countering data manipulation endeavors through a nuanced multi-label classification paradigm. Notably, the emphasis lies on safeguarding patient data privacy and security, which is paramount in today's information-rich landscape. The narrative seamlessly interweaves elements of wearable technology, sensor networks, advanced DL capabilities, and robust security measures, resulting in an innovative scheme. Finally, the proposed scheme is evaluated against various metrics such as accuracy and loss curve and F1, recall, and precision comparison.
 ER  - 
 
 TY  - JOUR
@@ -2042,41 +2042,6 @@ AB  - Medical Internet of Things technology can effectively enable remote physio
 ER  - 
 
 TY  - CONF
-TI  - Heterogeneous Data Prioritization in MAC RPL for Real-Time Health Monitoring and Personalized User Experiences in Wearable IoT Devices Integrating Mobility Models
-T2  - 2023 IEEE 5th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)
-SP  - 419
-EP  - 423
-AU  - A. Giri
-AU  - A. Poddar
-AU  - S. Singh
-PY  - 2023
-KW  - Mobility models
-KW  - Wearable computers
-KW  - Medical services
-KW  - Real-time systems
-KW  - Routing protocols
-KW  - Internet of Things
-KW  - Reliability
-KW  - Data prioritization
-KW  - IoMT
-KW  - Wearable Devices
-KW  - Heterogeneous Data
-KW  - Health Monitoring
-KW  - RPL
-KW  - Mobility
-KW  - Contiki
-DO  - 10.1109/ICCCMLA58983.2023.10346651
-JO  - 2023 IEEE 5th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2023 IEEE 5th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)
-Y1  - 7-8 Oct. 2023
-AB  - Wearable sensor technology is the new and upcoming revolution in next-generation IoT solutions that will enable efficient and more reliable healthcare monitoring. The primary goal of wearable sensor technology is to collect and instantly transmit a patient's health-related data. For real-time health monitoring of critical patients, data of varying sizes must be transferred quickly, effectively, and in a prioritized manner. In this paper, we focus on prioritizing the data captured by various wearable devices, equipped by the patients. The data captured and generated in such cases will be heterogeneous in nature and transmitted at different rates. The prioritization is done on the MAC layer by varying the back-off time experienced by data of various priorities. We have given higher priority data lesser backoff time intervals compared to lower priority data, thus transferring it faster and reducing its latency. As wearable sensors have power, memory, and other resource constraints, Routing protocol for low power and lossy Network (RPL) is the best-suited routing protocol for such networks. The introduction of Mobility in this research incorporates the real-time movements of patients wearing the sensors, which simulates a more realistic scenario for this study.
-ER  - 
-
-TY  - CONF
 TI  - Raspberry Pi-Enabled Wearable Sensors for Personal Health Tracking and Analysis
 T2  - 2023 International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
 SP  - 1254
@@ -2112,6 +2077,41 @@ AB  - Proactive healthcare management has made personal health tracking and anal
 ER  - 
 
 TY  - CONF
+TI  - Heterogeneous Data Prioritization in MAC RPL for Real-Time Health Monitoring and Personalized User Experiences in Wearable IoT Devices Integrating Mobility Models
+T2  - 2023 IEEE 5th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)
+SP  - 419
+EP  - 423
+AU  - A. Giri
+AU  - A. Poddar
+AU  - S. Singh
+PY  - 2023
+KW  - Mobility models
+KW  - Wearable computers
+KW  - Medical services
+KW  - Real-time systems
+KW  - Routing protocols
+KW  - Internet of Things
+KW  - Reliability
+KW  - Data prioritization
+KW  - IoMT
+KW  - Wearable Devices
+KW  - Heterogeneous Data
+KW  - Health Monitoring
+KW  - RPL
+KW  - Mobility
+KW  - Contiki
+DO  - 10.1109/ICCCMLA58983.2023.10346651
+JO  - 2023 IEEE 5th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE 5th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)
+Y1  - 7-8 Oct. 2023
+AB  - Wearable sensor technology is the new and upcoming revolution in next-generation IoT solutions that will enable efficient and more reliable healthcare monitoring. The primary goal of wearable sensor technology is to collect and instantly transmit a patient's health-related data. For real-time health monitoring of critical patients, data of varying sizes must be transferred quickly, effectively, and in a prioritized manner. In this paper, we focus on prioritizing the data captured by various wearable devices, equipped by the patients. The data captured and generated in such cases will be heterogeneous in nature and transmitted at different rates. The prioritization is done on the MAC layer by varying the back-off time experienced by data of various priorities. We have given higher priority data lesser backoff time intervals compared to lower priority data, thus transferring it faster and reducing its latency. As wearable sensors have power, memory, and other resource constraints, Routing protocol for low power and lossy Network (RPL) is the best-suited routing protocol for such networks. The introduction of Mobility in this research incorporates the real-time movements of patients wearing the sensors, which simulates a more realistic scenario for this study.
+ER  - 
+
+TY  - CONF
 TI  - Deep Learning Models for Daily Living Activity Recognition based on Wearable Inertial Sensors
 T2  - 2022 19th International Joint Conference on Computer Science and Software Engineering (JCSSE)
 SP  - 1
@@ -2141,36 +2141,6 @@ VL  -
 JA  - 2022 19th International Joint Conference on Computer Science and Software Engineering (JCSSE)
 Y1  - 22-25 June 2022
 AB  - Due to the breadth of its application domains, Hu-man Activity Recognition (HAR) is a problematic area of human-computer interaction. HAR can be used in remote monitoring of senior healthcare and concern situations in intelligent man-ufacturing, among other applications. HAR based on wearable inertial sensors has been researched identification efficiency in various kinds of human actions considerably more than vision-based HAR. The sensor-based HAR is generally applicable to indoor and outdoor locations without privacy considerations of implementation. In this research, we explore the recognition performance of multiple deep learning (DL) models to recognize everyday living human activities. We developed a deep residual neural network that employed aggregated multi-branch transformation to boost identification performance. The proposed model is called the ResNeXt model. To evaluate its performance, three standard DL models (CNN, LSTM, and CNN-LSTM) are investigated and compared to our proposed model using a standard HAR dataset called Daily Living Activity dataset. These datasets gathered mobility signal data from multimodal sensors (accelerometer, gyroscope, and magnetometer) in three distinct body areas (wrist, hip, and ankle). The experimental findings reveal that the proposed model surpasses other benchmark DL models with maximum accuracy and F1-scores. Furthermore, the findings show that the ResNeXt model is more resistant than other models with fewer training parameters.
-ER  - 
-
-TY  - CONF
-TI  - Deep Learning-Based Gait Event Prediction through a Single Waist-worn Wearable Sensor
-T2  - 2023 IEEE International Conference on Consumer Electronics (ICCE)
-SP  - 1
-EP  - 6
-AU  - M. Z. Arshad
-AU  - D. Lee
-AU  - D. Jung
-AU  - A. Jamsrandorj
-AU  - J. Kim
-AU  - K. -R. Mun
-PY  - 2023
-KW  - Deep learning
-KW  - Learning systems
-KW  - Event detection
-KW  - Wearable computers
-KW  - Delays
-KW  - Pelvis
-KW  - Older adults
-DO  - 10.1109/ICCE56470.2023.10043541
-JO  - 2023 IEEE International Conference on Consumer Electronics (ICCE)
-IS  - 
-SN  - 2158-4001
-VO  - 
-VL  - 
-JA  - 2023 IEEE International Conference on Consumer Electronics (ICCE)
-Y1  - 6-8 Jan. 2023
-AB  - As the population of the elderly in the world continues its rapid surge, more attention must be drawn towards remote health monitoring (RHM), early diagnosis, and preventive interventions to sustain health care and eldercare. Elderly gait is a sensitive marker for their health status which enables detection of physical and mental impairments. This study aimed to advance the performance of elderly gait event detection using a single waist-worn IMU sensor through deep learning models. Four deep learning models MLP, CNN, LSTM, and GRU were trained and tested on data from the community-dwelling elderly. The accuracy was measured for six detection delay tolerance ranges. The GRU model achieved the best accuracy of 99.47% at a detection delay tolerance range of ±6TS (±6ms) and 78.98% for a more precise range of ±1TS (±1ms). The proposed method showed significant improvement over previously reported event detection results by achieving an MAE of 8.9ms and 7.6ms for the HS and TO events respectively. The RNN models attained better accuracy for the TO events as compared to HS events. Furthermore, an ablation study was also performed to observe the contribution of the subsets of the six IMU signals from the pelvis to the overall performance of the best model. The study showed that deep learning-based methods are much superior to previously reported methods for gait event detection through the pelvis sensor and it is expected to bring new attention towards practical waist-worn wearable devices for the health and condition monitoring of the elderly.
 ER  - 
 
 TY  - CONF
@@ -2272,39 +2242,34 @@ Y1  - June 2024
 AB  - Objective: Exercise monitoring with low-cost wearables could improve the efficacy of remote physical-therapy prescriptions by tracking compliance and informing the delivery of tailored feedback. While a multitude of commercial wearables can detect activities of daily life, such as walking and running, they cannot accurately detect physical-therapy exercises. The goal of this study was to build open-source classifiers for remote physical-therapy monitoring and provide insight on how data collection choices may impact classifier performance. Methods: We trained and evaluated multi-class classifiers using data from 19 healthy adults who performed 37 exercises while wearing 10 inertial measurement units (IMUs) on the chest, pelvis, wrists, thighs, shanks, and feet. We investigated the effect of sensor density, location, type, sampling frequency, output granularity, feature engineering, and training-data size on exercise-classification performance. Results: Exercise groups (n = 10) could be classified with 96% accuracy using a set of 10 IMUs and with 89% accuracy using a single pelvis-worn IMU. Multiple sensor modalities (i.e., accelerometers and gyroscopes), high sampling frequencies, and more data from the same population did not improve model performance, but in the future data from diverse populations and better feature engineering could. Conclusions: Given the growing demand for exercise monitoring systems, our sensitivity analyses, along with open-source tools and data, should reduce barriers for product developers, who are balancing accuracy with product formfactor, and increase transparency and trust in clinicians and patients.
 ER  - 
 
-TY  - JOUR
-TI  - Modified Early Warning Score (MEWS) Visualization and Pattern Matching Imputation in Remote Patient Monitoring
-T2  - IEEE Access
-SP  - 74784
-EP  - 74794
-AU  - T. Arora
-AU  - V. Balasubramanian
-AU  - A. Stranieri
-AU  - V. G. Menon
-PY  - 2024
-KW  - Data visualization
-KW  - Medical services
-KW  - Biomedical monitoring
-KW  - Patient monitoring
-KW  - Hidden Markov models
-KW  - Wireless communication
-KW  - Data integrity
-KW  - Remote monitoring
-KW  - Clinical diagnosis
-KW  - Pattern imputation
-KW  - data integrity
-KW  - visualized remote patient monitoring (VRPM)
-KW  - clinical decision support
-KW  - wearable technology
-DO  - 10.1109/ACCESS.2024.3396274
-JO  - IEEE Access
+TY  - CONF
+TI  - Deep Learning-Based Gait Event Prediction through a Single Waist-worn Wearable Sensor
+T2  - 2023 IEEE International Conference on Consumer Electronics (ICCE)
+SP  - 1
+EP  - 6
+AU  - M. Z. Arshad
+AU  - D. Lee
+AU  - D. Jung
+AU  - A. Jamsrandorj
+AU  - J. Kim
+AU  - K. -R. Mun
+PY  - 2023
+KW  - Deep learning
+KW  - Learning systems
+KW  - Event detection
+KW  - Wearable computers
+KW  - Delays
+KW  - Pelvis
+KW  - Older adults
+DO  - 10.1109/ICCE56470.2023.10043541
+JO  - 2023 IEEE International Conference on Consumer Electronics (ICCE)
 IS  - 
-SN  - 2169-3536
-VO  - 12
-VL  - 12
-JA  - IEEE Access
-Y1  - 2024
-AB  - Remote Patient Monitoring (RPM), which leverages the Internet of Medical Things (IoMT) and autonomous systems, has grown in popularity recently. In RPM, the IoMT sense a patient’s biophysical data and transmits it in real time while the autonomous system processes the data for clinical notifications and storage. However, RPM deployments face two diverse challenges: how to present continuous data so that healthcare professionals can quickly interpret data streams and how to manage a great deal of missing data that occurs in RPM. Several studies suggested techniques for imputing missing data in static databases, which are unsuitable for RPM. A method for constantly streaming healthcare data to medical experts involves summarizing vital signs information into a numerical score, such as the Modified Early Warning Score (MEWS), which may be visually displayed to highlight MEWS patterns over a certain period. However, a MEWS chart is simplistic and more sophisticated ways to present data visually for straightforward interpretation are needed. This research proposes a solution for the visualization and missing data challenges by identifying patterns in the RPM data. First, a pattern-matching technique is proposed to address the missing data by considering the correlation and variability of the vital signs, resulting in a comparable correct match rate. Second, we transform the observed raw physiological vital signs data into concepts we call trust, frequency, trend, and slope parameters for visualization and automated alerts. The proposed approach can better support clinical decision-making than the MEWS. Comprehensive visualization approaches and missing data solutions can improve the quality and dependability of patient risk assessments.
+SN  - 2158-4001
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Consumer Electronics (ICCE)
+Y1  - 6-8 Jan. 2023
+AB  - As the population of the elderly in the world continues its rapid surge, more attention must be drawn towards remote health monitoring (RHM), early diagnosis, and preventive interventions to sustain health care and eldercare. Elderly gait is a sensitive marker for their health status which enables detection of physical and mental impairments. This study aimed to advance the performance of elderly gait event detection using a single waist-worn IMU sensor through deep learning models. Four deep learning models MLP, CNN, LSTM, and GRU were trained and tested on data from the community-dwelling elderly. The accuracy was measured for six detection delay tolerance ranges. The GRU model achieved the best accuracy of 99.47% at a detection delay tolerance range of ±6TS (±6ms) and 78.98% for a more precise range of ±1TS (±1ms). The proposed method showed significant improvement over previously reported event detection results by achieving an MAE of 8.9ms and 7.6ms for the HS and TO events respectively. The RNN models attained better accuracy for the TO events as compared to HS events. Furthermore, an ablation study was also performed to observe the contribution of the subsets of the six IMU signals from the pelvis to the overall performance of the best model. The study showed that deep learning-based methods are much superior to previously reported methods for gait event detection through the pelvis sensor and it is expected to bring new attention towards practical waist-worn wearable devices for the health and condition monitoring of the elderly.
 ER  - 
 
 TY  - CONF
@@ -2362,6 +2327,78 @@ VL  -
 JA  - 2023 3rd International Conference on Intelligent Communication and Computational Techniques (ICCT)
 Y1  - 19-20 Jan. 2023
 AB  - Wearable sensors and social networking sites help gather participant information for healthcare monitoring. Wearable sensors generate a lot of healthcare data for continuous patient monitoring. Social networking sites' user-generated healthcare data is huge and unstructured. Existing healthcare monitoring systems have trouble gathering and evaluating sensor and social network data, and traditional machine learning methods are insufficient to anticipate abnormalities in big healthcare data. A novel cloud-based healthcare monitoring architecture is presented to properly save and evaluate healthcare data and increase classification results. A Wireless Sensor Network and Big Data Analytics based Intelligent Health Monitoring System (IHMS) is suggested in this paper. The suggested large data analytics engine uses data mining, ontologies, and Bidirectional Long Short-Term Memory (Bi-LSTM). Data processing approaches preprocess information and minimize dimensionality. Proposed ontologies give semantic information about diabetes and blood pressure entities, aspects, and relationships (BP). Bi-LSTM categorizes information properly to forecast medication side effects and patient abnormalities. The suggested approach defines patients' health using diabetes, BP, mental health, and medicine reviews, and this model uses Java and Protégé Web Ontology Language. The findings demonstrate that the suggested system accurately manages healthcare information and predicts pharmacological side effects.
+ER  - 
+
+TY  - JOUR
+TI  - Modified Early Warning Score (MEWS) Visualization and Pattern Matching Imputation in Remote Patient Monitoring
+T2  - IEEE Access
+SP  - 74784
+EP  - 74794
+AU  - T. Arora
+AU  - V. Balasubramanian
+AU  - A. Stranieri
+AU  - V. G. Menon
+PY  - 2024
+KW  - Data visualization
+KW  - Medical services
+KW  - Biomedical monitoring
+KW  - Patient monitoring
+KW  - Hidden Markov models
+KW  - Wireless communication
+KW  - Data integrity
+KW  - Remote monitoring
+KW  - Clinical diagnosis
+KW  - Pattern imputation
+KW  - data integrity
+KW  - visualized remote patient monitoring (VRPM)
+KW  - clinical decision support
+KW  - wearable technology
+DO  - 10.1109/ACCESS.2024.3396274
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - Remote Patient Monitoring (RPM), which leverages the Internet of Medical Things (IoMT) and autonomous systems, has grown in popularity recently. In RPM, the IoMT sense a patient’s biophysical data and transmits it in real time while the autonomous system processes the data for clinical notifications and storage. However, RPM deployments face two diverse challenges: how to present continuous data so that healthcare professionals can quickly interpret data streams and how to manage a great deal of missing data that occurs in RPM. Several studies suggested techniques for imputing missing data in static databases, which are unsuitable for RPM. A method for constantly streaming healthcare data to medical experts involves summarizing vital signs information into a numerical score, such as the Modified Early Warning Score (MEWS), which may be visually displayed to highlight MEWS patterns over a certain period. However, a MEWS chart is simplistic and more sophisticated ways to present data visually for straightforward interpretation are needed. This research proposes a solution for the visualization and missing data challenges by identifying patterns in the RPM data. First, a pattern-matching technique is proposed to address the missing data by considering the correlation and variability of the vital signs, resulting in a comparable correct match rate. Second, we transform the observed raw physiological vital signs data into concepts we call trust, frequency, trend, and slope parameters for visualization and automated alerts. The proposed approach can better support clinical decision-making than the MEWS. Comprehensive visualization approaches and missing data solutions can improve the quality and dependability of patient risk assessments.
+ER  - 
+
+TY  - CONF
+TI  - Machine and Deep Learning Classifications for IoT-Enabled Healthcare Devices
+T2  - 2023 4th International Conference on Computation, Automation and Knowledge Management (ICCAKM)
+SP  - 01
+EP  - 07
+AU  - S. S. Priya
+AU  - M. H. Al-Fatlawy
+AU  - N. Khare
+AU  - V. Mahalakshmi
+AU  - S. S. Ganesh
+PY  - 2023
+KW  - Industries
+KW  - Deep learning
+KW  - Medical services
+KW  - Transforms
+KW  - Real-time systems
+KW  - Internet of Things
+KW  - Medical diagnostic imaging
+KW  - IoT Healthcare
+KW  - Machine Learning
+KW  - Deep Learning
+KW  - Healthcare Devices
+KW  - Classification Techniques
+KW  - IoT Applications
+KW  - Predictive Analytics
+KW  - Healthcare Technology
+DO  - 10.1109/ICCAKM58659.2023.10449617
+JO  - 2023 4th International Conference on Computation, Automation and Knowledge Management (ICCAKM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 4th International Conference on Computation, Automation and Knowledge Management (ICCAKM)
+Y1  - 12-13 Dec. 2023
+AB  - The emergence of the Internet of Things (IoT) is profoundly influencing academic research and will have longterm consequences on several industries, chief among them the healthcare sector. The healthcare industry has changed as a result of the Internet of Things (IoT), which has replaced old, centralized processes with decentralized networks of smart devices. Systems of customized healthcare have been developed as a result of this (PHS). This change has been made possible by recent advancements in fields like wearables, sensor networks, and cloud computing, which have simplified the use of IoT in healthcare settings on a large scale. Notwithstanding a few significant disadvantages, IoT has the potential to significantly transform the medical industry. Keeping up with a large number of devices, rising costs, and the requirement for more data storage space are the challenges. This paper offers a thorough examination of IoT as a flexible and robust technology, emphasizing its applications in the healthcare industry. Research is being done on the interaction between machine learning and deep learning. In addition to examining the various advantages and real-world applications of the technology, this article covers the architecture of an Internet of Things (IoT)-enabled healthcare system. It draws attention to the challenges posed by the IoT healthcare environment and emphasizes the need for academics to come up with novel solutions to these problems. The present work of several researchers in the fields of machine learning and deep learning, which are extensively used in IoT-enabled healthcare systems, is highlighted in this study.
 ER  - 
 
 TY  - CONF
@@ -2467,74 +2504,6 @@ AB  - With an ageing population, there is an increasing need for services that c
 ER  - 
 
 TY  - CONF
-TI  - Machine and Deep Learning Classifications for IoT-Enabled Healthcare Devices
-T2  - 2023 4th International Conference on Computation, Automation and Knowledge Management (ICCAKM)
-SP  - 01
-EP  - 07
-AU  - S. S. Priya
-AU  - M. H. Al-Fatlawy
-AU  - N. Khare
-AU  - V. Mahalakshmi
-AU  - S. S. Ganesh
-PY  - 2023
-KW  - Industries
-KW  - Deep learning
-KW  - Medical services
-KW  - Transforms
-KW  - Real-time systems
-KW  - Internet of Things
-KW  - Medical diagnostic imaging
-KW  - IoT Healthcare
-KW  - Machine Learning
-KW  - Deep Learning
-KW  - Healthcare Devices
-KW  - Classification Techniques
-KW  - IoT Applications
-KW  - Predictive Analytics
-KW  - Healthcare Technology
-DO  - 10.1109/ICCAKM58659.2023.10449617
-JO  - 2023 4th International Conference on Computation, Automation and Knowledge Management (ICCAKM)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2023 4th International Conference on Computation, Automation and Knowledge Management (ICCAKM)
-Y1  - 12-13 Dec. 2023
-AB  - The emergence of the Internet of Things (IoT) is profoundly influencing academic research and will have longterm consequences on several industries, chief among them the healthcare sector. The healthcare industry has changed as a result of the Internet of Things (IoT), which has replaced old, centralized processes with decentralized networks of smart devices. Systems of customized healthcare have been developed as a result of this (PHS). This change has been made possible by recent advancements in fields like wearables, sensor networks, and cloud computing, which have simplified the use of IoT in healthcare settings on a large scale. Notwithstanding a few significant disadvantages, IoT has the potential to significantly transform the medical industry. Keeping up with a large number of devices, rising costs, and the requirement for more data storage space are the challenges. This paper offers a thorough examination of IoT as a flexible and robust technology, emphasizing its applications in the healthcare industry. Research is being done on the interaction between machine learning and deep learning. In addition to examining the various advantages and real-world applications of the technology, this article covers the architecture of an Internet of Things (IoT)-enabled healthcare system. It draws attention to the challenges posed by the IoT healthcare environment and emphasizes the need for academics to come up with novel solutions to these problems. The present work of several researchers in the fields of machine learning and deep learning, which are extensively used in IoT-enabled healthcare systems, is highlighted in this study.
-ER  - 
-
-TY  - CONF
-TI  - IoT for Smart Healthcare: Opportunities, Challenges and Technology
-T2  - 2022 International Conference on Machine Learning, Computer Systems and Security (MLCSS)
-SP  - 171
-EP  - 175
-AU  - S. Tripathy
-AU  - U. M. Mohapatra
-AU  - N. Mazumdar
-PY  - 2022
-KW  - Sociology
-KW  - Medical services
-KW  - Organizations
-KW  - Market research
-KW  - Internet of Things
-KW  - Statistics
-KW  - Smart devices
-KW  - Internet of Things (IoT)
-KW  - Smart Healthcare
-KW  - Healthcare (HC)
-KW  - Challenges and Issues
-DO  - 10.1109/MLCSS57186.2022.00039
-JO  - 2022 International Conference on Machine Learning, Computer Systems and Security (MLCSS)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2022 International Conference on Machine Learning, Computer Systems and Security (MLCSS)
-Y1  - 5-6 Aug. 2022
-AB  - Internet of Things (IoT) has drawn a lot of attention in recent years because of its potential to solve real world challenges observed in several application domains. Its expanding trans-disciplinary usages have changed the way we live. One of the IoT applications includes smart healthcare, which connects sensors, smart devices, machinery, patients, and doctors to the Internet. It can be utilized to minimize the load on healthcare systems brought on by an ageing population and an increase in chronic sickness. When it comes to health bills, resource requirements, availability, and personal care, healthcare have become a major socio-economic concern, particularly for the elderly persons. IoT has enabled doctors to do remote monitoring, chronic illness management, and senior care of secluded patients, and looking after indoor patients, in an effective and intelligent manner as well. Furthermore, due to remote monitoring of patients by physicians, the length of hospital stay can be reduced that reduces the expenses. This study examines some smart healthcare trends that have transformed the traditional healthcare system by improving health management efficiency through IoT implementation.
-ER  - 
-
-TY  - CONF
 TI  - Design of IoT Enabled Cloud Assisted Health Monitoring System for Covid-19 Patients
 T2  - 2022 Second International Conference on Artificial Intelligence and Smart Energy (ICAIS)
 SP  - 1227
@@ -2609,48 +2578,6 @@ VL  -
 JA  - 2023 5th International Conference on Advances in Computing, Communication Control and Networking (ICAC3N)
 Y1  - 15-16 Dec. 2023
 AB  - The Internet of Medical Things (IoMT) is a transformative paradigm in healthcare that utilizes interconnected medical devices, wearables, and healthcare systems to revolutionize patient care, enhance clinical outcomes, and improve healthcare efficiency. This review paper provides a comprehensive analysis of the IoMT, encompassing its definition, key technologies, applications, benefits, challenges, and future prospects. Through a synthesis of existing literature, this paper presents a holistic understanding of the IoMT landscape, its implications for healthcare stakeholders, and its potential to transform healthcare delivery. The review highlights various applications of IoMT, including remote patient monitoring, telemedicine, and smart healthcare facilities, emphasizing their impact on improving patient outcomes and advancing medical research. Moreover, it addresses challenges such as data security, interoperability, ethical considerations, and regulatory frameworks. The paper concludes by identifying research gaps and proposing future directions, including the integration of artificial intelligence, personalized medicine, and scalable implementation strategies. This review contributes to the growing body of knowledge on IoMT and provides valuable insights for researchers, clinicians, and policymakers.
-ER  - 
-
-TY  - JOUR
-TI  - A Clinical Decision Support System for Edge/Cloud ICU Readmission Model Based on Particle Swarm Optimization, Ensemble Machine Learning, and Explainable Artificial Intelligence
-T2  - IEEE Access
-SP  - 100604
-EP  - 100621
-AU  - M. Alabdulhafith
-AU  - H. Saleh
-AU  - H. Elmannai
-AU  - Z. H. Ali
-AU  - S. El-Sappagh
-AU  - J. -W. Hu
-AU  - N. El-Rashidy
-PY  - 2023
-KW  - Predictive models
-KW  - Hospitals
-KW  - Monitoring
-KW  - Machine learning
-KW  - Edge computing
-KW  - MIMICs
-KW  - Real-time systems
-KW  - Ensemble learning
-KW  - Stacking
-KW  - Artificial intelligence
-KW  - Medical information systems
-KW  - Particle swarm optimization
-KW  - Admittance measurement
-KW  - Machine learning
-KW  - ensemble learning
-KW  - stacking ensemble learning
-KW  - ICU readmission rate
-KW  - explainable artificial intelligence
-DO  - 10.1109/ACCESS.2023.3312343
-JO  - IEEE Access
-IS  - 
-SN  - 2169-3536
-VO  - 11
-VL  - 11
-JA  - IEEE Access
-Y1  - 2023
-AB  - ICU readmission is usually associated with an increased number of hospital death. Predicting readmission helps to reduce such risks by avoiding early discharge, providing appropriate intervention, and planning for patient placement after ICU discharge. Unfortunately, ICU scores such as the simplified acute physiology score (SAPS) and Acute Physiology and Chronic Health (APACHE) could help predict mortality or evaluate illness severity. Still, it is ineffective in predicting ICU readmission. This study introduces a clinical monitoring fog-computing-based system for remote prognosis and monitoring of intensive care patients. This proposed monitoring system uses the advantages of machine learning (ML) approaches for generating a real-time alert signal to doctors for supplying e-healthcare, accelerating decision-making, and monitoring and controlling health systems. The proposed system includes three main layers. First, the data acquisition layer, in which we collect the vital signs and lab tests of the patient’s health conditions in real-time. Then, the fog computing layer processes. The results are then sent to the cloud layer, which offers sizable storage space for patient healthcare. Demographic data, lab tests, and vital signs are aggregated from the MIMIC III dataset for 10,465 patients. Feature selection methods: Genetic algorithm (GA) and practical swarm optimization (PSO) are used to choose the optimal feature subset from detests. Moreover, Different traditional ML models, ensemble learning models, and the proposed stacking models are applied to full features and selected features to predict readmission after 30 days of ICU discharge. The proposed stacking models recorded the highest performance compared to other models. The proposed stacking ensemble model with selected features by POS achieved promising results (accuracy = 98.42, precision = 98.42, recall = 98.42, and F1-Score = 98.42), compared to full features and selected features. We also, provide model explanations to ensure efficiency, effectiveness, and trust in the developed model through local and global explanations.
 ER  - 
 
 TY  - CONF
@@ -2749,6 +2676,79 @@ AB  - Falls are one of the major sources of severe injuries, pain and even death
 ER  - 
 
 TY  - CONF
+TI  - IoT for Smart Healthcare: Opportunities, Challenges and Technology
+T2  - 2022 International Conference on Machine Learning, Computer Systems and Security (MLCSS)
+SP  - 171
+EP  - 175
+AU  - S. Tripathy
+AU  - U. M. Mohapatra
+AU  - N. Mazumdar
+PY  - 2022
+KW  - Sociology
+KW  - Medical services
+KW  - Organizations
+KW  - Market research
+KW  - Internet of Things
+KW  - Statistics
+KW  - Smart devices
+KW  - Internet of Things (IoT)
+KW  - Smart Healthcare
+KW  - Healthcare (HC)
+KW  - Challenges and Issues
+DO  - 10.1109/MLCSS57186.2022.00039
+JO  - 2022 International Conference on Machine Learning, Computer Systems and Security (MLCSS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 International Conference on Machine Learning, Computer Systems and Security (MLCSS)
+Y1  - 5-6 Aug. 2022
+AB  - Internet of Things (IoT) has drawn a lot of attention in recent years because of its potential to solve real world challenges observed in several application domains. Its expanding trans-disciplinary usages have changed the way we live. One of the IoT applications includes smart healthcare, which connects sensors, smart devices, machinery, patients, and doctors to the Internet. It can be utilized to minimize the load on healthcare systems brought on by an ageing population and an increase in chronic sickness. When it comes to health bills, resource requirements, availability, and personal care, healthcare have become a major socio-economic concern, particularly for the elderly persons. IoT has enabled doctors to do remote monitoring, chronic illness management, and senior care of secluded patients, and looking after indoor patients, in an effective and intelligent manner as well. Furthermore, due to remote monitoring of patients by physicians, the length of hospital stay can be reduced that reduces the expenses. This study examines some smart healthcare trends that have transformed the traditional healthcare system by improving health management efficiency through IoT implementation.
+ER  - 
+
+TY  - JOUR
+TI  - A Clinical Decision Support System for Edge/Cloud ICU Readmission Model Based on Particle Swarm Optimization, Ensemble Machine Learning, and Explainable Artificial Intelligence
+T2  - IEEE Access
+SP  - 100604
+EP  - 100621
+AU  - M. Alabdulhafith
+AU  - H. Saleh
+AU  - H. Elmannai
+AU  - Z. H. Ali
+AU  - S. El-Sappagh
+AU  - J. -W. Hu
+AU  - N. El-Rashidy
+PY  - 2023
+KW  - Predictive models
+KW  - Hospitals
+KW  - Monitoring
+KW  - Machine learning
+KW  - Edge computing
+KW  - MIMICs
+KW  - Real-time systems
+KW  - Ensemble learning
+KW  - Stacking
+KW  - Artificial intelligence
+KW  - Medical information systems
+KW  - Particle swarm optimization
+KW  - Admittance measurement
+KW  - Machine learning
+KW  - ensemble learning
+KW  - stacking ensemble learning
+KW  - ICU readmission rate
+KW  - explainable artificial intelligence
+DO  - 10.1109/ACCESS.2023.3312343
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - ICU readmission is usually associated with an increased number of hospital death. Predicting readmission helps to reduce such risks by avoiding early discharge, providing appropriate intervention, and planning for patient placement after ICU discharge. Unfortunately, ICU scores such as the simplified acute physiology score (SAPS) and Acute Physiology and Chronic Health (APACHE) could help predict mortality or evaluate illness severity. Still, it is ineffective in predicting ICU readmission. This study introduces a clinical monitoring fog-computing-based system for remote prognosis and monitoring of intensive care patients. This proposed monitoring system uses the advantages of machine learning (ML) approaches for generating a real-time alert signal to doctors for supplying e-healthcare, accelerating decision-making, and monitoring and controlling health systems. The proposed system includes three main layers. First, the data acquisition layer, in which we collect the vital signs and lab tests of the patient’s health conditions in real-time. Then, the fog computing layer processes. The results are then sent to the cloud layer, which offers sizable storage space for patient healthcare. Demographic data, lab tests, and vital signs are aggregated from the MIMIC III dataset for 10,465 patients. Feature selection methods: Genetic algorithm (GA) and practical swarm optimization (PSO) are used to choose the optimal feature subset from detests. Moreover, Different traditional ML models, ensemble learning models, and the proposed stacking models are applied to full features and selected features to predict readmission after 30 days of ICU discharge. The proposed stacking models recorded the highest performance compared to other models. The proposed stacking ensemble model with selected features by POS achieved promising results (accuracy = 98.42, precision = 98.42, recall = 98.42, and F1-Score = 98.42), compared to full features and selected features. We also, provide model explanations to ensure efficiency, effectiveness, and trust in the developed model through local and global explanations.
+ER  - 
+
+TY  - CONF
 TI  - Oximeter for all: An innovative look in inclusive physiological monitoring
 T2  - 2023 IEEE Biomedical Circuits and Systems Conference (BioCAS)
 SP  - 1
@@ -2816,6 +2816,71 @@ AB  - Recent trends in the healthcare industry, such as the use of wearable IoT 
 ER  - 
 
 TY  - CONF
+TI  - A Framework for Edge-Assisted Healthcare Data Analytics using Federated Learning
+T2  - 2020 IEEE International Conference on Big Data (Big Data)
+SP  - 3423
+EP  - 3427
+AU  - S. Hakak
+AU  - S. Ray
+AU  - W. Z. Khan
+AU  - E. Scheme
+PY  - 2020
+KW  - Data analysis
+KW  - Wearable computers
+KW  - Medical services
+KW  - Collaborative work
+KW  - Data models
+KW  - Monitoring
+KW  - Edge computing
+KW  - Edge computing
+KW  - Healthcare Analytics
+KW  - Federated Learning
+KW  - Wearable technology
+KW  - Medical IoT
+DO  - 10.1109/BigData50022.2020.9377873
+JO  - 2020 IEEE International Conference on Big Data (Big Data)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Big Data (Big Data)
+Y1  - 10-13 Dec. 2020
+AB  - With the emergence of wearable technology, IoT, and Edge computing, the nature of healthcare is rapidly shifting towards digital health aided by these ICT technologies. At the same time, consumer devices, such as smart, wearable fitness watches are gaining market share as a way to monitor physical activity and wellness. Despite these advances, and their ability to capture longitudinal behavioural patterns, these devices have yet to be fully leveraged within the healthcare system. If the user-generated data from such devices could be collected without com-promising an individual’s privacy, these insights could comprise part of a more holistic and preventative healthcare solution. In this article, we propose an Edge-assisted data analytics frame-work that uses Federated Learning to re-train local machine learning models using user-generated data. This framework could leverage pre-trained models to extract user-customized insights while preserving privacy and Cloud resources. We also identify some potential application scenarios and discuss research challenges to be explored within the proposed framework.
+ER  - 
+
+TY  - CONF
+TI  - Deep Learning Networks for Eating and Drinking Recognition based on Smartwatch Sensors
+T2  - 2022 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
+SP  - 106
+EP  - 111
+AU  - S. Mekruksavanich
+AU  - P. Jantawong
+AU  - N. Hnoohom
+AU  - A. Jitpattanakul
+PY  - 2022
+KW  - Deep learning
+KW  - Measurement
+KW  - Technological innovation
+KW  - Wearable computers
+KW  - Medical services
+KW  - Recording
+KW  - Monitoring
+KW  - eating activity
+KW  - drinking activity
+KW  - smartwatch sensors
+KW  - deep learning
+DO  - 10.1109/RI2C56397.2022.9910318
+JO  - 2022 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
+Y1  - 4-5 Aug. 2022
+AB  - Smartwatches are becoming more popular for recognizing and monitoring human actions in everyday life. These wearable devices are equipped with various IMU sensors for ubiquitous data processing and recording of human physical activity data. Sensor-based human activity recognition (HAR) has risen to the top of the list of the most active research topic due to its widely real-life applications in various practical domains, such as healthcare monitoring, sports and exercise tracking, and misbehavior prevention. Many machine learning and deep learning approaches have been recently proposed to solve the problem of human activity recognition, focusing on activities of daily living. However, an exciting and challenging HAR topic deals with more complex human activities such as eating-related activities. This paper proposes a sensor-based HAR framework using data from eating-related activities recorded by a smartwatch sensor. In this framework, five d eep learning networks (CNN, LSTM, BiLSTM, Stacked LSTM, CNN-LSTM, and LSTM-CNN) are evaluated for their recognition of eating-related activities. To ensure the model’s dependability, data from eating-related activities on the standard publicly available dataset WISDM-HARB are utilized to evaluate the proposed framework using state-of-the-art metrics: accuracy and confusion matrices. Experiment findings demonstrate that the S tacked LSTM model outperforms other deep learning models, achieving an accuracy of 97.37%.
+ER  - 
+
+TY  - CONF
 TI  - Locating Patient Health Data Theft Using Gradient Boosting with Hybrid Microwave Transmission-Based Wearable Device
 T2  - 2024 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication (IConSCEPT)
 SP  - 1
@@ -2853,41 +2918,6 @@ AB  - The research article addresses the intersection of healthcare monitoring a
 ER  - 
 
 TY  - CONF
-TI  - Machine Learning Approaches for Detecting Epileptic Seizures Based on Eeg Signals
-T2  - 2022 IEEE 2nd Mysore Sub Section International Conference (MysuruCon)
-SP  - 1
-EP  - 4
-AU  - V. Seethalakshmi
-AU  - R. Vijaya
-AU  - J. Pavithra
-AU  - C. Jency
-AU  - S. B. S
-AU  - P. Jha
-PY  - 2022
-KW  - Support vector machines
-KW  - Wrist
-KW  - Wireless sensor networks
-KW  - Epilepsy
-KW  - Machine learning
-KW  - Feature extraction
-KW  - Electroencephalography
-KW  - epilepsy
-KW  - machine learning
-KW  - bio-sensor
-KW  - feature extraction
-KW  - EEG signal
-DO  - 10.1109/MysuruCon55714.2022.9972582
-JO  - 2022 IEEE 2nd Mysore Sub Section International Conference (MysuruCon)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2022 IEEE 2nd Mysore Sub Section International Conference (MysuruCon)
-Y1  - 16-17 Oct. 2022
-AB  - Epilepsy is a prevalent neurological illness that affects an estimated 70 million people across the world. Seizures must be tracked if epilepsy is to be monitored and treated effectively. Caretaker seizure diaries are used for current epilepsy treatment; nevertheless, the use of clinical seizure detection may overlook episodes. In the long run, wearable gadgets may be more comfortable and easier to use for ambulatory monitoring. Custom-built machine learning (ML) algorithms are evaluated for the ability to identify seizures across a wide range of epileptic episodes using wrist and ankle-worn biosensors. In this paper, an automated technique a new wireless sensor based system is developed for detecting and monitoring epileptic patients in a non-clinical environment and to reduce the amount of time neurologists spend diagnosing seizures. Here a mechanism was developed for capturing multi-modal data such as Electroencephalogram (EEG) using wrist-worn biosensor. But exclusion of noise and feature extraction are two major encounters for forecasting of epileptic seizures. In order to detect epileptic seizure in a shorter period of time, statistical values and Lyapunov features were obtained, instead of raw data utilizing Support Vector Machine (SVM) as a classifier and obtained a substantial enhancement over the state-of-the-art methods.
-ER  - 
-
-TY  - CONF
 TI  - IoT-Enhanced Workplace Safety for Real-Time Monitoring and Hazard Detection for Occupational Health
 T2  - 2023 International Conference on Artificial Intelligence for Innovations in Healthcare Industries (ICAIIHI)
 SP  - 1
@@ -2916,39 +2946,6 @@ VL  - 1
 JA  - 2023 International Conference on Artificial Intelligence for Innovations in Healthcare Industries (ICAIIHI)
 Y1  - 29-30 Dec. 2023
 AB  - This paper discusses using Internet of Things (IoT) technology to improve workplace safety via real-time monitoring and danger identification, addressing occupational health issues. IoT devices and sensors are used in more sectors to make workplaces safer. A network of sensors may gather real-time data from various workplace locations to monitor ambient conditions, equipment functioning, and personnel actions. The system develops a comprehensive IoT infrastructure for occupational safety. This infrastructure includes environmental sensors for temperature, humidity, air quality, and noise. Wearable sensors are also investigated for worker vital signs and mobility. The data is sent to a central platform where powerful analytics and IoT discover dangers, abnormalities, and hazardous trends. Integration of danger detection techniques with real-time warnings and notifications is vital to the analysis. Hazardous circumstances trigger quick alerts for workers and supervisors. This proactive strategy allows quick risk mitigation and accident prevention. The system also addresses data privacy and security in the IoT framework, suggesting methods for protecting sensitive data while enabling data exchange.
-ER  - 
-
-TY  - CONF
-TI  - A Framework for Edge-Assisted Healthcare Data Analytics using Federated Learning
-T2  - 2020 IEEE International Conference on Big Data (Big Data)
-SP  - 3423
-EP  - 3427
-AU  - S. Hakak
-AU  - S. Ray
-AU  - W. Z. Khan
-AU  - E. Scheme
-PY  - 2020
-KW  - Data analysis
-KW  - Wearable computers
-KW  - Medical services
-KW  - Collaborative work
-KW  - Data models
-KW  - Monitoring
-KW  - Edge computing
-KW  - Edge computing
-KW  - Healthcare Analytics
-KW  - Federated Learning
-KW  - Wearable technology
-KW  - Medical IoT
-DO  - 10.1109/BigData50022.2020.9377873
-JO  - 2020 IEEE International Conference on Big Data (Big Data)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2020 IEEE International Conference on Big Data (Big Data)
-Y1  - 10-13 Dec. 2020
-AB  - With the emergence of wearable technology, IoT, and Edge computing, the nature of healthcare is rapidly shifting towards digital health aided by these ICT technologies. At the same time, consumer devices, such as smart, wearable fitness watches are gaining market share as a way to monitor physical activity and wellness. Despite these advances, and their ability to capture longitudinal behavioural patterns, these devices have yet to be fully leveraged within the healthcare system. If the user-generated data from such devices could be collected without com-promising an individual’s privacy, these insights could comprise part of a more holistic and preventative healthcare solution. In this article, we propose an Edge-assisted data analytics frame-work that uses Federated Learning to re-train local machine learning models using user-generated data. This framework could leverage pre-trained models to extract user-customized insights while preserving privacy and Cloud resources. We also identify some potential application scenarios and discuss research challenges to be explored within the proposed framework.
 ER  - 
 
 TY  - CONF
@@ -2991,35 +2988,37 @@ AB  - Parkinson’s disease (PD) is a neurodegenerative condition where dopamine
 ER  - 
 
 TY  - CONF
-TI  - Deep Learning Networks for Eating and Drinking Recognition based on Smartwatch Sensors
-T2  - 2022 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
-SP  - 106
-EP  - 111
-AU  - S. Mekruksavanich
-AU  - P. Jantawong
-AU  - N. Hnoohom
-AU  - A. Jitpattanakul
-PY  - 2022
-KW  - Deep learning
-KW  - Measurement
-KW  - Technological innovation
-KW  - Wearable computers
-KW  - Medical services
-KW  - Recording
-KW  - Monitoring
-KW  - eating activity
-KW  - drinking activity
-KW  - smartwatch sensors
-KW  - deep learning
-DO  - 10.1109/RI2C56397.2022.9910318
-JO  - 2022 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
+TI  - Smart Intervention: A Next-Gen IoT Device for Combatting Drug Addiction
+T2  - 2024 3rd International Conference on Applied Artificial Intelligence and Computing (ICAAIC)
+SP  - 1674
+EP  - 1677
+AU  - R. Kolluru
+AU  - R. Noorullah
+PY  - 2024
+KW  - Drugs
+KW  - Correlation
+KW  - Fluctuations
+KW  - Addiction
+KW  - Blood pressure
+KW  - Real-time systems
+KW  - Internet of Things
+KW  - Drug cravings. Physiological responses
+KW  - Heart rate
+KW  - Cortisol levels
+KW  - Skin conductance
+KW  - Society for Neuroscience
+KW  - Wearable technology
+KW  - Health monitoring
+KW  - Emerging technologies
+DO  - 10.1109/ICAAIC60222.2024.10575151
+JO  - 2024 3rd International Conference on Applied Artificial Intelligence and Computing (ICAAIC)
 IS  - 
 SN  - 
 VO  - 
 VL  - 
-JA  - 2022 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
-Y1  - 4-5 Aug. 2022
-AB  - Smartwatches are becoming more popular for recognizing and monitoring human actions in everyday life. These wearable devices are equipped with various IMU sensors for ubiquitous data processing and recording of human physical activity data. Sensor-based human activity recognition (HAR) has risen to the top of the list of the most active research topic due to its widely real-life applications in various practical domains, such as healthcare monitoring, sports and exercise tracking, and misbehavior prevention. Many machine learning and deep learning approaches have been recently proposed to solve the problem of human activity recognition, focusing on activities of daily living. However, an exciting and challenging HAR topic deals with more complex human activities such as eating-related activities. This paper proposes a sensor-based HAR framework using data from eating-related activities recorded by a smartwatch sensor. In this framework, five d eep learning networks (CNN, LSTM, BiLSTM, Stacked LSTM, CNN-LSTM, and LSTM-CNN) are evaluated for their recognition of eating-related activities. To ensure the model’s dependability, data from eating-related activities on the standard publicly available dataset WISDM-HARB are utilized to evaluate the proposed framework using state-of-the-art metrics: accuracy and confusion matrices. Experiment findings demonstrate that the S tacked LSTM model outperforms other deep learning models, achieving an accuracy of 97.37%.
+JA  - 2024 3rd International Conference on Applied Artificial Intelligence and Computing (ICAAIC)
+Y1  - 5-7 June 2024
+AB  - Drug addiction presents substantial challenges to achieving a healthy lifestyle. This study introduces a novel approach to detect and intervene in drug cravings by utilizing blood pressure monitoring. The research explores the correlation between blood pressure fluctuations and drug cravings, laying the groundwork for a real-time detection system. Continuous, non-intrusive blood pressure monitoring is employed, integrating wearable devices for the early detection of drug cravings. This approach offers a unique perspective on the blood pressure-craving correlation, ensuring originality and contributing to the knowledge of drug craving management. Emphasizing a personalized and proactive approach, the integration of advanced monitoring technology underscores the commitment to developing a practical system that addresses the challenges of healthy living amid drug addiction. This work encourages further exploration of physiological indicators and drug-craving behavior, potentially leading to improved interventions and support for individuals battling addiction.
 ER  - 
 
 TY  - CONF
@@ -3056,6 +3055,41 @@ VL  -
 JA  - 2024 11th International Workshop on Metrology for AeroSpace (MetroAeroSpace)
 Y1  - 3-5 June 2024
 AB  - In recent decades, telemedicine has revolutionized the healthcare landscape, offering innovative solutions to improve the accessibility and efficiency of medical care. In this context, the Internet of Things (IoT) has played a significant role, facilitating connectivity and data exchange between medical devices and healthcare providers. However, while traditional IoT primarily focuses on local connectivity, the evolution towards the Internet of Remote Medical Things (IoRMT) has opened new frontiers in telemedicine, enabling the monitoring and treatment of patients even in remote or hard-to-reach areas. IoRMT represents an integrated approach that leverages advanced communication and sensing technologies to enable the connection and interaction of remote medical devices with healthcare networks. This interconnected infrastructure allows healthcare professionals to monitor patients in real-time, diagnose medical conditions, and provide personalized care, regardless of their geographical location. Through the adoption of wearable sensors, remote monitoring devices, and teleassistance systems, IoRMT offers a wide range of applications in telemedicine. One of the key areas where IoRMT has demonstrated its potential is in the management of chronic diseases. Patients suffering from conditions such as diabetes, hypertension, or heart disease can benefit from regular monitoring and real-time feedback from their healthcare providers, enabling more effective and proactive management of their health conditions. Additionally, IoRMT facilitates the delivery of specialized care in remote areas where access to healthcare services is limited. However, the implementation of IoRMT in telemedicine presents significant challenges, including data security, patient privacy, and the quality of network connections in remote areas. It is crucial to address these challenges through the implementation of advanced security protocols, compliance with data privacy regulations, and optimization of communication infrastructures. In conclusion, the Internet of Remote Medical Things represents a significant evolution in telemedicine, offering innovative solutions to improve the accessibility, efficiency, and quality of remote medical care. Through the integration of advanced technologies and clinical practices, IoRMT has the potential to radically transform the way healthcare is delivered and received worldwide, contributing to the improvement of health and well-being in global communities.
+ER  - 
+
+TY  - CONF
+TI  - Machine Learning Approaches for Detecting Epileptic Seizures Based on Eeg Signals
+T2  - 2022 IEEE 2nd Mysore Sub Section International Conference (MysuruCon)
+SP  - 1
+EP  - 4
+AU  - V. Seethalakshmi
+AU  - R. Vijaya
+AU  - J. Pavithra
+AU  - C. Jency
+AU  - S. B. S
+AU  - P. Jha
+PY  - 2022
+KW  - Support vector machines
+KW  - Wrist
+KW  - Wireless sensor networks
+KW  - Epilepsy
+KW  - Machine learning
+KW  - Feature extraction
+KW  - Electroencephalography
+KW  - epilepsy
+KW  - machine learning
+KW  - bio-sensor
+KW  - feature extraction
+KW  - EEG signal
+DO  - 10.1109/MysuruCon55714.2022.9972582
+JO  - 2022 IEEE 2nd Mysore Sub Section International Conference (MysuruCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE 2nd Mysore Sub Section International Conference (MysuruCon)
+Y1  - 16-17 Oct. 2022
+AB  - Epilepsy is a prevalent neurological illness that affects an estimated 70 million people across the world. Seizures must be tracked if epilepsy is to be monitored and treated effectively. Caretaker seizure diaries are used for current epilepsy treatment; nevertheless, the use of clinical seizure detection may overlook episodes. In the long run, wearable gadgets may be more comfortable and easier to use for ambulatory monitoring. Custom-built machine learning (ML) algorithms are evaluated for the ability to identify seizures across a wide range of epileptic episodes using wrist and ankle-worn biosensors. In this paper, an automated technique a new wireless sensor based system is developed for detecting and monitoring epileptic patients in a non-clinical environment and to reduce the amount of time neurologists spend diagnosing seizures. Here a mechanism was developed for capturing multi-modal data such as Electroencephalogram (EEG) using wrist-worn biosensor. But exclusion of noise and feature extraction are two major encounters for forecasting of epileptic seizures. In order to detect epileptic seizure in a shorter period of time, statistical values and Lyapunov features were obtained, instead of raw data utilizing Support Vector Machine (SVM) as a classifier and obtained a substantial enhancement over the state-of-the-art methods.
 ER  - 
 
 TY  - JOUR
@@ -3095,40 +3129,6 @@ AB  - Remote healthcare and telemedicine technology have witnessed a large and r
 ER  - 
 
 TY  - CONF
-TI  - Smart Intervention: A Next-Gen IoT Device for Combatting Drug Addiction
-T2  - 2024 3rd International Conference on Applied Artificial Intelligence and Computing (ICAAIC)
-SP  - 1674
-EP  - 1677
-AU  - R. Kolluru
-AU  - R. Noorullah
-PY  - 2024
-KW  - Drugs
-KW  - Correlation
-KW  - Fluctuations
-KW  - Addiction
-KW  - Blood pressure
-KW  - Real-time systems
-KW  - Internet of Things
-KW  - Drug cravings. Physiological responses
-KW  - Heart rate
-KW  - Cortisol levels
-KW  - Skin conductance
-KW  - Society for Neuroscience
-KW  - Wearable technology
-KW  - Health monitoring
-KW  - Emerging technologies
-DO  - 10.1109/ICAAIC60222.2024.10575151
-JO  - 2024 3rd International Conference on Applied Artificial Intelligence and Computing (ICAAIC)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2024 3rd International Conference on Applied Artificial Intelligence and Computing (ICAAIC)
-Y1  - 5-7 June 2024
-AB  - Drug addiction presents substantial challenges to achieving a healthy lifestyle. This study introduces a novel approach to detect and intervene in drug cravings by utilizing blood pressure monitoring. The research explores the correlation between blood pressure fluctuations and drug cravings, laying the groundwork for a real-time detection system. Continuous, non-intrusive blood pressure monitoring is employed, integrating wearable devices for the early detection of drug cravings. This approach offers a unique perspective on the blood pressure-craving correlation, ensuring originality and contributing to the knowledge of drug craving management. Emphasizing a personalized and proactive approach, the integration of advanced monitoring technology underscores the commitment to developing a practical system that addresses the challenges of healthy living amid drug addiction. This work encourages further exploration of physiological indicators and drug-craving behavior, potentially leading to improved interventions and support for individuals battling addiction.
-ER  - 
-
-TY  - CONF
 TI  - Superhydrophobic Triboelectric Textile for Sensing and Energy Harvesting Applications
 T2  - 2020 IEEE 33rd International Conference on Micro Electro Mechanical Systems (MEMS)
 SP  - 582
@@ -3152,37 +3152,6 @@ VL  -
 JA  - 2020 IEEE 33rd International Conference on Micro Electro Mechanical Systems (MEMS)
 Y1  - 18-22 Jan. 2020
 AB  - Smart textile paves the way to a new generation of wearable electronics of Internet of Things (IoTs). However, the battery-dependent and hygroscopic limitations restrict the practical applications of self-powered textile-based electronics. To solve these problems, here we report a superhydrophobic textile based TENG using a facile coating approach to assemble CNTs/TPE onto textile. With improved anti-humidity and quick recovery capabilities from high moisture environment, the functionalized textile based-TENG enables relatively efficient biomechanical energy harvesting, anti-sweat human motion monitoring, especially gesture recognition of words of sign language based on superhydrophobic glove interface by using deep learning technology, maintaining high recognition accuracy even in high humidity atmosphere.
-ER  - 
-
-TY  - CONF
-TI  - Analysis of IoT Health Data: State of the Art and Research Opportunities
-T2  - 2024 International Conference on Circuit, Systems and Communication (ICCSC)
-SP  - 1
-EP  - 6
-AU  - Z. S. Houssaini
-AU  - Y. Balboul
-AU  - A. Bouayad
-PY  - 2024
-KW  - Patient monitoring
-KW  - Data analysis
-KW  - Surveillance
-KW  - Focusing
-KW  - Data protection
-KW  - Internet of Medical Things
-KW  - Distance measurement
-KW  - Internet of Medical Things
-KW  - Healthcare System
-KW  - Remote Patient Monitoring
-KW  - Data Analysis Methods
-DO  - 10.1109/ICCSC62074.2024.10617220
-JO  - 2024 International Conference on Circuit, Systems and Communication (ICCSC)
-IS  - 
-SN  - 
-VO  - 
-VL  - 
-JA  - 2024 International Conference on Circuit, Systems and Communication (ICCSC)
-Y1  - 28-29 June 2024
-AB  - The increasing integration of Internet of Things (IoT) devices in the healthcare sector has transformed the way medical data is collected and analyzed. This article aims to provide a comprehensive overview of the current state of the Internet of Medical Things (IoMT), highlighting recent advancements, benefits, challenges encountered, as well as future perspectives and research opportunities. We take a closer look at the technologies used, data analysis methods, security and privacy concerns, as well as potential applications in preventive medicine, chronic disease management, and remote patient monitoring.
 ER  - 
 
 TY  - CONF
@@ -3219,6 +3188,37 @@ VL  -
 JA  - 2021 IEEE International Conference on Smart Computing (SMARTCOMP)
 Y1  - 23-27 Aug. 2021
 AB  - The Internet of Medical Things (IoMT), combined with interconnected wearable devices and medical-grade sensors, can play an essential role in healthcare evolution. By exploiting the data generated by the plethora of interconnected devices (vital parameters, location-based info, patients activity and more), advanced ICT systems can be put in place with predicting capabilities. This way potentially critical situations, that may evolve in serious complications to patients’ well-being, can be promptly recognized and successfully addressed, first of all, to save lives and secondarily to limit economical damages. To support continuous patient monitoring in public and private healthcare, this paper proposes "DILoCC", an architecture to manage wearable devices, sensors and applications, that uses a Distributed Incremental Learning (DIL) approach to exploit cooperation among the sensing devices and increase the overall system efficiency through the mitigation of "Catastrophic Forgetting" consequences.
+ER  - 
+
+TY  - CONF
+TI  - Analysis of IoT Health Data: State of the Art and Research Opportunities
+T2  - 2024 International Conference on Circuit, Systems and Communication (ICCSC)
+SP  - 1
+EP  - 6
+AU  - Z. S. Houssaini
+AU  - Y. Balboul
+AU  - A. Bouayad
+PY  - 2024
+KW  - Patient monitoring
+KW  - Data analysis
+KW  - Surveillance
+KW  - Focusing
+KW  - Data protection
+KW  - Internet of Medical Things
+KW  - Distance measurement
+KW  - Internet of Medical Things
+KW  - Healthcare System
+KW  - Remote Patient Monitoring
+KW  - Data Analysis Methods
+DO  - 10.1109/ICCSC62074.2024.10617220
+JO  - 2024 International Conference on Circuit, Systems and Communication (ICCSC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Circuit, Systems and Communication (ICCSC)
+Y1  - 28-29 June 2024
+AB  - The increasing integration of Internet of Things (IoT) devices in the healthcare sector has transformed the way medical data is collected and analyzed. This article aims to provide a comprehensive overview of the current state of the Internet of Medical Things (IoMT), highlighting recent advancements, benefits, challenges encountered, as well as future perspectives and research opportunities. We take a closer look at the technologies used, data analysis methods, security and privacy concerns, as well as potential applications in preventive medicine, chronic disease management, and remote patient monitoring.
 ER  - 
 
 TY  - CONF
@@ -3319,47 +3319,6 @@ AB  - Information is a resource in our advanced world; a huge amount of informat
 ER  - 
 
 TY  - JOUR
-TI  - Federated Learning and Blockchain-Enabled Fog-IoT Platform for Wearables in Predictive Healthcare
-T2  - IEEE Transactions on Computational Social Systems
-SP  - 1732
-EP  - 1741
-AU  - M. J. Baucas
-AU  - P. Spachos
-AU  - K. N. Plataniotis
-PY  - 2023
-KW  - Internet of Things
-KW  - Wearable computers
-KW  - Medical services
-KW  - Federated learning
-KW  - Servers
-KW  - Data privacy
-KW  - Security
-KW  - Data privacy
-KW  - distributed systems
-KW  - fog network
-KW  - health care services
-KW  - health informatics
-KW  - Internet of Things (IoT)
-KW  - machine learning
-KW  - platforms
-KW  - predictive models
-KW  - privacy
-KW  - private blockchain
-KW  - scalability
-KW  - security
-KW  - testbed
-DO  - 10.1109/TCSS.2023.3235950
-JO  - IEEE Transactions on Computational Social Systems
-IS  - 4
-SN  - 2329-924X
-VO  - 10
-VL  - 10
-JA  - IEEE Transactions on Computational Social Systems
-Y1  - Aug. 2023
-AB  - Over the years, the popularity and usage of wearable Internet of Things (IoT) devices in several healthcare services are increased. Among the services that benefit from the usage of such devices is predictive analysis, which can improve early diagnosis in e-health. However, due to the limitations of wearable IoT devices, challenges in data privacy, service integrity, and network structure adaptability arose. To address these concerns, we propose a platform using federated learning and private blockchain technology within a fog-IoT network. These technologies have privacy-preserving features securing data within the network. We utilized the fog-IoT network’s distributive structure to create an adaptive network for wearable IoT devices. We designed a testbed to examine the proposed platform’s ability to preserve the integrity of a classifier. According to experimental results, the introduced implementation can effectively preserve a patient’s privacy and a predictive service’s integrity. We further investigated the contributions of other technologies to the security and adaptability of the IoT network. Overall, we proved the feasibility of our platform in addressing significant security and privacy challenges of wearable IoT devices in predictive healthcare through analysis, simulation, and experimentation.
-ER  - 
-
-TY  - JOUR
 TI  - DS-CNN: Dual-Stream Convolutional Neural Networks-Based Heart Sound Classification for Wearable Devices
 T2  - IEEE Transactions on Consumer Electronics
 SP  - 1186
@@ -3391,6 +3350,37 @@ VL  - 69
 JA  - IEEE Transactions on Consumer Electronics
 Y1  - Nov. 2023
 AB  - Cardiovascular diseases (CVDs) is considered a serious public health problem due to the uncertainty of its onset. Consuming wearable devices have increasing popularities for healthcare monitoring, and many of them are capable of continuous monitoring and early detection of CVDs. This paper proposes a framework for heart sound detection that can be considered for deployment on smart wearable devices to screen CVDs conveniently. A dual-stream convolutional neural network (DS-CNN) is developed to detect abnormal ones from short-term heart sound recordings. Preprocessing module is first employed for noise filtering and amplitude normalization. Then short-time Fourier transform and higher-order spectral are introduced for feature extraction, whose products are subsequently fed into the DS-CNN for screening abnormal heart sound signals. Two open accessible datasets are employed for performance evaluation. The results well demonstrate the classification accuracy of the proposed DS-CNN, and also indicate its advantages for adapting to heart sound recordings collected by different equipments.
+ER  - 
+
+TY  - CONF
+TI  - Paving the way to cardiovascular health monitoring using Internet of Medical Things and Edge-AI
+T2  - 2022 2nd International Conference on Digital Futures and Transformative Technologies (ICoDT2)
+SP  - 1
+EP  - 6
+AU  - M. Talha
+AU  - R. Mumtaz
+AU  - A. Rafay
+PY  - 2022
+KW  - Machine learning algorithms
+KW  - Quality of service
+KW  - Internet of Medical Things
+KW  - Organizations
+KW  - Real-time systems
+KW  - Classification algorithms
+KW  - Security
+KW  - Machine Learning
+KW  - Internet of Medical Things
+KW  - Tele-health monitoring
+KW  - Cardiovascular Monitoring
+DO  - 10.1109/ICoDT255437.2022.9787432
+JO  - 2022 2nd International Conference on Digital Futures and Transformative Technologies (ICoDT2)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 2nd International Conference on Digital Futures and Transformative Technologies (ICoDT2)
+Y1  - 24-26 May 2022
+AB  - The Internet of Medical Things (IoMT) has revolutionized the healthcare domain, with the introduction of remote real-time monitoring. This emerging technology has not only relieved the burden of hospital resources, but also paved the way for efficient monitoring and management of patients. According to World Health Organization (WHO), in Pakistan, cardiovascular diseases (CVD) are leading cause of deaths that amount to nearly 200,000 deaths annually. This results in high mortality rates all over Pakistan. To uplift the current architecture of healthcare in Pakistan, it is vital to develop a sustainable solution for continuous health monitoring and arrest anomalous physiological behavior before they become life-threatening. In the same pretext, this study proposes a working paper which aims to disseminate interim results of smart cardiac health monitoring using an amalgam of IoMT and Machine Learning (ML) techniques. The primary objective of the proposed research is to integrate state-of-the-art ML classification algorithms to detect, in near real-time, abnormal human vitals like electrocardiogram(ECG), heart-rate(HR), blood pressure(BP), etc. As network latency is critical to this application, therefore, to improve overall Quality of Service (QoS) of the system, we propose to fuse Edge Intelligence interfaced with multiple IoMT enabled bio-sensors. These sensors will form a body area sensor network(BSN) that records cardiac-related human vitals. In our preliminary research, that is presented in this paper, we trained several machine learning algorithms on the MIMIC-III clinical data-set and reviewed their performance. Among the 7 tested supervised classification algorithms, Random-Forest achieved the highest accuracy of 95% on the test set. Finally, to offer a remote patient management and monitoring panel, we developed an authenticated web-portal to inculcate data privacy and security in the proposed system.
 ER  - 
 
 
