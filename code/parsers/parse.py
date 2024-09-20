@@ -1,8 +1,8 @@
 import os
 import pandas as pd
-from ris_parser import RISParser
-from nbib_parser import NBIBParser
-from config import RIS_KEYWORDS, NBIB_KEYWORDS, EMBASE_RIS_KEYWORDS
+from code.parsers.ris_parser import RISParser
+from code.parsers.nbib_parser import NBIBParser
+from code.config import RIS_KEYWORDS, NBIB_KEYWORDS, EMBASE_RIS_KEYWORDS
 
 def get_parser(file_name, database_folder, file_path, selected_fields, required_fields, optional_fields):
     """Initialize the correct parser based on file format and database."""

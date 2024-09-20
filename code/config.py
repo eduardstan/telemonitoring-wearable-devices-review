@@ -1,3 +1,6 @@
+import dedupe
+
+# --- Parser Configurations ---
 EMBASE_RIS_KEYWORDS = {
     'title': 'T1  -',
     'authors': 'A1  -',
@@ -33,3 +36,13 @@ NBIB_KEYWORDS = {
     'venue': 'JT  -',
     # Add more fields as necessary
 }
+
+# --- Deduplication Configurations ---
+DEDUP_FIELDS = [
+    dedupe.variables.String('title'),
+    dedupe.variables.String('authors'),
+    dedupe.variables.String('doi'),
+    dedupe.variables.Text('abstract'),
+]
+
+RANDOM_SEED = 42

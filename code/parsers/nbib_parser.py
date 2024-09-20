@@ -1,5 +1,7 @@
 from collections import defaultdict
-from base_parser import BaseParser
+from .base_parser import BaseParser
+from .parser_utils import extract_field_value, append_field_value
+import logging
 
 class NBIBParser(BaseParser):
     def parse(self):
@@ -7,48 +9,47 @@ class NBIBParser(BaseParser):
         records = []
         current_record = defaultdict(str)
         current_field = None  # Track the current field for multi-line values
-        
+
         with open(self.file_path, 'r', encoding='utf-8') as f:
             lines = f.readlines()
-        
+
         for line in lines:
+            line = line.rstrip()
+
             if line.startswith("PMID-"):  # Start of a new record
-                if current_record:  # Save the previous record if it exists
-                    current_record = self.handle_missing_fields(current_record)
-                    if current_record:  # Only append valid records
-                        records.append(dict(current_record))
+                if current_record:
+                    processed_record = self.handle_missing_fields(current_record)
+                    if processed_record:
+                        records.append(processed_record)
                     current_record = defaultdict(str)
                 current_field = None  # Reset the current field for a new record
 
-            # If the line starts with a known keyword, treat it as a new field
+            # Check if the line starts with any known keyword
             for field, keyword in self.keywords.items():
                 if line.startswith(keyword):
-                    current_field = field  # Set the current field
-                    # Handle multiple authors (or other fields with multiple entries)
-                    if field == 'authors':
-                        current_record[field] += line.strip()[len(keyword):].strip() + '; '
+                    current_field = field
+                    value = extract_field_value(line, keyword)
+                    is_multiple = field == 'authors'
+                    append_field_value(current_record, field, value, is_multiple)
+                    break  # Move to next line after matching a keyword
+            else:
+                # Handle multi-line continuation for specific fields
+                if current_field in ['abstract', 'title', 'venue']:
+                    if line.startswith('  '):  # Indented lines continue the field
+                        value = line.strip()
+                        append_field_value(current_record, current_field, value)
                     else:
-                        current_record[field] += line.strip()[len(keyword):].strip() + ' '
-                    break  # No need to check further keywords for this line
+                        current_field = None  # Stop appending if not indented or new keyword
 
-            # Handle multi-line abstract or other fields with indented continuation lines
-            if current_field in ['abstract', 'title', 'venue'] and line.startswith('  '):  # Indented lines continue
-                current_record[current_field] += line.strip() + ' '
-
-            # Stop appending when we encounter a non-indented line or a new keyword
-            if current_field in ['abstract', 'title', 'venue'] and not line.startswith('  ') and not any(line.startswith(k) for k in self.keywords.values()):
-                current_field = None  # Stop appending
-
-        # Add the last record to the list if it exists and is valid
+        # Add the last record to the list if it's valid
         if current_record:
-            current_record = self.handle_missing_fields(current_record)
-            if current_record:  # Only append valid records
-                records.append(dict(current_record))
+            processed_record = self.handle_missing_fields(current_record)
+            if processed_record:
+                records.append(processed_record)
 
-        # Clean up by removing trailing semicolons from the authors field and spaces from each record field
+        # Final cleanup of records
         for record in records:
             for field in record:
-                # Only strip if the field is not None
                 if record[field] is not None:
                     record[field] = record[field].strip('; ').strip()
 

@@ -1,10 +1,13 @@
 from abc import ABC, abstractmethod
+import logging
 
 class BaseParser(ABC):
     """Abstract base class for all parsers."""
 
     def __init__(self, file_path, selected_fields, required_fields, optional_fields, keywords_mapping):
         """
+        Initialize the parser with necessary configurations.
+
         :param file_path: Path to the file to be parsed.
         :param selected_fields: List of fields to parse.
         :param required_fields: List of required fields.
@@ -30,8 +33,8 @@ class BaseParser(ABC):
         """
         for field in self.required_fields:
             if field not in record or not record[field].strip():
-                print(f"Warning: Skipping record due to missing required field '{field}'.")
-                print(f"File path: {self.file_path}\nRecord content: {record}\n")
+                logging.warning(f"Skipping record due to missing required field '{field}'.")
+                logging.debug(f"File path: {self.file_path}\nRecord content: {record}\n")
                 self.num_skipped_records += 1
                 return None  # Return None if required fields are missing
         
