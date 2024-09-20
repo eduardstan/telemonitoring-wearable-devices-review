@@ -1,10 +1,9 @@
 import argparse
 import logging
-from parsers.parse import parse_data_from_multiple_sources
+from parsers.parse import parse_sources
 from deduplication.deduplicate import deduplicate_file
 from utils.logging_utils import setup_logging
 
-# Default databases to use if not specified
 DEFAULT_DATABASES = ['embase', 'ieee_xplore', 'pubmed', 'scopus']
 
 def main():
@@ -20,7 +19,7 @@ def main():
         "-d",
         "--databases",
         nargs="+",
-        default=DEFAULT_DATABASES,  # Default to all databases
+        default=DEFAULT_DATABASES,
         help=f"List of databases to parse (default: {', '.join(DEFAULT_DATABASES)})."
     )
     parse_parser.add_argument(
@@ -44,10 +43,7 @@ def main():
     args = parser.parse_args()
     
     if args.command == "parse":
-        parse_data_from_multiple_sources(
-            databases=args.databases,
-            sub_topics=args.topics
-        )
+        parse_sources(databases=args.databases, sub_topics=args.topics)
     elif args.command == "deduplicate":
         for topic in args.topics:
             deduplicate_file(topic)

@@ -1,6 +1,22 @@
 import dedupe
 
-# --- Parser Configurations ---
+# Parsing fields configuration
+SELECTED_FIELDS = ['title', 'authors', 'doi', 'venue', 'year', 'abstract', 'publication_language']
+REQUIRED_FIELDS = ['title', 'authors', 'venue', 'doi', 'year', 'abstract']
+OPTIONAL_FIELDS = ['publication_language']
+
+# Dedupe fields configuration
+DEDUP_FIELDS = [
+    dedupe.variables.String('title'),
+    dedupe.variables.String('authors'),
+    dedupe.variables.String('doi'),
+    dedupe.variables.Text('abstract'),
+]
+
+# Random seed for reproducibility in active learning and deduplication
+RANDOM_SEED = 42
+
+# Keywords mappings for different formats
 EMBASE_RIS_KEYWORDS = {
     'title': 'T1  -',
     'authors': 'A1  -',
@@ -10,19 +26,17 @@ EMBASE_RIS_KEYWORDS = {
     'publication_type': 'M3  -',
     'abstract': 'N2  -',
     'venue': 'JF  -',
-    # Add more fields as necessary
 }
 
 RIS_KEYWORDS = {
-    'title': 'TI  -',    # Scopus and IEEE Xplore RIS format uses 'TI  -' for title
-    'authors': 'AU  -',  # Scopus and IEEE Xplore RIS format uses 'AU  -' for authors
-    'year': 'PY  -',     # Scopus and IEEE Xplore uses 'PY  -' for year
+    'title': 'TI  -',
+    'authors': 'AU  -',
+    'year': 'PY  -',
     'doi': 'DO  -',
     'publication_language': 'LA  -',
     'publication_type': 'TY  -',
     'abstract': 'AB  -',
     'venue': 'T2  -',
-    # Add more fields as necessary
 }
 
 NBIB_KEYWORDS = {
@@ -34,15 +48,4 @@ NBIB_KEYWORDS = {
     'publication_type': 'PT  -',
     'abstract': 'AB  -',
     'venue': 'JT  -',
-    # Add more fields as necessary
 }
-
-# --- Deduplication Configurations ---
-DEDUP_FIELDS = [
-    dedupe.variables.String('title'),
-    dedupe.variables.String('authors'),
-    dedupe.variables.String('doi'),
-    dedupe.variables.Text('abstract'),
-]
-
-RANDOM_SEED = 42
