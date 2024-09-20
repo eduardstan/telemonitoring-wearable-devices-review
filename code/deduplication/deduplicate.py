@@ -36,6 +36,10 @@ def read_data(filename):
 def get_training_and_settings_files(topic):
     """Generate training and settings file paths based on the topic."""
     deduplicated_dir = "data/deduplicated/"
+
+    # Ensure deduplicated directory exists
+    ensure_directory_exists(deduplicated_dir)
+    
     training_file = os.path.join(deduplicated_dir, f"{topic}_training.json")
     settings_file = os.path.join(deduplicated_dir, f"{topic}_settings.json")
     return training_file, settings_file

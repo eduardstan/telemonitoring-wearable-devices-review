@@ -3,6 +3,7 @@ import pandas as pd
 import logging
 from code.parsers.ris_parser import RISParser
 from code.parsers.nbib_parser import NBIBParser
+from code.utils.file_utils import ensure_directory_exists
 from code.config import RIS_KEYWORDS, NBIB_KEYWORDS, EMBASE_RIS_KEYWORDS, SELECTED_FIELDS, REQUIRED_FIELDS, OPTIONAL_FIELDS
 
 def get_parser(file_name, database_folder, file_path):
@@ -45,6 +46,10 @@ def parse_folder(database_folder, sub_topic):
 
 def parse_sources(databases, sub_topics):
     """Parse data from multiple databases and sub-topics and save results."""
+
+    # Ensure the parsed directory exists
+    ensure_directory_exists('data/parsed/')
+
     for sub_topic in sub_topics:
         all_records = []
         total_parsed_records, total_skipped_records = 0, 0  # Track totals
