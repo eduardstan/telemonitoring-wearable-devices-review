@@ -44,7 +44,10 @@ DEDUP_FIELDS = [
     dedupe.variables.String('title'),
     dedupe.variables.String('authors'),
     dedupe.variables.String('doi'),
+    dedupe.variables.String('venue'),
+    dedupe.variables.String('year'),
     dedupe.variables.Text('abstract'),
+    dedupe.variables.String('publication_language', has_missing=True),
 ]
 
 # Random seed for reproducibility in active learning and deduplication

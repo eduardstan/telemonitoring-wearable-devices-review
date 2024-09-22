@@ -46,7 +46,7 @@ def get_training_and_settings_files(topic):
     ensure_directory_exists(deduplicated_dir)
     
     training_file = os.path.join(deduplicated_dir, f"{topic}_training.json")
-    settings_file = os.path.join(deduplicated_dir, f"{topic}_settings.json")
+    settings_file = os.path.join(deduplicated_dir, f"{topic}_settings")
     return training_file, settings_file
 
 def find_input_file(topic):
@@ -73,7 +73,7 @@ def deduplicate_data(data_d, topic):
                 deduper = dedupe.StaticDedupe(sf)
         else:
             logging.info("Initializing new deduper...")
-            deduper = dedupe.Dedupe(DEDUP_FIELDS, num_cores=1)
+            deduper = dedupe.Dedupe(DEDUP_FIELDS)
             deduper.prepare_training(data_d)
             
             if os.path.exists(training_file):
