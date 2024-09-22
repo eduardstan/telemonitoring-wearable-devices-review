@@ -34,7 +34,6 @@ def read_data(filename):
             for i, row in enumerate(reader):
                 clean_row = {k: pre_process(v) for k, v in row.items()}
                 data_d[i] = clean_row
-        logging.info(f"Data loaded and preprocessed: {data_d}")
     except Exception as e:
         logging.error(f"Error reading data: {e}")
     return data_d

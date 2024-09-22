@@ -42,12 +42,14 @@ def main():
     args = parser.parse_args()
     
     if args.command == "parse":
-        parse_sources(databases=args.databases, sub_topics=args.topics)
+        for topic in args.topics:
+            parse_sources(databases=args.databases, topic=topic)
     elif args.command == "deduplicate":
         for topic in args.topics:
-            deduplicate_file(topic)
+            deduplicate_file(topic=topic)
     else:
         parser.print_help()
+
 
 if __name__ == "__main__":
     main()

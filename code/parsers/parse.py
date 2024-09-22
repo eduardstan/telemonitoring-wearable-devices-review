@@ -44,29 +44,25 @@ def parse_folder(database_folder, sub_topic):
             
     return all_records, total_parsed_records, total_skipped_records
 
-def parse_sources(databases, sub_topics):
-    """Parse data from multiple databases and sub-topics and save results."""
+def parse_sources(databases, topic):
+    """Parse data from multiple databases for a single topic and save results."""
+    all_records = []
+    total_parsed_records, total_skipped_records = 0, 0  # Track totals
 
-    # Ensure the parsed directory exists
-    ensure_directory_exists('data/parsed/')
+    for database_folder in databases:
+        records, parsed, skipped = parse_folder(database_folder, topic)
+        all_records.extend(records)
+        total_parsed_records += parsed
+        total_skipped_records += skipped
 
-    for sub_topic in sub_topics:
-        all_records = []
-        total_parsed_records, total_skipped_records = 0, 0  # Track totals
+    # Define output file based on project structure
+    output_file = f"data/parsed/{topic}_{total_parsed_records}_records.csv"
 
-        for database_folder in databases:
-            records, parsed, skipped = parse_folder(database_folder, sub_topic)
-            all_records.extend(records)
-            total_parsed_records += parsed
-            total_skipped_records += skipped
+    if all_records:
+        df = pd.DataFrame(all_records)
+        df.to_csv(output_file, index=False)
+        logging.info(f"Data successfully saved to {output_file} with {total_parsed_records} valid records.")
 
-        # Define output file based on project structure
-        output_file = f"data/parsed/{sub_topic}_{total_parsed_records}_records.csv"
+    logging.info(f"Total records processed: {total_parsed_records + total_skipped_records}")
+    logging.info(f"Total records skipped: {total_skipped_records}")
 
-        if all_records:
-            df = pd.DataFrame(all_records)
-            df.to_csv(output_file, index=False)
-            logging.info(f"Data successfully saved to {output_file} with {total_parsed_records} valid records.")
-
-        logging.info(f"Total records processed: {total_parsed_records + total_skipped_records}")
-        logging.info(f"Total records skipped: {total_skipped_records}")
