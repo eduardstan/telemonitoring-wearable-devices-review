@@ -132,6 +132,7 @@ def write_results(input_file, clustered_dupes, topic):
 def deduplicate_file(topic):
     """Deduplicate records for a specific topic."""
     try:
+        set_random_seed(RANDOM_SEED)
         input_file = find_input_file(topic)
         logging.info(f"Importing data from {input_file}...")
         data_d = read_data(input_file)
