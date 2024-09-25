@@ -1,4 +1,5 @@
 import argparse
+from filtering.filter import process_topic
 from parsers.parse import parse_sources
 from deduplication.deduplicate import deduplicate_file
 from utils.logging_utils import setup_logging
@@ -38,6 +39,16 @@ def main():
         required=True,
         help="List of topics to deduplicate (e.g., ai_methods, accessibility)."
     )
+
+    # Parser for the 'filter' command
+    filter_parser = subparsers.add_parser("filter", help="Filter records based on titles and abstracts using GPT.")
+    filter_parser.add_argument(
+        "-t",
+        "--topics",
+        nargs="+",
+        required=True,
+        help="List of topics to filter (e.g., ai_methods, usability)."
+    )
     
     args = parser.parse_args()
     
@@ -47,6 +58,9 @@ def main():
     elif args.command == "deduplicate":
         for topic in args.topics:
             deduplicate_file(topic=topic)
+    elif args.command == "filter":
+        for topic in args.topics:
+            process_topic(topic)
     else:
         parser.print_help()
 
