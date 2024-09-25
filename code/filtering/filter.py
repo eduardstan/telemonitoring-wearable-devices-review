@@ -2,7 +2,10 @@ from openai import OpenAI
 import pandas as pd
 import os
 from code.utils.file_utils import ensure_directory_exists, find_files_with_prefix
+from code.config import SYSTEM_PROMPT, TOPIC_DESCRIPTIONS, generate_user_prompt
 from dotenv import load_dotenv
+import csv
+import json
 
 # Load environment variables from .env
 load_dotenv()
@@ -10,38 +13,15 @@ load_dotenv()
 # Initialize OpenAI client
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
-# Define the system prompt (expanded with your macro-query context)
-SYSTEM_PROMPT = """
-You are an expert researcher conducting a systematic literature review on telemonitoring and wearable devices in healthcare, focusing on AI methods, data privacy, usability, interoperability, and legal regulations.
-
-Your task is to assess the relevance of research papers based only on their title and abstract, using the following data extraction form:
-
-Data Extraction Form:
-1. Study Citation:
-   - Author(s): Extracted from the data.
-   - Year: Extracted from the data.
-   - Title: Extracted from the data.
-   - Venue: Extracted from the data.
-2. Study Objectives: Summarize the objectives of the study.
-3. Study Methodology: Mention the methodology (if available) from the abstract.
-4. Key Findings: Summarize the key findings of the study from the abstract.
-5. Study Implications: Summarize the study implications if mentioned.
-6. Relevance to Review (0-3 scale):
-   - 0: Not relevant to telemonitoring or wearable devices.
-   - 1: Slightly relevant.
-   - 2: Moderately relevant.
-   - 3: Highly relevant.
-   
-Provide your output based on this form.
-"""
-
-def process_record_with_gpt4(title, abstract, topic):
-    user_prompt = f"""
-    Title: "{title}"
-    Abstract: "{abstract}"
-
-    Topic: {topic}. Based on this title and abstract, provide information using the data extraction form.
+def process_record(row, topic):
     """
+    Process a record by passing its data to GPT for extraction based on the data extraction form.
+    """
+    # Fetch the topic description from config
+    topic_description = TOPIC_DESCRIPTIONS.get(topic, "No specific topic description provided.")
+    
+    # Generate user prompt using row data and topic description
+    user_prompt = generate_user_prompt(row, topic_description)
     
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
@@ -51,46 +31,85 @@ def process_record_with_gpt4(title, abstract, topic):
         ]
     )
     
-    return response.choices[0].message.content
+    extracted_info = response.choices[0].message.content
+    
+    return extracted_info
+
+def parse_extracted_info(extracted_info):
+    """
+    Parses the JSON extracted information from GPT into a dictionary.
+    """
+    try:
+        data = json.loads(extracted_info)
+    except json.JSONDecodeError as e:
+        print("JSON decoding error:", e)
+        print("Extracted info was:", extracted_info)
+        raise
+
+    # Ensure all expected fields are present
+    expected_fields = ["Title", "Author(s)", "Year", "Venue", "Study Objectives",
+                       "Study Methodology", "Key Findings", "Study Implications", "Relevance to Review"]
+
+    for field in expected_fields:
+        if field not in data:
+            data[field] = "N/A"
+
+    return data
+
+def append_to_csv(output_file, headers, data):
+    """
+    Appends a row to the CSV file. If the file does not exist, it creates the file and adds headers.
+    """
+    # Check if the file exists
+    file_exists = os.path.exists(output_file)
+
+    with open(output_file, 'a', newline='', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=headers, quoting=csv.QUOTE_MINIMAL)
+
+        if not file_exists:
+            # If the file does not exist, write headers first
+            writer.writeheader()
+
+        # Append the row data
+        writer.writerow(data)
 
 def process_topic(topic):
-    # Find the latest deduplicated file for the topic
+    """
+    Processes all records for a given topic by reading from the deduplicated file and
+    appending the filtered results to a CSV file.
+    """
+    # Find the deduplicated file for the topic
     dedup_dir = 'data/deduplicated/'
-    file = find_files_with_prefix(dedup_dir, topic)
-    if not file:
+    files = find_files_with_prefix(dedup_dir, topic)
+    if not files:
         print(f"No deduplicated files found for topic: {topic}")
         return
 
-    # Since we expect only one file, take the first one
-    file = file[0]
-
+    # Expecting only one file for the topic
+    file = files[0]
     print(f"Processing file: {file}")
-    
+
     # Read the deduplicated file
     df = pd.read_csv(file)
 
-    output_data = []
+    output_dir = 'data/filtered/'
+    ensure_directory_exists(output_dir)
+    output_file = os.path.join(output_dir, f"{topic}_filtered_records.csv")
+
+    # Define the headers based on the expected fields
+    headers = ["Title", "Author(s)", "Year", "Venue", "Study Objectives",
+               "Study Methodology", "Key Findings", "Study Implications", "Relevance to Review"]
 
     for _, row in df.iterrows():
-        title = row['title']
-        abstract = row['abstract']
-        
-        # Process the title and abstract with GPT-4
-        extracted_info = process_record_with_gpt4(title, abstract, topic)
-        
-        # Add the processed data to output
-        output_data.append({
-            "Cluster ID": row["Cluster ID"],
-            "Authors": row['authors'],
-            "Year": row['year'],
-            "Title": title,
-            "Venue": row['venue'],
-            "Extracted Information": extracted_info
-        })
+        # Process the record with GPT
+        extracted_info = process_record(row, topic)
 
-    # Save the output to a new file
-    output_dir = 'data/filtered/'
-    output_file = os.path.join(output_dir, f"{topic}_filtered_records.csv")
-    ensure_directory_exists(output_dir)
-    pd.DataFrame(output_data).to_csv(output_file, index=False)
-    print(f"Processed {len(output_data)} records for {topic} and saved to {output_file}.")
+        # Parse the extracted info from JSON
+        data = parse_extracted_info(extracted_info)
+
+        print(f"Parsed data: {data}")
+
+        # Append the extracted info to the CSV
+        append_to_csv(output_file, headers, data)
+
+    print(f"Processed {len(df)} records for {topic} and saved to {output_file}.")
