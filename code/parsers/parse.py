@@ -6,6 +6,9 @@ from code.parsers.nbib_parser import NBIBParser
 from code.utils.file_utils import ensure_directory_exists
 from code.config import RIS_KEYWORDS, NBIB_KEYWORDS, EMBASE_RIS_KEYWORDS, SELECTED_FIELDS, REQUIRED_FIELDS, OPTIONAL_FIELDS
 
+# Use the existing logger
+logger = logging.getLogger(__name__)
+
 def get_parser(file_name, database_folder, file_path):
     """Initialize the correct parser based on file format and database."""
     if file_name.endswith('.ris'):
@@ -28,7 +31,7 @@ def parse_folder(database_folder, sub_topic):
 
     for file_name in files_to_read:
         file_path = os.path.join(folder_path, file_name)
-        logging.info(f"Processing file: {file_path}")
+        logger.info(f"Processing file: {file_path}")
         
         try:
             parser = get_parser(file_name, database_folder, file_path)
@@ -40,7 +43,7 @@ def parse_folder(database_folder, sub_topic):
             all_records.extend(file_records)
 
         except ValueError as e:
-            logging.error(f"Error parsing file {file_name}: {e}")
+            logger.error(f"Error parsing file {file_name}: {e}")
             
     return all_records, total_parsed_records, total_skipped_records
 
@@ -61,8 +64,8 @@ def parse_sources(databases, topic):
     if all_records:
         df = pd.DataFrame(all_records)
         df.to_csv(output_file, index=False)
-        logging.info(f"Data successfully saved to {output_file} with {total_parsed_records} valid records.")
+        logger.info(f"Data successfully saved to {output_file} with {total_parsed_records} valid records.")
 
-    logging.info(f"Total records processed: {total_parsed_records + total_skipped_records}")
-    logging.info(f"Total records skipped: {total_skipped_records}")
+    logger.info(f"Total records processed: {total_parsed_records + total_skipped_records}")
+    logger.info(f"Total records skipped: {total_skipped_records}")
 

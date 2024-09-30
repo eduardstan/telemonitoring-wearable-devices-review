@@ -8,6 +8,9 @@ from unidecode import unidecode
 from code.config import DEDUP_FIELDS, RANDOM_SEED
 from code.utils.file_utils import ensure_directory_exists, find_files_with_prefix, get_output_filename
 
+# Use the existing logger
+logger = logging.getLogger(__name__)
+
 def set_random_seed(seed):
     """Set the random seed for reproducibility."""
     random.seed(seed)
@@ -35,7 +38,7 @@ def read_data(filename):
                 clean_row = {k: pre_process(v) for k, v in row.items()}
                 data_d[i] = clean_row
     except Exception as e:
-        logging.error(f"Error reading data: {e}")
+        logger.error(f"Error reading data: {e}")
     return data_d
 
 def get_training_and_settings_files(topic):
@@ -56,7 +59,7 @@ def find_input_file(topic):
     if not matching_files:
         raise FileNotFoundError(f"No file found for topic '{topic}' in 'data/parsed/' folder.")
     elif len(matching_files) > 1:
-        logging.warning(f"Multiple files found for topic '{topic}'. Using the first one: {matching_files[0]}")
+        logger.warning(f"Multiple files found for topic '{topic}'. Using the first one: {matching_files[0]}")
     return matching_files[0]
 
 def deduplicate_data(data_d, topic):
@@ -68,20 +71,20 @@ def deduplicate_data(data_d, topic):
         ensure_directory_exists(os.path.dirname(training_file))
         
         if os.path.exists(settings_file):
-            logging.info(f"Reading from settings file {settings_file}...")
+            logger.info(f"Reading from settings file {settings_file}...")
             with open(settings_file, 'rb') as sf:
                 deduper = dedupe.StaticDedupe(sf)
         else:
-            logging.info("Initializing new deduper...")
+            logger.info("Initializing new deduper...")
             deduper = dedupe.Dedupe(DEDUP_FIELDS)
             deduper.prepare_training(data_d)
             
             if os.path.exists(training_file):
-                logging.info(f"Loading training file {training_file}...")
+                logger.info(f"Loading training file {training_file}...")
                 with open(training_file, 'rb') as tf:
                     deduper.prepare_training(data_d, tf)
             else:
-                logging.info("Starting active labeling...")
+                logger.info("Starting active labeling...")
                 dedupe.console_label(deduper)
                 with open(training_file, 'w') as tf:
                     deduper.write_training(tf)
@@ -91,13 +94,13 @@ def deduplicate_data(data_d, topic):
                 deduper.write_settings(sf)
         
         # Perform deduplication
-        logging.info("Clustering duplicates...")
+        logger.info("Clustering duplicates...")
         clustered_dupes = deduper.partition(data_d, 0.5)
-        logging.info(f"# duplicate sets: {len(clustered_dupes)}")
+        logger.info(f"Number of duplicate sets: {len(clustered_dupes)}")
         
         return clustered_dupes
     except Exception as e:
-        logging.error(f"Error in deduplication: {e}")
+        logger.error(f"Error in deduplication: {e}")
         raise
 
 def write_results(input_file, clustered_dupes, topic):
@@ -124,9 +127,9 @@ def write_results(input_file, clustered_dupes, topic):
                     row.update(cluster_membership[i])
                     writer.writerow(row)
         
-        logging.info(f"Deduplicated results saved to {output_file} with {num_unique_records} records.")
+        logger.info(f"Deduplicated results saved to {output_file} with {num_unique_records} records.")
     except Exception as e:
-        logging.error(f"Error writing deduplicated results: {e}")
+        logger.error(f"Error writing deduplicated results: {e}")
         raise
 
 def deduplicate_file(topic):
@@ -134,11 +137,11 @@ def deduplicate_file(topic):
     try:
         set_random_seed(RANDOM_SEED)
         input_file = find_input_file(topic)
-        logging.info(f"Importing data from {input_file}...")
+        logger.info(f"Importing data from {input_file}...")
         data_d = read_data(input_file)
         
         clustered_dupes = deduplicate_data(data_d, topic)
         write_results(input_file, clustered_dupes, topic)
     except Exception as e:
-        logging.error(f"Error deduplicating topic '{topic}': {e}")
+        logger.error(f"Error deduplicating topic '{topic}': {e}")
         raise

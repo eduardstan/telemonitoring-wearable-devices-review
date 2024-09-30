@@ -63,30 +63,61 @@ Your task is to assess the relevance of research papers based solely on their ti
 - **Year**: Provided by the user.
 - **Venue**: Provided by the user.
 - **Study Objectives**: Summarize the primary objectives or research questions of the study, based on the abstract.
-- **Study Methodology**: Describe the methodology used in the study (e.g., Randomized Controlled Trial, observational study, machine learning model) if available from the abstract. If the methodology is not explicitly mentioned, state "Methodology not specified."
-- **Key Findings**: Summarize the key results or findings of the study as described in the abstract.
+- **Study Methodology**: Describe the methodology used in the study (e.g., Randomized Controlled Trial, observational study, machine learning model) if available from the abstract. If the methodology is not explicitly mentioned, state "Methodology not specified".
+- **Key Findings**: Summarize the key results or findings of the study as described in the abstract. If the findings are not explicitly mentioned, state "Findings not specified".
 - **Study Implications**: Identify the broader implications of the study, especially in relation to telemonitoring or wearable devices, if mentioned.
-- **Relevance to Review** (0-3 scale):
-  - **0**: Not relevant to telemonitoring or wearable devices.
-  - **1**: Slightly relevant (mentions telemonitoring or wearable devices but does not focus on them).
-  - **2**: Moderately relevant (addresses telemonitoring or wearable devices but not central to the study).
-  - **3**: Highly relevant (telemonitoring or wearable devices are the central focus of the study).
 
-For the **Relevance to Review** score, justify your score in words and use the following format:  
-`{score} ({justification})`, where **{score}** is a number from 0 to 3, and **{justification}** explains the reasoning behind your score.
+### Special Cases: 
+- If the study appears to be a **systematic literature review (SLR)**, **meta-analysis**, **survey**, or any other type of **review** of existing literature, you must identify it as a **Special Case**.
+
+### Relevance Score and Justification (0-5 scale):
+Evaluate the studies based on the relevance to telemonitoring or wearable devices using the criteria below:
+
+- **Relevance Score** (0-5 scale):
+  - **0**: Telemonitoring or wearable devices are **not mentioned at all** in the title or abstract.
+  - **1**: Telemonitoring or wearable devices are **briefly mentioned**, but they are clearly not the focus of the study.
+  - **2**: Telemonitoring or wearable devices are **mentioned alongside other technologies or methods**, but they are not a central focus.
+  - **3**: Telemonitoring or wearable devices are **moderately discussed**, but their role is **supportive or secondary** to other main topics.
+  - **4**: Telemonitoring or wearable devices are **significantly discussed**, playing a **major role** in the study's objectives, but **not the sole focus**.
+  - **5**: Telemonitoring or wearable devices are **the central focus** of the study, and the study **directly investigates** or addresses them.
+
+- **Relevance Justification**: You must provide a clear explanation for the assigned **Relevance Score**, following this format strictly:
+  - **Mention**: Were telemonitoring or wearable devices mentioned in the title or abstract?
+    - **Yes**
+    - **No**
+  - **Focus**: To what extent are telemonitoring or wearable devices a focus of the study? 
+    - **Briefly mentioned**
+    - **Discussed alongside other technologies** 
+    - **Central focus**
+  - **Role**: What role do telemonitoring or wearable devices play in the study? 
+    - **Minor** 
+    - **Supportive** 
+    - **Central**
+
+### IMPORTANT INSTRUCTIONS:
+For **both cases (special and non)**, you must output the following fields:
+- `"Relevance Score": {score}`, where `{score}` is the score from 0 to 5
+- `"Relevance Justification": "Mention: {Yes/No}. Focus: {Briefly mentioned/Discussed alongside other technologies/Central focus}. Role: {Minor/Supportive/Central}."`
+- `"Special Case Reason":` 
+  - `"Systematic review, meta-analysis, or survey (literature review)"` for special cases.
+  - `"N/A"` for non-special ones.
+
+Do not deviate from these formats. Do not add additional text or explanations outside the required format.
 
 ### Formatting Instructions:
-- Provide the output in **JSON format** following this structure:
+Return your output in **strict JSON format**. Do not include any extraneous text, explanations, or markdown. Only return the JSON object using the following this structure:
 {
   "Title": "...",
   "Author(s)": "...",
-  "Year": "...",
+  "Year": "...", # Ensure all values are strings 
   "Venue": "...",
   "Study Objectives": "...",
   "Study Methodology": "...",
   "Key Findings": "...",
   "Study Implications": "...",
-  "Relevance to Review": "..."
+  "Relevance Score": "...",
+  "Relevance Justification": "...",
+  "Special Case Reason": "..." # Set to "N/A" if not applicable
 }
 """
 
@@ -98,7 +129,7 @@ TOPIC_DESCRIPTIONS = {
     'data_security_and_privacy': 'This search focused on **data protection mechanisms and privacy** challenges in telemonitoring systems.',
     'interoperability': 'This search explored how telemonitoring devices and systems can **interoperate** within broader healthcare infrastructures.',
     'laws_and_regulations': 'This search focused on identifying **legal and regulatory frameworks** relevant to telemonitoring and wearable devices.',
-    'usability': 'This search focused on the **human-computer interactio**n aspects of telemonitoring systems, including **usability and user experience**.'
+    'usability': 'This search focused on the **human-computer interaction** aspects of telemonitoring systems, including **usability and user experience**.'
 }
 
 # Function to generate user prompt dynamically

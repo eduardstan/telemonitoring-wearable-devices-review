@@ -1,3 +1,4 @@
+import logging
 from openai import OpenAI
 import pandas as pd
 import os
@@ -13,6 +14,9 @@ load_dotenv()
 # Initialize OpenAI client
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
+# Use the existing logger
+logger = logging.getLogger(__name__)
+
 def process_record(row, topic):
     """
     Process a record by passing its data to GPT for extraction based on the data extraction form.
@@ -24,7 +28,7 @@ def process_record(row, topic):
     user_prompt = generate_user_prompt(row, topic_description)
     
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_prompt}
@@ -39,35 +43,31 @@ def parse_extracted_info(extracted_info):
     """
     Parses the JSON extracted information from GPT into a dictionary.
     """
+
+    # Remove potential markdown-like backticks or other extraneous characters around the JSON
+    extracted_info = extracted_info.strip().strip("```json").strip("```").strip()
+
     try:
         data = json.loads(extracted_info)
     except json.JSONDecodeError as e:
-        print("JSON decoding error:", e)
-        print("Extracted info was:", extracted_info)
+        logger.error("JSON decoding error: %s", e)
+        logger.error("Extracted info was: %s", extracted_info)
         raise
-
-    # Ensure all expected fields are present
-    expected_fields = ["Title", "Author(s)", "Year", "Venue", "Study Objectives",
-                       "Study Methodology", "Key Findings", "Study Implications", "Relevance to Review"]
-
-    for field in expected_fields:
-        if field not in data:
-            data[field] = "N/A"
 
     return data
 
-def append_to_csv(output_file, headers, data):
+def append_to_csv(output_file, data, write_headers=False):
     """
     Appends a row to the CSV file. If the file does not exist, it creates the file and adds headers.
     """
-    # Check if the file exists
-    file_exists = os.path.exists(output_file)
+    # Extract the headers dynamically from the dictionary keys
+    headers = list(data.keys())
 
     with open(output_file, 'a', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=headers, quoting=csv.QUOTE_MINIMAL)
 
-        if not file_exists:
-            # If the file does not exist, write headers first
+        if write_headers:
+            # If writing for the first time, write headers
             writer.writeheader()
 
         # Append the row data
@@ -82,12 +82,12 @@ def process_topic(topic):
     dedup_dir = 'data/deduplicated/'
     files = find_files_with_prefix(dedup_dir, topic)
     if not files:
-        print(f"No deduplicated files found for topic: {topic}")
+        logger.warning(f"No deduplicated files found for topic: {topic}")
         return
 
     # Expecting only one file for the topic
     file = files[0]
-    print(f"Processing file: {file}")
+    logger.info(f"Processing file: {file}")
 
     # Read the deduplicated file
     df = pd.read_csv(file)
@@ -96,9 +96,7 @@ def process_topic(topic):
     ensure_directory_exists(output_dir)
     output_file = os.path.join(output_dir, f"{topic}_filtered_records.csv")
 
-    # Define the headers based on the expected fields
-    headers = ["Title", "Author(s)", "Year", "Venue", "Study Objectives",
-               "Study Methodology", "Key Findings", "Study Implications", "Relevance to Review"]
+    write_headers = True  # First iteration should write headers
 
     for _, row in df.iterrows():
         # Process the record with GPT
@@ -107,9 +105,8 @@ def process_topic(topic):
         # Parse the extracted info from JSON
         data = parse_extracted_info(extracted_info)
 
-        print(f"Parsed data: {data}")
+        # Append the extracted info to the CSV, writing headers only once
+        append_to_csv(output_file, data, write_headers)
+        write_headers = False  # Disable headers after the first row
 
-        # Append the extracted info to the CSV
-        append_to_csv(output_file, headers, data)
-
-    print(f"Processed {len(df)} records for {topic} and saved to {output_file}.")
+    logger.info(f"Processed {len(df)} records for {topic} and saved to {output_file}.")
